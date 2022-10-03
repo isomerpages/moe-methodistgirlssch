@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Rules/Absence From School.md
       - School Rules/School Rules.md
       - School Rules/.keep
       - Our School Identity.md
