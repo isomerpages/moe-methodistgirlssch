@@ -2,6 +2,7 @@ collections:
   school-information:
     output: true
     order:
+      - Personal Data Protection Policy.md
       - School Safety.md
       - Awards & Scholarships/.keep
       - Awards & Scholarships/Awards & Scholarships.md
