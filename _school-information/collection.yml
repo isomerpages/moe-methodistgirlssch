@@ -2,6 +2,7 @@ collections:
   school-information:
     output: true
     order:
+      - Awards & Scholarships/Awards & Scholarships.md
       - Awards & Scholarships/.keep
       - MGS Special Awards and Scholarships.md
       - MOE Scholarship & Awards.md
