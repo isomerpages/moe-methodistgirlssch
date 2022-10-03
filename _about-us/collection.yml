@@ -2,12 +2,12 @@ collections:
   about-us:
     output: true
     order:
-      - School Rules/The Mark of An MGS Girl.md
-      - School Rules/MGS Conduct Ratings.md
-      - School Rules/Classification of Approved School Attire.md
-      - School Rules/Absence From School.md
-      - School Rules/School Rules.md
       - School Rules/.keep
+      - School Rules/School Rules.md
+      - School Rules/Absence From School.md
+      - School Rules/Classification of Approved School Attire.md
+      - School Rules/MGS Conduct Ratings.md
+      - School Rules/The Mark of An MGS Girl.md
       - Our School Identity.md
       - Our Heritage.md
       - School Leaders.md
