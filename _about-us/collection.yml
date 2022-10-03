@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - School Rules/.keep
-      - School Rules.md
       - Our School Identity.md
       - Our Heritage.md
       - School Leaders.md
