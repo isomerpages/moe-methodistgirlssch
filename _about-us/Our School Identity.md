@@ -87,3 +87,7 @@ And now we're proud to raise the shout and sing of M.G.S. <br>
 Lift high her banner, one and all, her name we now profess. <br>
 In work and play for honours won, today our hearts confess <br>
 The debt we owe, the love we hold for our dear M.G.S.
+
+# MG Houses
+
+The MGS House system was first formed in 1932, with four houses named after Methodist pioneers in Singapore: Blackmore, Oldham, Shellabear and Horley. They were later renamed **Blackmore , Olson , Lee and Jackson** .
