@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Rules/The Mark of An MGS Girl.md
       - School Rules/MGS Conduct Ratings.md
       - School Rules/Classification of Approved School Attire.md
       - School Rules/Absence From School.md
