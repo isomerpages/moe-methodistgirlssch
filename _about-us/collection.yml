@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - The MSG Store.md
       - School Rules/.keep
       - School Rules/School Rules.md
       - School Rules/Absence From School.md
