@@ -2,5 +2,6 @@ collections:
   about-us:
     output: true
     order:
+      - School Leaders.md
       - MGS Board of Management.md
       - Principal's Message.md
