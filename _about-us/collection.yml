@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - School Information/Awards & Scholarships.md
       - School Information/.keep
       - School Rules/.keep
       - School Rules/School Rules.md
