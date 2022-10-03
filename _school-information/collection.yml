@@ -2,9 +2,9 @@ collections:
   school-information:
     output: true
     order:
-      - The MGS Store.md
       - Awards & Scholarships/.keep
       - Awards & Scholarships/Awards & Scholarships.md
       - Awards & Scholarships/MGS Special Awards and Scholarships.md
       - Awards & Scholarships/MOE Scholarship & Awards.md
       - Awards & Scholarships/National & Other Awards.md
+      - The MGS Store.md
