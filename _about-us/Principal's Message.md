@@ -3,7 +3,6 @@ title: Principal's Message
 permalink: /about-us/principals-message/
 description: ""
 ---
-
 <img src="/images/Mrs%20Valarie%20Wilson.jpg" 
      style="width:45%">
 
