@@ -34,3 +34,10 @@ third_nav_title: School Supplies
 * [Y3 Booklist](https://drive.google.com/file/d/1O9cZ-3svCCcZ5qmhPMlVhRcQU9RZNIsZ/view?usp=sharing)
 
 * [Y4 Booklist](https://drive.google.com/file/d/1civnSN2IUUqEOhBnJnvlNj6-aQqr8oZ3/view?usp=sharing)
+
+### Pacific Bookstores
+
+**Normal Operating Hours (during term time)** <br>
+Monday - Friday: 7am to 4pm (except school holidays) <br>
+Sat, Sun & PH : Closed <br>
+**Contact:**   6463 6719
