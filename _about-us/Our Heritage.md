@@ -6,3 +6,77 @@ description: ""
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F5m_pkI_m-s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Content is not to be disseminated without prior written consent by MGS. Email: [mgss@mgs.sch.edu.sg](mailto:mgss@mgs.sch.edu.sg)
+
+Miss Sophia Blackmore founded Methodist Girls’ School on 15 August 1887. Supported by the Women’s Foreign Missionary Society of the Methodist Episcopal Church in America, Miss Blackmore, an Australian missionary, came to Singapore with a mission – to provide girls an education.
+
+  
+
+The beginning was modest. In a shophouse in Short Street, she set up school for nine little girls whose fathers wanted them to be formally educated at a time when girls were discouraged from going to school. The fathers, all Tamil businessmen, donated money, furniture and the rent-free shophouse that became the Tamil Girls’ School, forerunner of Methodist Girls’ School. The school soon attracted so many other girls, all eager to learn, that in 1901 it had to relocate to Middle Road while a larger building was constructed in Short Street to house 150 pupils.
+
+  
+
+Ten years later, the first Senior class of four girls sat for and passed the Cambridge Examination. The enrolment at MGS increased steadily, and by 1925 the school had to move to Mount Sophia where it remained until 1992 when increasing numbers once again dictated another move, this time to Blackmore Drive.
+
+  
+
+MGS is special because of its spiritual emphasis. The chapel services and the daily devotions at the start of each day remind MGS girls that in the midst of all the hustle and bustle, we always have God to lean on. Every morning, MGS girls and their teachers are inspired to give of their best, and to make the most of the day for the glory of God.
+
+  
+
+The love that abounds in the school touches everybody, regardless of nationality, race or religion. At MGS, all feel valued and loved.
+
+A hundred years after its founding, MGS sought greater autonomy from the Ministry of Education (MOE) to provide quality education for its girls; MOE responded with a counter-proposal for independence. Consequently, in January 1989 the Secondary school acquired independent status; thereafter the full school functioned in a single session, for the benefit of all. Independence, and the advantages that came with it, gave fresh impetus to the drive towards excellence.
+
+  
+**Unless the LORD builds the house, they labour in vain who build it; Unless the LORD guards the city, the watchman stays awake in vain. Psalm 127:1**
+
+### To MGS
+
+Words & Music by Eleanor Wong, Class of 1978
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3D_sSvatwQc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Mama would chide at breakfast time as I pocketed my money for the day.<br>
+You be a good girl now you hear, and always remember that you are to say,<br>
+Good morning to your teachers,<br>
+And be nice to your friends.<br>
+If you ever do wrong (God forbid)<br>
+just make sure that you make amends.
+
+Cos you're a student in a special school<br>
+Where the girls are sweet & heed the golden rule<br> 
+So always behave at your very best<br>
+Cos you're Special<br>
+You're in MGS<br>
+You're in MGS!
+
+Eyes are all bleary early morn,<br>
+midnight oil is still just burning in my head<br>
+But a test is coming and I'm thinking of<br>
+The many many times that Mama said,<br>
+Study hard for each subject, just do well all through the year<br>
+And you'll never have to worry<br>
+When report book season is here
+
+Cos you're a student in a special school<br>
+Where the girls study hard and never play the fool<br> 
+So aim high, high in every test<br>
+Cos you're special<br>
+You're in MGS<br>
+You're in MGS!
+
+I wake her up though it's only dawn.<br> 
+She makes a face and rubs her eyes.<br> 
+Then she gives me a grin minus one front tooth<br>
+And a thousand memories arise,<br>
+Of good old days as a teenage girl,<br>
+Of fun-filled hours of happiness.<br>
+And I watch from the gate as she boards the bus,<br>
+Look after her, dear MGS
+
+Cos she's a student in a very special school,<br>
+where the girls study hard, they heed the golden rule,<br> 
+And her Mama knows that she's getting all the best,<br>
+In that special school<br>
+That's called MGS<br>
+She's in MGS
