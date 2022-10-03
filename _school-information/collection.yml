@@ -2,11 +2,11 @@ collections:
   school-information:
     output: true
     order:
-      - Personal Data Protection Policy.md
-      - School Safety.md
       - Awards & Scholarships/.keep
       - Awards & Scholarships/Awards & Scholarships.md
       - Awards & Scholarships/MGS Special Awards and Scholarships.md
       - Awards & Scholarships/MOE Scholarship & Awards.md
       - Awards & Scholarships/National & Other Awards.md
       - The MGS Store.md
+      - School Safety.md
+      - Personal Data Protection Policy.md
