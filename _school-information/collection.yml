@@ -1,4 +1,5 @@
 collections:
   school-information:
     output: true
-    order: []
+    order:
+      - Awards & Scholarships.md
