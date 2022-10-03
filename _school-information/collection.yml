@@ -2,7 +2,7 @@ collections:
   school-information:
     output: true
     order:
-      - National & Other Awards.md
-      - MOE Scholarship & Awards.md
-      - MGS Special Awards and Scholarships.md
       - Awards & Scholarships.md
+      - MGS Special Awards and Scholarships.md
+      - MOE Scholarship & Awards.md
+      - National & Other Awards.md
