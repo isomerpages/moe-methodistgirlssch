@@ -15,7 +15,8 @@ contacts:
   - content:
       - phone: +65 6469 4800
       - email: mgps@moe.edu.sg
-      - other: ""
+      - other: "<h> Getting Here</h> By MRT: King Albert Park MRT Station (Downtown Line
+          DT6) <br>By Bus: 67,74,77,151,154,157,170,174,563,852,961,961C,970"
     title: Primary School
   - content:
       - phone: +65 6469 4800
