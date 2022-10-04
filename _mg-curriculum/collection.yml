@@ -2,6 +2,7 @@ collections:
   mg-curriculum:
     output: true
     order:
+      - Academic/Science.md
       - Academic/Mathematics.md
       - Academic/Mother Tongue.md
       - Academic/English.md
