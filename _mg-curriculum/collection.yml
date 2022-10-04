@@ -2,6 +2,7 @@ collections:
   mg-curriculum:
     output: true
     order:
+      - Academic/Music.md
       - Academic/Physical Education.md
       - Academic/Science.md
       - Academic/Mathematics.md
