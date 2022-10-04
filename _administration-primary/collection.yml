@@ -1,0 +1,4 @@
+collections:
+  administration-primary:
+    output: true
+    order: []
