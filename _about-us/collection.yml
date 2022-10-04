@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Careers at MGS/.keep
       - School Supplies/.keep
       - School Supplies/Booklist and Bookshop.md
       - School Supplies/MGS cashless (POSB Smart Buddy).md
