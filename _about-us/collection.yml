@@ -2,12 +2,12 @@ collections:
   about-us:
     output: true
     order:
-      - School Supplies/School Uniforms.md
-      - School Supplies/School Lockers.md
-      - School Supplies/School Bus.md
-      - School Supplies/MGS cashless (POSB Smart Buddy).md
-      - School Supplies/Booklist and Bookshop.md
       - School Supplies/.keep
+      - School Supplies/Booklist and Bookshop.md
+      - School Supplies/MGS cashless (POSB Smart Buddy).md
+      - School Supplies/School Bus.md
+      - School Supplies/School Lockers.md
+      - School Supplies/School Uniforms.md
       - School Rules/.keep
       - School Rules/School Rules.md
       - School Rules/Absence From School.md
