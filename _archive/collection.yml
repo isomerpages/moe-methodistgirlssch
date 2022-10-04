@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - 2020/Thanking the SAF.md
       - 2020/Lessons learnt apace during HBL.md
       - 2020/A helping hand.md
       - 2020/The MGrevival Squad.md
