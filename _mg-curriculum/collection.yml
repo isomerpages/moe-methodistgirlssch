@@ -1,4 +1,5 @@
 collections:
   mg-curriculum:
     output: true
-    order: []
+    order:
+      - MG Curriculum.md
