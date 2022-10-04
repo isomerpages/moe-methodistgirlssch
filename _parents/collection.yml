@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - ParentLink/ParentLink.md
       - ParentLink/.keep
       - Family Matters @ School.md
       - Email & Letters to Parents.md
