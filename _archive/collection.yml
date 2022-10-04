@@ -2,5 +2,6 @@ collections:
   archive:
     output: true
     order:
+      - 2020/Learning about Singapore's General Elections.md
       - "2020/Bringing Cheer to Commuters through Our Creations #MGSBlessings.md"
       - 2020/.keep
