@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - ParentLink/Publications.md
       - ParentLink/Join Us.md
       - ParentLink/Events.md
       - ParentLink/About Us.md
