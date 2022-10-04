@@ -1,4 +1,5 @@
 collections:
   mgserves:
     output: true
-    order: []
+    order:
+      - MGServes.md
