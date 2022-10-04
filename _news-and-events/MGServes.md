@@ -14,3 +14,4 @@ Giving to those in need can take on various forms, from acts of kindness done as
 With your support, we hope to consolidate our efforts through the MGServes movement to bring cheer and encouragement and change lives for the better.
 
 ![](/images/MGServes.png)
+
