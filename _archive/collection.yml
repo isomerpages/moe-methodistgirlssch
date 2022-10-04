@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - 2020/MGS Appreciates.md
       - 2020/#MGSBlessings.md
       - 2020/Caring for our Migrant Workers.md
       - 2020/Thanking the SAF.md
