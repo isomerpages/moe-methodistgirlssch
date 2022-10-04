@@ -2,4 +2,5 @@ collections:
   parents:
     output: true
     order:
+      - Family Matters @ School.md
       - Email & Letters to Parents.md
