@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - MGS Virtual Tour.md
       - Principal's Message.md
       - MGS Board of Management.md
       - School Leaders.md
