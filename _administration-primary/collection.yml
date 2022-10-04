@@ -1,4 +1,5 @@
 collections:
   administration-primary:
     output: true
-    order: []
+    order:
+      - Admissions/.keep
