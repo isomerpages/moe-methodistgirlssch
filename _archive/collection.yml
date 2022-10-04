@@ -2,12 +2,6 @@ collections:
   archive:
     output: true
     order:
-      - 2014.md
-      - 2015.md
-      - 2016.md
-      - 2017.md
-      - 2018.md
-      - 2019.md
       - 2020/.keep
       - "2020/Bringing Cheer to Commuters through Our Creations #MGSBlessings.md"
       - 2020/Learning about Singapore's General Elections.md
@@ -21,3 +15,9 @@ collections:
       - 2020/Art reflections at KAP Station in disruptive times.md
       - 2020/Rallying together to care and to share.md
       - 2020/Welcoming our P1s & Sec 1s as they embark on their MGS Journey.md
+      - 2019.md
+      - 2018.md
+      - 2017.md
+      - 2016.md
+      - 2015.md
+      - 2014.md
