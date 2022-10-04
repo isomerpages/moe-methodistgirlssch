@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - 2018.md
       - 2019.md
       - 2020/.keep
       - "2020/Bringing Cheer to Commuters through Our Creations #MGSBlessings.md"
