@@ -2,7 +2,8 @@ collections:
   staff-primary:
     output: true
     order:
-      - Executive & Administrative Staff.md
+      - School Leaders.md
+      - Key Personnel.md
       - Teachers/.keep
       - Teachers/Primary One.md
       - Teachers/Primary Two.md
@@ -10,5 +11,4 @@ collections:
       - Teachers/Primary Four.md
       - Teachers/Primary Five.md
       - Teachers/Primary Six.md
-      - Key Personnel.md
-      - School Leaders.md
+      - Executive & Administrative Staff.md
