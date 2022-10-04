@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - 2020/Rallying together to care and to share.md
       - 2020/Art reflections at KAP Station in disruptive times.md
       - 2020/MGS Appreciates.md
       - 2020/#MGSBlessings.md
