@@ -1,4 +1,5 @@
 collections:
   staff-primary:
     output: true
-    order: []
+    order:
+      - School Leaders.md
