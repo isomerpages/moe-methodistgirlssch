@@ -2,6 +2,7 @@ collections:
   administration-primary:
     output: true
     order:
+      - Leave of Absence.md
       - Parents.md
       - Forms.md
       - Admissions/Mid stream admission for Primary School.md
