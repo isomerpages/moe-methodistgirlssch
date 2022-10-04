@@ -21,9 +21,9 @@ Through the teaching and learning of the English language in MGS, we hope to dev
 
 ### Curriculum
 
-Our P1 to P6 English syllabus is developed based on the MOE English Syllabus 2020 and is closely aligned to the STELLAR (Strategies for English Language Learning and Reading) Programme.  
+Our P1 to P6 English syllabus is developed based on the MOE English Syllabus 2020 and is closely aligned to the STELLAR (Strategies for English Language Learning and Reading) Programme.&nbsp;&nbsp;
 
-STELLAR aims to strengthen both language and reading skills as well as promote a positive attitude towards reading in the foundational years through the use of evidence-based, learner-centred and developmentally appropriate pedagogical approaches.
+STELLAR&nbsp;aims to strengthen both language and reading skills as well as promote a positive attitude towards reading in the foundational years through the use of evidence-based, learner-centred and developmentally appropriate pedagogical approaches.
 
 For more information about the English Curriculum in Primary School, please click on the following link: [https://www.moe.gov.sg/primary/curriculum/syllabus](https://www.moe.gov.sg/primary/curriculum/syllabus) and look under English Language.
 
@@ -51,22 +51,22 @@ For more information about the English Curriculum in Primary School, please clic
 <tbody>
   <tr>
     <td class="tg-7gs2"><span style="background-color:transparent">Primary 1</span></td>
-    <td class="tg-7gs2" rowspan="2"><span style="background-color:transparent">STELLAR 2.0</span></td>
-    <td class="tg-7gs2" rowspan="2"><span style="background-color:transparent">Learning Support Programme (LSP)</span></td>
-    <td class="tg-7gs2" rowspan="2"><span style="background-color:transparent">Reading Rocks!</span></td>
+    <td rowspan="2" class="tg-7gs2"><span style="background-color:transparent">STELLAR 2.0</span></td>
+    <td rowspan="2" class="tg-7gs2"><span style="background-color:transparent">Learning Support Programme (LSP)</span></td>
+    <td rowspan="2" class="tg-7gs2"><span style="background-color:transparent">Reading Rocks!</span></td>
   </tr>
   <tr>
     <td class="tg-7gs2"><span style="background-color:transparent">Primary 2</span></td>
   </tr>
   <tr>
     <td class="tg-7gs2"><span style="background-color:transparent">Primary 3</span></td>
-    <td class="tg-7gs2" rowspan="4"><span style="background-color:transparent">STELLAR 1.0</span></td>
-    <td class="tg-7gs2" rowspan="2"><span style="background-color:transparent">School-based Dyslexia Remediation Programme (SDR)</span></td>
+    <td rowspan="4" class="tg-7gs2"><span style="background-color:transparent">STELLAR 1.0</span></td>
+    <td rowspan="2" class="tg-7gs2"><span style="background-color:transparent">School-based Dyslexia Remediation Programme (SDR)</span></td>
     <td class="tg-7gs2"><span style="background-color:transparent">Academic Support</span></td>
   </tr>
   <tr>
     <td class="tg-7gs2"><span style="background-color:transparent">Primary 4</span></td>
-    <td class="tg-7gs2" rowspan="2"><span style="background-color:transparent">Talent Development</span><br><span style="background-color:transparent">&amp; Academic Support</span></td>
+    <td rowspan="2" class="tg-7gs2"><span style="background-color:transparent">Talent Development</span><br><span style="background-color:transparent">&amp; Academic Support</span></td>
   </tr>
   <tr>
     <td class="tg-7gs2"><span style="background-color:transparent">Primary 5</span></td>
@@ -79,3 +79,13 @@ For more information about the English Curriculum in Primary School, please clic
   </tr>
 </tbody>
 </table>
+
+### Early Intervention Support at MGS
+
+Learning Support Programme (LSP) and School-based Dyslexia Remediation (SDR) are MOE-developed early intervention efforts to help students strengthen their basic literacy skills. In MGS, LSP and SDR are conducted by trained teachers and allied educators.&nbsp;
+
+For more information on LSP and SDR, please click on the following link: [https://www.moe.gov.sg/primary/curriculum/learning-support](https://www.moe.gov.sg/primary/curriculum/learning-support)
+
+Reading Rocks! is an early morning reading programme to help lower primary pupils who need support in their reading development. Through these reading sessions, our teachers and parent volunteers guide our students in their reading, oral and comprehension skills.
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRQj6-w10t3a_BEqifHKmuAVoTYaalAi0ZMHGBJd0CYpOcbsyJbgklRTMZ51WaNUFkD8GlEwe7nY7YV/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
