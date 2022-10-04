@@ -2,6 +2,7 @@ collections:
   staff-primary:
     output: true
     order:
+      - Teachers/Primary One.md
       - Teachers/.keep
       - Key Personnel.md
       - School Leaders.md
