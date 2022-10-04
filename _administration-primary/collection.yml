@@ -2,9 +2,9 @@ collections:
   administration-primary:
     output: true
     order:
-      - Parent Volunteer.md
-      - Leave of Absence.md
-      - Parents.md
-      - Forms.md
-      - Admissions/Mid stream admission for Primary School.md
       - Admissions/.keep
+      - Admissions/Mid stream admission for Primary School.md
+      - Forms.md
+      - Parents.md
+      - Leave of Absence.md
+      - Parent Volunteer.md
