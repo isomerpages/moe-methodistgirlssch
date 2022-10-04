@@ -2,11 +2,11 @@ collections:
   parents:
     output: true
     order:
-      - ParentLink/Publications.md
-      - ParentLink/Join Us.md
-      - ParentLink/Events.md
-      - ParentLink/About Us.md
-      - ParentLink/ParentLink.md
       - ParentLink/.keep
+      - ParentLink/ParentLink.md
+      - ParentLink/About Us.md
+      - ParentLink/Events.md
+      - ParentLink/Join Us.md
+      - ParentLink/Publications.md
       - Family Matters @ School.md
       - Email & Letters to Parents.md
