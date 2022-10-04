@@ -2,4 +2,5 @@ collections:
   news-and-events:
     output: true
     order:
+      - MGServes.md
       - Calendar of Events.md
