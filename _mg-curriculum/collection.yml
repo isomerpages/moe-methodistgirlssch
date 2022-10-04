@@ -2,4 +2,5 @@ collections:
   mg-curriculum:
     output: true
     order:
+      - Academic/.keep
       - MG Curriculum.md
