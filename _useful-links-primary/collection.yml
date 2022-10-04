@@ -1,4 +1,5 @@
 collections:
   useful-links-primary:
     output: true
-    order: []
+    order:
+      - For Staff.md
