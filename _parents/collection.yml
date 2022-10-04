@@ -2,6 +2,5 @@ collections:
   parents:
     output: true
     order:
-      - ParentLink.md
       - Family Matters @ School.md
       - Email & Letters to Parents.md
