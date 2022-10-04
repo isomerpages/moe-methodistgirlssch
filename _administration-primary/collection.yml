@@ -2,6 +2,7 @@ collections:
   administration-primary:
     output: true
     order:
+      - Parent Volunteer.md
       - Leave of Absence.md
       - Parents.md
       - Forms.md
