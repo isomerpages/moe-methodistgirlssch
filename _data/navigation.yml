@@ -1,6 +1,25 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: About Us
+    url: /about-us/principals-message/
+    sublinks:
+      - title: Principal's Message
+        url: /about-us/principals-message/
+      - title: MGS Board of Management
+        url: /about-us/mgs-board-of-management/
+      - title: School Leaders
+        url: /about-us/school-leaders/
+      - title: Our Heritage
+        url: /about-us/our-heritage/
+      - title: Our School Identity
+        url: /about-us/our-school-identity/
+      - title: School Rules
+        url: /about-us/school-rules/
+      - title: MGS Virtual Tour
+        url: /about-us/mgs-virtual-tour/
+      - title: School Information
+        url: /about-us/school-information/awards-n-scholarships/
+      - title: School Supplies
+        url: /about-us/school-supplies/booklist-and-bookshop/
+      - title: Careers at MGS
+        url: /about-us/Careers-at-MGS/
