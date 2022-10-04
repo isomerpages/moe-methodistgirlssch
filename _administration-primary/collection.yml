@@ -1,4 +1,5 @@
 collections:
   administration-primary:
     output: true
-    order: []
+    order:
+      - Mid stream admission for Primary School.md
