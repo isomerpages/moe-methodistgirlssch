@@ -2,14 +2,14 @@ collections:
   mg-curriculum:
     output: true
     order:
-      - Academic/Applied Learning Programme.md
-      - Academic/Education Technology.md
-      - Academic/Art.md
-      - Academic/Music.md
-      - Academic/Physical Education.md
-      - Academic/Science.md
-      - Academic/Mathematics.md
-      - Academic/Mother Tongue.md
-      - Academic/English.md
       - Academic/.keep
+      - Academic/English.md
+      - Academic/Mother Tongue.md
+      - Academic/Mathematics.md
+      - Academic/Science.md
+      - Academic/Physical Education.md
+      - Academic/Music.md
+      - Academic/Art.md
+      - Academic/Education Technology.md
+      - Academic/Applied Learning Programme.md
       - MG Curriculum.md
