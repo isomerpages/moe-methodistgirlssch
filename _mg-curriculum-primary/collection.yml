@@ -2,8 +2,6 @@ collections:
   mg-curriculum-primary:
     output: true
     order:
-      - Student Development/Student Development.md
-      - Student Development/.keep
       - MG Curriculum.md
       - Academic/.keep
       - Academic/English.md
@@ -15,3 +13,5 @@ collections:
       - Academic/Art.md
       - Academic/Education Technology.md
       - Academic/Applied Learning Programme.md
+      - Student Development/.keep
+      - Student Development/Student Development.md
