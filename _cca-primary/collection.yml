@@ -1,0 +1,4 @@
+collections:
+  cca-primary:
+    output: true
+    order: []
