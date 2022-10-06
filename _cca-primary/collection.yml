@@ -2,6 +2,7 @@ collections:
   cca-primary:
     output: true
     order:
+      - Sports/Swimming Club.md
       - Sports/Softball.md
       - Sports/Netball.md
       - Sports/Gymnastics.md
