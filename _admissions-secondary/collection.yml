@@ -2,16 +2,16 @@ collections:
   admissions-secondary:
     output: true
     order:
-      - Leave of Absence.md
-      - Financial Assistance & Scholarships.md
-      - School & Miscellaneous fees (Secondary).md
-      - Immersion Programmes.md
-      - Secondary 1 Registration.md
-      - "Secondary 1: Appeals for Admissions.md"
-      - Mid stream admission for Secondary school.md
-      - Application for Admission into Year 3 Integrated Programme.md
-      - MGS Integrated Programme for Year 1 Intake.md
       - DSA for Secondary One/.keep
       - DSA for Secondary One/Direct School Admission for Secondary One.md
       - DSA for Secondary One/Brochures.md
       - DSA for Secondary One/School Stories.md
+      - MGS Integrated Programme for Year 1 Intake.md
+      - Application for Admission into Year 3 Integrated Programme.md
+      - Mid stream admission for Secondary school.md
+      - "Secondary 1: Appeals for Admissions.md"
+      - Secondary 1 Registration.md
+      - Immersion Programmes.md
+      - School & Miscellaneous fees (Secondary).md
+      - Financial Assistance & Scholarships.md
+      - Leave of Absence.md
