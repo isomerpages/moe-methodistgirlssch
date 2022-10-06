@@ -2,10 +2,10 @@ collections:
   academic-secondary:
     output: true
     order:
-      - Aesthetics/Music Elective Programme.md
-      - Aesthetics/Home Economics.md
-      - Aesthetics/Lower Secondary Music.md
-      - Aesthetics/Art.md
-      - Aesthetics/Aesthetics.md
       - Aesthetics/.keep
+      - Aesthetics/Aesthetics.md
+      - Aesthetics/Art.md
+      - Aesthetics/Lower Secondary Music.md
+      - Aesthetics/Home Economics.md
+      - Aesthetics/Music Elective Programme.md
       - Academic.md
