@@ -66,3 +66,16 @@ In addition, values of perseverance, teamwork and responsibility are also develo
 
 <img src="/images/image00.jpg" 
      style="width:50%">
+		 
+<img src="/images/image01.jpg" 
+     style="width:50%">
+		 
+<img src="/images/image02.jpg" 
+     style="width:50%">
+		 
+<img src="/images/image04.jpg" 
+     style="width:50%" align="left">
+		 
+<img src="/images/image03.jpg" 
+     style="width:50%" align="right">
+		 
