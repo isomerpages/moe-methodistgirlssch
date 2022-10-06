@@ -2,6 +2,7 @@ collections:
   academic-secondary:
     output: true
     order:
+      - Aesthetics/Art.md
       - Aesthetics/Aesthetics.md
       - Aesthetics/.keep
       - Academic.md
