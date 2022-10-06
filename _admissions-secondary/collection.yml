@@ -2,6 +2,7 @@ collections:
   admissions-secondary:
     output: true
     order:
+      - "Secondary 1: Appeals for Admissions.md"
       - Mid stream admission for Secondary school.md
       - Application for Admission into Year 3 Integrated Programme.md
       - MGS Integrated Programme for Year 1 Intake.md
