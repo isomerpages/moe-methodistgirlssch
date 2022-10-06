@@ -2,6 +2,7 @@ collections:
   admissions-secondary:
     output: true
     order:
+      - MGS Integrated Programme for Year 1 Intake.md
       - DSA for Secondary One/.keep
       - DSA for Secondary One/Direct School Admission for Secondary One.md
       - DSA for Secondary One/Brochures.md
