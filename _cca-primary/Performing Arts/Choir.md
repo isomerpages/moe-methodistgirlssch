@@ -54,3 +54,14 @@ The choir also performs regularly at various school functions like Founder’s 
 <img src="/images/choir1.jpg" 
      style="width:70%">
 		 
+<img src="/images/image2-2.jpg" 
+     style="width:50%">
+		 
+<img src="/images/image1-2.jpg" 
+     style="width:50%">
+		 
+<img src="/images/image3-1.jpg" 
+     style="width:50%" align="left">
+		 
+<img src="/images/image4-1.jpg" 
+     style="width:50%" align="right">
