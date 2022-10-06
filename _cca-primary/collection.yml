@@ -2,5 +2,6 @@ collections:
   cca-primary:
     output: true
     order:
+      - Clubs & Socities/.keep
       - Achievements.md
       - CCA.md
