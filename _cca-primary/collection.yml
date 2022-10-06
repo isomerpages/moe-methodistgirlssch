@@ -2,9 +2,9 @@ collections:
   cca-primary:
     output: true
     order:
-      - Clubs & Socities/Infocomm Club.md
-      - Clubs & Socities/Christian Fellowship.md
-      - Clubs & Socities/Art Club.md
       - Clubs & Socities/.keep
+      - Clubs & Socities/Art Club.md
+      - Clubs & Socities/Christian Fellowship.md
+      - Clubs & Socities/Infocomm Club.md
       - Achievements.md
       - CCA.md
