@@ -2,6 +2,7 @@ collections:
   academic-secondary:
     output: true
     order:
+      - Humanities/History.md
       - Humanities/Humanities.md
       - Humanities/.keep
       - Computer Studies.md
