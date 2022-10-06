@@ -2,12 +2,12 @@ collections:
   cca-primary:
     output: true
     order:
-      - Performing Arts/String Ensemble.md
-      - Performing Arts/International Dance.md
-      - Performing Arts/Modern Jazz.md
-      - Performing Arts/Handbells.md
-      - Performing Arts/Choir.md
       - Performing Arts/.keep
+      - Performing Arts/Choir.md
+      - Performing Arts/Handbells.md
+      - Performing Arts/Modern Jazz.md
+      - Performing Arts/International Dance.md
+      - Performing Arts/String Ensemble.md
       - Clubs & Socities/.keep
       - Clubs & Socities/Art Club.md
       - Clubs & Socities/Christian Fellowship.md
