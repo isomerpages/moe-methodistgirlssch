@@ -2,13 +2,6 @@ collections:
   cca-primary:
     output: true
     order:
-      - Sports/.keep
-      - Sports/Artistic Swimming.md
-      - Sports/Bowling.md
-      - Sports/Gymnastics.md
-      - Sports/Netball.md
-      - Sports/Softball.md
-      - Sports/Swimming Club.md
       - CCA.md
       - Achievements.md
       - Clubs & Societies/.keep
@@ -21,3 +14,10 @@ collections:
       - Performing Arts/Modern Jazz.md
       - Performing Arts/International Dance.md
       - Performing Arts/String Ensemble.md
+      - Sports/.keep
+      - Sports/Artistic Swimming.md
+      - Sports/Bowling.md
+      - Sports/Gymnastics.md
+      - Sports/Netball.md
+      - Sports/Softball.md
+      - Sports/Swimming Club.md
