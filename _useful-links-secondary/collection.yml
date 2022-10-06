@@ -2,4 +2,5 @@ collections:
   useful-links-secondary:
     output: true
     order:
+      - For Students/For Students.md
       - For Students/.keep
