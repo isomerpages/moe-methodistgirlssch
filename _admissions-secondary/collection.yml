@@ -1,4 +1,5 @@
 collections:
   admissions-secondary:
     output: true
-    order: []
+    order:
+      - DSA for Secondary One/.keep
