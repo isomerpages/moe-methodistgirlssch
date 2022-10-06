@@ -1,4 +1,5 @@
 collections:
   useful-links-secondary:
     output: true
-    order: []
+    order:
+      - For Students.md
