@@ -1,4 +1,5 @@
 collections:
   staff-secondary:
     output: true
-    order: []
+    order:
+      - Key Personnel.md
