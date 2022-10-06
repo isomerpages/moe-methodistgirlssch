@@ -36,3 +36,7 @@ links:
         url: /primary/administration/admissions/mid-stream-admission-for-primary-school/
       - title: Useful Links
         url: /primary/useful-links/for-staff/
+  - title: News & Events
+    collection: news-and-events
+  - title: Parents
+    collection: parents
