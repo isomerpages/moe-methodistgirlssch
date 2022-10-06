@@ -2,4 +2,5 @@ collections:
   academic-secondary:
     output: true
     order:
+      - Academic/Academic.md
       - Academic/.keep
