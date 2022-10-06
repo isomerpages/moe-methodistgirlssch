@@ -5,7 +5,7 @@ description: ""
 ---
 # School and Miscellaneous Fees 
 
-We would like to assure parents that no student will be deprived of an MGS education because of financial difficulties. The school has in place a comprehensive financial assistance scheme to help students in need. [Kindly click here for more information.](https://www.mgs.moe.edu.sg/secondary/admissions/financial-assistance-n-scholarships)
+We would like to assure parents that no student will be deprived of an MGS education because of financial difficulties. The school has in place a comprehensive financial assistance scheme to help students in need. [Kindly click here for more information.](https://staging.dt6ildc2mnegy.amplifyapp.com/secondary/admissions/financial-assistance-n-scholarships/)
 
 **The school and miscellaneous fees are as follows:**
 
