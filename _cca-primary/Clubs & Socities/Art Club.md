@@ -62,3 +62,7 @@ In addition, values of perseverance, teamwork and responsibility are also develo
     
 *   Mdm Nur Shafarina
 
+
+
+<img src="/images/image00.jpg" 
+     style="width:50%">
