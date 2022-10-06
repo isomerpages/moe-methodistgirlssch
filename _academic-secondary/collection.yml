@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Humanities/.keep
-      - Humanities.md
       - Computer Studies.md
       - Aesthetics/.keep
       - Aesthetics/Aesthetics.md
