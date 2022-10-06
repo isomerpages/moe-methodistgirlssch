@@ -2,7 +2,7 @@ collections:
   admissions-secondary:
     output: true
     order:
-      - DSA for Secondary One/School Stories.md
-      - DSA for Secondary One/Brochures.md
-      - DSA for Secondary One/Direct School Admission for Secondary One.md
       - DSA for Secondary One/.keep
+      - DSA for Secondary One/Direct School Admission for Secondary One.md
+      - DSA for Secondary One/Brochures.md
+      - DSA for Secondary One/School Stories.md
