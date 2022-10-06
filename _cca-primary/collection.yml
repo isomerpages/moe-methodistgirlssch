@@ -2,6 +2,7 @@ collections:
   cca-primary:
     output: true
     order:
+      - Performing Arts/Modern Jazz.md
       - Performing Arts/Handbells.md
       - Performing Arts/Choir.md
       - Performing Arts/.keep
