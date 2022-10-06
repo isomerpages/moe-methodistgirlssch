@@ -68,3 +68,12 @@ Our committed girls go through a vigorous training schedule to perfect their rou
 
 <img src="/images/image2-8.jpg" 
      style="width:55%">
+		 
+<img src="/images/image5-2.jpg" 
+     style="width:75%">
+		 
+<img src="/images/image5-3.jpg" 
+     style="width:75%">
+
+<img src="/images/image6-1.jpg" 
+     style="width:75%">
