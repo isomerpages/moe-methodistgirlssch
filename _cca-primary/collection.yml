@@ -1,4 +1,5 @@
 collections:
   cca-primary:
     output: true
-    order: []
+    order:
+      - CCA.md
