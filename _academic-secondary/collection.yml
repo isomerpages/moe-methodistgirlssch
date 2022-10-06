@@ -1,4 +1,5 @@
 collections:
   academic-secondary:
     output: true
-    order: []
+    order:
+      - Academic/.keep
