@@ -4,8 +4,8 @@ permalink: /secondary/useful-links/for-student/
 description: ""
 third_nav_title: For Students
 ---
+*   [Loan of MGS Uniform One](https://staging.dt6ildc2mnegy.amplifyapp.com/)
 
-*   [Loan of MGS Uniform One](https://www.mgs.moe.edu.sg/secondary/useful-links/for-student/loan-of-mgs-uniform-one)
 
 *   [MGS Library Google Site](https://sites.google.com/mgs.sch.edu.sg/mgslibrary/home?authuser=0)
 
