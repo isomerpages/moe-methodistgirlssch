@@ -2,7 +2,6 @@ collections:
   mg-curriculum-primary:
     output: true
     order:
-      - Talent Development and Academic Support.md
       - MG Curriculum.md
       - Academic/.keep
       - Academic/English.md
@@ -21,3 +20,4 @@ collections:
       - Student Development/Cyber Wellness.md
       - Student Development/Social Studies and National Education.md
       - Student Development/Sexuality Education.md
+      - Talent Development and Academic Support.md
