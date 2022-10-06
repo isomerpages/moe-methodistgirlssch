@@ -2,6 +2,7 @@ collections:
   admissions-secondary:
     output: true
     order:
+      - Financial Assistance & Scholarships.md
       - School & Miscellaneous fees (Secondary).md
       - Immersion Programmes.md
       - Secondary 1 Registration.md
