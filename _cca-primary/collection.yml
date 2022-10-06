@@ -2,6 +2,7 @@ collections:
   cca-primary:
     output: true
     order:
+      - Sports/Bowling.md
       - Sports/Artistic Swimming.md
       - Sports/.keep
       - CCA.md
