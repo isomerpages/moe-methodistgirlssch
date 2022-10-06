@@ -2,6 +2,7 @@ collections:
   admissions-secondary:
     output: true
     order:
+      - School & Miscellaneous fees (Secondary).md
       - Immersion Programmes.md
       - Secondary 1 Registration.md
       - "Secondary 1: Appeals for Admissions.md"
