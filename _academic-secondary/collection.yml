@@ -2,26 +2,26 @@ collections:
   academic-secondary:
     output: true
     order:
-      - "1: 1 Learning Programme.md"
-      - Integrated Programme/.keep
-      - Integrated Programme/Integrated Programme.md
-      - Integrated Programme/MGS IP Curriculum Structure & Subject Options.md
-      - Integrated Programme/MGS Year 3 Integrated Programme Application.md
-      - Sciences.md
-      - Physical Education.md
-      - Mathematics.md
-      - Mother Tongue.md
-      - Language Arts.md
-      - Humanities/.keep
-      - Humanities/Humanities.md
-      - Humanities/History.md
-      - Humanities/Geography.md
-      - Humanities/Global Studies.md
-      - Computer Studies.md
+      - Academic.md
       - Aesthetics/.keep
       - Aesthetics/Aesthetics.md
       - Aesthetics/Art.md
       - Aesthetics/Lower Secondary Music.md
       - Aesthetics/Home Economics.md
       - Aesthetics/Music Elective Programme.md
-      - Academic.md
+      - Computer Studies.md
+      - Humanities/.keep
+      - Humanities/Humanities.md
+      - Humanities/History.md
+      - Humanities/Geography.md
+      - Humanities/Global Studies.md
+      - Language Arts.md
+      - Mother Tongue.md
+      - Mathematics.md
+      - Physical Education.md
+      - Sciences.md
+      - Integrated Programme/.keep
+      - Integrated Programme/Integrated Programme.md
+      - Integrated Programme/MGS IP Curriculum Structure & Subject Options.md
+      - Integrated Programme/MGS Year 3 Integrated Programme Application.md
+      - "1: 1 Learning Programme.md"
