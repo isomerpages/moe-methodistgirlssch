@@ -1,8 +1,8 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: Methodist Girls' School
+description: An Isomer site of the Singapore Government
+image: /images/mgs logo grad.png
 permalink: /
 notification: Here's a notification bar you can use!
 sections:
@@ -71,3 +71,4 @@ sections:
       button: Click here for more information.
       url: /secondary/useful-links/for-student/loan-of-mgs-uniform-one/
 ---
+
