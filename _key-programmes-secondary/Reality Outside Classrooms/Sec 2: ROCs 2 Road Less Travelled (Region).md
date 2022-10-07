@@ -4,3 +4,6 @@ permalink: /secondary/key-programmes/reality-outside-classrooms/sec-2-rocs-2-roa
 description: ""
 third_nav_title: Reality Outside Classrooms
 ---
+*   An interdisciplinary learning journey
+*   Appreciating the culture, heritage, geography, icons and industries of our neighbouring country
+*   Exploring a less travelled road/ route to Malacca, Kuala Lumpur, Cameron Highland and Kuantan
