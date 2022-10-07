@@ -119,3 +119,137 @@ b. [Character and Citizenship Education](https://www.google.com/url?q=https://b
   </tr>
 </tbody>
 </table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-3fsk{background-color:#1F8CE4;border-color:inherit;color:#F2F9FF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-fsv7{background-color:#1f8ce4;border-color:inherit;color:#f2f9ff;text-align:left;vertical-align:top}
+.tg .tg-k9xk{background-color:#F2F9FF;border-color:inherit;color:#222;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-fsv7" colspan="2"><span style="font-weight:bold">Secondary 3</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-3fsk"><span style="font-weight:700;color:#F2F9FF;background-color:#1F8CE4">Lesson</span></td>
+    <td class="tg-3fsk"><span style="font-weight:700;color:#F2F9FF;background-color:#1F8CE4">Learning Objectives  </span></td>
+  </tr>
+  <tr>
+    <td class="tg-k9xk"><span style="font-weight:400;color:#222;background-color:#F2F9FF">Love Yourself, Love Others</span></td>
+    <td class="tg-k9xk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#222;background-color:#F2F9FF">Handling challenges that arise in a relationship</span></td>
+  </tr>
+  <tr>
+    <td class="tg-k9xk"><span style="font-weight:400;color:#222;background-color:#F2F9FF">Mending a Broken Heart</span></td>
+    <td class="tg-k9xk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#222;background-color:#F2F9FF">Understand the stages of grieving (for a failed relationship)</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#222;background-color:#F2F9FF">Healthy ways to cope with the break up of a relationship</span></td>
+  </tr>
+  <tr>
+    <td class="tg-k9xk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#222;background-color:#F2F9FF">When Respect Takes Centre Stage</span></td>
+    <td class="tg-k9xk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#222;background-color:#F2F9FF">Understand and make informed decisions on  sexting</span></td>
+  </tr>
+</tbody>
+</table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-2w19{background-color:#F2F9FF;color:#222;text-align:left;vertical-align:top}
+.tg .tg-3spu{background-color:#1f8ce4;color:#f2f9ff;text-align:left;vertical-align:top}
+.tg .tg-auhb{background-color:#1F8CE4;color:#F2F9FF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-s5yd{background-color:#F2F9FF;color:#1A1C1E;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-3spu" colspan="2"><span style="font-weight:bold">Secondary 4</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-auhb"><span style="font-weight:700;color:#F2F9FF;background-color:#1F8CE4">Lesson</span></td>
+    <td class="tg-auhb"><span style="font-weight:700;color:#F2F9FF;background-color:#1F8CE4">Learning Objectives  </span></td>
+  </tr>
+  <tr>
+    <td class="tg-2w19"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#222">Levelling the Ground</span><br></td>
+    <td class="tg-2w19"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#222">Exploring why there are gender stereotypes and the impact they have on a person’s self esteem</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-s5yd"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#1A1C1E">When Love Hurts</span></td>
+    <td class="tg-s5yd"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#1A1C1E">Recognising the signs of violence and abuse in a relationship</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#1A1C1E">Discuss avenues of help and how to leave an abusive relationship.</span></td>
+  </tr>
+  <tr>
+    <td class="tg-2w19"><span style="font-weight:400;color:#222">For Better or Worse</span></td>
+    <td class="tg-2w19"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#222">Understand that marriage takes commitment and</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#222">communication  by both parties during difficulties and disagreements.</span></td>
+  </tr>
+  <tr>
+    <td class="tg-2w19"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#222">There’s Always More to a story</span></td>
+    <td class="tg-2w19"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#222">Revisiting the impact of consuming pornography.</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#222">How to seek help if one is a victim of revenge pornograhy</span></td>
+  </tr>
+</tbody>
+</table>
+
+### [eTeens Programme](https://www.google.com/url?q=http://www.moe.gov.sg/education/programmes/social-emotional-learning/sexuality-education/files/eteens-2012.pdf&sa=D&source=editors&ust=1665113309406224&usg=AOvVaw3nqmxMt_RDqseovJ3PBwSb)
+
+
+8. eTeens  is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, for Secondary 3 students. The programme was introduced to secondary schools in 2007 as the Breaking Down Barriers (BDB) programme, to provide students with accurate information on STIs, HIV and protection from a health perspective. eTeens is conducted in two segments – a mass talk segment and a classroom-based programme.
+
+9. Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions
+
+### At Methodist Girls' School, the eTeens programme will be implemented for Sec 3’s as follows in 2022:
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-2w19{background-color:#F2F9FF;color:#222;text-align:left;vertical-align:top}
+.tg .tg-auhb{background-color:#1F8CE4;color:#F2F9FF;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-auhb"><span style="font-weight:700;color:#F2F9FF;background-color:#1F8CE4">Topics/Lessons</span></th>
+    <th class="tg-auhb"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#F2F9FF;background-color:#1F8CE4">Lesson Objectives</span><br><span style="font-weight:700;color:#F2F9FF;background-color:#1F8CE4">At the end of the lesson, pupils will be able to:</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-2w19"><span style="font-weight:400;color:#222;background-color:#F2F9FF">Mass Talk by HPB appointed vendor</span></td>
+    <td class="tg-2w19"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#222;background-color:#F2F9FF">Awareness of the different STIs and HIV/AIDS</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-2w19"><span style="font-weight:400;color:#222;background-color:#F2F9FF">Classroom-based Lesson 1: Decision-Making</span></td>
+    <td class="tg-2w19"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#222;background-color:#F2F9FF">Understand there are consequences in any decision one makes regarding sexual intercourse</span></td>
+  </tr>
+  <tr>
+    <td class="tg-2w19"><span style="font-weight:400;color:#222;background-color:#F2F9FF">Classroom-based Lesson 2: Assertiveness</span></td>
+    <td class="tg-2w19"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#222;background-color:#F2F9FF">Understand what assertive behaviour is</span></td>
+  </tr>
+  <tr>
+    <td class="tg-2w19"><span style="font-weight:400;color:#222;background-color:#F2F9FF">Classroom-based Lesson 3: Negotiation</span></td>
+    <td class="tg-2w19"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#222;background-color:#F2F9FF">Practise negotiating one's way out of a negative situation by applying skills learnt from Lesson 2</span></td>
+  </tr>
+</tbody>
+</table>
+
+### INFORMATION FOR PARENTS
+
+10. Parents may opt their children out of the MGS Sexuality Education Programme (incorporating the Growing Years programme) and/or the eTeens programme.
+
+11. Parents who wish to opt their children out of the MGS Sexuality Education Programme (incorporating the Growing Years (GY) programme) need to complete an opt-out form.  [This form is downloadable here](https://www.google.com/url?q=https://drive.google.com/file/d/1Cq53Zugl346YPJG9Tr2tBruzoh9V2Xeg/view?usp%3Dsharingwrr0Da7898IJ/view?usp%3Dsharing&sa=D&source=editors&ust=1665113309412144&usg=AOvVaw3UpBT_ygFyeh2K5pq62hYt). Parents who wish to opt out for the eTeens programme ONLY, need to complete this [opt out form](https://www.google.com/url?q=https://drive.google.com/file/d/1qwTU3LefD9NCkEsyTjdgBbLwy6Ezwyh4/view?usp%3Dsharing&sa=D&source=editors&ust=1665113309412539&usg=AOvVaw3o5_AUsEJEQg1d4ZEwWNt4).  Please open the forms in a new tab in order to view the forms.  A hardcopy of the form/s, duly completed and signed, is to be submitted to your daughter’s / ward’s Form Teacher.
+
+12. The deadline for submission of the forms is 16 May 2022.
+
+13. Parents may wish to attend the school sexuality education programmes with their children. Parents should contact the school to make the necessary arrangements.
+
+14. Parents can contact the school at mgss@moe.edu.sg or 6469 4800 for discussion or to seek clarification about the MGS Sexuality Education Programme.
