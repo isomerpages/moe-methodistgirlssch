@@ -26,4 +26,4 @@ For matters pertaining to **Special needs and learning support** , students ma
 
   
 
-For Education & Career Guidance support, please refer to the [website](https://www.mgs.moe.edu.sg/secondary/mg-curriculum/student-development/character-and-citizenship-education-cce/education-n-career-guidance) to be in touch with our ECG counsellor, Ms Sylvia Ng.
+For Education & Career Guidance support, please refer to the [website](https://staging.dt6ildc2mnegy.amplifyapp.com/secondary/mg-curriculum/student-development/cce/education-n-career-guidance) to be in touch with our ECG counsellor, Ms Sylvia Ng.
