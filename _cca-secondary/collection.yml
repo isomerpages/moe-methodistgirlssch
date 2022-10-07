@@ -2,10 +2,10 @@ collections:
   cca-secondary:
     output: true
     order:
-      - Uniformed Groups/NCC (Air).md
-      - Uniformed Groups/Girls’ Brigade.md
-      - Uniformed Groups/Girl Guides.md
       - Uniformed Groups/.keep
+      - Uniformed Groups/Girl Guides.md
+      - Uniformed Groups/Girls’ Brigade.md
+      - Uniformed Groups/NCC (Air).md
       - Sports/.keep
       - Sports/Artistic Swimming.md
       - Sports/Bowling.md
