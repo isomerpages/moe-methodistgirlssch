@@ -2,6 +2,7 @@ collections:
   student-development-sec:
     output: true
     order:
+      - CCE/Education & Career Guidance.md
       - CCE/Counselling.md
       - CCE/Character and Citizenship Education (CCE).md
       - CCE/.keep
