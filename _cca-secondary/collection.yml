@@ -2,6 +2,7 @@ collections:
   cca-secondary:
     output: true
     order:
+      - Sports/Track.md
       - Sports/Tennis.md
       - Sports/Swimming.md
       - Sports/Squash.md
