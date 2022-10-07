@@ -2,4 +2,5 @@ collections:
   external-links:
     output: true
     order:
+      - E Open House.md
       - Alumnae.md
