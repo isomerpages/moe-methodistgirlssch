@@ -2,16 +2,16 @@ collections:
   key-programmes-secondary:
     output: true
     order:
-      - "Reality Outside Classrooms/Sec 4: ROCs 4 Taking Flight (Looking Beyond
-        MGS).md"
-      - "Reality Outside Classrooms/Sec 3: ROCs 3 Highway to the World
-        (World).md"
-      - "Reality Outside Classrooms/Sec 2: ROCs 2 Road Less Travelled
-        (Region).md"
-      - "Reality Outside Classrooms/Sec 1: ROCs 1 Road to Discovery
-        (Singapore).md"
       - Reality Outside Classrooms/.keep
       - Reality Outside Classrooms/Reality Outside Classrooms.md
+      - "Reality Outside Classrooms/Sec 1: ROCs 1 Road to Discovery
+        (Singapore).md"
+      - "Reality Outside Classrooms/Sec 2: ROCs 2 Road Less Travelled
+        (Region).md"
+      - "Reality Outside Classrooms/Sec 3: ROCs 3 Highway to the World
+        (World).md"
+      - "Reality Outside Classrooms/Sec 4: ROCs 4 Taking Flight (Looking Beyond
+        MGS).md"
       - Regional Youth Conference.md
       - STE(A)M.md
       - Sophia Blackmore Academy.md
