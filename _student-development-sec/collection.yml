@@ -2,5 +2,6 @@ collections:
   student-development-sec:
     output: true
     order:
+      - CCE/Character and Citizenship Education (CCE).md
       - CCE/.keep
       - Student Development.md
