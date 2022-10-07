@@ -60,7 +60,7 @@ b. [Character and Citizenship Education](https://www.google.com/url?q=https://b
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-3spu" colspan="2"><span style="font-weight:bold">Secondary One</span></th>
+    <th class="tg-3spu" colspan="2"><span style="font-weight:bold">Secondary 1</span></th>
   </tr>
 </thead>
 <tbody>
@@ -83,3 +83,39 @@ b. [Character and Citizenship Education](https://www.google.com/url?q=https://b
 </tbody>
 </table>
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-2w19{background-color:#F2F9FF;color:#222;text-align:left;vertical-align:top}
+.tg .tg-3spu{background-color:#1f8ce4;color:#f2f9ff;text-align:left;vertical-align:top}
+.tg .tg-auhb{background-color:#1F8CE4;color:#F2F9FF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-s5yd{background-color:#F2F9FF;color:#1A1C1E;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-3spu" colspan="2"><span style="font-weight:bold">Secondary 2</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-auhb"><span style="font-weight:700;color:#F2F9FF;background-color:#1F8CE4">Lesson</span></td>
+    <td class="tg-auhb"><span style="font-weight:700;color:#F2F9FF;background-color:#1F8CE4">Learning Objectives  </span></td>
+  </tr>
+  <tr>
+    <td class="tg-2w19"><span style="font-weight:400;color:#222;background-color:#F2F9FF">A role for Everyone</span></td>
+    <td class="tg-2w19"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#222;background-color:#F2F9FF">Know/define what gender role, gender identity and sexual orientation are</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#222;background-color:#F2F9FF">Recognise gender stereotypes and take steps to avoid stereotyping people.</span></td>
+  </tr>
+  <tr>
+    <td class="tg-2w19"><span style="font-weight:400;color:#222;background-color:#F2F9FF">Online Safety Challenge</span></td>
+    <td class="tg-2w19"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#222;background-color:#F2F9FF">Be aware of the dangers of interacting online, including sexting, cyberflashing and  grooming by predators.</span></td>
+  </tr>
+  <tr>
+    <td class="tg-s5yd"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#1A1C1E">Do I or Don’t I?</span></td>
+    <td class="tg-2w19"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#222;background-color:#F2F9FF">Explore the consequences of premarital sex</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#222;background-color:#F2F9FF">Be aware of the impact this might have on the couple as well as their friends and family.</span></td>
+  </tr>
+</tbody>
+</table>
