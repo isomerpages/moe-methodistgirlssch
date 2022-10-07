@@ -10,6 +10,8 @@ The MGS Choir has a shared sense of passion and love for singing. The Choir’s 
 
 ![](/images/choir.jpg)
 
+
+
 **2019 6th International Vietnam Choir Competition in Hoi An, Vietnam:**
 
 *   2 gold awards: category champion for the Youth Choir Category, second place for the Sacred Choral Music Category
@@ -67,4 +69,3 @@ The Choir has benefited from yearly masterclasses from the likes of Professor Ge
   </tr>
 </tbody>
 </table>
-
