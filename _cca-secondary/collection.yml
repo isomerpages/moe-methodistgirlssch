@@ -2,6 +2,7 @@ collections:
   cca-secondary:
     output: true
     order:
+      - Visual and Performing Arts/Visual and Performing Arts.md
       - Visual and Performing Arts/.keep
       - Uniformed Groups/.keep
       - Uniformed Groups/Girl Guides.md
