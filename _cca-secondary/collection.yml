@@ -2,16 +2,16 @@ collections:
   cca-secondary:
     output: true
     order:
-      - Visual and Performing Arts/String Ensemble.md
-      - Visual and Performing Arts/International Dance.md
-      - Visual and Performing Arts/Indian Dance Club.md
-      - Visual and Performing Arts/IDEAS.md
-      - Visual and Performing Arts/Handbell Ensemble.md
-      - Visual and Performing Arts/Guitar Ensemble.md
-      - Visual and Performing Arts/Drama Society.md
-      - Visual and Performing Arts/Choir.md
-      - Visual and Performing Arts/Visual and Performing Arts.md
       - Visual and Performing Arts/.keep
+      - Visual and Performing Arts/Visual and Performing Arts.md
+      - Visual and Performing Arts/Choir.md
+      - Visual and Performing Arts/Drama Society.md
+      - Visual and Performing Arts/Guitar Ensemble.md
+      - Visual and Performing Arts/Handbell Ensemble.md
+      - Visual and Performing Arts/IDEAS.md
+      - Visual and Performing Arts/Indian Dance Club.md
+      - Visual and Performing Arts/International Dance.md
+      - Visual and Performing Arts/String Ensemble.md
       - Uniformed Groups/.keep
       - Uniformed Groups/Girl Guides.md
       - Uniformed Groups/Girls’ Brigade.md
