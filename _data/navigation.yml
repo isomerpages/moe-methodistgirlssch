@@ -36,10 +36,6 @@ links:
         url: /primary/administration/admissions/mid-stream-admission-for-primary-school/
       - title: Useful Links
         url: /primary/useful-links/for-staff/
-  - title: News & Events
-    collection: news-and-events
-  - title: Parents
-    collection: parents
   - title: Secondary
     url: /secondary/mg-curriculum/
     sublinks:
@@ -59,3 +55,9 @@ links:
         url: /secondary/staff/key-personnel/
       - title: Useful Links
         url: /secondary/useful-links/for-student/
+  - title: News & Events
+    collection: news-and-events
+  - title: Parents
+    collection: parents
+  - title: External Links
+    collection: about-us
