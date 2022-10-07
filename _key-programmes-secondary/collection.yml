@@ -2,5 +2,6 @@ collections:
   key-programmes-secondary:
     output: true
     order:
+      - Regional Youth Conference.md
       - Reality Outside Classrooms/Reality Outside Classrooms.md
       - Reality Outside Classrooms/.keep
