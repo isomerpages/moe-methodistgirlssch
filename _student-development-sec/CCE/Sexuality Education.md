@@ -54,13 +54,13 @@ b. [Character and Citizenship Education](https://www.google.com/url?q=https://b
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-2w19{background-color:#F2F9FF;color:#222;text-align:left;vertical-align:top}
-.tg .tg-y05w{background-color:#1f8ce4;color:#f2f9ff;text-align:center;vertical-align:top}
+.tg .tg-3spu{background-color:#1f8ce4;color:#f2f9ff;text-align:left;vertical-align:top}
 .tg .tg-auhb{background-color:#1F8CE4;color:#F2F9FF;font-weight:bold;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-y05w" colspan="2"><span style="font-weight:bold">Secondary One</span></th>
+    <th class="tg-3spu" colspan="2"><span style="font-weight:bold">Secondary One</span></th>
   </tr>
 </thead>
 <tbody>
