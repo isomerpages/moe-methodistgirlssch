@@ -78,3 +78,132 @@ Lessons and activities in the CCE Curriculum are selected and customised for the
 </tbody>
 </table>
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-5hwe{color:#3D3D3D;text-align:center;vertical-align:middle}
+.tg .tg-xhbm{background-color:#EBD179;color:#3D3D3D;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-wdal{color:#3D3D3D;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-xhbm">Secondary / Year 2</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-wdal">Level Theme: Being a Team Player</td>
+  </tr>
+  <tr>
+    <td class="tg-5hwe">The focus is on helping students develop skills and attitudes to become an effective and <br>contributing team player. Students will learn to build positive relationships with others through <br>exploring the core elements needed in strong relationships as well as deepening their understanding of their own <br>strengths and weaknesses when working in teams. Students will also learn to <br>lead and take charge while respecting and showing consideration to others <br>as they work collaboratively to make an impact on the lives of the less fortunate.</td>
+  </tr>
+</tbody>
+</table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-dlzb{background-color:#F38BBB;color:#3D3D3D;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-5hwe{color:#3D3D3D;text-align:center;vertical-align:middle}
+.tg .tg-wdal{color:#3D3D3D;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-dlzb">Secondary / Year 3</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-wdal">Level Theme: Becoming a Person of Influence</td>
+  </tr>
+  <tr>
+    <td class="tg-5hwe">The focus is on helping students continue to strengthen their ability to build positive <br>relationships with others as they assume roles of leadership in their class and CCAs. Students will learn to sense-make their collective experiences and develop their resilience by choosing<br> to be courageous and not give up when faced with challenging situations. <br>Students will also learn to adopt a positive and proactive stance as <br>they deepen their awareness and understanding of emerging local and global social issues.</td>
+  </tr>
+</tbody>
+</table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-5hwe{color:#3D3D3D;text-align:center;vertical-align:middle}
+.tg .tg-6oh6{background-color:#9D70D4;color:#3D3D3D;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-wdal{color:#3D3D3D;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-6oh6">Secondary / Year 4</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-wdal">Level Theme: Being Future-Ready</td>
+  </tr>
+  <tr>
+    <td class="tg-5hwe">The focus is on helping students develop a strong set of values that will anchor their decision-making <br>as they prepare to move on to the next chapter of their lives. Students continue to <br>cultivate an attitude of perseverance, a teachable spirit and the passion and determination to give of their best in all that they do. They will be equipped with the knowledge and skills to allow <br>them to continually seek opportunities to grow and develop. Furthermore, they will embark on a <br>level project to bring love and cheer to the elderly in our community through the sharing of <br>their time and talents. In doing so, be empowered to be advocates for the greater good.</td>
+  </tr>
+</tbody>
+</table>
+
+## MGS Milestone Programmes
+
+Enrichment activities or Milestone Programmes are organized for each cohort. These activities provide authentic contexts for learning as well as opportunities for students to practice the social-emotional skills they have learnt in class. Activities are designed for social mixing and communication where through common tasks and challenges, students take steps forward to interact with those beyond their class and school.
+
+  
+
+The milestone programmes for each level are as follows:
+
+  
+
+**Secondary/Year 1**
+
+*   ROCs 1 : Adventure Camp
+*   Orientation Programme
+
+**Secondary/Year 2**
+
+*   ROCs 2 : Road Less Travelled Learning Journeys
+
+**Secondary/Year 3**
+
+*   ROCs 3 : MOE-OBS Challenge Camp
+
+**Secondary/Year 4**
+
+*   ROCs 4 : Careers Festival
+*   Longest Day
+*   Baccalaureate Service
+
+  
+
+  
+
+## School Experiences
+
+
+The MGS girl is presented with a plethora of experiences and opportunities for growth, socialisation and self-discovery. These are offered both at each stage of their schooling years and as the opportunities arise. These are optional and we encourage students to take up some of these offers to fuel an existing interest, learn something new, discover new knowledge, practice planning and leadership, forge friendships and make memories.
+
+  
+
+The experiences include:
+
+*   Self-initiated VIA projects
+*   WoW Space activities
+*   STEAM programme activities
+*   Friend of Singa Ambassador
+*   House activities
+*   Sec 2 Immersion programme
+*   Sec 3 Overseas VIA trips
+*   Sec 3 Work Experience
+*   Sec 3 Regional Youth Conference (Biennial)
