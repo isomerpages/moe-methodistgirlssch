@@ -2,16 +2,16 @@ collections:
   cca-secondary:
     output: true
     order:
-      - Sports/Track.md
-      - Sports/Tennis.md
-      - Sports/Swimming.md
-      - Sports/Squash.md
-      - Sports/Softball.md
-      - Sports/Netball.md
-      - Sports/Football.md
-      - Sports/Bowling.md
-      - Sports/Artistic Swimming.md
       - Sports/.keep
+      - Sports/Artistic Swimming.md
+      - Sports/Bowling.md
+      - Sports/Football.md
+      - Sports/Netball.md
+      - Sports/Softball.md
+      - Sports/Squash.md
+      - Sports/Swimming.md
+      - Sports/Tennis.md
+      - Sports/Track.md
       - Clubs and Societies/.keep
       - Clubs and Societies/Chess Club.md
       - Clubs and Societies/Infocomm Club.md
