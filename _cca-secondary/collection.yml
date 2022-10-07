@@ -2,6 +2,7 @@ collections:
   cca-secondary:
     output: true
     order:
+      - Clubs and Societies/Infocomm Club.md
       - Clubs and Societies/Chess Club.md
       - Clubs and Societies/.keep
       - Achievements.md
