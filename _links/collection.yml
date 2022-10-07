@@ -1,0 +1,4 @@
+collections:
+  links:
+    output: true
+    order: []
