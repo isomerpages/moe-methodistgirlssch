@@ -2,6 +2,7 @@ collections:
   student-development-sec:
     output: true
     order:
+      - CCE/Sexuality Education.md
       - CCE/MGS Growth Journey.md
       - CCE/Independent Learning Day.md
       - CCE/Education & Career Guidance.md
