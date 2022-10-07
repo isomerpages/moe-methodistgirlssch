@@ -2,6 +2,7 @@ collections:
   cca-secondary:
     output: true
     order:
+      - Sports/Softball.md
       - Sports/Netball.md
       - Sports/Football.md
       - Sports/Bowling.md
