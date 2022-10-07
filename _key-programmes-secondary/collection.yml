@@ -2,4 +2,5 @@ collections:
   key-programmes-secondary:
     output: true
     order:
+      - Reality Outside Classrooms/Reality Outside Classrooms.md
       - Reality Outside Classrooms/.keep
