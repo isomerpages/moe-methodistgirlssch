@@ -4,3 +4,7 @@ permalink: /secondary/key-programmes/reality-outside-classrooms/sec-1-rocs-1-roa
 description: ""
 third_nav_title: Reality Outside Classrooms
 ---
+*   Discovering our MGS Identity and Heritage
+*   Exploring the Heritage of Singapore
+*   Exploring the Environment around us
+
