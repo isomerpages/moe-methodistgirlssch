@@ -2,6 +2,7 @@ collections:
   cca-secondary:
     output: true
     order:
+      - Visual and Performing Arts/IDEAS.md
       - Visual and Performing Arts/Handbell Ensemble.md
       - Visual and Performing Arts/Guitar Ensemble.md
       - Visual and Performing Arts/Drama Society.md
