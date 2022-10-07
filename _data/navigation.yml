@@ -40,3 +40,8 @@ links:
     collection: news-and-events
   - title: Parents
     collection: parents
+  - title: Secondary
+    url: /secondary/mg-curriculum/
+    sublinks:
+      - title: MG Curriculum
+        url: /secondary/mg-curriculum/
