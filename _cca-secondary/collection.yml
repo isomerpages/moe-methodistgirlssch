@@ -2,6 +2,7 @@ collections:
   cca-secondary:
     output: true
     order:
+      - Clubs and Societies/Sophia Society.md
       - Clubs and Societies/SALT.md
       - Clubs and Societies/Library Club.md
       - Clubs and Societies/Infocomm Club.md
