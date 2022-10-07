@@ -2,5 +2,6 @@ collections:
   cca-secondary:
     output: true
     order:
+      - Clubs and Societies/.keep
       - Achievements.md
       - Co Curricular Activities (CCA).md
