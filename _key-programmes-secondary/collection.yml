@@ -1,4 +1,5 @@
 collections:
   key-programmes-secondary:
     output: true
-    order: []
+    order:
+      - Reality Outside Classrooms.md
