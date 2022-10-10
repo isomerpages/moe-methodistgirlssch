@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: Methodist Girls' School
-      background: /images/hero-banner.png
+      background: /images/Main photo album/mgs-theme.jpg
       button: Contact Us
       url: /contact-us/
       key_highlights:
