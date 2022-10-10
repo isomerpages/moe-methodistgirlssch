@@ -97,7 +97,7 @@ The MGS House system was first formed in 1932, with four houses named after Meth
 
 
 <img src="/images/mghsebanner.png" 
-     style="width:45%" align="right">
+     style="width:60%" align="right">
 
 
 **BLACKMORE**
