@@ -96,6 +96,8 @@ The MGS House system was first formed in 1932, with four houses named after Meth
 ### About The Four Houses
 
 
+<img src="/images/mghsebanner.png" 
+     style="width:45%" align="right">
 
 
 **BLACKMORE**
@@ -107,8 +109,6 @@ Blackmore House was named after Miss Sophia Blackmore, founder of MGS and princi
 Olson House was named after Miss Mary Olson, who was the principal of both MGS and Fairfield Methodist School from 1905 to 1910. Miss Olson resumed the principalship of MGS from 1926 to 1930. In 1925, MGS moved from Short Street to Mount Sophia where the Olson Building, officially opened by Miss Olson in 1928, still resides today as a conserved heritage site.
 
   
-<img src="/images/mghsebanner.png" 
-     style="width:50%" align="right">
 
 **LEE**
 
