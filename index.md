@@ -26,10 +26,6 @@ sections:
       description: Outcome for Direct School Admission for Secondary One
       button: Click here
       url: /secondary/admissions/direct-school-admission-for-secondary-one/
-  - resources:
-      title: Many Good Stories
-      subtitle: "MGS135: MGServes"
-      button: "MGeSprit 2022: Volume 1"
   - infopic:
       title: "MGS135: MGServes"
       description: Share your MGServes story with us!
