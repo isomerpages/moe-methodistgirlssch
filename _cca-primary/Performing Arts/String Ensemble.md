@@ -10,7 +10,7 @@ Through the String Ensemble, students developed the skills of playing expressive
 
   
 
-**[String Ensemble Video]**(https://drive.google.com/file/d/1JrsR4jWlX1wK9BH4xps-sUg_6j3hXaql/view?usp=sharing)
+**[String Ensemble Video](https://drive.google.com/file/d/1JrsR4jWlX1wK9BH4xps-sUg_6j3hXaql/view?usp=sharing)**
 
   
 
