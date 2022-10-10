@@ -4,7 +4,7 @@ title: Methodist Girls' School
 description: An Isomer site of the Singapore Government
 image: /images/mgs logo grad.png
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
       title: Methodist Girls' School
