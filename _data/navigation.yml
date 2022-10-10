@@ -55,10 +55,6 @@ links:
         url: /secondary/staff/key-personnel/
       - title: Useful Links
         url: /secondary/useful-links/for-student/
-  - title: Parents
-    collection: parents
-  - title: External Links
-    collection: external-links
   - title: News & Events
     url: /news-n-events/calendar-of-events/
     sublinks:
@@ -70,3 +66,7 @@ links:
         url: /news-n-events/mgserves/2021/
       - title: Publications
         url: /news-n-events/publications/
+  - title: Parents
+    collection: parents
+  - title: External Links
+    collection: external-links
