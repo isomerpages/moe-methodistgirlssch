@@ -13,7 +13,8 @@ The school video encapsulates the quintessence of MGS, an established legacy sin
 
 'Bless This School' is a familiar song that reverberates throughout the school campus daily, and distinctively characterises the schooling days of all MGS girls. Refreshed in 2022, it marks the 135th founding anniversary of MGS, and was first performed live at the MGS 135th Founder's Day Service & Graduation Ceremony.
 
-![](/images/mgs%20logo%20grad.png)
+<img src="/images/mgs%20logo%20grad.png" 
+     style="width:40%">
 
 # (I) School Philosophy
 
