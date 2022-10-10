@@ -4,7 +4,6 @@ permalink: /primary/mg-curriculum/cca/performing-arts/string-ensemble/
 description: ""
 third_nav_title: Performing Arts
 ---
-
 MGS String Ensemble consists of the violin, viola, cello, double bass and the harp section. We take part in the biennial Singapore Youth Festival (SYF) Arts Presentation and have consistently achieved good results.  Other than SYF, the String Ensemble performs regularly at various school functions like the Student Leaders’ Investiture.  
   
 Through the String Ensemble, students developed the skills of playing expressively and with good technique. Students also learn the importance of perseverance, determination and teamwork when playing together as an ensemble. Most importantly, friendships and camaraderie are forged during their time in the CCA.
