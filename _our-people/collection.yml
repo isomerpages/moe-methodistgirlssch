@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Secondary/.keep
-      - Executive & Administrative Staff.md
       - Teachers.md
       - Key Personnel.md
       - School Leaders.md
