@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Principal's Message.md
-      - MGS Board of Management.md
+      - Board of Management.md
       - Our Heritage.md
       - School Information/.keep
       - School Information/School Safety.md
