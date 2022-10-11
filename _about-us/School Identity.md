@@ -3,8 +3,6 @@ title: School Identity
 permalink: /about-us/school-identity/
 description: ""
 ---
-
-
 ### THE MGS EDUCATION EXPERIENCE - HERE, FOR A PURPOSE
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aBKMUTH21BM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -15,10 +13,10 @@ The school video encapsulates the quintessence of MGS, an established legacy sin
 
 'Bless This School' is a familiar song that reverberates throughout the school campus daily, and distinctively characterises the schooling days of all MGS girls. Refreshed in 2022, it marks the 135th founding anniversary of MGS, and was first performed live at the MGS 135th Founder's Day Service & Graduation Ceremony.
 
-<img src="/images/mgs%20logo%20grad.png" 
+<img src="/images/Others/mgs%20logo%20grad.png" 
      style="width:40%">
-
-# (I) School Philosophy
+		 
+## (I) School Philosophy
 
 ### VISION
 
@@ -64,60 +62,43 @@ The school video encapsulates the quintessence of MGS, an established legacy sin
 
 1.  Be actively reaching out and touching lives, compassionate and respectful to all one comes into contact with, and embodying the ideals of servant leadership.
 
-# (II) School Crest
+## (II) School Crest
 
 The change in the school crest was initiated by the Principal Miss Lau Meau Eng (1957-1972) as the old badge in enamel could only be made in England.
 
 The crest was introduced in 1965, but there is no record of who designed it.
 
-# (III) School Song
+## (III) School Song
 
 With loving hearts and joyous song we sing to M.G.S. <br>
 And tell the fame of that fair name for we can do no less. <br>
 We hope that we may honour bring, and heaven ever bless <br>
 Our school, the fairest in the land, our own dear M.G.S.
 
-  
-
 Down through the years our memories will keep a loving place <br>
 For friendships made and pleasures shared, and lessons learned apace. <br>
 For those who worked and gave their best that we might learn to face <br>
 The trials of life with faith and hope and nobly run the race.
-
-  
 
 And now we're proud to raise the shout and sing of M.G.S. <br>
 Lift high her banner, one and all, her name we now profess. <br>
 In work and play for honours won, today our hearts confess <br>
 The debt we owe, the love we hold for our dear M.G.S.
 
-# MG Houses
+## MG Houses
 
 The MGS House system was first formed in 1932, with four houses named after Methodist pioneers in Singapore: Blackmore, Oldham, Shellabear and Horley. They were later renamed **Blackmore , Olson , Lee and Jackson** .
 
 ### About The Four Houses
 
-
-<img src="/images/mghsebanner.png" 
-     style="width: 201px; height: 671px;" align="right">
-
-
-**BLACKMORE**
-
+#### BLACKMORE 
 Blackmore House was named after Miss Sophia Blackmore, founder of MGS and principal from 1887 to 1892. Miss Blackmore was born in 1857 in New South Wales, Australia, and was the first female missionary sent to Singapore by the Methodist Women’s Foreign Missionary Society in 1887. She pioneered education for girls in Singapore, and established two schools, a church and the Nind Home boarding school for girls, which was located at Mount Sophia.
 
-**OLSON**
-
+#### OLSON
 Olson House was named after Miss Mary Olson, who was the principal of both MGS and Fairfield Methodist School from 1905 to 1910. Miss Olson resumed the principalship of MGS from 1926 to 1930. In 1925, MGS moved from Short Street to Mount Sophia where the Olson Building, officially opened by Miss Olson in 1928, still resides today as a conserved heritage site.
 
-  
-
-**LEE**
-
+#### LEE
 Lee House was named after Edwin Ferdinand Lee, who was elected Missionary Bishop of the Methodist Episcopal Church and The Methodist Church in 1928. Prior to that, he was Pastor of the Wesley Church of Singapore, Straits Settlements, and the Superintendent of the Singapore District of the M.E. Church (1924–28). Beyond Singapore, Bishop Lee’s episcopal leadership spanned Malaysia and the Philippines.  
 
-  
-
-**JACKSON**
-
+#### JACKSON
 Jackson House was named after Miss Catherine Jackson, who served as principal of MGS in 1920 & 1931. Miss Jackson served as a Methodist missionary on the Malay Peninsula for 36 years, and was among the Methodist missionaries who chose to stay behind in Singapore during the Japanese Occupation from 1942 to 1945. She passed away in 1944 while interned in a Japanese prison camp.
