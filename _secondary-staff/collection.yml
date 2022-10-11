@@ -1,5 +1,5 @@
 collections:
-  staff-secondary:
+  secondary-staff:
     output: true
     order:
       - Key Personnel.md
