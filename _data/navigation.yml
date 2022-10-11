@@ -3,22 +3,22 @@ links:
   - title: About Us
     url: /about-us/principals-message/
     sublinks:
-      - title: Principal's Message
-        url: /about-us/principals-message/
       - title: Board of Management
-        url: /about-us/mgs-board-of-management/
-      - title: School Leaders
-        url: /about-us/school-leaders/
+        url: /about-us/board-of-management/
       - title: Our Heritage
         url: /about-us/our-heritage/
+      - title: Principal's Message
+        url: /about-us/principals-message/
+      - title: School Leaders
+        url: /about-us/school-leaders/
       - title: School Identity
         url: /about-us/school-identity/
       - title: School Information
-        url: /about-us/contact-us/
+        url: /about-us/school-information/contact-us/
       - title: School Rules
         url: /about-us/school-rules/
       - title: School Supplies
-        url: /about-us/school-supplies/booklist-and-bookshop/
+        url: /about-us/school-supplies/booklist-and-bookshop/ist-and-bookshop/
       - title: MGS Virtual Tour
         url: /about-us/mgs-virtual-tour/
       - title: Careers at MGS
@@ -40,15 +40,15 @@ links:
     url: /secondary/mg-curriculum/academic/
     sublinks:
       - title: "Academic "
-        url: /secondary/mg-curriculum/academic/
+        url: /secondary/academic/
       - title: Admissions
         url: /secondary/admissions/direct-school-admission-for-secondary-one/
       - title: CCA
-        url: /secondary/mg-curriculum/co-curricular-activities-cca/
+        url: /secondary/co-curricular-activities-cca/
       - title: Key Programmes
-        url: /secondary/mg-curriculum/key-programmes/reality-outside-classrooms/
+        url: /secondary/key-programmes/reality-outside-classrooms/
       - title: Student Development
-        url: /secondary/mg-curriculum/student-development/character-and-citizenship-education-cce/
+        url: /secondary/student-development/character-and-citizenship-education-cce/
       - title: Staff
         url: /secondary/staff/key-personnel/
       - title: Useful Links
