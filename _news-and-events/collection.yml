@@ -2,6 +2,7 @@ collections:
   news-and-events:
     output: true
     order:
+      - Student Learning Space.md
       - Calendar of Events.md
       - MGServes.md
       - Publications.md
