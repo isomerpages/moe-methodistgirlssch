@@ -5,22 +5,22 @@ links:
     sublinks:
       - title: Principal's Message
         url: /about-us/principals-message/
-      - title: MGS Board of Management
+      - title: Board of Management
         url: /about-us/mgs-board-of-management/
       - title: School Leaders
         url: /about-us/school-leaders/
       - title: Our Heritage
         url: /about-us/our-heritage/
-      - title: Our School Identity
+      - title: School Identity
         url: /about-us/our-school-identity/
-      - title: School Rules
-        url: /about-us/school-rules/
-      - title: MGS Virtual Tour
-        url: /about-us/mgs-virtual-tour/
       - title: School Information
         url: /about-us/school-information/awards-n-scholarships/
+      - title: School Rules
+        url: /about-us/school-rules/
       - title: School Supplies
         url: /about-us/school-supplies/booklist-and-bookshop/
+      - title: MGS Virtual Tour
+        url: /about-us/mgs-virtual-tour/
       - title: Careers at MGS
         url: /about-us/Careers-at-MGS/
   - title: Primary
@@ -39,8 +39,8 @@ links:
   - title: Secondary
     url: /secondary/mg-curriculum/
     sublinks:
-      - title: MG Curriculum
-        url: /secondary/mg-curriculum/
+      - title: Admissions
+        url: /secondary/admissions/direct-school-admission-for-secondary-one/
       - title: "Academic "
         url: /secondary/mg-curriculum/academic/
       - title: CCA
@@ -49,8 +49,6 @@ links:
         url: /secondary/mg-curriculum/key-programmes/reality-outside-classrooms/
       - title: Student Development
         url: /secondary/mg-curriculum/student-development/character-and-citizenship-education-cce/
-      - title: Admissions
-        url: /secondary/admissions/direct-school-admission-for-secondary-one/
       - title: Staff
         url: /secondary/staff/key-personnel/
       - title: Useful Links
