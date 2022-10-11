@@ -1,5 +1,5 @@
 collections:
-  secondary:
+  secondary-academic:
     output: true
     order:
       - Academic.md
