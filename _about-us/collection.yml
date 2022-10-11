@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Contact Us.md
       - Principal's Message.md
       - Our Heritage.md
       - Our Identity.md
@@ -27,3 +26,4 @@ collections:
       - School Supplies/School Lockers.md
       - School Supplies/School Uniforms.md
       - MGS VRtour.md
+      - Contact Us.md
