@@ -45,7 +45,7 @@ Refer to [ANNEX A: INFORMATION ABOUT UNIFORM ONE](https://www.mgs.moe.edu.sg/se
 4.  Return the Uniform in its laundry plastic bag/ packaging after dry-cleaning it, **with the laundry receipt attached** . Put the whole plastic bag/ packaging into the Uniform Bag that was issued to you together with the hanger provided.  
       
     
-5.  If any part of the Uniform is lost, damaged or badly stained*, you will need to replace** the item at the following cost:
+5.  If any part of the Uniform is lost, damaged or badly stained, **you will need to replace** the item at the following cost:
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
