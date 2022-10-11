@@ -12,8 +12,8 @@ sections:
         title: Discover more...
         options: []
   - resources:
-      title: test useful links
-      subtitle: Test for more information
+      title: Announcements
+      subtitle: Stay up to date with us
       button: more
   - infobar:
       title: Direct School Admission Into MGS Secondary One In 2023
