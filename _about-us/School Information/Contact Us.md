@@ -5,49 +5,41 @@ description: MGS Contact Us
 third_nav_title: School Information
 ---
 ## Contact Us
-[View our location on OneMap](https://www.onemap.gov.sg/main/v2/?lat=1.33294800935714&lng=103.783393009829)
 
 ### Primary School
 Address: 11 Blackmore Drive, Singapore 599986  
 Telephone: 6469 4800  
 Fax: 6462 4166  
-Email: [mgps@moe.edu.sg](mailto:mgps@moe.edu.sg)  
+Email:&nbsp;[mgps@moe.edu.sg](mailto:mgps@moe.edu.sg)  
 
 ### Secondary School
 Address: 11 Blackmore Drive, Singapore 599986  
 Telephone: 6469 4800  
 Fax: 6469 8717  
-Email: [mgss@moe.edu.sg](mailto:mgss@moe.edu.sg)
+Email:&nbsp;[mgss@moe.edu.sg](mailto:mgss@moe.edu.sg)
 
 ## Getting Here
-By MRT: King Albert Park MRT Station (Downtown Line DT6)
+<iframe loading="lazy" allowfullscreen="" style="border:0;" height="450" width="600" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2820.462778244968!2d103.78463584541922!3d1.3341530785734816!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da1084446b721d%3A0xcbcfd322dea1c70f!2sMethodist%20Girls'%20School!5e0!3m2!1sen!2ssg!4v1665467992748!5m2!1sen!2ssg"></iframe>
+<br>
 
 <table width="100%">
   <tbody>
     <tr>
-      <td width="20%" align="left" valign="top">
-        <b>By MRT:
-        </b>
-        <br>
+      <td valign="top" align="left" width="20%">
+        <b>By MRT:   </b>
       </td>
-      <td width="80%" valign="top">King Albert Park MRT Station (Downtown Line DT6)
-        <br>
-      </td>
+      <td valign="top" width="80%">King Albert Park MRT Station (Downtown Line DT6)  </td>
     </tr>
     <tr>
-      <td align="left" valign="top">&nbsp;
-      </td>
-      <td valign="top">&nbsp;
-      </td>
-    </tr>
+        </tr>
     <tr>
-      <td width="20%" align="left" valign="top">
+      <td valign="top" align="left" width="20%">
         <b>By Bus:
         </b>
         <br>
       </td>
-      <td width="80%" valign="top">
-        <table width="100%" cellpadding="5" class="iveo_table ives_tab_simple">
+      <td valign="top" width="80%">
+        <table class="iveo_table ives_tab_simple" cellpadding="5" width="100%">
           <tbody>
             <tr>
               <td width="20%">67 
