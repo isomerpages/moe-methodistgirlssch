@@ -7,14 +7,13 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Methodist Girls' School
       background: /images/Main photo album/mgs-values.jpg
       dropdown:
         title: Discover more...
         options: []
   - resources:
-      title: useful links
-      subtitle: for more information
+      title: test useful links
+      subtitle: Test for more information
       button: more
   - infobar:
       title: Direct School Admission Into MGS Secondary One In 2023
