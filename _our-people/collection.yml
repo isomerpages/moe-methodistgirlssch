@@ -2,6 +2,7 @@ collections:
   our-people:
     output: true
     order:
+      - Executive & Administrative Staff.md
       - Key Personnel.md
       - Secondary/Teachers.md
       - Secondary/Key Personnel.md
