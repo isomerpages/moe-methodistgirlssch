@@ -2,12 +2,12 @@ collections:
   about-us:
     output: true
     order:
-      - School Information.md
       - Principal's Message.md
       - MGS Board of Management.md
       - School Leaders.md
       - Our Heritage.md
       - Our School Identity.md
+      - School Information.md
       - School Rules/.keep
       - School Rules/School Rules.md
       - School Rules/Absence From School.md
