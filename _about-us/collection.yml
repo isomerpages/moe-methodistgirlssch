@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Awards & Scholarships/.keep
-      - MGS Special Awards and Scholarships.md
       - MOE Scholarship & Awards.md
       - National & Other Awards.md
       - School Information/School Safety.md
