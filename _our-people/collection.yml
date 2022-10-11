@@ -2,6 +2,7 @@ collections:
   our-people:
     output: true
     order:
+      - Careers at MGS/.keep
       - Relief teaching & temporary positions.md
       - Careers at MGS.md
       - Board of Management.md
