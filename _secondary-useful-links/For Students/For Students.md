@@ -4,8 +4,8 @@ permalink: /secondary/useful-links/for-student/
 description: ""
 third_nav_title: For Students
 ---
+## Useful Links
 *   [Loan of MGS Uniform One](https://staging.dt6ildc2mnegy.amplifyapp.com/secondary/useful-links/for-student/loan-of-mgs-uniform-one/)
-
 
 *   [MGS Library Google Site](https://sites.google.com/mgs.sch.edu.sg/mgslibrary/home?authuser=0)
 
@@ -19,11 +19,18 @@ third_nav_title: For Students
 
 ### E-Learning Platforms
 
-*   [ACE-Learning](http://www.ace-learning.com.sg/sys/index.html)
+[ACE-Learning](http://www.ace-learning.com.sg/sys/index.html)
 
-*   [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)
+##### Student Learning Space
+If you have any difficulties with regard to your learning device and/or SLS account, please call MGS SLS School Admin at 6796 2434 or 6796 2433 from 0800 hrs to 1600 hrs from Monday to Friday during HBL.   
+  
+The SLS Central Helpline (6702 6513) will operate after school operating hours (4pm – 9pm on weekdays, 9am – 9pm on Saturday).  
+  
+Alternatively, you may email the SLS Central Helpdesk at  [helpdesk@sls.ufinity.com](mailto:helpdesk@sls.ufinity.com) at any time for assistance. Thank you.
 
-*   [SLS Students’ Instructions](https://www-mgs-moe-edu-sg-admin.cwp.sg/qql/slot/u562/Secondary/Useful%20Links/SLS%20-%20Students%E2%80%99%20Instructions.pdf)
+[Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)
+
+[SLS Students’ Instructions](https://www-mgs-moe-edu-sg-admin.cwp.sg/qql/slot/u562/Secondary/Useful%20Links/SLS%20-%20Students%E2%80%99%20Instructions.pdf)
 
 ### MGS Passport
 
