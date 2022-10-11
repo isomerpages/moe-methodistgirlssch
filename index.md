@@ -10,7 +10,11 @@ sections:
       background: /images/Main photo album/mgs-values.jpg
       dropdown:
         title: Discover more...
-        options: []
+        options:
+          - title: Calendar of Events
+            url: /news-n-events/calendar-of-events/
+          - title: Hero Dropdown Element Title
+            url: ""
   - infobar:
       title: Direct School Admission Into MGS Secondary One In 2023
       description: Outcome for Direct School Admission for Secondary One
