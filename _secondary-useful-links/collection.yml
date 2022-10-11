@@ -1,5 +1,5 @@
 collections:
-  useful-links-secondary:
+  secondary-useful-links:
     output: true
     order:
       - For Students/.keep
