@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Information/Personal Data Protection Policy.md
       - School Information/School Information.md
       - School Information/.keep
       - Principal's Message.md
