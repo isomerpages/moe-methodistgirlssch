@@ -1,5 +1,5 @@
 collections:
-  key-programmes-secondary:
+  secondary-key-programmes:
     output: true
     order:
       - Reality Outside Classrooms/.keep
