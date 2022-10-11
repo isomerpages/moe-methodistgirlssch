@@ -1,5 +1,5 @@
 collections:
-  links:
+  announcements:
     output: true
     order:
       - Student Learning Space.md
