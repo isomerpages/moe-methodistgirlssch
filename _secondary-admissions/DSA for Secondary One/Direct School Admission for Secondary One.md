@@ -1,0 +1,43 @@
+---
+title: Direct School Admission for Secondary One
+permalink: /secondary/admissions/dsa-sec1/
+description: ""
+third_nav_title: DSA for Secondary One
+---
+
+### Outcome of DSA Application to MGS
+
+Dear Applicants,
+
+A notification has been sent to your email accounts on Thursday, 8 September 2022, on the outcome of your DSA Application (Confirmed/Waitlist/Unsuccessful).
+
+Please check your inbox/spam/junk folders.
+
+Thank you for your patience and all the best for your PSLE!
+
+### Direct School Admission Into MGS Secondary One In 2023
+
+MGS invites Primary 6 students to participate in this year’s DSA exercise. As MGS is a dual track school with both O-level track and IP track, OUR DSA TALENT AREAS ARE APPLICABLE FOR BOTH TRACKS.
+
+### MGS DSA TALENT AREAS:
+
+1.  English Language
+2.  STEM (Science, Technology, Engineering, Mathematics)
+3.  Music Elective Programme
+4.  Sports – Artistic Swimming
+5.  Sports – Bowling
+6.  Sports – Cross-country 
+7.  Sports – Netball
+8.  Sports – Softball
+9.  Sports – Squash
+10.  Sports – Swimming
+11.  Sports – Tennis
+
+  
+
+### Download:
+
+* [MGS DSA Talent Areas and Key Dates.pdf](/files/MGS%20DSA%20Talent%20Areas%20and%20Key%20Dates%202022.pdf)
+
+
+* [MGS DSA Selection Criteria and Process (revised 20 May).pdf](/files/MGS%20DSA%20Selection%20Criteria%20and%20Process%20_%20revised%2020%20May.pdf)
