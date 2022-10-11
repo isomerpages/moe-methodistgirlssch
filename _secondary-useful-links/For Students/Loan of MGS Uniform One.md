@@ -14,18 +14,13 @@ third_nav_title: For Students
 Refer to [ANNEX A: INFORMATION ABOUT UNIFORM ONE](https://www.mgs.moe.edu.sg/secondary/useful-links/for-student/loan-of-mgs-uniform-one#_ptoo_95327)
 
 ### What is loaned to students?
-  
 
-**MGS No. 1 Uniform includes the following:  
-**
+**MGS No. 1 Uniform includes the following:**
 
 1.  White long-sleeved blouse 
 2.  MGS Tie  
 3.  MGS Blazer  
 4.  Navy Blue Skirt  
-    
-
-  
 
 **The following items are to be prepared by the student themselves to complete the uniform:**
 
@@ -47,7 +42,6 @@ Refer to [ANNEX A: INFORMATION ABOUT UNIFORM ONE](https://www.mgs.moe.edu.sg/se
 	* For MGS Blazer (Item 3) and Navy Blue Skirt (Item 4): Dry Cleaning Only.  
       
     
-
 4.  Return the Uniform in its laundry plastic bag/ packaging after dry-cleaning it, **with the laundry receipt attached** . Put the whole plastic bag/ packaging into the Uniform Bag that was issued to you together with the hanger provided.  
       
     
