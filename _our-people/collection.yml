@@ -2,15 +2,15 @@ collections:
   our-people:
     output: true
     order:
-      - Primary/Primary Six.md
-      - Primary/Primary Five.md
-      - Primary/Primary Four.md
-      - Primary/Primary Three.md
-      - Primary/Primary Two.md
-      - Primary/Primary One.md
-      - Primary/Key Personnel.md
-      - Primary/Executive & Administrative Staff.md
       - Primary/.keep
+      - Primary/Executive & Administrative Staff.md
+      - Primary/Key Personnel.md
+      - Primary/Primary One.md
+      - Primary/Primary Two.md
+      - Primary/Primary Three.md
+      - Primary/Primary Four.md
+      - Primary/Primary Five.md
+      - Primary/Primary Six.md
       - Secondary/Teachers.md
       - Secondary/Key Personnel.md
       - Secondary/Executive & Administrative Staff.md
