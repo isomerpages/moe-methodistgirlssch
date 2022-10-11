@@ -3,32 +3,31 @@ title: School Leaders
 permalink: /about-us/school-leaders/
 description: ""
 ---
-<table cellpadding="0" cellspacing="0" border="0" width="100%">
-	<tbody>
+<table cellpadding="5" cellspacing="0" border="0" width="100%">
+  <tbody>
+  </tbody>
+  <tbody>
     <tr>
       <td style="text-align: center;" valign="bottom" align="center">&nbsp;</td>
       <td style="text-align: center;" valign="bottom" align="center"><p>&nbsp;</p>
         <img alt="Corinne-Sim.jpg" src="/images/Others/SL-P-VWilson.jpg"><br>
         <a target="" href="mailto:Valarie_koh@schools.gov.sg">Mrs Valarie Wilson</a><br>
-      <b>Principal </b>
-			</td>
-      <td style="text-align: center;" valign="bottom" align="center">&nbsp;</td>
-      <td style="text-align: center;" valign="bottom" align="center">&nbsp;</td>
+      <b>Principal </b></td>
+      <td style="text-align: center;" valign="bottom" align="center"><p>&nbsp;</p></td>
+      <td valign="bottom" align="center">&nbsp;</td>
     </tr>
     <tr>
-			<td style="text-align: center;" valign="bottom" align="center" width="30%"><p>&nbsp;</p>
+      <td style="text-align: center;" valign="bottom" align="center"><p>&nbsp;</p>
         <img alt="Corinne-Sim.jpg" src="/images/Others/SL-VP-CSim.jpg"><br>
-      <a target="" href="mailto:Corinne_SIM@schools.gov.sg">Mrs Corinne Sim </a><br>
-      <b>Vice-Principal </b></td>
-      <td style="text-align: center;" valign="bottom" align="center" width="30%">&nbsp;</td>
-      <td style="text-align: center;" valign="bottom" align="center" width="30%"><p>&nbsp;</p>
-		  <img alt="Diana-Goh.jpg" src="/images/Others/SL-VP-DGoh.jpg"><br>
-      <a target="" href="mailto:Diana_TAN@schools.gov.sg">Mrs Diana Goh </a><br>
-      <b>Vice-Principal </b></td>
-      <td style="text-align: center;" valign="bottom" align="center" width="10%">&nbsp;</td>
+        <a target="" href="mailto:Corinne_SIM@schools.gov.sg">Mrs Corinne Sim </a><br>
+        <b>Vice-Principal </b></td>
+      <td style="text-align: center;" valign="bottom" align="center">&nbsp;</td>
+      <td style="text-align: center;" valign="bottom" align="center"><p>&nbsp;</p>
+        <img alt="Diana-Goh.jpg" src="/images/Others/SL-VP-DGoh.jpg"><br>
+        <a target="" href="mailto:Diana_TAN@schools.gov.sg">Mrs Diana Goh </a><br>
+        <b>Vice-Principal </b></td>
+      <td valign="bottom" align="center">&nbsp;</td>
     </tr>
-  </tbody>
-  <tbody>
     <tr>
       <td style="text-align: center;" valign="bottom" align="center"><p>&nbsp;</p>
         <img alt="Corinne-Sim.jpg" src="/images/Others/SL-VP-HChia.png"><br>
