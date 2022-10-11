@@ -4,7 +4,6 @@ permalink: /about-us/school-information/
 description: MGS school information
 third_nav_title: School Information
 ---
-
 ## Contact Us
 
 ### Primary School
@@ -21,16 +20,16 @@ Email: [mgss@moe.edu.sg](mailto:mgss@moe.edu.sg)
 
 ## Getting Here
 By MRT: King Albert Park MRT Station (Downtown Line DT6)
-```
-<table width="90%">
+
+<table width="100%">
   <tbody>
     <tr>
-      <td width="10%" align="left" valign="top">
+      <td width="20%" align="left" valign="top">
         <b>By MRT:
         </b>
         <br>
       </td>
-      <td width="90%" valign="top">King Albert Park MRT Station (Downtown Line DT6)
+      <td width="80%" valign="top">King Albert Park MRT Station (Downtown Line DT6)
         <br>
       </td>
     </tr>
@@ -41,12 +40,12 @@ By MRT: King Albert Park MRT Station (Downtown Line DT6)
       </td>
     </tr>
     <tr>
-      <td width="10%" align="left" valign="top">
+      <td width="20%" align="left" valign="top">
         <b>By Bus:
         </b>
         <br>
       </td>
-      <td width="90%" valign="top">
+      <td width="80%" valign="top">
         <table width="100%" cellpadding="5" class="iveo_table ives_tab_simple">
           <tbody>
             <tr>
@@ -96,4 +95,3 @@ By MRT: King Albert Park MRT Station (Downtown Line DT6)
     </tr>
   </tbody>
 </table>
-```
