@@ -2,18 +2,14 @@ collections:
   about-us:
     output: true
     order:
-      - Awards & Scholarships/National & Other Awards.md
-      - Awards & Scholarships/MOE Scholarship & Awards.md
-      - Awards & Scholarships/MGS Special Awards and Scholarships.md
-      - Awards & Scholarships/.keep
+      - Principal's Message.md
+      - MGS Board of Management.md
+      - Our Heritage.md
+      - School Information/.keep
       - School Information/School Safety.md
       - School Information/Personal Data Protection Policy.md
       - School Information/School Information.md
-      - School Information/.keep
-      - Principal's Message.md
-      - MGS Board of Management.md
       - School Leaders.md
-      - Our Heritage.md
       - Our School Identity.md
       - School Rules/.keep
       - School Rules/School Rules.md
@@ -21,13 +17,17 @@ collections:
       - School Rules/Classification of Approved School Attire.md
       - School Rules/MGS Conduct Ratings.md
       - School Rules/The Mark of An MGS Girl.md
-      - MGS VRtour.md
       - School Supplies/.keep
       - School Supplies/Booklist and Bookshop.md
       - School Supplies/MGS cashless (POSB Smart Buddy).md
       - School Supplies/School Bus.md
       - School Supplies/School Lockers.md
       - School Supplies/School Uniforms.md
+      - Awards & Scholarships/.keep
+      - Awards & Scholarships/National & Other Awards.md
+      - Awards & Scholarships/MOE Scholarship & Awards.md
+      - Awards & Scholarships/MGS Special Awards and Scholarships.md
+      - MGS VRtour.md
       - Careers at MGS/.keep
       - Careers at MGS/Careers at MGS.md
       - Careers at MGS/Non Teaching Positions.md
