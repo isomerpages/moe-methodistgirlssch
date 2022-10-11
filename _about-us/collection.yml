@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Principal's Message.md
-      - Board of Management.md
       - Our Heritage.md
       - Scholarships and Awards/.keep
       - Scholarships and Awards/Scholarships and Awards.md
