@@ -2,6 +2,5 @@ collections:
   secondary-staff:
     output: true
     order:
-      - Key Personnel.md
       - Teachers.md
       - Executive & Administrative Staff.md
