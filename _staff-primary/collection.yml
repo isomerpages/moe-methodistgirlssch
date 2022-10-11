@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Teachers/.keep
-      - Teachers/Primary One.md
       - Teachers/Primary Two.md
       - Teachers/Primary Three.md
       - Teachers/Primary Four.md
