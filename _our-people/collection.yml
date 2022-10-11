@@ -1,0 +1,4 @@
+collections:
+  our-people:
+    output: true
+    order: []
