@@ -2,6 +2,7 @@ collections:
   our-people:
     output: true
     order:
+      - Primary/Primary Five.md
       - Primary/Primary Four.md
       - Primary/Primary Three.md
       - Primary/Primary Two.md
