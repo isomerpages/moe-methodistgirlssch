@@ -39,10 +39,10 @@ links:
   - title: Secondary
     url: /secondary/mg-curriculum/academic/
     sublinks:
-      - title: Admissions
-        url: /secondary/admissions/direct-school-admission-for-secondary-one/
       - title: "Academic "
         url: /secondary/mg-curriculum/academic/
+      - title: Admissions
+        url: /secondary/admissions/direct-school-admission-for-secondary-one/
       - title: CCA
         url: /secondary/mg-curriculum/co-curricular-activities-cca/
       - title: Key Programmes
