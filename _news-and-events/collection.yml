@@ -2,10 +2,10 @@ collections:
   news-and-events:
     output: true
     order:
-      - Open House.md
+      - Announcements/.keep
       - Announcements/Parent Teacher Meeting 2022.md
       - Announcements/Parents' Briefing 2022.md
-      - Announcements/.keep
       - Calendar of Events.md
       - MGServes.md
+      - Open House.md
       - Publications.md
