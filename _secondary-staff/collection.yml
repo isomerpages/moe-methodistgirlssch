@@ -1,5 +1,4 @@
 collections:
   secondary-staff:
     output: true
-    order:
-      - Executive & Administrative Staff.md
+    order: []
