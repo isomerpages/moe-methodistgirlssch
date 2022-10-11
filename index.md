@@ -61,4 +61,8 @@ sections:
       title: Loan of MGS Uniform One
       button: Click here for more information.
       url: /secondary/useful-links/for-student/loan-of-mgs-uniform-one/
+  - resources:
+      title: useful links
+      subtitle: for more information
+      button: more
 ---
