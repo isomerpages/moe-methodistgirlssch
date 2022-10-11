@@ -2,6 +2,5 @@ collections:
   announcements:
     output: true
     order:
-      - Student Learning Space.md
       - Parents' Briefing 2022.md
       - Parent Teacher Meeting 2022.md
