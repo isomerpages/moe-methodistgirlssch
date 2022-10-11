@@ -2,6 +2,7 @@ collections:
   our-people:
     output: true
     order:
+      - Primary/Key Personnel.md
       - Primary/Executive & Administrative Staff.md
       - Primary/.keep
       - Primary Six.md
