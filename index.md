@@ -8,9 +8,14 @@ notification: ""
 sections:
   - hero:
       background: /images/Others/mgs-values.jpg
-      dropdown:
-        title: ""
-        options: []
+      key_highlights:
+        - title: Direct School Admission Into MGS Secondary One In 2023
+          description: Outcome for DSA for Sec One
+          url: /secondary/admissions/dsa-sec1/
+        - title: Application for Admission into Year 3 Integrated Programme
+          description: open to students who are currently in 2022 Secondary 2 or its
+            equivalent
+          url: /secondary/admissions/mgs-ip-for-year-3-intake/
   - infobar:
       title: Direct School Admission Into MGS Secondary One In 2023
       description: Outcome for Direct School Admission for Secondary One
