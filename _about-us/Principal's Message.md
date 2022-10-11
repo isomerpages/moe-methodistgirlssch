@@ -3,7 +3,7 @@ title: Principal's Message
 permalink: /about-us/principals-message/
 description: ""
 ---
-<img src="/images/Mrs%20Valarie%20Wilson.jpg" 
+<img src="/images/Others/SL-P-VWilson3.jpg" 
      style="width:45%">
 
 At MGS, our students experience a distinctive heritage that has nurtured generations of _Godly women of Excellence with a heart of Love_ since the school’s establishment in 1887.  
