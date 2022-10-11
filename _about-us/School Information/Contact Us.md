@@ -4,9 +4,8 @@ permalink: /about-us/contact-us/
 description: MGS Contact Us
 third_nav_title: School Information
 ---
-
 ## Contact Us
-
+[View our location on OneMap](https://www.onemap.gov.sg/main/v2/?lat=1.33294800935714&lng=103.783393009829)
 ### Primary School
 Address: 11 Blackmore Drive, Singapore 599986  
 Telephone: 6469 4800  
