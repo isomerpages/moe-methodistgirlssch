@@ -8,7 +8,7 @@ links:
       - title: Our Heritage
         url: /about-us/our-heritage/
       - title: Our Identity
-        url: /about-us/school-identity/
+        url: /about-us/our-identity/
       - title: Our People
         url: /about-us/school-leaders/
       - title: Scholarships and Awards
@@ -21,6 +21,8 @@ links:
         url: /about-us/school-supplies/booklist-and-bookshop/ist-and-bookshop/
       - title: MGS Virtual Tour
         url: /about-us/mgs-virtual-tour/
+      - title: Contact Us
+        url: /about-us/school-information/contact-us/
   - title: Primary
     url: /primary/staff/school-leaders/
     sublinks:
