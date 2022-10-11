@@ -2,6 +2,7 @@ collections:
   our-people:
     output: true
     order:
+      - Secondary/Teachers.md
       - Secondary/Key Personnel.md
       - Secondary/Executive & Administrative Staff.md
       - Secondary/.keep
