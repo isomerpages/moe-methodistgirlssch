@@ -2,6 +2,7 @@ collections:
   news-and-events:
     output: true
     order:
+      - Parents' Briefing 2022.md
       - Parent Teacher Meeting 2022.md
       - Student Learning Space.md
       - Calendar of Events.md
