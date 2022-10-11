@@ -1,0 +1,4 @@
+collections:
+  secondary:
+    output: true
+    order: []
