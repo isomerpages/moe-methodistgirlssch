@@ -1,5 +1,0 @@
-collections:
-  mg-curriculum-secondary:
-    output: true
-    order:
-      - MG Curriculum.md
