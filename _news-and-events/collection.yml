@@ -2,6 +2,7 @@ collections:
   news-and-events:
     output: true
     order:
+      - Announcements/Parents' Briefing 2022.md
       - Announcements/.keep
       - Calendar of Events.md
       - MGServes.md
