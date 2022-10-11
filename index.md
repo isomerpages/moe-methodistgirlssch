@@ -27,4 +27,6 @@ sections:
       title: ANNOUNCEMENTS
       subtitle: Stay up to date with us
       button: more
+  - infopic:
+      image: /images/Others/Scrolling photo banners/mgs-theme.jpg
 ---
