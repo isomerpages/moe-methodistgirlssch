@@ -5,7 +5,6 @@ description: ""
 third_nav_title: For Students
 ---
 ### Who should be loaning Uniform One?
-
 *   School representatives in competitions at Zonal, Cluster, National level
 *   School representatives at award ceremonies at Zonal and National level
 *   Students who are required to make presentations at formal platforms such as Science Fairs, VIA platforms
@@ -16,7 +15,7 @@ Refer to [ANNEX A: INFORMATION ABOUT UNIFORM ONE](https://www.mgs.moe.edu.sg/se
 ### What is loaned to students?
 
 **MGS No. 1 Uniform includes the following:**
-
+![](/images/Others/loan-uniform1.jpg)
 1.  White long-sleeved blouse 
 2.  MGS Tie  
 3.  MGS Blazer  
