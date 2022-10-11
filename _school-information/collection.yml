@@ -1,5 +1,4 @@
 collections:
   school-information:
     output: true
-    order:
-      - Awards & Scholarships/.keep
+    order: []
