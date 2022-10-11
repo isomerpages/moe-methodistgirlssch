@@ -5,19 +5,17 @@ permalink: /contact-us/
 agency_name: Methodist Girls' School
 locations:
   - address:
-      - Blackmore Drive
-      - "Singapore "
-      - "599986"
+      - 11 Blackmore Drive
+      - Singapore 599986
+      - ""
     operating_hours: []
-    maps_link: ""
+    maps_link: https://www.onemap.gov.sg/main/v2/?lat=1.33294800935714&lng=103.783393009829
     title: "Methodist Girls' School "
 contacts:
   - content:
       - phone: +65 6469 4800
       - email: mgps@moe.edu.sg
-      - other: "<h> Getting Here</h><br>By MRT: King Albert Park MRT Station (Downtown
-          Line DT6) <br>By Bus:
-          67,74,77,151,154,157,170,174,563,852,961,961C,970"
+      - other: ""
     title: Primary School
   - content:
       - phone: +65 6469 4800
