@@ -1,5 +1,5 @@
 collections:
-  student-development-sec:
+  secondary-student-development:
     output: true
     order:
       - CCE/.keep
