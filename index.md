@@ -16,6 +16,10 @@ sections:
           description: Open to students who are currently in 2022 Secondary 2 or its
             equivalent
           url: /secondary/admissions/mgs-ip-for-year-3-intake/
+  - resources:
+      title: ANNOUNCEMENTS
+      subtitle: Stay up to date with us
+      button: more
   - infobar:
       title: Direct School Admission Into MGS Secondary One In 2023
       description: Outcome for Direct School Admission for Secondary One
@@ -28,10 +32,4 @@ sections:
         its equivalent
       button: More information
       url: https://staging.dt6ildc2mnegy.amplifyapp.com/secondary/admissions/mgs-ip-for-year-3-intake/
-  - resources:
-      title: ANNOUNCEMENTS
-      subtitle: Stay up to date with us
-      button: more
-  - infopic:
-      image: /images/Others/Scrolling photo banners/mgs-theme.jpg
 ---
