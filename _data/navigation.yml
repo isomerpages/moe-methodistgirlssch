@@ -3,18 +3,20 @@ links:
   - title: About Us
     url: /about-us/principals-message/
     sublinks:
+      - title: Principal's Message
+        url: /about-us/principals-message/
       - title: Board of Management
         url: /about-us/board-of-management/
       - title: Our Heritage
         url: /about-us/our-heritage/
-      - title: Principal's Message
-        url: /about-us/principals-message/
-      - title: School Leaders
-        url: /about-us/school-leaders/
+      - title: Scholarships and Awards
+        url: /about-us/Scholarships-and-Awards/Scholarships-and-Awards/
       - title: School Identity
         url: /about-us/school-identity/
       - title: School Information
         url: /about-us/school-information/contact-us/
+      - title: School Leaders
+        url: /about-us/school-leaders/
       - title: School Rules
         url: /about-us/school-rules/
       - title: School Supplies
