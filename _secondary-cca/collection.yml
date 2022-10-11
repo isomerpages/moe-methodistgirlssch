@@ -1,5 +1,5 @@
 collections:
-  cca-secondary:
+  secondary-cca:
     output: true
     order:
       - Co Curricular Activities (CCA).md
