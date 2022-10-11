@@ -2,4 +2,5 @@ collections:
   our-people:
     output: true
     order:
+      - School Leaders.md
       - Board of Management.md
