@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Main photo album/mgs-values.jpg
+      background: /images/Others/mgs-values.jpg
       dropdown:
         title: Discover more...
         options:
@@ -32,4 +32,3 @@ sections:
       subtitle: Stay up to date with us
       button: more
 ---
-
