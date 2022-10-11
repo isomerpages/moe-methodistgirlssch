@@ -13,7 +13,7 @@ sections:
           description: Outcome for DSA for Sec One
           url: /secondary/admissions/dsa-sec1/
         - title: Application for Admission into Year 3 Integrated Programme
-          description: open to students who are currently in 2022 Secondary 2 or its
+          description: Open to students who are currently in 2022 Secondary 2 or its
             equivalent
           url: /secondary/admissions/mgs-ip-for-year-3-intake/
   - infobar:
