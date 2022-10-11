@@ -1,6 +1,5 @@
-contact_us: /contact-us/
-show_reach: true
-faq: /faq/
+contact_us: /about-us/school-information/contact-us/
+show_reach: false
 social_media:
   facebook: https://www.facebook.com/MGS135/
   instagram: https://www.instagram.com/mgshouts_/
