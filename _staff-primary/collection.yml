@@ -1,5 +1,4 @@
 collections:
   staff-primary:
     output: true
-    order:
-      - Teachers/.keep
+    order: []
