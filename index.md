@@ -8,19 +8,10 @@ notification: ""
 sections:
   - hero:
       title: Methodist Girls' School
-      background: /images/Main photo album/mgs-theme.jpg
-      button: Contact Us
-      url: /contact-us/
-      key_highlights:
-        - title: MGS Open House
-          description: Click here to visit Open House
-          url: https://www.mgsopenhouse.com/
-        - title: Letters to Parents
-          description: Click here for more info
-          url: https://staging.dt6ildc2mnegy.amplifyapp.com/parents/email-letters-to-parents/
-        - title: The MGS Store
-          description: Visit our MGS Store !
-          url: https://form.jotform.com/221370850063448
+      background: /images/Main photo album/mgs-values.jpg
+      dropdown:
+        title: Discover more...
+        options: []
   - infobar:
       title: Direct School Admission Into MGS Secondary One In 2023
       description: Outcome for Direct School Admission for Secondary One
