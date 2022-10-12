@@ -8,16 +8,11 @@ description: ""
   </iframe>
 </div>
 
-<span>
 Content is not to be disseminated without prior written consent by MGS. Email:&nbsp;[mgss@mgs.sch.edu.sg](mailto:mgss@mgs.sch.edu.sg)
-
+	
 Miss Sophia Blackmore founded Methodist Girls’ School on 15 August 1887. Supported by the Women’s Foreign Missionary Society of the Methodist Episcopal Church in America, Miss Blackmore, an Australian missionary, came to Singapore with a mission – to provide girls an education.
-
-  
-
+	
 The beginning was modest. In a shophouse in Short Street, she set up school for nine little girls whose fathers wanted them to be formally educated at a time when girls were discouraged from going to school. The fathers, all Tamil businessmen, donated money, furniture and the rent-free shophouse that became the Tamil Girls’ School, forerunner of Methodist Girls’ School. The school soon attracted so many other girls, all eager to learn, that in 1901 it had to relocate to Middle Road while a larger building was constructed in Short Street to house 150 pupils.
-
-  
 
 Ten years later, the first Senior class of four girls sat for and passed the Cambridge Examination. The enrolment at MGS increased steadily, and by 1925 the school had to move to Mount Sophia where it remained until 1992 when increasing numbers once again dictated another move, this time to Blackmore Drive.
 
@@ -34,11 +29,14 @@ A hundred years after its founding, MGS sought greater autonomy from the Ministr
   
 **Unless the LORD builds the house, they labour in vain who build it; Unless the LORD guards the city, the watchman stays awake in vain. Psalm 127:1**
 
-### To MGS
-
+## To MGS
+	
 Words &amp; Music by Eleanor Wong, Class of 1978
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/3D_sSvatwQc" height="315" width="560"></iframe>
+<div style="width:100%; height:400px">
+  <iframe class="ive_eobj_center" allowfullscreen="" frameborder="0" title="MGS Heritage Video" src="https://www.youtube.com/embed/3D_sSvatwQc" height="100%" width="100%">
+  </iframe>
+</div>
 
 Mama would chide at breakfast time as I pocketed my money for the day.<br>
 You be a good girl now you hear, and always remember that you are to say,<br>
@@ -85,4 +83,4 @@ In that special school<br>
 That's called MGS<br>
 She's in MGS
 	
-</span> 
+</span>
