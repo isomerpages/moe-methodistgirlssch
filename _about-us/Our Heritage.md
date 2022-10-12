@@ -3,9 +3,13 @@ title: Our Heritage
 permalink: /about-us/our-heritage/
 description: ""
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/F5m_pkI_m-s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="width:100%; height:400px">
+  <iframe class="ive_eobj_center" allowfullscreen="" frameborder="0" title="MGS Heritage Video" src="https://www.youtube.com/embed/F5m_pkI_m-s" height="100%" width="100%">
+  </iframe>
+</div>
 
-Content is not to be disseminated without prior written consent by MGS. Email: [mgss@mgs.sch.edu.sg](mailto:mgss@mgs.sch.edu.sg)
+<span>
+Content is not to be disseminated without prior written consent by MGS. Email:&nbsp;[mgss@mgs.sch.edu.sg](mailto:mgss@mgs.sch.edu.sg)
 
 Miss Sophia Blackmore founded Methodist Girls’ School on 15 August 1887. Supported by the Women’s Foreign Missionary Society of the Methodist Episcopal Church in America, Miss Blackmore, an Australian missionary, came to Singapore with a mission – to provide girls an education.
 
@@ -32,9 +36,9 @@ A hundred years after its founding, MGS sought greater autonomy from the Ministr
 
 ### To MGS
 
-Words & Music by Eleanor Wong, Class of 1978
+Words &amp; Music by Eleanor Wong, Class of 1978
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3D_sSvatwQc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/3D_sSvatwQc" height="315" width="560"></iframe>
 
 Mama would chide at breakfast time as I pocketed my money for the day.<br>
 You be a good girl now you hear, and always remember that you are to say,<br>
@@ -44,7 +48,7 @@ If you ever do wrong (God forbid)<br>
 just make sure that you make amends.
 
 Cos you're a student in a special school<br>
-Where the girls are sweet & heed the golden rule<br> 
+Where the girls are sweet &amp; heed the golden rule<br> 
 So always behave at your very best<br>
 Cos you're Special<br>
 You're in MGS<br>
@@ -80,3 +84,5 @@ And her Mama knows that she's getting all the best,<br>
 In that special school<br>
 That's called MGS<br>
 She's in MGS
+	
+</span> 
