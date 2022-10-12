@@ -1,5 +1,5 @@
 collections:
-  cca-primary:
+  primary-cca:
     output: true
     order:
       - CCA.md
