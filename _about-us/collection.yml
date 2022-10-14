@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our People/Relief teaching & temporary positions.md
       - Our People/Non Teaching Positions.md
       - Our People/.keep
       - Teaching positions.md
