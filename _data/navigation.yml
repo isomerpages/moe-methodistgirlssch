@@ -21,6 +21,8 @@ links:
         url: /about-us/mgs-virtual-tour/
       - title: Contact Us
         url: /contact-us/
+  - title: Our People
+    collection: our-people
   - title: Primary
     url: /mg-curriculum/
     sublinks:
@@ -58,7 +60,5 @@ links:
         url: /news-n-events/mgserves/2021/
       - title: Publications
         url: /news-n-events/publications/
-  - title: Parents
-    collection: parents
   - title: External Links
     collection: external-links
