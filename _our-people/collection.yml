@@ -2,11 +2,11 @@ collections:
   our-people:
     output: true
     order:
-      - Careers/Careers at MGS.md
-      - Careers/Non Teaching Positions.md
-      - Careers/Relief teaching & temporary positions.md
-      - Careers/Teaching positions.md
       - Careers/.keep
+      - Careers/Careers at MGS.md
+      - Careers/Teaching positions.md
+      - Careers/Relief teaching & temporary positions.md
+      - Careers/Non Teaching Positions.md
       - School Leaders.md
       - Board of Management.md
       - Primary/.keep
