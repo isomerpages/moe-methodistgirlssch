@@ -2,6 +2,7 @@ collections:
   our-people:
     output: true
     order:
+      - Parentlink/Publications.md
       - Parentlink/Join Us.md
       - Parentlink/Events.md
       - Parentlink/About Us.md
