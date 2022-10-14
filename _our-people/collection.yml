@@ -2,6 +2,7 @@ collections:
   our-people:
     output: true
     order:
+      - Careers at MGS.md
       - Primary/.keep
       - Primary/Key Personnel.md
       - Primary/Primary One.md
