@@ -1,5 +1,4 @@
 collections:
   external-links:
     output: true
-    order:
-      - Alumnae.md
+    order: []
