@@ -4,15 +4,15 @@ collections:
     order:
       - School Leaders.md
       - Board of Management.md
-      - Primary/.keep
-      - Primary/Key Personnel.md
-      - Primary/Primary One.md
-      - Primary/Primary Two.md
-      - Primary/Primary Three.md
-      - Primary/Primary Four.md
-      - Primary/Primary Five.md
-      - Primary/Primary Six.md
-      - Primary/Executive & Administrative Staff.md
+      - Primary Staff/.keep
+      - Primary Staff/Key Personnel.md
+      - Primary Staff/Primary One.md
+      - Primary Staff/Primary Two.md
+      - Primary Staff/Primary Three.md
+      - Primary Staff/Primary Four.md
+      - Primary Staff/Primary Five.md
+      - Primary Staff/Primary Six.md
+      - Primary Staff/Executive & Administrative Staff.md
       - Secondary/.keep
       - Secondary/Key Personnel.md
       - Secondary/Teachers.md
