@@ -1,5 +1,5 @@
 collections:
-  news-and-events:
+  events:
     output: true
     order:
       - Calendar of Events.md
