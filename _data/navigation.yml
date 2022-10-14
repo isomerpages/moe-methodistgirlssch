@@ -9,8 +9,6 @@ links:
         url: /about-us/our-heritage/
       - title: Our Identity
         url: /about-us/our-identity/
-      - title: Our People
-        url: /about-us/school-leaders/
       - title: Scholarships and Awards
         url: /about-us/Scholarships-and-Awards/Scholarships-and-Awards/
       - title: School Rules
@@ -60,5 +58,3 @@ links:
         url: /news-n-events/mgserves/2021/
       - title: Publications
         url: /news-n-events/publications/
-  - title: External Links
-    collection: external-links
