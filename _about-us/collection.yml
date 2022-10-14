@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Our People/.keep
-      - Non Teaching Positions.md
       - Relief teaching & temporary positions.md
       - Teaching positions.md
       - Careers at MGS.md
