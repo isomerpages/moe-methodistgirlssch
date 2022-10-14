@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Teaching positions.md
       - Principal's Message.md
       - Our Heritage.md
       - Our Identity.md
