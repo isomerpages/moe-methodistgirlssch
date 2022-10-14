@@ -2,6 +2,7 @@ collections:
   our-people:
     output: true
     order:
+      - Careers/Teaching positions.md
       - Careers/.keep
       - Relief teaching & temporary positions.md
       - Non Teaching Positions.md
