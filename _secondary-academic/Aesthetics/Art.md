@@ -4,12 +4,14 @@ permalink: /secondary/academic/aesthetics/art/
 description: ""
 third_nav_title: Aesthetics
 ---
-
 ### Aims and Objectives
 
 The Art Department in MGS aims to build confident art learners who communicate visually to create meaning and connections with the society and culture. The programme delivers a future-oriented art curriculum to develop art learners’ competencies and appreciation for art as they perceive the world with increased awareness and aesthetic sensitivity.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zNqKX3dF99Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="width:100%; height:400px">
+  <iframe class="ive_eobj_center" allowfullscreen="" frameborder="0" title="MGS Heritage Video" src="https://www.youtube.com/embed/zNqKX3dF99Q" height="100%" width="100%">
+  </iframe>
+</div>
 
 ### Pedagogy Approaches
 
@@ -121,4 +123,3 @@ Comprises individual and group term projects and time-based examinations
   </tr>
 </tbody>
 </table>
-
