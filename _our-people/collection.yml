@@ -2,6 +2,7 @@ collections:
   our-people:
     output: true
     order:
+      - Alumnae.md
       - School Leaders.md
       - Board of Management.md
       - Primary Staff/.keep
