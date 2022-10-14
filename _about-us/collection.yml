@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Non Teaching Positions.md
       - Relief teaching & temporary positions.md
       - Teaching positions.md
       - Careers at MGS.md
