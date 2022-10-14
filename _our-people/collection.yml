@@ -2,7 +2,6 @@ collections:
   our-people:
     output: true
     order:
-      - School Leaders.md
       - Primary/.keep
       - Primary/Key Personnel.md
       - Primary/Primary One.md
