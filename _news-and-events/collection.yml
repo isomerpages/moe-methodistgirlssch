@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Announcements/.keep
-      - Announcements/Parents' Briefing 2022.md
       - Calendar of Events.md
       - MGServes.md
       - Open House.md
