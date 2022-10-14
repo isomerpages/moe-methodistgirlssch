@@ -20,7 +20,20 @@ links:
       - title: Contact Us
         url: /contact-us/
   - title: Our People
-    collection: our-people
+    url: /about-us/school-leaders/
+    sublinks:
+      - title: School Leaders
+        url: /about-us/school-leaders/
+      - title: Board of Management
+        url: /about-us/board-of-management/
+      - title: Primary Staff
+        url: /primary/staff/key-personnel/
+      - title: Secondary Staff
+        url: /secondary/staff/key-personnel/
+      - title: Parentlink
+        url: /parentlink/about-us/
+      - title: Alumnae
+        url: https://www.mgsalumnae.com/
   - title: Primary
     url: /mg-curriculum/
     sublinks:
@@ -58,18 +71,3 @@ links:
         url: /news-n-events/mgserves/2021/
       - title: Publications
         url: /news-n-events/publications/
-  - title: Our People
-    url: /about-us/school-leaders/
-    sublinks:
-      - title: School Leaders
-        url: /about-us/school-leaders/
-      - title: Board of Management
-        url: /about-us/board-of-management/
-      - title: Primary Staff
-        url: /primary/staff/key-personnel/
-      - title: Secondary Staff
-        url: /secondary/staff/key-personnel/
-      - title: Parentlink
-        url: /parentlink/about-us/
-      - title: Alumnae
-        url: https://www.mgsalumnae.com/
