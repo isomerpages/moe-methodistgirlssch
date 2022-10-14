@@ -1,5 +1,5 @@
 collections:
-  primary-mg-curriculum:
+  primary-curriculum:
     output: true
     order:
       - MG Curriculum.md
