@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Careers at MGS.md
       - Our People/Board of Management.md
       - Our People/School Leaders.md
       - Our People/Teaching positions.md
