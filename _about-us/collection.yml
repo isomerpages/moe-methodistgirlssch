@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Relief teaching & temporary positions.md
       - Teaching positions.md
       - Principal's Message.md
       - Our Heritage.md
