@@ -2,7 +2,6 @@ collections:
   news-and-events:
     output: true
     order:
-      - Announcements/.keep
       - Calendar of Events.md
       - MGServes.md
       - Open House.md
