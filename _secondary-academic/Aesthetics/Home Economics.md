@@ -4,7 +4,6 @@ permalink: /secondary/academic/aesthetics/home-economics/
 description: ""
 third_nav_title: Aesthetics
 ---
-
 ### Aims and Objectives
 
 The Home Economics (HE) Programme at MGS aims to equip our students with the knowledge and skills for independent living in the 21st century. The lifeskills acquired through the HE programme will enable them to think critically and make informed decisions for healthy and responsible living.  Students are provided the learning opportunities in applying the basic principles of
@@ -21,9 +20,9 @@ The Home Economics programme is offered to the Lower Secondary Level in MGS.
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+.tg td{border-color:black;border-style:solid;border-width:1px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+.tg th{border-color:black;border-style:solid;border-width:1px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-5hwe{color:#3D3D3D;text-align:center;vertical-align:middle}
 .tg .tg-feqv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:middle}
@@ -48,9 +47,9 @@ The Home Economics programme is offered to the Lower Secondary Level in MGS.
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+.tg td{border-color:black;border-style:solid;border-width:1px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+.tg th{border-color:black;border-style:solid;border-width:1px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-uwnk{color:#3D3D3D;text-align:left;vertical-align:top}
 .tg .tg-feqv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:middle}
