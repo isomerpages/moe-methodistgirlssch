@@ -35,8 +35,7 @@ Self and the Environment
 * Watercolour  
 * Printmaking
 
-<img src="/images/art1.jpg" 
-     style="width:75%">
+![](/images/Secondary/art1.jpg)
 		 
 **Secondary 2 / Year 2**
 
@@ -55,8 +54,7 @@ People and the Community
 * Art Synectics  
 * Art Problem Solving
 
-<img src="/images/art2.jpg" 
-     style="width:75%">
+![](/images/Secondary/art2.jpg)
 
 **Secondary 4 / Year 4**
 
@@ -71,55 +69,89 @@ People and the Community
 
 Comprises individual and group term projects and time-based examinations
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-5hwe{color:#3D3D3D;text-align:center;vertical-align:middle}
-.tg .tg-feqv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-6skv{background-color:#dddddd;color:#666666;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-wdal{color:#3D3D3D;font-weight:bold;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-a4yv"></th>
-    <th class="tg-feqv">Sec/ Year 1</th>
-    <th class="tg-feqv">Sec/ Year 2</th>
-    <th class="tg-feqv">Sec/ Year 3</th>
-    <th class="tg-6skv">Sec/ Year 4</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-wdal">Term 1</td>
-    <td class="tg-5hwe">10%</td>
-    <td class="tg-5hwe">20%</td>
-    <td class="tg-5hwe">10%<br>Artist Response Portfolio</td>
-    <td class="tg-5hwe" rowspan="2">30%<span style="color:#3D3D3D">Preparatory Studies (Term 1-2)</span><br> -</td>
-  </tr>
-  <tr>
-    <td class="tg-wdal">Term 2</td>
-    <td class="tg-5hwe"> 50%</td>
-    <td class="tg-5hwe"> 40%</td>
-    <td class="tg-5hwe"> 10%<br>Research Presentation<br></td>
-  </tr>
-  <tr>
-    <td class="tg-wdal">Term 3</td>
-    <td class="tg-5hwe"> 40%</td>
-    <td class="tg-5hwe"> 40%</td>
-    <td class="tg-5hwe"> 10%<br>Coursework<br></td>
-    <td class="tg-5hwe">70%<br>Preliminary Examination</td>
-  </tr>
-  <tr>
-    <td class="tg-wdal">Term 4</td>
-    <td class="tg-5hwe">-</td>
-    <td class="tg-5hwe">-</td>
-    <td class="tg-5hwe">70%<br>End-Year Examination<br></td>
-    <td class="tg-5hwe">-</td>
-  </tr>
-</tbody>
+<table class="ive_eobj_center iveo_table ives_tab_simple3" style="width: 100%;">
+  <tbody>
+    <tr>
+      <th style="width: 74px;">
+        <br>
+      </th>
+      <th style="width: 121px;">Sec/ Year 1
+      </th>
+      <th style="width: 154px;">Sec/ Year 2
+      </th>
+      <th style="width: 196px;">Sec/ Year 3
+      </th>
+      <th style="width: 203px;">Sec/ Year 4
+      </th>
+    </tr>
+    <tr>
+      <td style="width: 60px;">
+        <b>Term 1
+        </b>
+      </td>
+      <td style="width: 60px;">10%
+      </td>
+      <td style="width: 60px;">20%
+      </td>
+      <td style="width: 60px;">10%
+        <br>Artist Response Portfolio
+      </td>
+      <td rowspan="2" style="width: 60px;">30%
+        <span style="color: rgb(61, 61, 61);">
+          <br>Preparatory Studies (Term 1-2)
+        </span>
+        <br>      &nbsp;-
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>Term 2
+        </b>
+      </td>
+      <td>&nbsp;50%
+      </td>
+      <td>&nbsp;40%
+      </td>
+      <td>&nbsp;10%
+        <br>Research Presentation
+        <br>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>Term 3
+        </b>
+      </td>
+      <td>&nbsp;40%
+      </td>
+      <td>&nbsp;40%
+      </td>
+      <td>&nbsp;10%
+        <br>Coursework
+        <br>
+      </td>
+      <td>70%
+        <br>Preliminary Examination
+      </td>
+    </tr>
+    <tr>
+      <td style="width: 60px;">
+        <b>Term 4
+        </b>
+      </td>
+      <td style="width: 60px;">
+        -
+      </td>
+      <td style="width: 60px;">
+        -
+      </td>
+      <td style="width: 60px;">70%
+        <br>End-Year Examination
+        <br>
+      </td>
+      <td style="width: 60px;">
+        -
+      </td>
+    </tr>
+  </tbody>
 </table>
