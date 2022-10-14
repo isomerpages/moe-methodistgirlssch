@@ -2,6 +2,7 @@ collections:
   our-people:
     output: true
     order:
+      - Non Teaching Positions.md
       - School Leaders.md
       - Board of Management.md
       - Careers at MGS.md
