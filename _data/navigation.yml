@@ -46,8 +46,8 @@ links:
   - title: Secondary
     url: /secondary/academic/
     sublinks:
-      - title: "Academic "
-        url: /secondary/academic/
+      - title: Curriculum
+        url: /secondary/curriculum/academic/
       - title: Admissions
         url: /secondary/admissions/dsa-sec1/
       - title: CCA
