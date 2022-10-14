@@ -2,6 +2,7 @@ collections:
   our-people:
     output: true
     order:
+      - About Us.md
       - ParentLink.md
       - School Leaders.md
       - Board of Management.md
