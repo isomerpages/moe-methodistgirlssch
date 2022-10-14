@@ -2,7 +2,6 @@ collections:
   our-people:
     output: true
     order:
-      - Alumnae.md
       - School Leaders.md
       - Board of Management.md
       - Primary Staff/.keep
@@ -18,6 +17,7 @@ collections:
       - Secondary Staff/Key Personnel.md
       - Secondary Staff/Teachers.md
       - Secondary Staff/Executive & Administrative Staff.md
+      - Alumnae.md
       - Parentlink/.keep
       - Parentlink/About Us.md
       - Parentlink/Events.md
