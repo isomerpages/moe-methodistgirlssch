@@ -2,13 +2,13 @@ collections:
   about-us:
     output: true
     order:
-      - Our People/.keep
       - Non Teaching Positions.md
       - Relief teaching & temporary positions.md
       - Teaching positions.md
       - Principal's Message.md
       - Our Heritage.md
       - Our Identity.md
+      - Our People/.keep
       - Scholarships and Awards/.keep
       - Scholarships and Awards/Scholarships and Awards.md
       - Scholarships and Awards/National & Other Awards.md
