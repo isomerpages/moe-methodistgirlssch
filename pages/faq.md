@@ -2,11 +2,87 @@
 title: FAQ
 permalink: /faq/
 ---
+## Contact Us
 
-### **FAQ**
+### Primary School
+Address: 11 Blackmore Drive, Singapore 599986  
+Telephone: 6469 4800  
+Fax: 6462 4166  
+Email:&nbsp;[mgps@moe.edu.sg](mailto:mgps@moe.edu.sg)  
 
-1. Interdum et malesuada fames ac ante ipsum primis in faucibus. In sagittis ut nisl eget suscipit. Morbi lorem ligula, tincidunt et viverra et, gravida sit amet velit. Duis posuere mi lectus, molestie viverra metus consectetur quis. Fusce dignissim arcu enim, id faucibus felis dignissim ut. Suspendisse potenti. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus blandit sem sit amet neque fringilla cursus. Ut semper imperdiet dolor ac vulputate. Phasellus in accumsan urna. Suspendisse potenti. Curabitur porttitor risus a dolor pellentesque, sed dignissim ligula laoreet. Nullam lacus ligula, malesuada ac vestibulum vitae, condimentum nec sem.
+### Secondary School
+Address: 11 Blackmore Drive, Singapore 599986  
+Telephone: 6469 4800  
+Fax: 6469 8717  
+Email:&nbsp;[mgss@moe.edu.sg](mailto:mgss@moe.edu.sg)
 
-2. Integer semper ultrices lorem ut sodales. Praesent rutrum vestibulum quam, ac rhoncus tortor ullamcorper sit amet. Curabitur sed hendrerit sem, ut dignissim nisi. Aenean eleifend in ligula at posuere. Phasellus turpis justo, mollis eget sagittis vel, viverra quis enim. Praesent luctus, elit ac mattis cursus, dui lorem sollicitudin urna, ac molestie lacus elit eget eros. Sed aliquam purus vitae tellus consequat rutrum. Etiam tristique, mi ut dapibus tristique, elit urna rhoncus leo, ac luctus augue ante eget felis. Fusce nisl enim, tempus a faucibus aliquam, lobortis at est. Donec nec mollis nibh. Donec vitae ipsum risus. Pellentesque eu est sed diam pulvinar dictum in sit amet purus. Fusce convallis risus tortor.
+## Getting Here
+<iframe loading="lazy" allowfullscreen="" style="border:0;" height="450" width="600" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2820.462778244968!2d103.78463584541922!3d1.3341530785734816!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da1084446b721d%3A0xcbcfd322dea1c70f!2sMethodist%20Girls'%20School!5e0!3m2!1sen!2ssg!4v1665467992748!5m2!1sen!2ssg"></iframe>
+<br>
 
-3. Pellentesque malesuada leo libero, et commodo lorem consequat quis. Etiam lobortis porttitor lobortis. Quisque pulvinar lorem eu dolor dictum dignissim. Sed faucibus, risus ut euismod viverra, massa nisi suscipit tellus, eu bibendum mi lorem nec mauris. Pellentesque tincidunt sem id gravida consectetur. Pellentesque id lacus ac ipsum ultricies hendrerit nec a tellus. Aliquam nec dapibus sapien. Sed laoreet sem at semper maximus.
+<table width="100%">
+  <tbody>
+    <tr>
+      <td valign="top" align="left" width="20%">
+        <b>By MRT:   </b>
+      </td>
+      <td valign="top" width="80%">King Albert Park MRT Station (Downtown Line DT6)  </td>
+    </tr>
+    <tr>
+        </tr>
+    <tr>
+      <td valign="top" align="left" width="20%">
+        <b>By Bus:
+        </b>
+        <br>
+      </td>
+      <td valign="top" width="80%">
+        <table class="iveo_table ives_tab_simple" cellpadding="5" width="100%">
+          <tbody>
+            <tr>
+              <td width="20%">67 
+              </td>
+              <td width="20%">74 
+              </td>
+              <td width="20%">77 
+              </td>
+              <td width="20%">151 
+              </td>
+              <td width="20%">154 
+              </td>
+            </tr>
+            <tr>
+              <td width="20%">157 
+              </td>
+              <td width="20%">170 
+              </td>
+              <td width="20%">174
+                <br>
+              </td>
+              <td width="20%">563 
+                <br>
+              </td>
+              <td width="20%">852
+              </td>
+            </tr>
+            <tr>
+              <td width="20%">961
+                <br>
+              </td>
+              <td width="20%">961C
+                <br>
+              </td>
+              <td width="20%">970
+                <br>
+              </td>
+              <td width="20%">&nbsp;
+              </td>
+              <td width="20%">&nbsp;
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+    </tr>
+  </tbody>
+</table>
