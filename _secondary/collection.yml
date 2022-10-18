@@ -1,4 +1,5 @@
 collections:
   secondary:
     output: true
-    order: []
+    order:
+      - Curriculum.md
