@@ -32,47 +32,47 @@ RYC aims to be the premier platform where students from Singapore and the region
   <tr>
     <td class="tg-baqh">2018</td>
     <td class="tg-baqh">ASEAN after 50 -- Young &amp; Enterprising</td>
-    <td class="tg-baqh"><img src="/images/Secondary/ryc-2018.jpg" width="206" height="114"></td>
+    <td class="tg-baqh"><img src="/images/Secondary/ryc-2018.jpg" width="432" height="263"></td>
   </tr>
   <tr>
     <td class="tg-baqh">2016</td>
     <td class="tg-baqh">Disruptive Technologies, Shifting Paradigms  </td>
-    <td class="tg-baqh"><img src="/images/Secondary/ryc-2016.jpg" width="182" height="256"></td>
+    <td class="tg-baqh"><img src="/images/Secondary/ryc-2016.jpg" width="296" height="426"></td>
   </tr>
   <tr>
     <td class="tg-baqh">2014</td>
     <td class="tg-baqh">The Price of Inequality</td>
-    <td class="tg-amwm"><img src="/images/Secondary/ryc-2014.jpg" width="177" height="227"></td>
+    <td class="tg-amwm"><img src="/images/Secondary/ryc-2014.jpg" width="296" height="382"></td>
   </tr>
   <tr>
     <td class="tg-baqh">2013</td>
     <td class="tg-baqh">Thinking the Unthinkable</td>
-    <td class="tg-baqh"><img src="/images/Secondary/ryc-2013.jpg" width="133" height="242"></td>
+    <td class="tg-baqh"><img src="/images/Secondary/ryc-2013.jpg" width="204" height="368"></td>
   </tr>
   <tr>
     <td class="tg-baqh">2012</td>
     <td class="tg-baqh">Our Choice, Our Future</td>
-    <td class="tg-baqh"><img src="/images/Secondary/ryc-2012.jpg" width="129" height="195"></td>
+    <td class="tg-baqh"><img src="/images/Secondary/ryc-2012.jpg" width="164" height="250"></td>
   </tr>
   <tr>
     <td class="tg-baqh">2011</td>
     <td class="tg-baqh">This Earth is Mine! </td>
-    <td class="tg-baqh"><img src="/images/Secondary/ryc-2011.jpg"></td>
+    <td class="tg-baqh"><img src="/images/Secondary/ryc-2011.jpg" width="82" height="102"></td>
   </tr>
   <tr>
     <td class="tg-baqh">2010</td>
     <td class="tg-baqh">Hearts to Change the World </td>
-    <td class="tg-baqh"><img src="/images/Secondary/ryc-2010.jpg"></td>
+    <td class="tg-baqh"><img src="/images/Secondary/ryc-2010.jpg" width="102" height="121"></td>
   </tr>
   <tr>
     <td class="tg-baqh">2009</td>
     <td class="tg-baqh">Blue is the New Green </td>
-    <td class="tg-baqh"><img src="/images/Secondary/ryc-2009.jpg"></td>
+    <td class="tg-baqh"><img src="/images/Secondary/ryc-2009.jpg" width="104" height="107"></td>
   </tr>
   <tr>
     <td class="tg-baqh">2008</td>
     <td class="tg-baqh">Give Peace a Chance</td>
-    <td class="tg-baqh"><img src="/images/Secondary/ryc-2008.jpg" height="98"></td>
+    <td class="tg-baqh"><img src="/images/Secondary/ryc-2008.jpg" width="127" height="177"></td>
   </tr>
   <tr>
     <td class="tg-baqh">2007</td>
