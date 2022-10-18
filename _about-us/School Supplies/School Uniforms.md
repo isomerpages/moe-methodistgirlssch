@@ -55,7 +55,7 @@ third_nav_title: School Supplies
   </tr>
   <tr>
     <td class="tg-uwnk">Opening Hours:</td>
-    <td class="tg-uwnk"><a href="https://www.schooluniforms.sg/retail-opening-hours" target="_blank" rel="noopener noreferrer"><span style="color:#1677F1">Click here</span></a><a href="https://www.schooluniforms.sg/retail-opening-hours" target="_blank" rel="noopener noreferrer"> </a> </td>
+    <td class="tg-uwnk"><a href="https://www.schooluniforms.sg/retail-opening-hours" target="_blank" rel="noopener noreferrer"><span style="color:#1677F1">Click here</span></a></td>
   </tr>
 </tbody>
 </table>
