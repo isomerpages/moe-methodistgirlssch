@@ -2,6 +2,7 @@ collections:
   secondary-curriculum:
     output: true
     order:
+      - Curriculum.md
       - Academic.md
       - Aesthetics/.keep
       - Aesthetics/Aesthetics.md
