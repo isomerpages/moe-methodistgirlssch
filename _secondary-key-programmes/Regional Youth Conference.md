@@ -11,73 +11,179 @@ The biennial Methodist Girls’ School (MGS) Regional Youth Conference (RYC) is 
 
 RYC aims to be the premier platform where students from Singapore and the region get to interact with experts from the public sector, academia as well as the private sector to learn and exchange ideas. By encouraging student delegates to raise awareness and gain a deeper understanding of the complexity of these issues, we seek to nurture a spirit of innovation and resilience in our youth. 2018 represents a key milestone in the history of the Conference as this is our tenth iteration. Here are the themes our Conference has addressed over the past years:
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-baqh{text-align:center;vertical-align:top}
-.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-amwm">Year</th>
-    <th class="tg-amwm">Conference Theme</th>
-    <th class="tg-amwm">Logo</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-baqh">2018</td>
-    <td class="tg-baqh">ASEAN after 50 -- Young &amp; Enterprising</td>
-    <td class="tg-baqh"><img src="/images/Secondary/ryc-2018.jpg" width="432" height="263"></td>
-  </tr>
-  <tr>
-    <td class="tg-baqh">2016</td>
-    <td class="tg-baqh">Disruptive Technologies, Shifting Paradigms  </td>
-    <td class="tg-baqh"><img src="/images/Secondary/ryc-2016.jpg" width="296" height="426"></td>
-  </tr>
-  <tr>
-    <td class="tg-baqh">2014</td>
-    <td class="tg-baqh">The Price of Inequality</td>
-    <td class="tg-amwm"><img src="/images/Secondary/ryc-2014.jpg" width="296" height="382"></td>
-  </tr>
-  <tr>
-    <td class="tg-baqh">2013</td>
-    <td class="tg-baqh">Thinking the Unthinkable</td>
-    <td class="tg-baqh"><img src="/images/Secondary/ryc-2013.jpg" width="204" height="368"></td>
-  </tr>
-  <tr>
-    <td class="tg-baqh">2012</td>
-    <td class="tg-baqh">Our Choice, Our Future</td>
-    <td class="tg-baqh"><img src="/images/Secondary/ryc-2012.jpg" width="164" height="250"></td>
-  </tr>
-  <tr>
-    <td class="tg-baqh">2011</td>
-    <td class="tg-baqh">This Earth is Mine! </td>
-    <td class="tg-baqh"><img src="/images/Secondary/ryc-2011.jpg" width="82" height="102"></td>
-  </tr>
-  <tr>
-    <td class="tg-baqh">2010</td>
-    <td class="tg-baqh">Hearts to Change the World </td>
-    <td class="tg-baqh"><img src="/images/Secondary/ryc-2010.jpg" width="102" height="121"></td>
-  </tr>
-  <tr>
-    <td class="tg-baqh">2009</td>
-    <td class="tg-baqh">Blue is the New Green </td>
-    <td class="tg-baqh"><img src="/images/Secondary/ryc-2009.jpg" width="104" height="107"></td>
-  </tr>
-  <tr>
-    <td class="tg-baqh">2008</td>
-    <td class="tg-baqh">Give Peace a Chance</td>
-    <td class="tg-baqh"><img src="/images/Secondary/ryc-2008.jpg" width="127" height="177"></td>
-  </tr>
-  <tr>
-    <td class="tg-baqh">2007</td>
-    <td class="tg-baqh">Youth for the Environment, Action and Heart (YEAH)</td>
-    <td class="tg-baqh"><img src="/images/Secondary/ryc-2007.jpg" width="180" height="98"></td>
-  </tr>
-</tbody>
+<table width="100%" style="width: 100%;">
+  <tbody>
+    <tr>
+      <td>
+        <div style="text-align: center;">
+          <strong>Year 
+          </strong>
+        </div>
+      </td>
+      <td>
+        <div style="text-align: center;">
+          <strong>Conference Theme 
+          </strong>
+        </div>
+      </td>
+      <td>
+        <div style="text-align: center;">
+          <strong>Logo 
+          </strong>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="10%">
+        <div style="text-align: center;">2018
+        </div>
+      </td>
+      <td width="70%">
+        <div style="text-align: center;">ASEAN after 50 -- Young &amp; Enterprising
+        </div>
+      </td>
+      <td width="20%">
+        <div style="text-align: center;">
+          <img style="width: 206px; height: 114px;" src="/images/Secondary/ryc-2018.jpg">
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="10%">
+        <div style="text-align: center;">2016
+        </div>
+      </td>
+      <td width="70%">
+        <div style="text-align: center;">Disruptive Technologies, Shifting Paradigms&nbsp;&nbsp;
+        </div>
+      </td>
+      <td width="20%">
+        <div style="text-align: center;">
+          <img style="width: 182px; height: 256px;" src="/images/Secondary/ryc-2016.jpg">
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="10%">
+        <div style="text-align: center;">2014
+        </div>
+      </td>
+      <td width="70%">
+        <div style="text-align: center;">The Price of Inequality
+        </div>
+      </td>
+      <td width="20%">
+        <div style="text-align: center;">
+          <strong> 
+          </strong> 
+          <img style="width: 177px; height: 227px;" src="/images/Secondary/ryc-2014.jpg"> 
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="10%">
+        <div style="text-align: center;">2013
+        </div>
+      </td>
+      <td width="70%">
+        <div style="text-align: center;">Thinking the Unthinkable
+        </div>
+      </td>
+      <td width="20%">
+        <div style="text-align: center;">
+          <img style="width: 133px; height: 242px;" src="/images/Secondary/ryc-2013.jpg">
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="10%">
+        <div style="text-align: center;">2012
+        </div>
+      </td>
+      <td width="70%">
+        <div style="text-align: center;">Our Choice, Our Future
+        </div>
+      </td>
+      <td width="20%">
+        <div style="text-align: center;">
+          <img style="width: 129px; height: 195px;" src="/images/Secondary/ryc-2012.jpg">
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="10%">
+        <div style="text-align: center;">2011
+        </div>
+      </td>
+      <td width="70%">
+        <div style="text-align: center;">This Earth is Mine!&nbsp;
+        </div>
+      </td>
+      <td width="20%">
+        <div style="text-align: center;">
+          <img src="/images/Secondary/ryc-2011.jpg">
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="10%">
+        <div style="text-align: center;">2010
+        </div>
+      </td>
+      <td width="70%">
+        <div style="text-align: center;">Hearts to Change the World&nbsp;
+        </div>
+      </td>
+      <td width="20%">
+        <div style="text-align: center;">
+          <img src="/images/Secondary/ryc-2010.jpg">
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="10%">
+        <div style="text-align: center;">2009
+        </div>
+      </td>
+      <td width="70%">
+        <div style="text-align: center;">Blue is the New Green&nbsp;
+        </div>
+      </td>
+      <td width="20%">
+        <div style="text-align: center;">
+          <img src="/images/Secondary/ryc-2009.jpg">
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="10%">
+        <div style="text-align: center;">2008
+        </div>
+      </td>
+      <td width="70%">
+        <div style="text-align: center;">Give Peace a Chance
+        </div>
+      </td>
+      <td width="20%">
+        <div style="text-align: center;">
+          <img style="width: 127px; height: 177px;" src="/images/Secondary/ryc-2008.jpg">
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="10%">
+        <div style="text-align: center;">2007
+        </div>
+      </td>
+      <td width="70%">
+        <div style="text-align: center;">Youth for the Environment, Action and Heart (YEAH)
+        </div>
+      </td>
+      <td width="20%">
+        <div style="text-align: center;">
+          <img style="width: 180px; height: 98px;" src="/images/Secondary/ryc-2007.jpg">
+        </div>
+      </td>
+    </tr>
+  </tbody>
 </table>
