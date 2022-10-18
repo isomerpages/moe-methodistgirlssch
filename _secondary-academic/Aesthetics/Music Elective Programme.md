@@ -4,8 +4,6 @@ permalink: /secondary/academic/aesthetics/mep/
 description: ""
 third_nav_title: Aesthetics
 ---
-
-
 ### Aims and Objectives
 
 The MOE Music Elective Programme (MEP) enables musically inclined students the opportunity to deepen their knowledge in music and hone their abilities in listening, creating, performing and research. The enriching curriculum provides hands-on music-making and access to specialised facilities and learning opportunities with professionals in the creative industries.
@@ -20,34 +18,28 @@ Students will:
 
 ### Entry Requirements
 
-A pass in the Selection Exercise by the school, consisting of:  
+A pass in the Selection exercise by the school, consisting of:  
+*   A Listening Test on Western and Non-Western musical traditions,       
+*   A Performing audition of 2 contrasting solo pieces on an instrument or voice, with a maximum duration of 5 minutes. Non-pianists can perform unaccompanied. 
+*   Interview - sharing of musical aspirations and interests
 
-*   A written test on Western and Non-Western musical traditions, 
-*   A performing audition of 2 contrasting solo pieces on an instrument or voice, with a maximum duration of 5 minutes
-*   An aural test on Melody and Rhythm
+Please refer to the [MOE MEP webpage](https://www.moe.gov.sg/education-in-sg/our-programmes/mep-sec) for more details.
 
-### Selection Test for 2021 Sec/Year 1 MEP
+
+### Selection Test for 2023 Sec/Year 1 MEP
 
  
-**Listening and Aural test*** 
-
-27 Dec 2021 (Monday), 8 – 10 am, MEP 1 and 2
-
+Date/Day: 6 January 2023 (Friday)
+Time: 3 - 6 pm
+Venue: MEP 1 
   
+Listening Test: 3 - 4 pm
+Performing audition and Interview (individually scheduled): 4 - 6 pm
 
-**Submission of Performance video**  
+Registration link: 2023 MGS Secondary 1 registration package (to be provided at a later date)
 
-27 Dec 2021 (Monday), by 10 am 
+DSA-MEP students will not be required to attend the Selection Test.
 
-Submission link: found in MGS Secondary 1 registration package
-
-  
-
-2 contrasting solo pieces on an instrument or voice, with a maximum duration of 5 minutes. Non-pianists can perform unaccompanied. 
-
-  
-
-*Please refer to the [MOE MEP webpage](https://www.moe.gov.sg/secondary/courses/express/electives/?term=MOE%20Special%20Music%20Programmes&subterm=Music%20Elective%20Programme%20(MEP)) for more details.
 
 ### Syllabuses
 
@@ -71,8 +63,6 @@ Drawn from a broad selection of significant genres and traditions, candidates wi
 [MGS-MEP Virtual Concert - Éclectique 2021](https://youtube.com/playlist?list=PLI-1EutlTgf04vxCSDGpXSAKSDhaYhpbB)
 
 [MG Vibes (Soundcloud): Compositions from the class of 2020 - 2024](https://soundcloud.com/user-110809749/sets/mgs-original-compositions)   
-
-  
 
 *   Regular attendance at public concerts
     
@@ -103,9 +93,6 @@ Students can choose from a selection of Performing Arts music CCAs:
 *   Handbell Choir
 *   String Ensemble
 
-  
-
-  
 
 ### Fee Subsidy
 
@@ -113,9 +100,6 @@ Students of all nationalities who are admitted into the MEP within an Independen
 
 However, MEP students who also qualify for other Singapore-MOE awards, such as the Edusave Scholarship for Independent Schools (ESIS) are entitled to only one award (i.e. either the MEP fee subsidy or ESIS).
 
-  
-
-  
 
 ### Useful Links
 
