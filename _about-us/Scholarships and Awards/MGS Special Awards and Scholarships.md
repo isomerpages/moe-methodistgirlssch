@@ -4,10 +4,6 @@ permalink: /about-us/school-information/awards-n-scholarships/mgs-special-awards
 description: ""
 third_nav_title: Scholarships and Awards
 ---
-
-
-
-
 ### Sophia Blackmore Award
 
 Given to a Primary or Secondary MGS student who displays either exemplary courage and determination in the face of challenging circumstances or magnanimity and altruism in the face of adversity.  
@@ -90,9 +86,12 @@ The Tan Ley Chee Award originated from the Best All Round Student Award created 
 
 ### Mrs Anna Tham Book Prize
 
-Given to the best all-rounder in the Secondary/Year Four graduating class.  
-  
-The Tan Ley Chee Award originated from the Best All Round Student Award created in 1976. The award is named after the former Ngui Ley Chee, an old girl, and president of the MGS Alumnae Association for a number of years.  
+Given to the top scorer in Mathematics and Additional Mathematics in the upper secondary levels (both the IP and O-Level track).
+
+Mrs Anna Tham is a former student and later, a Mathematics teacher at her alma mater at
+MGS. She is the longest-serving Principal of MGS (1977 to 1994). A pioneering Guider,
+Mrs Tham continues to dedicate her energies to imparting the life skills and values of the
+Guiding Movement to the next generation.
   
   
 
