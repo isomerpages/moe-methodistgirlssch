@@ -15,10 +15,8 @@ third_nav_title: School Supplies
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg td{border-color:black;border-style:solid;border-width:1px;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-uwnk{color:#3D3D3D;text-align:left;vertical-align:top}
 .tg .tg-yslv{color:#1677F1;text-align:left;vertical-align:top}
 .tg .tg-lc1c{color:#3D3D3D;text-align:left;vertical-align:middle}
