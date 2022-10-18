@@ -3,10 +3,9 @@ title: Regional Youth Conference
 permalink: /secondary/key-programmes/ryc/
 description: ""
 ---
-
 ### About the Regional Youth Conference
 
-<img src="/images/ryc-2014-15-16.jpg" 
+<img src="/images/Secondary/ryc-2014-15-16.jpg" 
      style="width:20%" align="right">
 The biennial Methodist Girls’ School (MGS) Regional Youth Conference (RYC) is a conference for young adults aged 15 to 18 years old seeking to engage with some of the complex issues we face today. As global citizens of today and global leaders of tomorrow, these young adults need to be empowered to make a decisive difference in this rapidly changing world which they will inherit.
 
@@ -33,54 +32,52 @@ RYC aims to be the premier platform where students from Singapore and the region
   <tr>
     <td class="tg-baqh">2018</td>
     <td class="tg-baqh">ASEAN after 50 -- Young &amp; Enterprising</td>
-    <td class="tg-baqh"><img src="/images/ryc-2018.jpg" width="206" height="114"></td>
+    <td class="tg-baqh"><img src="/images/Secondary/ryc-2018.jpg" width="206" height="114"></td>
   </tr>
   <tr>
     <td class="tg-baqh">2016</td>
     <td class="tg-baqh">Disruptive Technologies, Shifting Paradigms  </td>
-    <td class="tg-baqh"><img src="/images/ryc-2016.jpg" width="182" height="256"></td>
+    <td class="tg-baqh"><img src="/images/Secondary/ryc-2016.jpg" width="182" height="256"></td>
   </tr>
   <tr>
     <td class="tg-baqh">2014</td>
     <td class="tg-baqh">The Price of Inequality</td>
-    <td class="tg-amwm"><img src="/images/ryc-2014.jpg" width="177" height="227"></td>
+    <td class="tg-amwm"><img src="/images/Secondary/ryc-2014.jpg" width="177" height="227"></td>
   </tr>
   <tr>
     <td class="tg-baqh">2013</td>
     <td class="tg-baqh">Thinking the Unthinkable</td>
-    <td class="tg-baqh"><img src="/images/ryc-2013.jpg" width="133" height="242"></td>
+    <td class="tg-baqh"><img src="/images/Secondary/ryc-2013.jpg" width="133" height="242"></td>
   </tr>
   <tr>
     <td class="tg-baqh">2012</td>
     <td class="tg-baqh">Our Choice, Our Future</td>
-    <td class="tg-baqh"><img src="/images/ryc-2012.jpg" width="129" height="195"></td>
+    <td class="tg-baqh"><img src="/images/Secondary/ryc-2012.jpg" width="129" height="195"></td>
   </tr>
   <tr>
     <td class="tg-baqh">2011</td>
     <td class="tg-baqh">This Earth is Mine! </td>
-    <td class="tg-baqh"><img src="/images/ryc-2011.jpg"></td>
+    <td class="tg-baqh"><img src="/images/Secondary/ryc-2011.jpg"></td>
   </tr>
   <tr>
     <td class="tg-baqh">2010</td>
     <td class="tg-baqh">Hearts to Change the World </td>
-    <td class="tg-baqh"><img src="/images/ryc-2010.jpg"></td>
+    <td class="tg-baqh"><img src="/images/Secondary/ryc-2010.jpg"></td>
   </tr>
   <tr>
     <td class="tg-baqh">2009</td>
     <td class="tg-baqh">Blue is the New Green </td>
-    <td class="tg-baqh"><img src="/images/ryc-2009.jpg"></td>
+    <td class="tg-baqh"><img src="/images/Secondary/ryc-2009.jpg"></td>
   </tr>
   <tr>
     <td class="tg-baqh">2008</td>
     <td class="tg-baqh">Give Peace a Chance</td>
-    <td class="tg-baqh"><img src="/images/ryc-2008.jpg" width="127" height="177"></td>
+    <td class="tg-baqh"><img src="/images/Secondary/ryc-2008.jpg" height="98"></td>
   </tr>
   <tr>
     <td class="tg-baqh">2007</td>
     <td class="tg-baqh">Youth for the Environment, Action and Heart (YEAH)</td>
-    <td class="tg-baqh"><img src="/images/ryc-2007.jpg" width="180" height="98"></td>
+    <td class="tg-baqh"><img src="/images/Secondary/ryc-2007.jpg" width="180" height="98"></td>
   </tr>
 </tbody>
 </table>
-
-
