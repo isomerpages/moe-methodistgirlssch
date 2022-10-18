@@ -4,8 +4,7 @@ permalink: /parentlink/about-us/
 description: ""
 third_nav_title: Parentlink
 ---
-
-
+![](/images/Others/logo-MGSPL.jpg)
 
 ### Mission Statement
 
@@ -69,4 +68,3 @@ All parents in MGS are automatically part of the school’s parent support group
   </tr>
 </tbody>
 </table>
-
