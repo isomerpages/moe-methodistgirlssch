@@ -76,7 +76,7 @@ third_nav_title: School Supplies
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-uwnk"><span style="font-weight:normal">tems:</span></th>
+    <th class="tg-uwnk"><span style="font-weight:normal">Items:</span></th>
     <th class="tg-uwnk">Blouse, Pinafore, PE T-shirt, PE Shorts &amp; Socks</th>
   </tr>
 </thead>
@@ -190,4 +190,3 @@ third_nav_title: School Supplies
 </table>
 
 **Please note that the supply of MGS skorts for Secondary school students is temporarily unavailable until further notice.
-
