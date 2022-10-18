@@ -4,8 +4,9 @@ permalink: /parentlink/about-us/
 description: ""
 third_nav_title: Parentlink
 ---
-![](/images/Others/logo-MGSPL.jpg)
-
+<img src="/images/Others/logo-MGSPL.jpg" 
+     style="width:40%">
+		 
 ### Mission Statement
 
 
