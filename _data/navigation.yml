@@ -46,10 +46,12 @@ links:
       - title: Useful Links
         url: /primary/useful-links/for-staff/
   - title: Secondary
-    url: /secondary/academic/
+    url: /secondary/curriculum/
     sublinks:
       - title: Curriculum
-        url: /secondary/curriculum/academic/
+        url: /secondary/curriculum/
+      - title: Academic
+        url: /secondary/academic/
       - title: Admissions
         url: /secondary/admissions/dsa-sec1/
       - title: CCA
