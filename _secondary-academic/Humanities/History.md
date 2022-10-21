@@ -4,11 +4,7 @@ permalink: /secondary/academic/humanities/history/
 description: ""
 third_nav_title: Humanities
 ---
-
-# History
-
-(‘O’ Level and Integrated Programme)  
-
+(‘O’ Level and Integrated Programme)
   
 
 ## Aims
