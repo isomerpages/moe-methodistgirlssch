@@ -2,6 +2,7 @@ collections:
   secondary-curriculum:
     output: true
     order:
+      - Acad.md
       - Curriculum.md
       - Key Programmes.md
       - Student Development.md
