@@ -14,8 +14,11 @@ Refer to [ANNEX A: INFORMATION ABOUT UNIFORM ONE](https://www.mgs.moe.edu.sg/se
 
 ### What is loaned to students?
 
+<img src="/images/Others/loan-uniform1.jpg" 
+     style="width:60%" align="right">
+		 
 **MGS No. 1 Uniform includes the following:**
-![](/images/Others/loan-uniform1.jpg)
+		 
 1.  White long-sleeved blouse 
 2.  MGS Tie  
 3.  MGS Blazer  
