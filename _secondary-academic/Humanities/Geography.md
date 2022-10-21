@@ -4,8 +4,6 @@ permalink: /secondary/academic/humanities/geography/
 description: ""
 third_nav_title: Humanities
 ---
-
-# Geography
 (‘O’ Level and Integrated Programme)
 
   
