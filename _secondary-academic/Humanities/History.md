@@ -42,13 +42,9 @@ Students should be able to:
 
 ## Curriculum
 
-“History is the witness that testifies to the passing of time; it  illuminates reality, vitalizes memory, provides guidance in daily life, and brings us tidings of antiquity." Cicero
-
-  
+*“History is the witness that testifies to the passing of time; it  illuminates reality, vitalizes memory, provides guidance in daily life, and brings us tidings of antiquity."* Cicero
 
 The History curriculum aims to provide an opportunity for reinforcing and extending student’s historical knowledge and understanding, gaining a global perspective of the complex world we live in and appreciating the interactions between nations.  They will appreciate and understand the concepts of cause and effect, change and continuity, similarities and differences.
-
-  
 
   
 
@@ -63,6 +59,7 @@ The History curriculum aims to provide an opportunity for reinforcing and extend
 #### Integrated Programme
 
 Year 1: Historiography & Ancient Civilisations (case Study of Ancient India, China and Southeast Asia)  
+
 Year 2: The History of Singapore(1819-1971)   
 
 Year 3: 20th Century World History (c.1910s - 1991)
