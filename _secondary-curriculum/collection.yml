@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - Curriculum.md
-      - Co Curricular Activities (CCA).md
       - Key Programmes.md
       - Student Development.md
