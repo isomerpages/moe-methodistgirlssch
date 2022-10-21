@@ -4,7 +4,6 @@ permalink: /secondary/staff/teachers/
 description: ""
 third_nav_title: Secondary Staff
 ---
-
 <h3 style="text-align: left;">SECONDARY ONE</h3>
 <table width="100%" border="0" cellspacing="5" cellpadding="5" class="iveo_table ives_tab_simple">
   <tbody>
@@ -34,8 +33,8 @@ third_nav_title: Secondary Staff
     </tr>
     <tr>
       <th width="10%" scope="row"> <b>1O </b> </th>
-      <td width="30%"><a href="mailto:karen_lim_yen_choon@schools.gov.sg" target="" style="font-size: small;">Mdm Karen Lim </a> <br></td>
-      <td width="30%"><a href="mailto:chen_kok_peng@schools.gov.sg" target="" style="font-size: small;">Mrs Chen Kok Peng </a> <br></td>
+      <td width="30%"><a href="mailto:karen_lim_yen_choon@schools.gov.sg" target="" >Mdm Karen Lim </a> <br></td>
+      <td width="30%"><a href="mailto:chen_kok_peng@schools.gov.sg" target="" >Mrs Chen Kok Peng </a> <br></td>
       <td width="30%">&nbsp;</td>
     </tr>
     <tr>
@@ -46,8 +45,8 @@ third_nav_title: Secondary Staff
     </tr>
     <tr>
       <th width="10%" scope="row"> <b>1I </b> </th>
-      <td width="30%"><a href="mailto:alan_huang@schools.gov.sg" target="" style="font-size: small;">Mr Alan Huang </a> <br></td>
-      <td width="30%"><a href="mailto:janine_sarah_poon@schools.gov.sg" style="font-size: small;">Ms Sarah Poon </a> <br></td>
+      <td width="30%"><a href="mailto:alan_huang@schools.gov.sg" target="" >Mr Alan Huang </a> <br></td>
+      <td width="30%"><a href="mailto:janine_sarah_poon@schools.gov.sg" >Ms Sarah Poon </a> <br></td>
       <td width="30%">&nbsp;</td>
     </tr>
     <tr>
@@ -198,7 +197,7 @@ third_nav_title: Secondary Staff
       <th width="10%" scope="row"> <b>3R </b> </th>
       <td width="30%"><a href="mailto:lau_li-lin_marilyn@schools.gov.sg" target="">Mrs Marilyn Ng </a></td>
       <td width="30%"><a href="mailto:goh_keng_lee_terence@schools.gov.sg" target="">Mr Terence  Goh </a></td>
-      <td width="30%"><a href="mailto:Teo_Mae_Yan@schools.gov.sg" target="" style="font-size: small;">Mrs Wang Mae Yan </a> <br></td>
+      <td width="30%"><a href="mailto:Teo_Mae_Yan@schools.gov.sg" target="">Mrs Wang Mae Yan</a></td>
     </tr>
   </tbody>
 </table>
