@@ -2,5 +2,6 @@ collections:
   secondary:
     output: true
     order:
+      - Co Curricular Activities (CCA).md
       - Academic.md
       - Curriculum.md
