@@ -47,6 +47,163 @@ b. [Character and Citizenship Education](https://www.google.com/url?q=https://b
 
 **At Methodist Girls' School, the following lessons from the REvised Character and Citizenship Education Programme will be taught in 2022:**
 
+<style type="text/css">
+.tg {
+		border: 1px solid;
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+.tg td {
+		border: 1px solid;
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+    overflow: hidden;
+    padding: 10px 5px;
+    word-break: normal;
+}
+.tg th {
+		border: 1px solid;
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+    font-weight: normal;
+    overflow: hidden;
+    padding: 10px 5px;
+    word-break: normal;
+}
+.tg .tg-2w19 {    
+		border: 1px solid;
+    text-align: left;
+    vertical-align: top
+}
+.tg .tg-3spu {    
+		border: 1px solid;
+    text-align: left;
+    vertical-align: top
+}
+.tg .tg-auhb {    
+		border: 1px solid;
+    font-weight: bold;
+    text-align: left;
+    vertical-align: top
+}
+</style>
+<table width="100%" class="tg">
+  <thead>
+    <tr>
+      <th class="tg-auhb" colspan="2">Secondary 1</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="tg-auhb">Lesson</span></td>
+      <td class="tg-auhb">Learning Objectives </span></td>
+    </tr>
+    <tr>
+      <td class="tg-2w19">Steady or Not?</span></td>
+      <td class="tg-2w19">Recognise the importance of cultivating friendships with members of the same and opposite sex</span><br>
+        Recognise what constitutes healthy and unhealthy relationships</span><br>
+        Distinguish between love and infatuation</span></td>
+    </tr>
+    <tr>
+      <td class="tg-2w19">Being Aware, Being Safe</span></td>
+      <td class="tg-2w19">Be aware of the dangers of interacting online, including grooming by predators.</span></td>
+    </tr>
+    <tr>
+      <td class="tg-2w19">More Than Meets the Eye</span></td>
+      <td class="tg-2w19">Public displays of affection</span><br>
+        Impact of consuming pornography</span></td>
+    </tr>
+  </tbody>
+</table>
+
+<table width="100%" class="tg">
+<thead>
+  <tr>
+    <th class="tg-auhb" colspan="2">Secondary 2</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-auhb">Lesson</td>
+    <td class="tg-auhb">Learning Objectives  </td>
+  </tr>
+  <tr>
+    <td class="tg-2w19">A role for Everyone</td>
+    <td class="tg-2w19">Know/define what gender role, gender identity and sexual orientation are<br>Recognise gender stereotypes and take steps to avoid stereotyping people.</td>
+  </tr>
+  <tr>
+    <td class="tg-2w19">Online Safety Challenge</td>
+    <td class="tg-2w19">Be aware of the dangers of interacting online, including sexting, cyberflashing and  grooming by predators.</td>
+  </tr>
+  <tr>
+    <td class="tg-s5yd">Do I or Don’t I?</td>
+    <td class="tg-2w19">Explore the consequences of premarital sex<br>Be aware of the impact this might have on the couple as well as their friends and family.</td>
+  </tr>
+</tbody>
+</table>
+
+
+
+<table width="100%" class="tg">
+  <thead>
+    <tr>
+      <th class="tg-auhb" colspan="2">Secondary 3</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="tg-auhb">Lesson</td>
+      <td class="tg-auhb">Learning Objectives </td>
+    </tr>
+    <tr>
+      <td class="tg-2w19">Love Yourself, Love Others</td>
+      <td class="tg-2w19">Handling challenges that arise in a relationship</td>
+    </tr>
+    <tr>
+      <td class="tg-2w19">Mending a Broken Heart</td>
+      <td class="tg-2w19">Understand the stages of grieving (for a failed relationship)<br>
+      Healthy ways to cope with the break up of a relationship</td>
+    </tr>
+    <tr>
+      <td class="tg-2w19">When Respect Takes Centre Stage</td>
+      <td class="tg-2w19">Understand and make informed decisions on  sexting</td>
+    </tr>
+  </tbody>
+</table>
+<p>&nbsp;</p>
+<table width="100%" class="tg">
+  <thead>
+  <tr>
+    <th class="tg-auhb" colspan="2">Secondary 4</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-auhb">Lesson</td>
+    <td class="tg-auhb">Learning Objectives  </td>
+  </tr>
+  <tr>
+    <td class="tg-2w19">Levelling the Ground<br></td>
+    <td class="tg-2w19">Exploring why there are gender stereotypes and the impact they have on a person’s self esteem<br></td>
+  </tr>
+  <tr>
+    <td class="tg-2w19">When Love Hurts</td>
+    <td class="tg-2w19">Recognising the signs of violence and abuse in a relationship<br>Discuss avenues of help and how to leave an abusive relationship.</td>
+  </tr>
+  <tr>
+    <td class="tg-2w19">For Better or Worse</td>
+    <td class="tg-2w19">Understand that marriage takes commitment and<br>communication  by both parties during difficulties and disagreements.</td>
+  </tr>
+  <tr>
+    <td class="tg-2w19">There’s Always More to a story</td>
+    <td class="tg-2w19">Revisiting the impact of consuming pornography.<br>How to seek help if one is a victim of revenge pornograhy</td>
+  </tr>
+</tbody>
+</table>
+
+
 
 ### eTeens Programme
 
@@ -56,38 +213,29 @@ b. [Character and Citizenship Education](https://www.google.com/url?q=https://b
 
 **At Methodist Girls' School, the eTeens programme will be implemented for Sec 3’s as follows in 2022:**
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-2w19{background-color:#F2F9FF;color:#222;text-align:left;vertical-align:top}
-.tg .tg-auhb{background-color:#1F8CE4;color:#F2F9FF;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
+<table width="100%" class="tg">
 <thead>
   <tr>
-    <th class="tg-auhb"><span style="font-weight:700;color:#F2F9FF;background-color:#1F8CE4">Topics/Lessons</span></th>
-    <th class="tg-auhb"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#F2F9FF;background-color:#1F8CE4">Lesson Objectives</span><br><span style="font-weight:700;color:#F2F9FF;background-color:#1F8CE4">At the end of the lesson, pupils will be able to:</span></th>
+    <th class="tg-auhb">Topics/Lessons</th>
+    <th class="tg-auhb">Lesson Objectives<br>At the end of the lesson, pupils will be able to:</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-2w19"><span style="font-weight:400;color:#222;background-color:#F2F9FF">Mass Talk by HPB appointed vendor</span></td>
-    <td class="tg-2w19"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#222;background-color:#F2F9FF">Awareness of the different STIs and HIV/AIDS</span><br></td>
+    <td class="tg-2w19">Mass Talk by HPB appointed vendor</td>
+    <td class="tg-2w19">Awareness of the different STIs and HIV/AIDS<br></td>
   </tr>
   <tr>
-    <td class="tg-2w19"><span style="font-weight:400;color:#222;background-color:#F2F9FF">Classroom-based Lesson 1: Decision-Making</span></td>
-    <td class="tg-2w19"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#222;background-color:#F2F9FF">Understand there are consequences in any decision one makes regarding sexual intercourse</span></td>
+    <td class="tg-2w19">Classroom-based Lesson 1: Decision-Making</td>
+    <td class="tg-2w19">Understand there are consequences in any decision one makes regarding sexual intercourse</td>
   </tr>
   <tr>
-    <td class="tg-2w19"><span style="font-weight:400;color:#222;background-color:#F2F9FF">Classroom-based Lesson 2: Assertiveness</span></td>
-    <td class="tg-2w19"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#222;background-color:#F2F9FF">Understand what assertive behaviour is</span></td>
+    <td class="tg-2w19">Classroom-based Lesson 2: Assertiveness</td>
+    <td class="tg-2w19">Understand what assertive behaviour is</td>
   </tr>
   <tr>
-    <td class="tg-2w19"><span style="font-weight:400;color:#222;background-color:#F2F9FF">Classroom-based Lesson 3: Negotiation</span></td>
-    <td class="tg-2w19"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#222;background-color:#F2F9FF">Practise negotiating one's way out of a negative situation by applying skills learnt from Lesson 2</span></td>
+    <td class="tg-2w19">Classroom-based Lesson 3: Negotiation</td>
+    <td class="tg-2w19">Practise negotiating one's way out of a negative situation by applying skills learnt from Lesson 2</td>
   </tr>
 </tbody>
 </table>
