@@ -3,7 +3,6 @@ title: Mathematics
 permalink: /secondary/academic/mathematics/
 description: ""
 ---
-
 ### Vision
 
 To develop logical and critical thinkers who are competent in using mathematical reasoning, communication and problem solving skills in other fields and disciplines.
@@ -36,37 +35,77 @@ The learning of mathematics involves exploration, analysis and presentation of m
 ### Individual Subjects
 
 <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-teua{background-color:#dddddd;color:#666666;text-align:center;vertical-align:top}
-.tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-5hwe{color:#3D3D3D;text-align:center;vertical-align:middle}
-.tg .tg-feqv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:middle}
+.tg {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+.tg td {
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+    overflow: hidden;
+    padding: 10px 5px;
+    word-break: normal;
+}
+.tg th {
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+    font-weight: normal;
+    overflow: hidden;
+    padding: 10px 5px;
+    word-break: normal;
+}
+.tg .tg-teua {
+    background-color: #dddddd;
+    color: #666666;
+    text-align: center;
+    vertical-align: top
+}
+.tg .tg-a4yv {
+    background-color: #DDD;
+    color: #666;
+    font-weight: bold;
+    text-align: center;
+    vertical-align: top
+}
+.tg .tg-5hwe {
+    color: #3D3D3D;
+    text-align: center;
+    vertical-align: middle
+}
+.tg .tg-feqv {
+    background-color: #DDD;
+    color: #666;
+    font-weight: bold;
+    text-align: center;
+    vertical-align: middle
+}
 </style>
 <table class="tg">
-<thead>
-  <tr>
-    <th class="tg-a4yv"></th>
-    <th class="tg-feqv">‘O’ Level Track</th>
-    <th class="tg-teua"><span style="font-weight:bold">IP Track</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-5hwe">Lower Secondary</td>
-    <td class="tg-5hwe">Mathematics</td>
-    <td class="tg-5hwe">Mathematics</td>
-  </tr>
-  <tr>
-    <td class="tg-5hwe">Upper Secondary</td>
-    <td class="tg-5hwe">Mathematics<br>Additional Mathematics</td>
-    <td class="tg-5hwe">Core Mathematics<br>Advanced Mathematics</td>
-  </tr>
-</tbody>
+  <thead>
+    <tr>
+      <th class="tg-a4yv"></th>
+      <th class="tg-feqv">‘O’ Level Track</th>
+      <th class="tg-feqv">IP Track</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="tg-5hwe">Lower Secondary</td>
+      <td class="tg-5hwe">Mathematics</td>
+      <td class="tg-5hwe">Mathematics</td>
+    </tr>
+    <tr>
+      <td class="tg-5hwe">Upper Secondary</td>
+      <td class="tg-5hwe">Mathematics<br>
+        Additional Mathematics</td>
+      <td class="tg-5hwe">Core Mathematics<br>
+        Advanced Mathematics</td>
+    </tr>
+  </tbody>
 </table>
+
 
 ### Curriculum  
 
