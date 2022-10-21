@@ -2,6 +2,7 @@ collections:
   secondary-key-programmes:
     output: true
     order:
+      - Reality Outside Classrooms.md
       - Reality Outside Classrooms/.keep
       - "Reality Outside Classrooms/Sec 1: ROCs 1 Road to Discovery
         (Singapore).md"
