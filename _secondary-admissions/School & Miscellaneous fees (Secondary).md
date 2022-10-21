@@ -10,92 +10,132 @@ We would like to assure parents that no student will be deprived of an MGS educa
 **The school and miscellaneous fees are as follows:**
 
 <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-omza{background-color:#FFDE29;color:#3D3D3D;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-uwnk{color:#3D3D3D;text-align:left;vertical-align:top}
-.tg .tg-4whn{background-color:#E2BF00;color:#3D3D3D;font-weight:bold;text-align:left;vertical-align:top}
+.tg {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border: 1px solid;
+}
+.tg td {
+    border: 1px solid;
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+    overflow: hidden;
+    padding: 10px 5px;
+    word-break: normal;
+}
+.tg th {
+    border: 1px solid;
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+    font-weight: normal;
+    overflow: hidden;
+    padding: 10px 5px;
+    word-break: normal;
+}
+.tg .tg-omza {
+    border: 1px solid;
+    background-color: #FFDE29;
+    color: #3D3D3D;
+    font-weight: bold;
+    text-align: center;
+    vertical-align: top
+}
+.tg .tg-uwnk {
+    border: 1px solid;
+    color: #3D3D3D;
+    text-align: left;
+    vertical-align: top
+}
+.tg .tg-4whn {
+    border: 1px solid;
+    background-color: #E2BF00;
+    color: #3D3D3D;
+    font-weight: bold;
+    text-align: left;
+    vertical-align: top
+}
 </style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-omza" rowspan="3">Fees by Nationality</th>
-    <th class="tg-omza" colspan="2">Singapore Citizen</th>
-    <th class="tg-omza" colspan="2">Permanent Resident</th>
-    <th class="tg-omza" colspan="2">International student (Asean)*</th>
-    <th class="tg-omza" colspan="2">International student (non-Asean)</th>
-  </tr>
-  <tr>
-    <th class="tg-omza">O Level</th>
-    <th class="tg-omza">IP</th>
-    <th class="tg-omza">O Level</th>
-    <th class="tg-omza">IP</th>
-    <th class="tg-omza">O Level</th>
-    <th class="tg-omza">IP</th>
-    <th class="tg-omza">O Level</th>
-    <th class="tg-omza">IP</th>
-  </tr>
-  <tr>
-    <th class="tg-omza">$</th>
-    <th class="tg-omza">$</th>
-    <th class="tg-omza">$</th>
-    <th class="tg-omza">$</th>
-    <th class="tg-omza">$</th>
-    <th class="tg-omza">$</th>
-    <th class="tg-omza">$</th>
-    <th class="tg-omza">$</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-uwnk">Monthly School fees</td>
-    <td class="tg-uwnk">300</td>
-    <td class="tg-uwnk">320</td>
-    <td class="tg-uwnk">710</td>
-    <td class="tg-uwnk">750</td>
-    <td class="tg-uwnk">1,260</td>
-    <td class="tg-uwnk">1,410</td>
-    <td class="tg-uwnk">1,695</td>
-    <td class="tg-uwnk">1,900</td>
-  </tr>
-  <tr>
-    <td class="tg-uwnk">Monthly Miscellaneous fees</td>
-    <td class="tg-uwnk">55</td>
-    <td class="tg-uwnk">55</td>
-    <td class="tg-uwnk">55</td>
-    <td class="tg-uwnk">55</td>
-    <td class="tg-uwnk">55</td>
-    <td class="tg-uwnk">55</td>
-    <td class="tg-uwnk">55</td>
-    <td class="tg-uwnk">55</td>
-  </tr>
-  <tr>
-    <td class="tg-uwnk">Total fees per month</td>
-    <td class="tg-uwnk">355</td>
-    <td class="tg-uwnk">375</td>
-    <td class="tg-uwnk">765</td>
-    <td class="tg-uwnk">805</td>
-    <td class="tg-uwnk">1,315</td>
-    <td class="tg-uwnk">1,465</td>
-    <td class="tg-uwnk">1,750</td>
-    <td class="tg-uwnk">1,955</td>
-  </tr>
-  <tr>
-    <td class="tg-4whn">Quarterly payment</td>
-    <td class="tg-4whn">1,065</td>
-    <td class="tg-4whn">1,125</td>
-    <td class="tg-4whn">2,295</td>
-    <td class="tg-4whn">2,415</td>
-    <td class="tg-4whn">3,945</td>
-    <td class="tg-4whn">4,395</td>
-    <td class="tg-4whn">5,250</td>
-    <td class="tg-4whn">5,865</td>
-  </tr>
-</tbody>
+<table width="100%" class="tg">
+  <thead>
+    <tr>
+      <th width="20%" rowspan="3" class="tg-omza">Fees by Nationality</th>
+      <th class="tg-omza" colspan="2">Singapore Citizen</th>
+      <th class="tg-omza" colspan="2">Permanent Resident</th>
+      <th class="tg-omza" colspan="2">International student (Asean)*</th>
+      <th class="tg-omza" colspan="2">International student (non-Asean)</th>
+    </tr>
+    <tr>
+      <th width="10%" class="tg-omza">O Level</th>
+      <th width="10%" class="tg-omza">IP</th>
+      <th width="10%" class="tg-omza">O Level</th>
+      <th width="10%" class="tg-omza">IP</th>
+      <th width="10%" class="tg-omza">O Level</th>
+      <th width="10%" class="tg-omza">IP</th>
+      <th width="10%" class="tg-omza">O Level</th>
+      <th width="10%" class="tg-omza">IP</th>
+    </tr>
+    <tr>
+      <th width="10%" class="tg-omza">$</th>
+      <th width="10%" class="tg-omza">$</th>
+      <th width="10%" class="tg-omza">$</th>
+      <th width="10%" class="tg-omza">$</th>
+      <th width="10%" class="tg-omza">$</th>
+      <th width="10%" class="tg-omza">$</th>
+      <th width="10%" class="tg-omza">$</th>
+      <th width="10%" class="tg-omza">$</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td width="20%" class="tg-uwnk">Monthly School fees</td>
+      <td width="10%" class="tg-uwnk">300</td>
+      <td width="10%" class="tg-uwnk">320</td>
+      <td width="10%" class="tg-uwnk">710</td>
+      <td width="10%" class="tg-uwnk">750</td>
+      <td width="10%" class="tg-uwnk">1,260</td>
+      <td width="10%" class="tg-uwnk">1,410</td>
+      <td width="10%" class="tg-uwnk">1,695</td>
+      <td width="10%" class="tg-uwnk">1,900</td>
+    </tr>
+    <tr>
+      <td width="20%" class="tg-uwnk">Monthly Miscellaneous fees</td>
+      <td width="10%" class="tg-uwnk">55</td>
+      <td width="10%" class="tg-uwnk">55</td>
+      <td width="10%" class="tg-uwnk">55</td>
+      <td width="10%" class="tg-uwnk">55</td>
+      <td width="10%" class="tg-uwnk">55</td>
+      <td width="10%" class="tg-uwnk">55</td>
+      <td width="10%" class="tg-uwnk">55</td>
+      <td width="10%" class="tg-uwnk">55</td>
+    </tr>
+    <tr>
+      <td width="20%" class="tg-uwnk">Total fees per month</td>
+      <td width="10%" class="tg-uwnk">355</td>
+      <td width="10%" class="tg-uwnk">375</td>
+      <td width="10%" class="tg-uwnk">765</td>
+      <td width="10%" class="tg-uwnk">805</td>
+      <td width="10%" class="tg-uwnk">1,315</td>
+      <td width="10%" class="tg-uwnk">1,465</td>
+      <td width="10%" class="tg-uwnk">1,750</td>
+      <td width="10%" class="tg-uwnk">1,955</td>
+    </tr>
+    <tr>
+      <td width="20%" class="tg-4whn">Quarterly payment</td>
+      <td width="10%" class="tg-4whn">1,065</td>
+      <td width="10%" class="tg-4whn">1,125</td>
+      <td width="10%" class="tg-4whn">2,295</td>
+      <td width="10%" class="tg-4whn">2,415</td>
+      <td width="10%" class="tg-4whn">3,945</td>
+      <td width="10%" class="tg-4whn">4,395</td>
+      <td width="10%" class="tg-4whn">5,250</td>
+      <td width="10%" class="tg-4whn">5,865</td>
+    </tr>
+  </tbody>
 </table>
+
+
 
 * Asean countries refer to Brunei, Myanmar, Cambodia, Indonesia, Laos, Malaysia, Philippines, Thailand and Vietnam.
 
