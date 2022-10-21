@@ -20,56 +20,90 @@ third_nav_title: Humanities
 #### Integrated Programme
 
 <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-5hwe{color:#3D3D3D;text-align:center;vertical-align:middle}
-.tg .tg-feqv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-iuf2{color:#3D3D3D;text-align:center;vertical-align:top}
+.tg {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+.tg td {
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+    font-size: 14px;
+    overflow: hidden;
+    padding: 10px 5px;
+    word-break: normal;
+}
+.tg th {
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+    font-size: 14px;
+    font-weight: normal;
+    overflow: hidden;
+    padding: 10px 5px;
+    word-break: normal;
+}
+.tg .tg-5hwe {
+    color: #3D3D3D;
+    text-align: center;
+    vertical-align: middle
+}
+.tg .tg-feqv {
+    background-color: #DDD;
+    color: #666;
+    font-weight: bold;
+    text-align: center;
+    vertical-align: middle
+}
+.tg .tg-iuf2 {
+    color: #3D3D3D;
+    text-align: center;
+    vertical-align: top
+}
 </style>
 <table class="tg">
-<thead>
-  <tr>
-    <th class="tg-feqv"><span style="color:#666;background-color:#DDD">Concepts</span></th>
-    <th class="tg-feqv"><span style="color:#666;background-color:#DDD">Year 1</span></th>
-    <th class="tg-feqv"><span style="color:#666;background-color:#DDD">Year 2</span></th>
-    <th class="tg-feqv"><span style="color:#666;background-color:#DDD">Year 3</span></th>
-    <th class="tg-feqv"><span style="color:#666;background-color:#DDD">Year 4</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-5hwe">Change</td>
-    <td class="tg-5hwe">Plate Tectonics</td>
-    <td class="tg-5hwe">Population Studies</td>
-    <td class="tg-5hwe">Tectonic Hazards</td>
-    <td class="tg-5hwe">Globalization</td>
-  </tr>
-  <tr>
-    <td class="tg-iuf2">Interdependence</td>
-    <td class="tg-5hwe">-</td>
-    <td class="tg-iuf2">Resources and the Environment </td>
-    <td class="tg-5hwe">-</td>
-    <td class="tg-iuf2">Development, Global Tourism</td>
-  </tr>
-  <tr>
-    <td class="tg-iuf2">Patterns </td>
-    <td class="tg-iuf2">Weather and Climate  </td>
-    <td class="tg-iuf2">Urban Studies </td>
-    <td class="tg-iuf2"> Weather and Climate </td>
-    <td class="tg-5hwe">Food Resources<br>Health and Diseases</td>
-  </tr>
-  <tr>
-    <td class="tg-5hwe">Systems</td>
-    <td class="tg-5hwe">-</td>
-    <td class="tg-5hwe">River Studies</td>
-    <td class="tg-5hwe">River Studies</td>
-    <td class="tg-5hwe">-</td>
-  </tr>
-</tbody>
+  <thead>
+    <tr>
+      <th class="tg-feqv"><span style="color:#666;background-color:#DDD">Concepts</span></th>
+      <th class="tg-feqv"><span style="color:#666;background-color:#DDD">Year 1</span></th>
+      <th class="tg-feqv"><span style="color:#666;background-color:#DDD">Year 2</span></th>
+      <th class="tg-feqv"><span style="color:#666;background-color:#DDD">Year 3</span></th>
+      <th class="tg-feqv"><span style="color:#666;background-color:#DDD">Year 4</span></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="tg-5hwe">Change</td>
+      <td class="tg-5hwe">Plate Tectonics</td>
+      <td class="tg-5hwe">Population Studies</td>
+      <td class="tg-5hwe">Tectonic Hazards</td>
+      <td class="tg-5hwe">Globalization</td>
+    </tr>
+    <tr>
+      <td class="tg-iuf2">Interdependence</td>
+      <td class="tg-5hwe">-</td>
+      <td class="tg-iuf2">Resources and the Environment </td>
+      <td class="tg-5hwe">-</td>
+      <td class="tg-iuf2">Development, Global Tourism</td>
+    </tr>
+    <tr>
+      <td class="tg-iuf2">Patterns </td>
+      <td class="tg-iuf2">Weather and Climate </td>
+      <td class="tg-iuf2">Urban Studies </td>
+      <td class="tg-iuf2"> Weather and Climate </td>
+      <td class="tg-5hwe">Food Resources<br>
+        Health and Diseases</td>
+    </tr>
+    <tr>
+      <td class="tg-5hwe">Systems</td>
+      <td class="tg-5hwe">-</td>
+      <td class="tg-5hwe">River Studies</td>
+      <td class="tg-5hwe">River Studies</td>
+      <td class="tg-5hwe">-</td>
+    </tr>
+  </tbody>
 </table>
+
 
 ## Curriculum
 
