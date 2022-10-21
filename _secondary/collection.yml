@@ -2,6 +2,7 @@ collections:
   secondary:
     output: true
     order:
+      - Key Programmes.md
       - Curriculum.md
       - Academic.md
       - Co Curricular Activities (CCA).md
