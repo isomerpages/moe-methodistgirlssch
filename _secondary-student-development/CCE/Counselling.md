@@ -4,7 +4,6 @@ permalink: /secondary/student-development/character-and-citizenship-education-cc
 description: ""
 third_nav_title: CCE
 ---
-
 Counsellors in MGS are passionate in providing a holistic approach to care and support our students.  We believe in a team effort to support and help our girls to be more aware of their emotions, strengths and weaknesses.  We aim to equip them with skills like emotional regulation and executive functioning to strengthen their capacities and personal effectiveness by enhancing their social, emotional and mental well-being.  
 
   
@@ -27,4 +26,4 @@ For matters pertaining to **Special needs and learning support** , students ma
 
   
 
-For Education & Career Guidance support, please refer to the [website](https://staging.dt6ildc2mnegy.amplifyapp.com/secondary/mg-curriculum/student-development/cce/education-n-career-guidance) to be in touch with our ECG counsellor, Ms Sylvia Ng.
+For Education & Career Guidance support, please refer to the [website](https://staging.dt6ildc2mnegy.amplifyapp.com/secondary/student-development/cce/ecg/) to be in touch with our ECG counsellor, Ms Sylvia Ng.
