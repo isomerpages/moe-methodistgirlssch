@@ -32,10 +32,11 @@ The MGS IP is a through-train programme that leads to the International Baccalau
     word-break: normal;
 }
 .tg .tg-retb {
-    color: #3D3D3D;
+	  background-color: #DDD;
+    color: #666;
     font-weight: bold;
     text-align: left;
-    vertical-align: middle
+    vertical-align: top
 }
 .tg .tg-bzr3 {
     color: #3D3D3D;
@@ -46,13 +47,13 @@ The MGS IP is a through-train programme that leads to the International Baccalau
 .tg .tg-lc1c {
     color: #3D3D3D;
     text-align: left;
-    vertical-align: middle
+    vertical-align: top
 }
 </style>
 <table class="tg">
   <thead>
     <tr>
-      <th class="tg-retb">Date and Time</th>
+			<th class="tg-retb">Date and Time</th>
       <th class="tg-retb">Process</th>
       <th class="tg-retb">Details</th>
     </tr>
@@ -60,45 +61,45 @@ The MGS IP is a through-train programme that leads to the International Baccalau
   <tbody>
     <tr>
       <td class="tg-bzr3">23 April 2022<br>
-        <span style="color:inherit;background-color:transparent">Saturday</span><br>
-        <span style="color:inherit;background-color:transparent">9 am - 10.30 am</span></td>
-      <td class="tg-lc1c"><span style="color:inherit;background-color:transparent">Information Session: Years 3 &amp; 4 and the IB Curriculum Structure</span></td>
-      <td class="tg-lc1c"><span style="color:inherit;background-color:transparent">By Zoom</span><br>
-        <span style="color:inherit;background-color:transparent">Register</span> <a href="https://go.gov.sg/mgyear3ip"><span style="text-decoration:none;color:#1677F1">HERE</span></a><a href="https://go.gov.sg/mgyear3ip"> </a><span style="color:inherit;background-color:transparent">to obtain the link.</span><br>
-        <span style="color:inherit;background-color:transparent">Alternatively, you may access using the QR code below: </span><br>
+        Saturday<br>
+        9 am - 10.30 am</td>
+      <td class="tg-lc1c">Information Session: Years 3 &amp; 4 and the IB Curriculum Structure</td>
+      <td class="tg-lc1c">By Zoom<br>
+        Register <a href="https://go.gov.sg/mgyear3ip">HERE</a><a href="https://go.gov.sg/mgyear3ip"> </a>to obtain the link.<br>
+        Alternatively, you may access using the QR code below: <br>
         <img src="/images/Secondary/Admissions/dsa-yr3ip-2022-qrcode.png" alt="Secondary/Admissions/dsa-yr3ip-2022-qrcode.png" width="147" height="159"></td>
     </tr>
     <tr>
       <td class="tg-bzr3">25 April 2022<br>
-        <span style="color:inherit;background-color:transparent">Monday</span><br>
-        <span style="color:inherit;background-color:transparent">9 am</span></td>
-      <td class="tg-lc1c"><span style="color:inherit;background-color:transparent">Year 3 IP Intake Application opens</span></td>
-      <td class="tg-lc1c"><span style="color:inherit;background-color:transparent">Registration via an online portal will be enabled after Monday 25 April 9am</span><br></td>
+        Monday<br>
+        9 am</td>
+      <td class="tg-lc1c">Year 3 IP Intake Application opens</td>
+      <td class="tg-lc1c">Registration via an online portal will be enabled after Monday 25 April 9am<br></td>
     </tr>
     <tr>
       <td class="tg-bzr3">1 July 2022<br>
-        <span style="color:inherit;background-color:transparent">Friday</span><br>
-        <span style="color:inherit;background-color:transparent">5 pm</span></td>
-      <td class="tg-lc1c"><span style="color:inherit;background-color:transparent">Application closes</span></td>
-      <td class="tg-lc1c"><span style="color:inherit;background-color:transparent"> -</span></td>
+        Friday<br>
+        5 pm</td>
+      <td class="tg-lc1c">Application closes</td>
+      <td class="tg-lc1c"> -</td>
     </tr>
     <tr>
       <td class="tg-bzr3">18 August 2022<br>
-        <span style="color:inherit;background-color:transparent">Thursday</span><br></td>
-      <td class="tg-lc1c"><span style="color:inherit;background-color:transparent">Selection Test (Written)</span></td>
-      <td class="tg-lc1c"><span style="color:inherit;background-color:transparent">For</span> all <span style="color:inherit;background-color:transparent">Y3 IP applicants</span><br>
-        <span style="color:inherit;background-color:transparent">(Details on school website)</span><br></td>
+        Thursday<br></td>
+      <td class="tg-lc1c">Selection Test (Written)</td>
+      <td class="tg-lc1c">For all Y3 IP applicants<br>
+        (Details on school website)<br></td>
     </tr>
     <tr>
       <td class="tg-bzr3">After End of Year exams</td>
-      <td class="tg-lc1c"><span style="color:inherit;background-color:transparent">Interviews</span></td>
-      <td class="tg-bzr3">Shortlisted <span style="color:inherit;background-color:transparent">applicants will be informed via email</span><br></td>
+      <td class="tg-lc1c">Interviews</td>
+      <td class="tg-bzr3">Shortlisted applicants will be informed via email<br></td>
     </tr>
     <tr>
       <td class="tg-bzr3">End October 2022<br>
-        <span style="color:inherit;background-color:transparent">(after release of EOY results)</span></td>
-      <td class="tg-lc1c"><span style="color:inherit;background-color:transparent">Confirm offers</span><br></td>
-      <td class="tg-bzr3">Successful <span style="color:inherit;background-color:transparent">candidates will attend Y3 subject options briefing.</span></td>
+        (after release of EOY results)</td>
+      <td class="tg-lc1c">Confirm offers<br></td>
+      <td class="tg-bzr3">Successful candidates will attend Y3 subject options briefing.</td>
     </tr>
   </tbody>
 </table>
