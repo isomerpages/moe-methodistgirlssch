@@ -4,7 +4,7 @@ permalink: /secondary/key-programmes/rocs/
 description: ""
 ---
 <img src="/images/Secondary/mgsrocs-generic-small.png" 
-     style="width:40%">
+     style="width:30%">
 		 
 MGS does not restrict the education of its girls to the confines of the classroom or of Singapore. While the school has ventured out cautiously in the past, today it provides innumerable opportunities for the girls to experience life and learning further afield. The girls journey to places like Malaysia, India, China, Taiwan, Japan, Australia, New Zealand, Eastern Europe and the United Kingdom on educational trips, on immersion or twinning programmes and on service-learning programmes. The world, indeed, is their oyster.  
 
