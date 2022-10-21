@@ -3,12 +3,11 @@ title: MGS Integrated Programme for Year 1 Intake
 permalink: /secondary/admissions/mgs-ip-for-year-1-intake/
 description: ""
 ---
-
 The Year 1 Intake into this 6-year programme is administered during the Direct School Admission phase as well as via the PSLE Posting Exercise.
 
   
 
-Click [here](https://staging.dt6ildc2mnegy.amplifyapp.com/secondary/admissions/direct-school-admission-for-secondary-one/) to find out more about MGS DSA Timeline and how to apply.
+Click [here](https://staging.dt6ildc2mnegy.amplifyapp.com/secondary/admissions/dsa-sec1/) to find out more about MGS DSA Timeline and how to apply.
 
   
 
