@@ -291,7 +291,7 @@ We have included the payment schedule below for your information.
   <thead>
     <tr>
       <th class="tg-pink" rowspan="2" width="40%">Items</th>
-      <th class="tg-pink" colspan="12">Month of Tax Invoice Issued</th>
+      <th class="tg-pink" colspan="12" width="60%">Month of Tax Invoice Issued</th>
     </tr>
     <tr>
       <th class="tg-pink" width="5%">Jan</th>
