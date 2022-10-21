@@ -2,4 +2,5 @@ collections:
   secondary:
     output: true
     order:
+      - Academic.md
       - Curriculum.md
