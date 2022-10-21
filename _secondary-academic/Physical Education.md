@@ -14,7 +14,6 @@ The MGS Physical Education Department strives to develop our pupil’s physical,
     border-color: black;
     border-style: solid;
     border-width: 1px;
-    font-size: 14px;
     overflow: hidden;
     padding: 10px 5px;
     word-break: normal;
@@ -23,7 +22,6 @@ The MGS Physical Education Department strives to develop our pupil’s physical,
     border-color: black;
     border-style: solid;
     border-width: 1px;
-    font-size: 14px;
     font-weight: normal;
     overflow: hidden;
     padding: 10px 5px;
@@ -119,7 +117,8 @@ The MGS Physical Education Department strives to develop our pupil’s physical,
     </tr>
   </tbody>
 </table>
-
+<p></p>
+<p></p>
 <table class="tg">
   <thead>
     <tr>
