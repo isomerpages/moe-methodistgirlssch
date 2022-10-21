@@ -25,7 +25,7 @@ description: ""
 
 *   [OPAL 2.0](https://idm.opal2.moe.edu.sg/account/login?returnUrl=%2F)
 
-*   **Requires SSOE notebooks:**
+**Requires SSOE notebooks:**
 
 	*   [CES mail](https://mail.schools.gov.sg/)
 
