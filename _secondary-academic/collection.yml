@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Academic1.md
-      - Academic.md
       - Aesthetics/.keep
       - Aesthetics/Aesthetics.md
       - Aesthetics/Art.md
