@@ -63,6 +63,8 @@ b. [Character and Citizenship Education](https://www.google.com/url?q=https://b
     word-break: normal;
 }
 .tg th {
+    background-color: #DDD;
+    color: #666;
 		border: 1px solid;
     border-color: black;
     border-style: solid;
