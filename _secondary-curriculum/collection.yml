@@ -1,5 +1,5 @@
 collections:
-  secondary:
+  secondary-curriculum:
     output: true
     order:
       - Student Development.md
