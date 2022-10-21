@@ -4,7 +4,6 @@ permalink: /secondary/student-development/cce/sexuality-education/
 description: ""
 third_nav_title: CCE
 ---
-
 ### MOE Sexuality Education in Schools
 
 1. Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.
@@ -46,166 +45,16 @@ b. [Character and Citizenship Education](https://www.google.com/url?q=https://b
 
 7. Through the revised CCE programme, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.
 
-### At Methodist Girls' School, the following lessons from the REvised Character and Citizenship Education Programme will be taught in 2022:
+**At Methodist Girls' School, the following lessons from the REvised Character and Citizenship Education Programme will be taught in 2022:**
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-2w19{background-color:#F2F9FF;color:#222;text-align:left;vertical-align:top}
-.tg .tg-3spu{background-color:#1f8ce4;color:#f2f9ff;text-align:left;vertical-align:top}
-.tg .tg-auhb{background-color:#1F8CE4;color:#F2F9FF;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-3spu" colspan="2"><span style="font-weight:bold">Secondary 1</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-auhb"><span style="font-weight:700;color:#F2F9FF;background-color:#1F8CE4">Lesson</span></td>
-    <td class="tg-auhb"><span style="font-weight:700;color:#F2F9FF;background-color:#1F8CE4">Learning Objectives  </span></td>
-  </tr>
-  <tr>
-    <td class="tg-2w19"><span style="font-weight:400;color:#222;background-color:#F2F9FF">Steady or Not?</span></td>
-    <td class="tg-2w19"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#222;background-color:#F2F9FF">Recognise the importance of cultivating friendships with members of the same and opposite sex</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#222;background-color:#F2F9FF">Recognise what constitutes healthy and unhealthy relationships</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#222;background-color:#F2F9FF">Distinguish between love and infatuation</span></td>
-  </tr>
-  <tr>
-    <td class="tg-2w19"><span style="font-weight:400;color:#222;background-color:#F2F9FF">Being Aware, Being Safe</span></td>
-    <td class="tg-2w19"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#222;background-color:#F2F9FF">Be aware of the dangers of interacting online, including grooming by predators.</span></td>
-  </tr>
-  <tr>
-    <td class="tg-2w19"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#222;background-color:#F2F9FF">More Than Meets the Eye</span></td>
-    <td class="tg-2w19"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#222;background-color:#F2F9FF">Public displays of affection</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#222;background-color:#F2F9FF">Impact of consuming pornography</span></td>
-  </tr>
-</tbody>
-</table>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-2w19{background-color:#F2F9FF;color:#222;text-align:left;vertical-align:top}
-.tg .tg-3spu{background-color:#1f8ce4;color:#f2f9ff;text-align:left;vertical-align:top}
-.tg .tg-auhb{background-color:#1F8CE4;color:#F2F9FF;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-s5yd{background-color:#F2F9FF;color:#1A1C1E;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-3spu" colspan="2"><span style="font-weight:bold">Secondary 2</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-auhb"><span style="font-weight:700;color:#F2F9FF;background-color:#1F8CE4">Lesson</span></td>
-    <td class="tg-auhb"><span style="font-weight:700;color:#F2F9FF;background-color:#1F8CE4">Learning Objectives  </span></td>
-  </tr>
-  <tr>
-    <td class="tg-2w19"><span style="font-weight:400;color:#222;background-color:#F2F9FF">A role for Everyone</span></td>
-    <td class="tg-2w19"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#222;background-color:#F2F9FF">Know/define what gender role, gender identity and sexual orientation are</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#222;background-color:#F2F9FF">Recognise gender stereotypes and take steps to avoid stereotyping people.</span></td>
-  </tr>
-  <tr>
-    <td class="tg-2w19"><span style="font-weight:400;color:#222;background-color:#F2F9FF">Online Safety Challenge</span></td>
-    <td class="tg-2w19"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#222;background-color:#F2F9FF">Be aware of the dangers of interacting online, including sexting, cyberflashing and  grooming by predators.</span></td>
-  </tr>
-  <tr>
-    <td class="tg-s5yd"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#1A1C1E">Do I or Don’t I?</span></td>
-    <td class="tg-2w19"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#222;background-color:#F2F9FF">Explore the consequences of premarital sex</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#222;background-color:#F2F9FF">Be aware of the impact this might have on the couple as well as their friends and family.</span></td>
-  </tr>
-</tbody>
-</table>
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-3fsk{background-color:#1F8CE4;border-color:inherit;color:#F2F9FF;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-fsv7{background-color:#1f8ce4;border-color:inherit;color:#f2f9ff;text-align:left;vertical-align:top}
-.tg .tg-k9xk{background-color:#F2F9FF;border-color:inherit;color:#222;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-fsv7" colspan="2"><span style="font-weight:bold">Secondary 3</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-3fsk"><span style="font-weight:700;color:#F2F9FF;background-color:#1F8CE4">Lesson</span></td>
-    <td class="tg-3fsk"><span style="font-weight:700;color:#F2F9FF;background-color:#1F8CE4">Learning Objectives  </span></td>
-  </tr>
-  <tr>
-    <td class="tg-k9xk"><span style="font-weight:400;color:#222;background-color:#F2F9FF">Love Yourself, Love Others</span></td>
-    <td class="tg-k9xk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#222;background-color:#F2F9FF">Handling challenges that arise in a relationship</span></td>
-  </tr>
-  <tr>
-    <td class="tg-k9xk"><span style="font-weight:400;color:#222;background-color:#F2F9FF">Mending a Broken Heart</span></td>
-    <td class="tg-k9xk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#222;background-color:#F2F9FF">Understand the stages of grieving (for a failed relationship)</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#222;background-color:#F2F9FF">Healthy ways to cope with the break up of a relationship</span></td>
-  </tr>
-  <tr>
-    <td class="tg-k9xk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#222;background-color:#F2F9FF">When Respect Takes Centre Stage</span></td>
-    <td class="tg-k9xk"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#222;background-color:#F2F9FF">Understand and make informed decisions on  sexting</span></td>
-  </tr>
-</tbody>
-</table>
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-2w19{background-color:#F2F9FF;color:#222;text-align:left;vertical-align:top}
-.tg .tg-3spu{background-color:#1f8ce4;color:#f2f9ff;text-align:left;vertical-align:top}
-.tg .tg-auhb{background-color:#1F8CE4;color:#F2F9FF;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-s5yd{background-color:#F2F9FF;color:#1A1C1E;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-3spu" colspan="2"><span style="font-weight:bold">Secondary 4</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-auhb"><span style="font-weight:700;color:#F2F9FF;background-color:#1F8CE4">Lesson</span></td>
-    <td class="tg-auhb"><span style="font-weight:700;color:#F2F9FF;background-color:#1F8CE4">Learning Objectives  </span></td>
-  </tr>
-  <tr>
-    <td class="tg-2w19"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#222">Levelling the Ground</span><br></td>
-    <td class="tg-2w19"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#222">Exploring why there are gender stereotypes and the impact they have on a person’s self esteem</span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-s5yd"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#1A1C1E">When Love Hurts</span></td>
-    <td class="tg-s5yd"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#1A1C1E">Recognising the signs of violence and abuse in a relationship</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#1A1C1E">Discuss avenues of help and how to leave an abusive relationship.</span></td>
-  </tr>
-  <tr>
-    <td class="tg-2w19"><span style="font-weight:400;color:#222">For Better or Worse</span></td>
-    <td class="tg-2w19"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#222">Understand that marriage takes commitment and</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#222">communication  by both parties during difficulties and disagreements.</span></td>
-  </tr>
-  <tr>
-    <td class="tg-2w19"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#222">There’s Always More to a story</span></td>
-    <td class="tg-2w19"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#222">Revisiting the impact of consuming pornography.</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#222">How to seek help if one is a victim of revenge pornograhy</span></td>
-  </tr>
-</tbody>
-</table>
-
-### [eTeens Programme](https://www.google.com/url?q=http://www.moe.gov.sg/education/programmes/social-emotional-learning/sexuality-education/files/eteens-2012.pdf&sa=D&source=editors&ust=1665113309406224&usg=AOvVaw3nqmxMt_RDqseovJ3PBwSb)
-
+### eTeens Programme
 
 8. eTeens  is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, for Secondary 3 students. The programme was introduced to secondary schools in 2007 as the Breaking Down Barriers (BDB) programme, to provide students with accurate information on STIs, HIV and protection from a health perspective. eTeens is conducted in two segments – a mass talk segment and a classroom-based programme.
 
 9. Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions
 
-### At Methodist Girls' School, the eTeens programme will be implemented for Sec 3’s as follows in 2022:
+**At Methodist Girls' School, the eTeens programme will be implemented for Sec 3’s as follows in 2022:**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
