@@ -3,6 +3,9 @@ title: "1: 1 Learning Programme"
 permalink: /secondary/academic/1-1-learning-programme/
 description: ""
 ---
+<div style="width:100%; height:470px">
+	<iframe allowfullscreen="true" height="100%" width="100%" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTUuu_5bIfsDeG0vPlOIL_cKPTuA2-ob1Y80G3ozXKRhDmixew1Mwt8ks4hNZwBvWSBd1VFRkTZSvJs/embed?start=false&loop=false&delayms=3000"></iframe>
+	</div>
 
 
 ### Frequently Asked Questions
@@ -14,6 +17,11 @@ description: ""
 Please refer to these two handbooks for more information about Learning with a Personal Learning Device:  
 - [Parent Handbook on Learning with a PLD (I)](https://drive.google.com/file/d/1xsqK7iSMpd5H6LTQFhsB3-MNH1OyGE89/view?usp=sharing)  
 - [Parent Handbook on Learning with a PLD (II)](https://drive.google.com/file/d/1uKcpRzKpsTeN1Ro70kqJiUzpz_XqS96v/view?usp=sharing)
+
+<div style="width:100%; height:470px">
+	<iframe allowfullscreen="true" height="100%" width="100%" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQp-W4mmXtsbpooIwtrOXogEgVdgiKA7HiPuBGga1erL0PEHc1rCh-5Nr5-gjPRaNCgd619U0NmHbgB/embed?start=false&loop=false&delayms=3000"></iframe>
+	</div>
+	
 
 ### DMA Option for Parents
 
