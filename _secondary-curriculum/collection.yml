@@ -2,10 +2,10 @@ collections:
   secondary-curriculum:
     output: true
     order:
-      - Useful Links.md
-      - CCA.md
-      - Admissions.md
       - Academic.md
+      - Admissions.md
+      - CCA.md
       - Curriculum.md
       - Key Programmes.md
       - Student Development.md
+      - Useful Links.md
