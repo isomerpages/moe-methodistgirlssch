@@ -4,7 +4,7 @@ permalink: /news-n-events/mgserves/archives/2020/bringing-cheer-to-commuters-thr
 description: ""
 third_nav_title: "2020"
 ---
-![](/images/201007%20KM-Bugis-a.jpg)
+![](/images/Mgserves/201007%20KM-Bugis-a.jpg)
 
 If you are taking the MRT, do look out for a striking array of posters along the walls of selected MRT stations along the Downtown Line - King Albert Park, Beauty World, Little India and Bugis!
 
@@ -12,7 +12,7 @@ In a whole-of-school effort, MGS Secondary school students and staff had tapped 
   
 With the world plunged into a climate of fear, uncertainty and economic worries resulting from the ongoing pandemic, these MGS posters seek to uplift and unify the nation so that we remain a resilient and cohesive Singapore.
 
-![](/images/201007%20KM-KAP-a.jpg)
+![](/images/Mgserves/201007%20KM-KAP-a.jpg)
 
 Through the engaging series of public messages by our MGS girls and staff, we are reminded that we are together in this as one people, and that we can be compassionate, caring and enduring as a community.
 
