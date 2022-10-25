@@ -41,15 +41,11 @@ Sec/Year 3 & 4: Biology, Chemistry and Physics
 
 **O Level Syllabus**
 
-Biololgy:  [https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2023syllabus/6093\_y23\_sy.pdf](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2023syllabus/6093_y23_sy.pdf)
+[Biololgy](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2023syllabus/6093_y23_sy.pdf)
 
-  
+[Chemistry](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2023syllabus/6092_y23_sy.pdf)
 
-Chemistry:   [https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2023syllabus/6092\_y23\_sy.pdf](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2023syllabus/6092_y23_sy.pdf)
-
-  
-
-Physics:   [https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2023syllabus/6091\_y23\_sy.pdf](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2023syllabus/6091_y23_sy.pdf)
+[Physics](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2023syllabus/6091_y23_sy.pdf)
 
   
 
