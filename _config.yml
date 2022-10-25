@@ -1,6 +1,6 @@
 title: Methodist Girls' School
 url: https://www.mgs.moe.edu.sg
-favicon: /images/Others/mgs logo grad.png
+favicon: /images/Others/logo-mgs.png
 colors:
   primary-color: "#0a2240"
   secondary-color: "#b18646"
@@ -51,7 +51,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.dt6ildc2mnegy.amplifyapp.com
 prod: https://master.dt6ildc2mnegy.amplifyapp.com
-shareicon: /images/Others/mgs logo grad.png
+shareicon: /images/Others/logo-mgs.png
 is_government: false
 facebook-pixel: ""
 google_analytics: ""
