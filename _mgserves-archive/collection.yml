@@ -1,5 +1,5 @@
 collections:
-  archive:
+  mgserves-archive:
     output: true
     order:
       - 2021.md
