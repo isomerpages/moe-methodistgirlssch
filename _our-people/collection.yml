@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Parents/.keep
-      - FamilyMatters@Schools.md
       - ParentLink/.keep
       - ParentLink/About Us.md
       - ParentLink/Events.md
