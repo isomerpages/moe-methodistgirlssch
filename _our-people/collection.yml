@@ -2,11 +2,11 @@ collections:
   our-people:
     output: true
     order:
+      - ParentLink/.keep
+      - ParentLink/ParentLink.md
       - ParentLink/Events.md
       - ParentLink/Join Us.md
-      - ParentLink/ParentLink.md
       - ParentLink/Publications.md
-      - ParentLink/.keep
       - Board of Management.md
       - School Leaders.md
       - Primary Staff/.keep
