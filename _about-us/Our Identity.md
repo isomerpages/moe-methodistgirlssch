@@ -96,7 +96,7 @@ The MGS House system was first formed in 1932, with four houses named after Meth
 
 ### About The Four Houses
 
-![Photograph of 4 MGS house leaders holding their house flags](/images/Others/mgs-4houses.jpg)
+![Photograph of 4 MGS house leaders holding their house flags](/images/Others/mgs-houses-stds.jpg)
 
 <table width="100%" border="0" cellpadding="3" cellspacing="0" >
   <tr>
