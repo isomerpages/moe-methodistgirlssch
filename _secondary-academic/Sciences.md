@@ -3,8 +3,6 @@ title: Sciences
 permalink: /secondary/curriculum/academic/sciences/
 description: ""
 ---
-
-
 ### Vision
 
 Science literate MGS students are logical thinkers who are technologically, scientifically, and mathematically literate and can tackle complex questions, investigate global issues, and develop solutions for real world problems by applying the disciplinary practice of Science.   
@@ -34,29 +32,10 @@ By the end of the 4th year in MGS, all students should have gained sufficient kn
 
 ### Curriculum Structure
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-uwnk{color:#3D3D3D;text-align:left;vertical-align:top}
-.tg .tg-feqv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-feqv"><span style="color:#666;background-color:#DDD">Sec/Year 1 &amp; 2</span></th>
-    <th class="tg-feqv"><span style="color:#666;background-color:#DDD">Sec/Year 3 &amp; 4</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-uwnk"><span style="color:#3D3D3D">Lower Secondary Science</span></td>
-    <td class="tg-uwnk">Biology<br>Chemistry<br>Physics</td>
-  </tr>
-</tbody>
-</table>
+Sec/Year 1 & 2: Lower Secondary Science 
+
+Sec/Year 3 & 4: Biology, Chemistry and Physics
+
 
 ### Syllabuses (SEAB/internal)
 
