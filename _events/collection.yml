@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - Email & Letter to Parents.md
       - Calendar of Events.md
       - MGServes.md
       - Open House.md
