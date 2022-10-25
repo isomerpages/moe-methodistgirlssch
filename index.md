@@ -32,4 +32,8 @@ sections:
         its equivalent
       button: More information
       url: https://staging.dt6ildc2mnegy.amplifyapp.com/secondary/admissions/mgs-ip-for-year-3-intake/
+  - infobar:
+      title: Email/Letters to Parents
+      button: More Information
+      url: /events/lettertoparents
 ---
