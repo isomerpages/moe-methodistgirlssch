@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - ParentLink/.keep
-      - ParentLink/ParentLink.md
+      - ParentLink/About Us.md
       - ParentLink/Events.md
       - ParentLink/Join Us.md
       - ParentLink/Publications.md
