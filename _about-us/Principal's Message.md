@@ -11,7 +11,7 @@ description: ""
       <p>Throughout their formative years at MGS, our girls are anchored with strong values as they strive for mastery, grow in personhood, and serve with a generous and giving heart. The MGS education fosters a love for Singapore and the community and encourages our girls to contribute meaningfully and sensitively to society, always seeking to be a blessing to others. The MGS girl is imbued with a deep sense of agency, empathy and conviction to bring goodness and light for the betterment of the society and world around her. Our motto ‘To Master, To Grow, To Serve’ reflects our proud tradition of developing girls who make a positive impact wherever they go, in whatever they do, in the roles they take on in every phase of their lives.
       <p> The MGS girl belongs to a vibrant school community that seeks to ensure the well-being of each and every child. As we care for and guide our girls in their personal growth journey of being and becoming, we are supported by passionate stakeholders who work in close partnership with the school. This warm community tapestry envelops each girl with a sense of belonging to the school and is why MGS remains a cherished place in the hearts of all, including myself, who have been blessed to have passed through her gates.
 			<p> <b>Mrs Valarie Wilson </b></td>
-    <td valign="top" style="width:30%"><img src="/images/Others/sl-vwilson2.jpg" 
-     style="width:98%;"></td>
+    <td valign="top" style="width:30%"><img src="/images/Others/sl-vwilson2.jpg" style="width:98%;">
+		</td>
   </tr>
 </table>
