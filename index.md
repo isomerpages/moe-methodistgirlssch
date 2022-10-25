@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Others/mgs-values.jpg
+      background: /images/Others/Banners/mgs-mission.jpg
       key_highlights:
         - title: Direct School Admission Into MGS Secondary One In 2023
           description: Outcome for Direct School Admission for Secondary One
@@ -33,4 +33,3 @@ sections:
       button: More information
       url: https://staging.dt6ildc2mnegy.amplifyapp.com/secondary/admissions/mgs-ip-for-year-3-intake/
 ---
-
