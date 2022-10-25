@@ -12,3 +12,5 @@ MGServes is an MGS community-wide movement to spread goodwill and share our bles
 Giving to those in need can take on various forms, from acts of kindness done as a family or with friends, to informal collaborations or organised ground-up initiatives between different groups of MGS students, staff, parents, the alumnae and other stakeholders. 
 
 With your support, we hope to consolidate our efforts through the MGServes movement to bring cheer and encouragement and change lives for the better.
+
+[Browse our archives here.](https://staging.dt6ildc2mnegy.amplifyapp.com/news-n-events/mgserves/2021/)
