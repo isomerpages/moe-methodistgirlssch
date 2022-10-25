@@ -2,6 +2,7 @@ collections:
   our-people:
     output: true
     order:
+      - Join Us.md
       - Events.md
       - ParentLink.md
       - Board of Management.md
