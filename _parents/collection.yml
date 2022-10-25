@@ -1,5 +1,4 @@
 collections:
   parents:
     output: true
-    order:
-      - Email & Letters to Parents.md
+    order: []
