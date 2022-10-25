@@ -2,7 +2,6 @@ collections:
   secondary-curriculum:
     output: true
     order:
-      - CCA.md
       - Curriculum.md
       - Key Programmes.md
       - Student Development.md
