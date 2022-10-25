@@ -4,7 +4,7 @@ permalink: /news-n-events/mgserves/archives/2020/art-reflections-at-kap-station-
 description: ""
 third_nav_title: "2020"
 ---
-![](/images/200623%20Art%20KAP.png)
+![](/images/Mgserves/200623%20Art%20KAP.png)
 
 During these tumultuous times of upheaval and flux, sometimes we need to take pause and reflect amidst the maelstrom of events and information as we grapple worldwide with the changing landscape. 
 
