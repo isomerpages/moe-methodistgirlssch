@@ -5,7 +5,7 @@ description: ""
 ---
 [Click here to submit your MGServes stories!](https://docs.google.com/forms/d/e/1FAIpQLSevIqVNlJtuTAndmRUfuBkPBxgJvnf0eCDcp_XR9yUwUe2soQ/viewform)  
 
-![](/images/Others/MGServes.png)
+![](/images/Others/mgserves.png)
 
 MGServes is an MGS community-wide movement to spread goodwill and share our blessings with others. As one MGS, we endeavor to collect 135 stories of service carried out by the MGS community for various beneficiaries throughout 2022. 
 
