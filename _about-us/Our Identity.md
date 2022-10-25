@@ -14,10 +14,13 @@ The school video encapsulates the quintessence of MGS, an established legacy sin
 
 ### BLESS THIS SCHOOL
 
-'Bless This School' is a familiar song that reverberates throughout the school campus daily, and distinctively characterises the schooling days of all MGS girls. Refreshed in 2022, it marks the 135th founding anniversary of MGS, and was first performed live at the MGS 135th Founder's Day Service & Graduation Ceremony.
+['Bless This School'](https://drive.google.com/file/d/1L41AyMuvFF0gVZPPpHLrB5u5OHsI5iIQ/preview)  is a familiar song that reverberates throughout the school campus daily, and distinctively characterises the schooling days of all MGS girls. Refreshed in 2022, it marks the 135th founding anniversary of MGS, and was first performed live at the MGS 135th Founder's Day Service & Graduation Ceremony.
+<br>
+<br>
+
 
 <img src="/images/Others/mgs%20logo%20grad.png" 
-     style="width:40%">
+     style="width:30%">
 		 
 ## (I) School Philosophy
 
@@ -94,7 +97,13 @@ The MGS House system was first formed in 1932, with four houses named after Meth
 
 ### About The Four Houses
 
+![Photograph of 4 MGS house leaders holding their house flags](/images/Others/mgs-4houses.jpg)
+
 #### BLACKMORE 
+
+<img src="/images/Others/mgs-houses-blackmore.jpg" alt="MGS Blackmore House"
+     style="padding:0px 0px 0px 3px; width:30%; float:left;">
+		
 Blackmore House was named after Miss Sophia Blackmore, founder of MGS and principal from 1887 to 1892. Miss Blackmore was born in 1857 in New South Wales, Australia, and was the first female missionary sent to Singapore by the Methodist Women’s Foreign Missionary Society in 1887. She pioneered education for girls in Singapore, and established two schools, a church and the Nind Home boarding school for girls, which was located at Mount Sophia.
 
 #### OLSON
