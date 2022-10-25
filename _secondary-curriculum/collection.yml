@@ -2,7 +2,7 @@ collections:
   secondary-curriculum:
     output: true
     order:
-      - Test.md
+      - Academic.md
       - CCA.md
       - Curriculum.md
       - Key Programmes.md
