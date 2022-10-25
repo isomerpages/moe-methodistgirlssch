@@ -67,7 +67,7 @@ The MGS IP is a through-train programme that leads to the International Baccalau
       <td class="tg-lc1c">By Zoom<br>
         Register <a href="https://go.gov.sg/mgyear3ip">HERE</a><a href="https://go.gov.sg/mgyear3ip"> </a>to obtain the link.<br>
         Alternatively, you may access using the QR code below: <br>
-        <img src="/images/Secondary/Admissions/dsa-yr3ip-2022-qrcode.png" alt="Secondary/Admissions/dsa-yr3ip-2022-qrcode.png" width="147" height="159"></td>
+        <img src="/images/Secondary/Admissions/dsa-yr3ip-2022-qrcode.png" alt="Secondary/Admissions/dsa-yr3ip-2022-qrcode.png" style="width:50%" ></td>
     </tr>
     <tr>
       <td class="tg-bzr3">25 April 2022<br>
