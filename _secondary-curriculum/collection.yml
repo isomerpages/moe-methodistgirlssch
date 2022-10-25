@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - Curriculum.md
-      - Acad.md
+      - Academic.md
       - Key Programmes.md
       - Student Development.md
