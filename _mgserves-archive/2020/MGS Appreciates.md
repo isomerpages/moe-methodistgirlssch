@@ -4,7 +4,7 @@ permalink: /news-n-events/mgserves/archives/2020/mgs-appreciates/
 description: ""
 third_nav_title: "2020"
 ---
-![](/images/200707%20MGS%20Appreciates.jpg)
+![](/images/Mgserves/200707%20MGS%20Appreciates.jpg)
 
 MGS Gives Thanks is a student-led activity which saw P4 to P6 class chairpersons leading their entire classes in folding origami hearts to create an A4-sized card with a personalised message to show appreciation for school staff.    
 
