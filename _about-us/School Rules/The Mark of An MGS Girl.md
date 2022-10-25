@@ -15,7 +15,9 @@ third_nav_title: School Rules
 - She applies the Biblical principles of “Love your neighbour as yourself” and “Do to others what you would have them do to you”.    
 3. She greets all members of the MGS community – teachers, administrative personnel, parents and visitors politely.  
 
+
 4. She walks briskly and quietly in an orderly manner from one venue to another.  
+
 
 5. She is neatly dressed in MGS attire and approved footwear for the time spent in school during school term and school vacation.  
 - She will not use her MGS attire for inappropriate purposes and disreputable activities that may tarnish the good name of MGS.
