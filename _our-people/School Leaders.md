@@ -26,11 +26,13 @@ description: ""
     <tr>
       <td valign="top" style="text-align: center;"><p><img src="/images/Others/sl-hchia.png" alt="Hannah Chia" width="228" height="228"><br>
           <a target="" href="mailto:hannah_chia@schools.gov.sg">Ms Hannah Chia</a><br>
-          <b>Vice-Principal</b></p></td>
+          <b>Vice-Principal</b><br>
+      </p></td>
       <td valign="top" style="text-align: center;">&nbsp;</td>
       <td valign="top" style="text-align: center;"><p><img src="/images/Others/sl-cteng.png" alt="Charles Teng" width="187" height="229"><br>
           <a target="" href="mailto:teng_tat_meng_charles@schools.gov.sg">Mr Charles Teng</a><br>
-          <b>Vice-Principal (Administration)</b></p></td>
+          <b>Vice-Principal <br>
+          (Administration)</b></p></td>
       <td valign="bottom" align="center">&nbsp;</td>
     </tr>
     <tr>
