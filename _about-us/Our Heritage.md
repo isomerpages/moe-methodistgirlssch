@@ -31,56 +31,54 @@ A hundred years after its founding, MGS sought greater autonomy from the Ministr
 
 ## To MGS
 	
-Words &amp; Music by Eleanor Wong, Class of 1978
+**Words &amp; Music by Eleanor Wong, Class of 1978**
 
 <div style="width:100%; height:400px">
   <iframe class="ive_eobj_center" allowfullscreen="" frameborder="0" title="MGS Heritage Video" src="https://www.youtube.com/embed/3D_sSvatwQc" height="100%" width="100%">
   </iframe>
 </div>
 
-Mama would chide at breakfast time as I pocketed my money for the day.<br>
-You be a good girl now you hear, and always remember that you are to say,<br>
-Good morning to your teachers,<br>
-And be nice to your friends.<br>
-If you ever do wrong (God forbid)<br>
+Mama would chide at breakfast time as I pocketed my money for the day.  
+You be a good girl now you hear, and always remember that you are to say,  
+Good morning to your teachers,  
+And be nice to your friends.  
+If you ever do wrong (God forbid)  
 just make sure that you make amends.
 
-Cos you're a student in a special school<br>
-Where the girls are sweet &amp; heed the golden rule<br> 
-So always behave at your very best<br>
-Cos you're Special<br>
-You're in MGS<br>
+Cos you're a student in a special school  
+Where the girls are sweet & heed the golden rule  
+So always behave at your very best  
+Cos you're Special  
+You're in MGS  
 You're in MGS!
 
-Eyes are all bleary early morn,<br>
-midnight oil is still just burning in my head<br>
-But a test is coming and I'm thinking of<br>
-The many many times that Mama said,<br>
-Study hard for each subject, just do well all through the year<br>
-And you'll never have to worry<br>
+Eyes are all bleary early morn,  
+midnight oil is still just burning in my head  
+But a test is coming and I'm thinking of  
+The many many times that Mama said,  
+Study hard for each subject, just do well all through the year  
+And you'll never have to worry  
 When report book season is here
 
-Cos you're a student in a special school<br>
-Where the girls study hard and never play the fool<br> 
-So aim high, high in every test<br>
-Cos you're special<br>
-You're in MGS<br>
+Cos you're a student in a special school  
+Where the girls study hard and never play the fool  
+So aim high, high in every test  
+Cos you're special  
+You're in MGS  
 You're in MGS!
 
-I wake her up though it's only dawn.<br> 
-She makes a face and rubs her eyes.<br> 
-Then she gives me a grin minus one front tooth<br>
-And a thousand memories arise,<br>
-Of good old days as a teenage girl,<br>
-Of fun-filled hours of happiness.<br>
-And I watch from the gate as she boards the bus,<br>
+I wake her up though it's only dawn.  
+She makes a face and rubs her eyes.  
+Then she gives me a grin minus one front tooth  
+And a thousand memories arise,  
+Of good old days as a teenage girl,  
+Of fun-filled hours of happiness.  
+And I watch from the gate as she boards the bus,  
 Look after her, dear MGS
 
-Cos she's a student in a very special school,<br>
-where the girls study hard, they heed the golden rule,<br> 
-And her Mama knows that she's getting all the best,<br>
-In that special school<br>
-That's called MGS<br>
+Cos she's a student in a very special school,  
+where the girls study hard, they heed the golden rule,  
+And her Mama knows that she's getting all the best,  
+In that special school  
+That's called MGS  
 She's in MGS
-	
-</span>
