@@ -12,9 +12,8 @@ In this current climate of uncertainty and fear with the pandemic raging worldwi
 
 In continuing our mission to be that city on a hill and the salt and light of the world, MGS strives to spread the message that each of us can be compassionate, caring and courageous and rise above fear.
 
-![](/images/200707%20mgblessings%20posters.jpg)
+![](/images/Mgserves/200707%20mgblessings%20posters.jpg)
 
 Hence, with this initiative supported by SBS Transit and Singapore Kindness Movement, we are excited to extend our MGSBlessings movement beyond our school to contribute to the commuter experience and inspire them to be empowered to create good stories and goodwill by being that spark.
 
 These posters which bring messages of hope, solidarity and unity to public transport commuters will be displayed at the various MRT stations nationwide in the coming months - a small way in which we seek to uplift Singapore as we rally to overcome COVID-19.
-
