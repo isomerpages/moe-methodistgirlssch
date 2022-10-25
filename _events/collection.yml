@@ -2,8 +2,8 @@ collections:
   events:
     output: true
     order:
-      - Letters to Parents.md
       - Calendar of Events.md
+      - Letters to Parents.md
       - MGServes.md
       - Open House.md
       - Publications.md
