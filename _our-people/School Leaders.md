@@ -7,28 +7,28 @@ description: ""
   <tbody>
     <tr>
       <td valign="top" style="text-align: center;">&nbsp;</td>
-      <td valign="top" style="text-align: center;"><p><img src="/images/Others/SL-P-VWilson.jpg" alt="Valarie Wilson" width="191" height="255"><br>
+      <td valign="top" style="text-align: center;"><p><img src="/images/Others/sl-vwilson.jpg" alt="Valarie Wilson" width="191" height="255"><br>
           <a target="" href="mailto:Valarie_koh@schools.gov.sg">Mrs Valarie Wilson</a><br>
           <b>Principal</b></p></td>
       <td valign="top" style="text-align: center;"><p>&nbsp;</p></td>
       <td valign="bottom" align="center">&nbsp;</td>
     </tr>
     <tr>
-      <td valign="top" style="text-align: center;"><p><img src="/images/Others/SL-VP-CSim.jpg" alt="Corinne Sim" width="191" height="255"><br>
+      <td valign="top" style="text-align: center;"><p><img src="/images/Others/sl-csim.jpg" alt="Corinne Sim" width="191" height="255"><br>
           <a target="" href="mailto:Corinne_SIM@schools.gov.sg">Mrs Corinne Sim </a><br>
           <b>Vice-Principal</b></p></td>
       <td valign="top" style="text-align: center;">&nbsp;</td>
-      <td valign="top" style="text-align: center;"><p><img src="/images/Others/SL-VP-DGoh.jpg" alt="Diana Goh" width="191" height="255"><br>
+      <td valign="top" style="text-align: center;"><p><img src="/images/Others/sl-dgoh.jpg" alt="Diana Goh" width="191" height="255"><br>
           <a target="" href="mailto:Diana_TAN@schools.gov.sg">Mrs Diana Goh </a><br>
           <b>Vice-Principal</b></p></td>
       <td valign="bottom" align="center">&nbsp;</td>
     </tr>
     <tr>
-      <td valign="top" style="text-align: center;"><p><img src="/images/Others/SL-VP-HChia.png" alt="Hannah Chia" width="228" height="228"><br>
+      <td valign="top" style="text-align: center;"><p><img src="/images/Others/sl-hchia.png" alt="Hannah Chia" width="228" height="228"><br>
           <a target="" href="mailto:hannah_chia@schools.gov.sg">Ms Hannah Chia</a><br>
           <b>Vice-Principal</b></p></td>
       <td valign="top" style="text-align: center;">&nbsp;</td>
-      <td valign="top" style="text-align: center;"><p><img src="/images/Others/SL-VP-CTeng.png" alt="Charles Teng" width="187" height="229"><br>
+      <td valign="top" style="text-align: center;"><p><img src="/images/Others/sl-cteng.png" alt="Charles Teng" width="187" height="229"><br>
           <a target="" href="mailto:teng_tat_meng_charles@schools.gov.sg">Mr Charles Teng</a><br>
           <b>Vice-Principal (Administration)</b></p></td>
       <td valign="bottom" align="center">&nbsp;</td>
