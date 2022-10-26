@@ -92,11 +92,11 @@ Team A - Plate competition - 1st Position
   <tbody>
     <tr>
       <th class="tr-header">CCA Schedule</th>
-      <td class="tr-norm"><p>Days: Tuesdays and Thursdays<br>
+      <td class="tr-norm">Days: Tuesdays and Thursdays<br>
           <br>
           Time &amp; Venue:<br>
           4.00pm to 6.00pm (MGS School Field)<br>
-    3.00pm to 5.00pm (Turf City)</p>      
+    3.00pm to 5.00pm (Turf City)
 			</td>
 		</tr>
   </tbody>
