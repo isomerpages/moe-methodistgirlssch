@@ -71,13 +71,16 @@ In furthering the MGS swimming legacy, each member is given the opportunity to a
       <td class="tr-norm">Captains (School Team / Club)<br>
         Vice-captains (School Team / Club)<br>
         Treasurer (School Team)<br>
-    Lower Secondary Representative (School Team)</tr>
+    Lower Secondary Representative (School Team)
+			</td></tr>
   </thead>
   <tbody>
     <tr>
       <th class="tr-header">CCA Schedule</th>
       <td class="tr-norm"><p>School Team: Wednesday (2.45pm – 3.45pm)<br>
         CCA Club: Monday &amp; Wednesday (2.45pm – 4.45pm)<br>
-    Venue: MGS Swimming Complex</p>      </tr>
+    Venue: MGS Swimming Complex</p>      
+		</td>
+		</tr>
   </tbody>
 </table>
