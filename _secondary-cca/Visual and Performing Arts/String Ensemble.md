@@ -93,8 +93,8 @@ The CCA experience for members have included:
         - Quartermistress<br>
         <br>
         Music Committee:<br>
-        - Concertmistress<br>
-      - Section and Assistant Section Leaders</td>
+        - Concert mistress<br>
+				- Section and Assistant Section Leaders</td>
     </tr>
   </thead>
   <tbody>
