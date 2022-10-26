@@ -71,12 +71,15 @@ As a shelter sport, members are able to carry out training sessions in indoor co
       <th class="tr-header">Leadership Opportunities</th>
       <td class="tr-norm">C Division: Captain, Vice Captain<br>
     B Division: Captain, Vice Captain</tr>
+		</td>
   </thead>
   <tbody>
     <tr>
       <th class="tr-header">CCA Schedule</th>
       <td class="tr-norm"><p>Days: Monday, Wednesday, Friday<br>
         Time: 3.00pm to 6.00pm<br>
-    Venue: Squash Court</p>      </tr>
-  </tbody>
+    Venue: Squash Court</p>
+			</td>
+	</tr>
+</tbody>
 </table>
