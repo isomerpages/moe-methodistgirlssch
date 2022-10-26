@@ -2,7 +2,6 @@ collections:
   secondary-curriculum:
     output: true
     order:
-      - Admissions.md
       - CCA.md
       - Curriculum.md
       - Key Programmes.md
