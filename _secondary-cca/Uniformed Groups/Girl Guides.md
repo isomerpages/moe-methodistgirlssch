@@ -75,13 +75,17 @@ Guiding also creates many opportunities for girls to understand complex issues c
         Patrol Leader (PL)<br>
         Patrol Second (PS)<br>
         Secretariat<br>
-    Quarter Mistress</tr>
+    Quarter Mistress
+			</td>
+		</tr>
   </thead>
   <tbody>
     <tr>
       <th class="tr-header">CCA Schedule</th>
-      <td class="tr-norm"><p>Day: Wednesday<br>
+      <td class="tr-norm">Day: Wednesday<br>
         Time: 2.45pm-5.30pm<br>
-    Venue: Bamboo Courtyard</p>      </tr>
+				Venue: Bamboo Courtyard
+			</td>
+		</tr>
   </tbody>
 </table>
