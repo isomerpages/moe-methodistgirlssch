@@ -23,9 +23,6 @@ Science: [Mr Liu Heok Hing](mailto:liu_heok_hing@schools.gov.sg)
 Student Management & Well-Being: [Ms Ho Wai Mun](mailto:ho_wai_mun@schools.gov.sg)
 <style type="text/css">
 .tg {
-    border-color: black;
-    border-style: solid;
-    border-width: 1px;
     color: #3D3D3D;
     padding: 10px 5px;
 	text-align: left;
@@ -35,24 +32,15 @@ Student Management & Well-Being: [Ms Ho Wai Mun](mailto:ho_wai_mun@schools.gov.
     word-break: normal;
 }
 .tg th {
-    background-color: #DDD;
-    border-color: black;
-    border-style: solid;
-    border-width: 1px;
     color: #3D3D3D;
     font-weight: bold;
 }
 .tg .tr-norm {
-    border-color: black;
-    border-style: solid;
-    border-width: 1px;
+
     vertical-align: top;
 }
 .tg .tr-header {
-    border-color: black;
-    border-style: solid;
-    border-width: 1px;
-    color: #3D3D3D;
+    
     font-weight: bold;
     vertical-align: top;
 	
