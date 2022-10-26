@@ -64,28 +64,33 @@ Our members have won awards in various competitions over the years.
   <thead>
     <tr>
       <th class="tr-header">Leadership Opportunities</th>
-      <td class="tr-norm">Coding Section: <br>
-        - President<br>
-        - Vice-President<br>
-        - Secretary<br>
-        - Special Projects<br>
-        - Level Representatives<br>
-        - VIA Coordinators<br></td>
-      <td class="tr-norm">Image and Sound Section: <br>
-        - President</span><br>
-        - Vice-President (Still Images)<br>
-        - Vice-President (Moving Images &amp; Sound)<br>
-        - Secretary<br>
-        - Events Manager<br>
-        - Level Representatives<br></td>
-    </tr>
-  </thead>
-  <tbody>
+      <td class="tr-norm">
+				<p>Coding Section: <br>
+					- President<br>
+					- Vice-President<br>
+					- Secretary<br>
+					- Special Projects<br>
+					- Level Representatives<br>
+					- VIA Coordinators<br>
+				</p>
+				<p>Image and Sound Section: <br>
+					- President<br>
+					- Vice-President (Still Images)<br>
+					- Vice-President (Moving Images &amp; Sound)<br>
+					- Secretary<br>
+					- Events Manager<br>
+					- Level Representatives<br>
+				</p>
+			</td>
+		</tr>
+	</thead>
+	<tbody>
     <tr>
       <th class="tr-header">CCA Schedule</th>
-      <td class="tr-norm" colspan="2">Day : Friday <br>
+      <td class="tr-norm">Day : Friday <br>
         Time &amp; Duration : 3.00 pm to 5.00 pm / 2 hours (approximate)<br>
-        Venue : IT Lab 2.0, IT Lab 3.1, Teaching Lab, Think Tank</td>
+        Venue : IT Lab 2.0, IT Lab 3.1, Teaching Lab, Think Tank
+			</td>
     </tr>
   </tbody>
 </table>
