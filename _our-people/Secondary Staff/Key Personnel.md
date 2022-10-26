@@ -4,9 +4,6 @@ permalink: /secondary/staff/key-personnel/
 description: ""
 third_nav_title: Secondary Staff
 ---
-
-
-
 ### DEAN
 
 Academic Studies: [Ms Choo Siew Bee](mailto:choo_siew_bee@schools.gov.sg)
@@ -40,7 +37,7 @@ Community Service & Advocacy: [Mr Dennis Auyang](mailto:auyang_seh_hon_dennis@s
 Education and Career Guidance: [Ms Kek Lay Yan](mailto:kek_lay_yan@schools.gov.sg)  
 Education Technology: [Mr Jay Cheong](mailto:jay_cheong_han_wen@schools.gov.sg)  
 Humanities (Social Studies): [Mr Terence Goh](mailto:goh_keng_lee_terence@mgs.sch.edu.sg)  
-Language Arts: [](mailto:fiona_ngiam@mgs.sch.edu.sg)[Mrs Chitra Thirumaran](mailto:chitra_thirumaran@schools.gov.sg)  
+Language Arts: [Mrs Chitra Thirumaran](mailto:chitra_thirumaran@schools.gov.sg)  
 Mathematics: [Mrs Ruth Tan](mailto:ruth_tan@schools.gov.sg)  
 Mother Tongue: [Mdm Chu Suat Bee](mailto:chu_suat_bee@schools.gov.sg)  
 Music (MEP): [Mrs Arlene Chan](mailto:low_siew_kheng_arlene@schools.gov.sg)  
@@ -52,10 +49,12 @@ Student Leadership / Prefect Mistress: [Mrs Chen Kok Peng](mailto:chen_kok_peng
 
 Secondary 1 YH: [Mrs Natalie Lim](mailto:natalie_chew@schools.gov.sg)  
 Secondary 1 AYH: [Mrs Grace Wong](mailto:grace_yeo_hui_ling@schools.gov.sg)  
-[](mailto:alethea_eng@mgs.sch.edu.sg)Secondary 2 YH:  [Mrs Jenny Ng](mailto:chng_sze_kuen@schools.gov.sg)  
+Secondary 2 YH:  [Mrs Jenny Ng](mailto:chng_sze_kuen@schools.gov.sg)  
 Secondary 2 AYH:  [Ms Alethea Eng](mailto:xiu_ying_alethea_eng@schools.gov.sg)  
-Secondary 3 YH:  [Ms Carol Tay](mailto:carol_tay_dan_guey@schools.gov.sg)Secondary 3 AYH:  [Mrs Catherine Cheong](mailto:catherine_cheong@schools.gov.sg)  
-Secondary 4 YH:  [Mrs Sally E](mailto:pang_sally@schools.gov.sg) Secondary 4 AYH:  [Ms Wong Khai Shin](mailto:wong_khai_shin@schools.gov.sg)   
+Secondary 3 YH:  [Ms Carol Tay](mailto:carol_tay_dan_guey@schools.gov.sg)
+Secondary 3 AYH:  [Mrs Catherine Cheong](mailto:catherine_cheong@schools.gov.sg)  
+Secondary 4 YH:  [Mrs Sally E](mailto:pang_sally@schools.gov.sg)
+Secondary 4 AYH:  [Ms Wong Khai Shin](mailto:wong_khai_shin@schools.gov.sg)   
 Integrated Programme AYH: [Mrs Grace Poh](mailto:grace_poh@schools.gov.sg)
 
 ### PROGRAMME HEADS
