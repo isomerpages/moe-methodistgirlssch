@@ -61,13 +61,17 @@ Players can also look forward to participating in various events such as the ann
     <tr>
       <th class="tr-header">Leadership Opportunities</th>
       <td class="tr-norm">Captains (B &amp; C Division)<br>
-    Vice-Captains (B &amp; C Division)</tr>
+    Vice-Captains (B &amp; C Division)
+			</td>
+		</tr>
   </thead>
   <tbody>
     <tr>
       <th class="tr-header">CCA Schedule</th>
-      <td class="tr-norm"><p>Days: Mondays, Wednesdays &amp; Fridays<br>
+      <td class="tr-norm">Days: Mondays, Wednesdays &amp; Fridays<br>
         Time &amp; Duration: 3.00pm - 6.00pm<br>
-    Venue: School Field</p>      </tr>
+    Venue: School Field
+			</td>
+		</tr>
   </tbody>
 </table>
