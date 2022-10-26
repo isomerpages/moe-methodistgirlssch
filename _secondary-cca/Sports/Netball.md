@@ -80,18 +80,22 @@ The MGS netball experience is one that will definitely bring about many incredib
         Netball Camp + Sec 4 Farewell Party<br>
         Alumnae Day<br>
       Bonding Games          
+			</td>
     </tr>
     <tr>
       <th class="tr-header">Leadership Opportunities</th>
       <td class="tr-norm">Captain<br>
         Vice-Captains<br>
     Lower/Upper Sec CCA committee</tr>
+		</td>
   </thead>
   <tbody>
     <tr>
       <th class="tr-header">CCA Schedule</th>
       <td class="tr-norm"><p>Days: Monday, Wednesday and Friday<br>
         Time: 3.00pm – 5.30pm<br>
-    Venue: Indoor Sports Hall (ISH)</p>      </tr>
-  </tbody>
+    Venue: Indoor Sports Hall (ISH)</p>      
+				</td>
+	</tr>
+</tbody>
 </table>
