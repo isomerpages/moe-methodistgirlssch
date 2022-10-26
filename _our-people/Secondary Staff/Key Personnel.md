@@ -21,11 +21,12 @@ Physical Education & Co-Curricular Activities: [Mr Dan Ho](mailto:dan_ho@school
 School Staff Developer:  [Mrs Ivay Lim](mailto:tan_sin_yee_ivay@schools.gov.sg)  
 Science: [Mr Liu Heok Hing](mailto:liu_heok_hing@schools.gov.sg)  
 Student Management & Well-Being: [Ms Ho Wai Mun](mailto:ho_wai_mun@schools.gov.sg)
+
 <style type="text/css">
 .tg {
     color: #3D3D3D;
     padding: 10px 5px;
-	text-align: left;
+    text-align: left;
 }
 .tg td {
     overflow: hidden;
@@ -36,14 +37,12 @@ Student Management & Well-Being: [Ms Ho Wai Mun](mailto:ho_wai_mun@schools.gov.
     font-weight: bold;
 }
 .tg .tr-norm {
-
     vertical-align: top;
 }
 .tg .tr-header {
-    
+    text-align: right;
     font-weight: bold;
     vertical-align: top;
-	
 }
 </style>
 
