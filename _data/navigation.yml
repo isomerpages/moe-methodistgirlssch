@@ -51,7 +51,7 @@ links:
     url: /secondary/curriculum/
     sublinks:
       - title: Academic
-        url: /secondary-academic/Academic
+        url: /secondary/curriculum/academic/
       - title: Admissions
         url: /secondary/admissions/
       - title: CCA
@@ -59,7 +59,7 @@ links:
       - title: Curriculum
         url: /secondary/curriculum/
       - title: Key Programmes
-        url: /secondary/key-programmes/
+        url: /secondary/key-programmes/rocs/
       - title: Student Development
         url: /secondary/student-development/
       - title: Useful Links
