@@ -4,7 +4,7 @@ permalink: /secondary/curriculum/cca/visual-and-performing-arts/
 description: ""
 third_nav_title: Visual and Performing Arts
 ---
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TMnsp1-vMrI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<div style="width:100%; height:400px">
+  <iframe class="ive_eobj_center" allowfullscreen="" frameborder="0" title="MGS Heritage Video" src="https://www.youtube.com/embed/TMnsp1-vMrI" height="100%" width="100%">
+  </iframe>
+</div>
