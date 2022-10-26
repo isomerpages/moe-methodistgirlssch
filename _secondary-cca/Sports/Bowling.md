@@ -4,14 +4,15 @@ permalink: /secondary/curriculum/cca/sports/bowling/
 description: ""
 third_nav_title: Sports
 ---
+<div style="width:100%; height:400px">
+  <iframe class="ive_eobj_center" allowfullscreen="" frameborder="0" title="MGS Heritage Video" src="https://www.youtube.com/embed/q9HBVXGwUT4" height="100%" width="100%">
+  </iframe>
+</div>
 
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q9HBVXGwUT4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 The MGS Bowling School Team aims to develop a team of dedicated and passionate bowlers who are interested in developing and furthering their bowling skills and techniques to enable them to participate in the various National Bowling Competitions over the course of their secondary school education. Throughout their four years in the team, our bowlers will undergo rigorous training sessions up to 3 times a week so that they will be equipped with the necessary bowling competencies. The training sessions will help to nurture and develop bowlers to maximise their fullest potential in the team sport. Bowlers will also learn to work and bond as a team through various activities.
 
-![](/images/bowling%202021.jpg)
+![](/images/Sec_cca/bowling.jpg)
 
 The MGS Bowling Club is a training platform for non-school team bowlers. Those with passion and some experience in bowling can sign up for the club to continue to hone their skills in the sport. Club applicants will undergo a selection trial before the first bowling session.
 
@@ -23,4 +24,69 @@ The MGS Bowling Team conducts weekly training sessions for its bowlers to prepar
 
 School-based training sessions are also included to help build up the bowlers’ stamina and endurance, as well as foster closer ties between team members.
 
-<table border="1" cellspacing="0" cellpadding="5" width="95%" class="iveo_table ives_tab_simple" style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; border: none; color: rgb(61, 61, 61); font-family: Poppins, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td align="left" valign="top" width="30%" style="margin: 0px; outline: 0px; padding: 4px; text-align: left; background-color: transparent; border-bottom: 1px solid rgb(170, 170, 170); color: inherit;"><strong style="margin: 0px; outline: 0px; padding: 0px;">Leadership Opportunities:</strong></td><td colspan="2" align="left" valign="top" width="70%" style="margin: 0px; outline: 0px; padding: 4px; text-align: left; background-color: transparent; border-bottom: 1px solid rgb(170, 170, 170); color: inherit;"><b style="margin: 0px; outline: 0px; padding: 0px;">Senior Captain:&nbsp;</b><ul style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px;"><li style="margin: 0px; outline: 0px; padding: 0px;">She provides leadership and direction to the team.&nbsp;</li><li style="margin: 0px; outline: 0px; padding: 0px;">She is responsible for ensuring that the team fulfils its responsibilities for success.</li></ul><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 21px;"></p><b style="margin: 0px; outline: 0px; padding: 0px;">Senior Vice Captain:&nbsp;</b><ul style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px;"><li style="margin: 0px; outline: 0px; padding: 0px;">She plans, coordinates and manages the school-based training sessions with the Captain and Teacher-in-charge as well as organises team meetings.&nbsp;</li><li style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;She assists the Captain in ensuring that the team fulfils its responsibilities for success.</li></ul><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 21px;"></p><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 21px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Junior Captain:&nbsp;<span>&nbsp;</span></b>She assists the Senior Captain and Vice-Captain in ensuring that the team fulfils its responsibilities for success.</p><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 21px;">All Captains will be involved in planning and organising bowling activities and programmes, including camps.</p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td align="left" valign="top" style="margin: 0px; outline: 0px; padding: 4px; text-align: left; background-color: transparent; border-bottom: 1px solid rgb(170, 170, 170); color: inherit;"><strong style="margin: 0px; outline: 0px; padding: 0px;">CCA Schedule:</strong></td><td colspan="2" align="left" valign="top" style="margin: 0px; outline: 0px; padding: 4px; text-align: left; background-color: transparent; border-bottom: 1px solid rgb(170, 170, 170); color: inherit;"><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 21px;"><strong style="margin: 0px; outline: 0px; padding: 0px;">School Team</strong><br style="margin: 0px; outline: 0px; padding: 0px;">Monday: 3.30pm to 5:30pm<br style="margin: 0px; outline: 0px; padding: 0px;">Wednesday: 3.30pm to 5:30pm<br style="margin: 0px; outline: 0px; padding: 0px;">Friday: 3.30pm to 5:30pm</p><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 21px;"><strong style="margin: 0px; outline: 0px; padding: 0px;">Bowling Club</strong><br style="margin: 0px; outline: 0px; padding: 0px;">Monday: 3.30pm to 5:30pm</p><p style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 21px;">Venue: Temasek Club<br style="margin: 0px; outline: 0px; padding: 0px;">*One-way transport is provided to the training venues.</p></td></tr></tbody></table>
+<style type="text/css">
+.tg {
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+    color: #3D3D3D;
+    padding: 10px 5px;
+}
+.tg td {
+    overflow: hidden;
+    word-break: normal;
+}
+.tg th {
+    background-color: #DDD;
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+    color: #3D3D3D;
+    font-weight: bold;
+}
+.tg .tr-norm {
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+    vertical-align: top;
+}
+.tg .tr-header {
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+    color: #3D3D3D;
+    font-weight: bold;
+    vertical-align: top
+}
+</style>
+
+<table class="tg">
+  <thead>
+    <tr>
+      <th class="tr-header">Leadership Opportunities</th>
+      <td class="tr-norm"><strong>Senior Captain: </strong>
+        <ul>
+          <li>She provides leadership and direction to the team. </li>
+          <li>She is responsible for ensuring that the team fulfils its responsibilities for success.</li>
+        </ul>
+        <strong>Senior Vice Captain: </strong>
+        <ul>
+          <li>She plans, coordinates and manages the school-based training sessions with the Captain and Teacher-in-charge as well as organises team meetings. </li>
+          <li> She assists the Captain in ensuring that the team fulfils its responsibilities for success.</li>
+        </ul>
+        <p><strong>Junior Captain:  </strong>She assists the Senior Captain and Vice-Captain in ensuring that the team fulfils its responsibilities for success.</p>
+    <p>All Captains will be involved in planning and organising bowling activities and programmes, including camps.</p>      </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th class="tr-header">CCA Schedule</th>
+      <td class="tr-norm"><p><strong>School Team</strong><br>
+        Monday: 3.30pm to 5:30pm<br>
+        Wednesday: 3.30pm to 5:30pm<br>
+        Friday: 3.30pm to 5:30pm</p>
+        <p><strong>Bowling Club</strong><br>
+          Monday: 3.30pm to 5:30pm</p>
+        <p>Venue: Temasek Club<br>
+    *One-way transport is provided to the training venues.</p>      </tr>
+  </tbody>
+</table>
