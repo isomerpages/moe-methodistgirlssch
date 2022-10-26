@@ -65,13 +65,17 @@ Students are also expected to perform unit VIA initiatives to serve the communit
         Assistant Unit Sergeant Major (Operations)<br>
         Senior Cadets Platoon Sergeant<br>
         Junior Cadets Platoon Sergeant<br>
-    Unit Fitness Training Instructor</tr>
+    Unit Fitness Training Instructor
+			</td>
+		</tr>
   </thead>
   <tbody>
     <tr>
       <th class="tr-header">CCA Schedule</th>
       <td class="tr-norm"><p>Day: Friday<br>
         Time: 3.00pm to 6.00pm<br>
-    Venue: Bamboo Courtyard</p>      </tr>
-  </tbody>
+    Venue: Bamboo Courtyard</p>
+			</td>
+		</tr>
+	</tbody>
 </table>
