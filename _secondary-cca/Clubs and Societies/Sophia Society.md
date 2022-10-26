@@ -80,6 +80,7 @@ Members can look forward to the following experiences at Sophia Society.
         Vice-President<br>
         Treasurer<br>
         Secretary 
+				</td>
     </tr>
   </thead>
   <tbody>
@@ -87,7 +88,7 @@ Members can look forward to the following experiences at Sophia Society.
       <th class="tr-header">CCA Schedule</th>
       <td class="tr-norm">Days: Wednesdays (Mondays &amp; Fridays – during selected seasons)<br>
         Time: 2.30pm-5.30pm<br>
-        Venue: Conference Room 
+        Venue: Conference Room </td>
     </tr>
   </tbody>
 </table>
