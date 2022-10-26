@@ -87,6 +87,7 @@ Team A - Plate competition - 1st Position
       <th class="tr-header">Leadership Opportunities</th>
       <td class="tr-norm">C Div Exco – Captain and 2 Vice-Captains<br>
         B Div Exco – Captain and 2 Vice-Captains
+			</td>
     </tr>
   </thead>
   <tbody>
@@ -96,6 +97,8 @@ Team A - Plate competition - 1st Position
           <br>
           Time &amp; Venue:<br>
           4.00pm to 6.00pm (MGS School Field)<br>
-    3.00pm to 5.00pm (Turf City)</p>      </tr>
+    3.00pm to 5.00pm (Turf City)</p>      
+			</td>
+		</tr>
   </tbody>
 </table>
