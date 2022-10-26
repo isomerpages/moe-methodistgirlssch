@@ -94,13 +94,13 @@ Under the guidance of instructors and teachers, the CCA’s training programmes 
     <tr>
       <th class="tr-header">Leadership Opportunities</th>
       <td class="tr-norm">Captain<br>
-    Vice-Captain</tr>
+				Vice-Captain</td></tr>
   </thead>
   <tbody>
     <tr>
       <th class="tr-header">CCA Schedule</th>
-      <td class="tr-norm"><p>Days: Monday, Wednesday, Friday<br>
+      <td class="tr-norm">Days: Monday, Wednesday, Friday<br>
         Time: 3.00pm – 6.00pm<br>
-    Venue: MGS Tennis Courts</p>      </tr>
+				Venue: MGS Tennis Courts </td></tr>
   </tbody>
 </table>
