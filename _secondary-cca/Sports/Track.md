@@ -67,15 +67,15 @@ National Schools Games Track & Field - 13th (B Div)
 	<tbody>
     <tr>
       <th class="tr-header">CCA Schedule</th>
-      <td class="tr-norm"><p><strong>Track</strong><br>
+      <td class="tr-norm">Track<br>
         Days: Monday/Wednesday/Friday<br>
         Time: 3.00pm - 6.00pm<br>
         Venue: MGS/Ngee Ann Polytechnic<br>
         <br>
-        <strong>Cross Country</strong><br>
+        Cross Country<br>
         Days: Tuesday/Thursday/Saturday<br>
         Time: 3.30pm - 6.30pm<br>
-    Venue: Green Corridor/Macritchie Reservoir/Bedok Reservoir</p>
+    Venue: Green Corridor/Macritchie Reservoir/Bedok Reservoir
 			</td>
 		</tr>
 	</tbody>
