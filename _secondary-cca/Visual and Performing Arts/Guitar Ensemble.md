@@ -108,10 +108,10 @@ In addition, there are also overnight camps during the school holidays and maste
   <tbody>
     <tr>
       <th class="tr-header">CCA Schedule</th>
-      <td class="tr-norm"><p>Day and Time<br>
+      <td class="tr-norm">Day and Time<br>
         Monday : 4.00pm - 6.00pm<br>
         Friday: 3.00pm - 6.00pm<br>
-      Venue: Band Room</p></td>
+      Venue: Band Room</td>
     </tr>
   </tbody>
 </table>
