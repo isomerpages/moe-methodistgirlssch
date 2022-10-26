@@ -77,20 +77,20 @@ Both the primary and secondary sections of 1st Company have also consistently ac
     <tr>
       <th class="tr-header">Leadership Opportunities</th>
       <td class="tr-norm">General Committee: Chairperson, Vice Chairperson, Secretary &amp; Asst Secretary<br>
-        <br>
-        Sub-Committee Heads &amp; Vice Heads: Physical Com, Worship Com, Fellowship Com, Publicity Com<br>
-        <br>
-        Squad Leaders: Doves, Kingfishers, Seagulls, Shamas, Skylarks, Swallows, Swifts<br>
-        <br>
-        Ranks: Lance Corporal, Corporal, Sergeant, Staff Sergeant<br>
-        <br>
-    Awards: Pioneer Brigadier Brooch, school honors (merit &amp; distinction)</tr>
+        <br>Sub-Committee Heads &amp; Vice Heads: Physical Com, Worship Com, Fellowship Com, Publicity Com<br>
+        <br>Squad Leaders: Doves, Kingfishers, Seagulls, Shamas, Skylarks, Swallows, Swifts<br>
+        <br>Ranks: Lance Corporal, Corporal, Sergeant, Staff Sergeant<br>
+        <br>Awards: Pioneer Brigadier Brooch, school honors (merit &amp; distinction)
+			</td>
+		</tr>
   </thead>
   <tbody>
     <tr>
       <th class="tr-header">CCA Schedule</th>
-      <td class="tr-norm"><p>Day: Wednesday<br>
+      <td class="tr-norm">Day: Wednesday<br>
         Time: 3.00pm to 6.00pm<br>
-    Venue: Linkway, Quadrangle &amp; Chapel</p>      </tr>
+    Venue: Linkway, Quadrangle &amp; Chapel
+				</td>
+		</tr>
   </tbody>
 </table>
