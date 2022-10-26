@@ -72,9 +72,9 @@ Students are also expected to perform unit VIA initiatives to serve the communit
   <tbody>
     <tr>
       <th class="tr-header">CCA Schedule</th>
-      <td class="tr-norm"><p>Day: Friday<br>
+      <td class="tr-norm">Day: Friday<br>
         Time: 3.00pm to 6.00pm<br>
-    Venue: Bamboo Courtyard</p>
+				Venue: Bamboo Courtyard
 			</td>
 		</tr>
 	</tbody>
