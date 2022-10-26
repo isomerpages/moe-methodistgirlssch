@@ -78,6 +78,7 @@ Each year, the CCA visits the Methodist Welfare Services Nursing Home at Yew Tee
         Head of Creative Committee<br>
         Head of Hospitality Committee<br>
         Head of Events Committee 
+				</td>
     </tr>
   </thead>
   <tbody>
