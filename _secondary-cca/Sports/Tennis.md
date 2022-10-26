@@ -65,26 +65,26 @@ Under the guidance of instructors and teachers, the CCA’s training programmes 
   <thead>
     <tr>
       <th class="tr-header">Year</th>
-      <td class="tr-norm">2016      
-      <td class="tr-norm">2017      
-      <td class="tr-norm">2018      
-      <td class="tr-norm">2019      
+      <td class="tr-norm">2016</td>
+      <td class="tr-norm">2017 </td>
+      <td class="tr-norm">2018 </td>
+      <td class="tr-norm">2019 </td>
     </tr>
   </thead>
   <tbody>
     <tr>
       <th class="tr-header">B Div</th>
-      <td class="tr-norm">2nd
-      <td class="tr-norm">2nd
-      <td class="tr-norm">1st      
-      <td class="tr-norm">1st      
+      <td class="tr-norm">2nd</td>
+      <td class="tr-norm">2nd</td>
+      <td class="tr-norm">1st </td>
+      <td class="tr-norm">1st </td>
     </tr>
     <tr>
       <th class="tr-header">C Div</th>
-      <td class="tr-norm">1st      
-      <td class="tr-norm">1st      
-      <td class="tr-norm">1st      
-      <td class="tr-norm">3rd      
+      <td class="tr-norm">1st </td>
+      <td class="tr-norm">1st </td>
+      <td class="tr-norm">1st </td>
+      <td class="tr-norm">3rd </td>
     </tr>
   </tbody>
 </table>
@@ -94,13 +94,15 @@ Under the guidance of instructors and teachers, the CCA’s training programmes 
     <tr>
       <th class="tr-header">Leadership Opportunities</th>
       <td class="tr-norm">Captain<br>
-				Vice-Captain</td></tr>
+        Vice-Captain</td>
+    </tr>
   </thead>
   <tbody>
     <tr>
       <th class="tr-header">CCA Schedule</th>
       <td class="tr-norm">Days: Monday, Wednesday, Friday<br>
         Time: 3.00pm – 6.00pm<br>
-				Venue: MGS Tennis Courts </td></tr>
+        Venue: MGS Tennis Courts </td>
+    </tr>
   </tbody>
 </table>
