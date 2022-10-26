@@ -4,15 +4,16 @@ permalink: /secondary/curriculum/cca/visual-and-performing-arts/string-ensemble/
 description: ""
 third_nav_title: Visual and Performing Arts
 ---
-
-
 [MG Strings on WIX](https://mgstringsofficial.wixsite.com/website-2)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/isq_j2oQ5iU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="width:100%; height:400px">
+  <iframe class="ive_eobj_center" allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/isq_j2oQ5iU" height="100%" width="100%">
+  </iframe>
+</div>
 
 The MGS String Ensemble brings together like-minded individuals with a passion for music-making. The CCA strives to develop in its members musical skills of detailed listening, awareness of blend and colour and ensemble coordination. Through performances, competitions, collaborations and string exchanges, String Ensemble hones the character of the MGS girl and seeks to develop values of responsibility, resilience and empathy. The CCA also aims to share its music with the community, and to make a difference to the lives of others.
 
-![](/images/string%20ensemble.jpg)
+![](/images/Sec_cca/string%20ensemble.jpg)
 
 The CCA experience for members have included:
 
@@ -45,25 +46,63 @@ The CCA experience for members have included:
 *   VIA - Virtual ensemble ‘In God we Trust’, Christmas Carolling virtual ensemble with Choir
 
 <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-uwnk{color:#3D3D3D;text-align:left;vertical-align:top}
-.tg .tg-bzr3{color:#3D3D3D;font-weight:bold;text-align:left;vertical-align:top}
+.tg {
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+    color: #3D3D3D;
+    padding: 10px 5px;
+}
+.tg td {
+    overflow: hidden;
+    word-break: normal;
+}
+.tg th {
+    background-color: #DDD;
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+    color: #3D3D3D;
+    font-weight: bold;
+}
+.tg .tr-norm {
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+    vertical-align: top;
+}
+.tg .tr-header {
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+    color: #3D3D3D;
+    font-weight: bold;
+    vertical-align: top
+}
 </style>
+
 <table class="tg">
-<thead>
-  <tr>
-    <th class="tg-bzr3">Leadership Opportunities:</th>
-    <th class="tg-bzr3">Administrative Committee:<br>- President<br>- Vice-Presidents<br>- Chief and Assistant Librarian<br>- Chief and Assistant Welfare<br>- Quartermistress<br><br>Music Committee:<br>- Concertmistress<br>- Section and Assistant Section Leaders</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-bzr3">CCA Schedule:<br></td>
-    <td class="tg-uwnk"><span style="color:inherit;background-color:transparent">Days: Wednesday and Friday</span><br><span style="color:inherit;background-color:transparent">Time: 3.00pm – 6.00pm</span><br><span style="color:inherit;background-color:transparent">Venue: MEP 2</span></td>
-  </tr>
-</tbody>
+  <thead>
+    <tr>
+      <th class="tr-header">Leadership Opportunities</th>
+      <td class="tr-norm">Administrative Committee:<br>
+        - President<br>
+        - Vice-Presidents<br>
+        - Chief and Assistant Librarian<br>
+        - Chief and Assistant Welfare<br>
+        - Quartermistress<br>
+        <br>
+        Music Committee:<br>
+        - Concertmistress<br>
+      - Section and Assistant Section Leaders</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th class="tr-header">CCA Schedule</th>
+      <td class="tr-norm">Days: Wednesday and Friday<br>
+        Time: 3.00pm – 6.00pm<br>
+      Venue: MEP 2</td>
+    </tr>
+  </tbody>
 </table>
