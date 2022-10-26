@@ -77,9 +77,9 @@ In furthering the MGS swimming legacy, each member is given the opportunity to a
   <tbody>
     <tr>
       <th class="tr-header">CCA Schedule</th>
-      <td class="tr-norm"><p>School Team: Wednesday (2.45pm – 3.45pm)<br>
+      <td class="tr-norm">School Team: Wednesday (2.45pm – 3.45pm)<br>
         CCA Club: Monday &amp; Wednesday (2.45pm – 4.45pm)<br>
-    Venue: MGS Swimming Complex</p>      
+    Venue: MGS Swimming Complex
 		</td>
 		</tr>
   </tbody>
