@@ -75,9 +75,9 @@ As a shelter sport, members are able to carry out training sessions in indoor co
   <tbody>
     <tr>
       <th class="tr-header">CCA Schedule</th>
-      <td class="tr-norm"><p>Days: Monday, Wednesday, Friday<br>
+      <td class="tr-norm">Days: Monday, Wednesday, Friday<br>
           Time: 3.00pm to 6.00pm<br>
-          Venue: Squash Court</p></td>
+          Venue: Squash Court</td>
     </tr>
   </tbody>
 </table>
