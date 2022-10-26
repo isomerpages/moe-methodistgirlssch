@@ -4,7 +4,10 @@ permalink: /secondary/curriculum/cca/clubs-and-societies/infocomm-club/
 description: ""
 third_nav_title: Clubs and Societies
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IGFUwdtZD_0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="width:100%; height:400px">
+  <iframe class="ive_eobj_center" allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/IGFUwdtZD_0" height="100%" width="100%">
+  </iframe>
+</div>
 
 The CCA develops (1) computer language coding, (2) still and moving image capture through the use of drones, still and movie modes in our cameras and (3) sound management skills and competencies through a thoroughly thought out four-year programme, and imparts values of respect, responsibility, resilience, integrity, care and harmony for each other and the community we are in. Each member will choose to specialise in either coding or image and sound capture.
 
@@ -65,22 +68,21 @@ Our members have won awards in various competitions over the years.
     <tr>
       <th class="tr-header">Leadership Opportunities</th>
       <td class="tr-norm">
-				<p>Coding Section: <br>
+				Coding Section: <br>
 					- President<br>
 					- Vice-President<br>
 					- Secretary<br>
 					- Special Projects<br>
 					- Level Representatives<br>
 					- VIA Coordinators<br>
-				</p>
-				<p>Image and Sound Section: <br>
+				<br>				
+				Image and Sound Section: <br>
 					- President<br>
 					- Vice-President (Still Images)<br>
 					- Vice-President (Moving Images &amp; Sound)<br>
 					- Secretary<br>
 					- Events Manager<br>
-					- Level Representatives<br>
-				</p>
+					- Level Representatives<br>				
 			</td>
 		</tr>
 	</thead>
