@@ -55,7 +55,6 @@ Team A - Plate competition - 1st Position
 }
 .tg td {
     overflow: hidden;
-    word-break: normal;
 }
 .tg th {
     background-color: #DDD;
