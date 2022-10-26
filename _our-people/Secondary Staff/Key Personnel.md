@@ -21,6 +21,94 @@ Physical Education & Co-Curricular Activities: [Mr Dan Ho](mailto:dan_ho@school
 School Staff Developer:  [Mrs Ivay Lim](mailto:tan_sin_yee_ivay@schools.gov.sg)  
 Science: [Mr Liu Heok Hing](mailto:liu_heok_hing@schools.gov.sg)  
 Student Management & Well-Being: [Ms Ho Wai Mun](mailto:ho_wai_mun@schools.gov.sg)
+<style type="text/css">
+.tg {
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+    color: #3D3D3D;
+    padding: 10px 5px;
+	text-align: left;
+}
+.tg td {
+    overflow: hidden;
+    word-break: normal;
+}
+.tg th {
+    background-color: #DDD;
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+    color: #3D3D3D;
+    font-weight: bold;
+}
+.tg .tr-norm {
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+    vertical-align: top;
+}
+.tg .tr-header {
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+    color: #3D3D3D;
+    font-weight: bold;
+    vertical-align: top;
+	
+}
+</style>
+
+<table class="tg">
+  <thead>
+    <tr>
+      <th class="tr-header">Aesthetics</th>
+      <td class="tr-norm"><a href="mailto:sophia_natasha_wei_junhao@schools.gov.sg">Mrs Natasha Tay</a></td>
+    </tr>
+    <tr>
+      <th class="tr-header">Character and Citizenship Education</th>
+      <td class="tr-norm"><a href="mailto:lau_li-lin_marilyn@schools.gov.sg">Mrs Marilyn Ng</a></td>
+    </tr>
+    <tr>
+      <th class="tr-header">Educational Technology</th>
+      <td class="tr-norm"><a href="mailto:soh_chen_wai_kenneth@schools.gov.sg">Mr Kenneth Soh</a></td>
+    </tr>
+    <tr>
+      <th class="tr-header">Humanities</th>
+      <td class="tr-norm"><a href="mailto:wendy_li-_jin_tan@schools.gov.sg">Ms Wendy Tan</a></td>
+    </tr>
+    <tr>
+      <th class="tr-header">Language Arts</th>
+      <td class="tr-norm"><a href="mailto:fiona_ngiam@schools.gov.sg">Mrs Fiona Ngiam</a></td>
+    </tr>
+    <tr>
+      <th class="tr-header">Mathematics</th>
+      <td class="tr-norm"><a href="mailto:leong_wai_lup@schools.gov.sg">Mr Leong Wai Lup</a></td>
+    </tr>
+    <tr>
+      <th class="tr-header">Mother Tongue</th>
+      <td class="tr-norm"><a href="mailto:kay_ren_tat@schools.gov.sg">Mr Kay Ren Tat</a></td>
+    </tr>
+    <tr>
+      <th class="tr-header">Physical Education &amp; Co-Curricular Activities</th>
+      <td class="tr-norm"><a href="mailto:dan_ho@schools.gov.sg">Mr Dan Ho</a></td>
+    </tr>
+    <tr>
+      <th class="tr-header">School Staff Developer</th>
+      <td class="tr-norm"><a href="mailto:tan_sin_yee_ivay@schools.gov.sg">Mrs Ivay Lim</a></td>
+    </tr>
+    <tr>
+      <th class="tr-header">Science</th>
+      <td class="tr-norm"><a href="mailto:liu_heok_hing@schools.gov.sg">Mr Liu Heok Hing</a></td>
+    </tr>
+    <tr>
+      <th class="tr-header">Student Management &amp; Well-Being</th>
+      <td class="tr-norm"><a href="mailto:ho_wai_mun@schools.gov.sg">Ms Ho Wai Mun</a></td>
+    </tr>
+  </thead>
+  <tbody>
+  </tbody>
+</table>
 
 ### TEACHER LEADERS
 
