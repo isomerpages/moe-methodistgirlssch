@@ -3,9 +3,7 @@ title: Academic
 permalink: /secondary/curriculum/academic/
 description: ""
 ---
-
-
-*   [Academic](https://staging.dt6ildc2mnegy.amplifyapp.com/secondary-academic/Academic/)
+*   [Academic](https://staging.dt6ildc2mnegy.amplifyapp.com/secondary/curriculum/academic/)
 *   [Aesthetics](https://staging.dt6ildc2mnegy.amplifyapp.com/secondary/curriculum/academic/aesthetics/)
 *   [Computer Studies](https://staging.dt6ildc2mnegy.amplifyapp.com/secondary/curriculum/academic/computer-studies/)
 *   [Humanities](https://staging.dt6ildc2mnegy.amplifyapp.com/secondary/curriculum/academic/humanities/)
