@@ -38,6 +38,7 @@ Student Management & Well-Being: [Ms Ho Wai Mun](mailto:ho_wai_mun@schools.gov.
 }
 .tg .tr-norm {
     vertical-align: top;
+	    white-space: nowrap;
 }
 .tg .tr-header {
     text-align: right;
