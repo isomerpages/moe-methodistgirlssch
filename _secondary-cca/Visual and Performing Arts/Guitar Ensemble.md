@@ -20,9 +20,9 @@ In Guitar Ensemble, members enjoy many opportunities to gain new skills and valu
 In addition, there are also overnight camps during the school holidays and masterclasses, such as one conducted by Mr Touru Kobayashi, a renowned guitar ensemble instructor from Japan recently, for members to refine their skills.
 
 **Achievements:**
+1. SYF 2013, 2015, 2017, 2019 & 2021  – Certificate of Distinction  <br>
+2. Trinity College London Group Examination (Advanced) – Distinction
 
-SYF 2013, 2015, 2017, 2019 & 2021  – Certificate of Distinction  <br>
-Trinity College London Group Examination (Advanced) – Distinction
 
 <style type="text/css">
 .tg {
@@ -31,6 +31,7 @@ Trinity College London Group Examination (Advanced) – Distinction
     border-width: 1px;
     color: #3D3D3D;
     padding: 10px 5px;
+		font-size:16px
 }
 .tg td {
     overflow: hidden;
