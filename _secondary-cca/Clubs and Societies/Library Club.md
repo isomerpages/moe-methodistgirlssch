@@ -66,6 +66,7 @@ Through the Library Club activities, student librarians conceptualise, plan and 
         Assistant Head of Administration <br>
         Head of Logistics <br>
         Assistant Head of Logistics 
+				</td>
     </tr>
   </thead>
   <tbody>
