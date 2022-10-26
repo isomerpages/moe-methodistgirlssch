@@ -59,10 +59,9 @@ Each member is dedicated and committed to excellence, and the CCA has strong sho
   <thead>
     <tr>
       <th class="tr-header">Leadership Opportunities</th>
-      <td class="tr-norm">Captain        <br>
-        ‘B’ Div Vice-Captain        <br>
-        ‘C’ Div Vice-Captain
-			</td>
+      <td class="tr-norm">Captain <br>
+        ‘B’ Div Vice-Captain <br>
+        ‘C’ Div Vice-Captain </td>
     </tr>
   </thead>
   <tbody>
@@ -70,8 +69,7 @@ Each member is dedicated and committed to excellence, and the CCA has strong sho
       <th class="tr-header">CCA Schedule</th>
       <td class="tr-norm">Days: Wednesday &amp; Friday<br>
         Time: 3.15pm to 5.15pm<br>
-				Venue: MGS Swimming Complex
-			</td>
-		</tr>
+        Venue: MGS Swimming Complex </td>
+    </tr>
   </tbody>
 </table>
