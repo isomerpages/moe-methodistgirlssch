@@ -75,18 +75,20 @@ School-based training sessions are also included to help build up the bowlers’
           <li> She assists the Captain in ensuring that the team fulfils its responsibilities for success.</li>
         </ul>
         <p><strong>Junior Captain:  </strong>She assists the Senior Captain and Vice-Captain in ensuring that the team fulfils its responsibilities for success.</p>
-    <p>All Captains will be involved in planning and organising bowling activities and programmes, including camps.</p>      </tr>
+        <p>All Captains will be involved in planning and organising bowling activities and programmes, including camps.</p></td>
+    </tr>
   </thead>
   <tbody>
     <tr>
       <th class="tr-header">CCA Schedule</th>
       <td class="tr-norm"><p><strong>School Team</strong><br>
-        Monday: 3.30pm to 5:30pm<br>
-        Wednesday: 3.30pm to 5:30pm<br>
-        Friday: 3.30pm to 5:30pm</p>
+          Monday: 3.30pm to 5:30pm<br>
+          Wednesday: 3.30pm to 5:30pm<br>
+          Friday: 3.30pm to 5:30pm</p>
         <p><strong>Bowling Club</strong><br>
           Monday: 3.30pm to 5:30pm</p>
         <p>Venue: Temasek Club<br>
-    *One-way transport is provided to the training venues.</p>      </tr>
+          *One-way transport is provided to the training venues.</p></td>
+    </tr>
   </tbody>
 </table>
