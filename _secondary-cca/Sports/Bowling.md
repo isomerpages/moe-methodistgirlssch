@@ -64,31 +64,30 @@ School-based training sessions are also included to help build up the bowlers’
   <thead>
     <tr>
       <th class="tr-header">Leadership Opportunities</th>
-      <td class="tr-norm"><strong>Senior Captain: </strong>
-        <ul>
-          <li>She provides leadership and direction to the team. </li>
-          <li>She is responsible for ensuring that the team fulfils its responsibilities for success.</li>
-        </ul>
-        <strong>Senior Vice Captain: </strong>
-        <ul>
-          <li>She plans, coordinates and manages the school-based training sessions with the Captain and Teacher-in-charge as well as organises team meetings. </li>
-          <li> She assists the Captain in ensuring that the team fulfils its responsibilities for success.</li>
-        </ul>
-        <p><strong>Junior Captain:  </strong>She assists the Senior Captain and Vice-Captain in ensuring that the team fulfils its responsibilities for success.</p>
-        <p>All Captains will be involved in planning and organising bowling activities and programmes, including camps.</p></td>
+      <td class="tr-norm"><p>Senior Captain: 
+        She provides leadership and direction to the team.
+      She is responsible for ensuring that the team fulfils its responsibilities for success.        <br>
+      <br>
+      Senior Vice Captain: She plans, coordinates and manages the school-based training sessions with the Captain and Teacher-in-charge as well as organises team meetings. She assists the Captain in ensuring that the team fulfils its responsibilities for success.        <br>
+      <br>
+      Junior Captain:  She assists the Senior Captain and Vice-Captain in ensuring that the team fulfils its responsibilities for success.      <br>
+      <br>
+      All Captains will be involved in planning and organising bowling activities and programmes, including camps.</p></td>
     </tr>
   </thead>
   <tbody>
     <tr>
       <th class="tr-header">CCA Schedule</th>
-      <td class="tr-norm"><p><strong>School Team</strong><br>
-          Monday: 3.30pm to 5:30pm<br>
-          Wednesday: 3.30pm to 5:30pm<br>
-          Friday: 3.30pm to 5:30pm</p>
-        <p><strong>Bowling Club</strong><br>
-          Monday: 3.30pm to 5:30pm</p>
-        <p>Venue: Temasek Club<br>
-          *One-way transport is provided to the training venues.</p></td>
+      <td class="tr-norm">School Team<br>
+        Monday: 3.30pm to 5:30pm<br>
+        Wednesday: 3.30pm to 5:30pm<br>
+        Friday: 3.30pm to 5:30pm        <br>
+        <br>
+        Bowling Club<br>
+        Monday: 3.30pm to 5:30pm        <br>
+        <br>
+        Venue: Temasek Club<br>
+      *One-way transport is provided to the training venues.</td>
     </tr>
   </tbody>
 </table>
