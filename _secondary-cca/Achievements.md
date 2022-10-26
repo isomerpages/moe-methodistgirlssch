@@ -39,7 +39,7 @@ description: ""
     color: #3D3D3D;
     font-weight: bold;
     text-align: center;
-    vertical-align: top
+    vertical-align: middle;
 }
 </style>
 
