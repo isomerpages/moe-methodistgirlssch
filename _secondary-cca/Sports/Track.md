@@ -61,6 +61,7 @@ National Schools Games Track & Field - 13th (B Div)
       <th class="tr-header">Leadership Opportunities</th>
       <td class="tr-norm">Captain<br>
     Vice-Captain</tr>
+		</td>
   </thead>
   <tbody>
     <tr>
@@ -73,6 +74,6 @@ National Schools Games Track & Field - 13th (B Div)
         <strong>Cross Country</strong><br>
         Days: Tuesday/Thursday/Saturday<br>
         Time: 3.30pm - 6.30pm<br>
-    Venue: Green Corridor/Macritchie Reservoir/Bedok Reservoir</p>      </tr>
+    Venue: Green Corridor/Macritchie Reservoir/Bedok Reservoir</p>      </td></tr>
   </tbody>
 </table>
