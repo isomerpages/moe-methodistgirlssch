@@ -2,6 +2,7 @@ collections:
   primary-curriculum:
     output: true
     order:
+      - Useful Links/Forms.md
       - Useful Links/For Students.md
       - Useful Links/For Staff.md
       - Useful Links/.keep
