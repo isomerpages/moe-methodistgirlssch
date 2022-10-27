@@ -2,6 +2,7 @@ collections:
   secondary-curriculum:
     output: true
     order:
+      - Student Development/Counselling.md
       - Student Development/Character and Citizenship Education (CCE).md
       - Student Development/Student Development.md
       - Student Development/.keep
