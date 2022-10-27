@@ -2,7 +2,6 @@ collections:
   primary-curriculum:
     output: true
     order:
-      - For Students.md
       - Curriculum.md
       - Academic/.keep
       - Academic/English.md
