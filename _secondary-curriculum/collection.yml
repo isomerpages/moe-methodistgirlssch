@@ -2,6 +2,7 @@ collections:
   secondary-curriculum:
     output: true
     order:
+      - Character and Citizenship Education (CCE).md
       - Counselling.md
       - Education & Career Guidance.md
       - Independent Learning Day.md
