@@ -2,5 +2,4 @@ collections:
   secondary-key-programmes:
     output: true
     order:
-      - Sophia Blackmore Academy.md
       - WZ COE for Language Arts.md
