@@ -2,11 +2,6 @@ collections:
   primary-curriculum:
     output: true
     order:
-      - Useful Links/.keep
-      - Useful Links/For Staff.md
-      - Useful Links/For Students.md
-      - Useful Links/Forms.md
-      - Curriculum.md
       - Academic/.keep
       - Academic/English.md
       - Academic/Mother Tongue.md
@@ -17,6 +12,7 @@ collections:
       - Academic/Art.md
       - Academic/Education Technology.md
       - Academic/Applied Learning Programme.md
+      - Curriculum.md
       - Student Development/.keep
       - Student Development/Student Development.md
       - Student Development/Student Leadership.md
@@ -25,3 +21,7 @@ collections:
       - Student Development/Social Studies and National Education.md
       - Student Development/Sexuality Education.md
       - Talent Development and Academic Support.md
+      - Useful Links/.keep
+      - Useful Links/For Staff.md
+      - Useful Links/For Students.md
+      - Useful Links/Forms.md
