@@ -2,7 +2,6 @@ collections:
   secondary-key-programmes:
     output: true
     order:
-      - Regional Youth Conference.md
       - STE(A)M.md
       - Sophia Blackmore Academy.md
       - WZ COE for Language Arts.md
