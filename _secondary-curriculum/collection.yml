@@ -2,6 +2,7 @@ collections:
   secondary-curriculum:
     output: true
     order:
+      - Regional Youth Conference.md
       - Reality Outside Classrooms.md
       - Student Development/Values in Action.md
       - Student Development/Sexuality Education.md
