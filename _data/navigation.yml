@@ -20,20 +20,20 @@ links:
   - title: Our People
     url: /about-us/school-leaders/
     sublinks:
-      - title: Board of Management
-        url: /about-us/board-of-management/
       - title: School Leaders
         url: /about-us/school-leaders/
       - title: Primary Staff
         url: /primary/staff/key-personnel/
       - title: Secondary Staff
         url: /secondary/staff/key-personnel/
-      - title: Alumnae
-        url: https://www.mgsalumnae.com/
+      - title: Board of Management
+        url: /about-us/board-of-management/
       - title: Parents
         url: /our-people/Parents/familymatters/
       - title: ParentLink
         url: /parentlink/aboutus/
+      - title: Alumnae
+        url: https://www.mgsalumnae.com/
       - title: Careers at MGS
         url: /about-us/Careers-at-MGS/
   - title: Primary
