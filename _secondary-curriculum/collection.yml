@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Useful Links/.keep
-      - For Students.md
       - Student Learning Space.md
       - Loan of MGS Uniform One.md
       - For Staff.md
