@@ -6,13 +6,14 @@ third_nav_title: School Fees
 ---
 ## School & Miscellaneous Fees
 
-We would like to assure parents that no student will be deprived of an MGS education because of financial difficulties. The school has in place a comprehensive financial assistance scheme to help students in need.&nbsp;[Kindly click here for more information.](https://staging.dt6ildc2mnegy.amplifyapp.com/secondary/admissions/financial-assistance-n-scholarships/)
+We would like to assure parents that no student will be deprived of an MGS education because of financial difficulties. The school has in place a comprehensive financial assistance scheme to help students in need.&nbsp;[Kindly click here for more information.](https://staging.dt6ildc2mnegy.amplifyapp.com/secondary/admissions/financial-assistance-scholarships/)
 
 **The school and miscellaneous fees are as follows:**
 
 <style type="text/css">
 .tg {
     border-collapse: collapse;
+	border-color: black;
     border-spacing: 0;
     border: 1px solid;
 }
@@ -37,6 +38,7 @@ We would like to assure parents that no student will be deprived of an MGS educa
 }
 .tg .tg-omza {
     border: 1px solid;
+	border-color: black;
     background-color: #FFDE29;
     color: #3D3D3D;
     font-weight: bold;
@@ -45,12 +47,14 @@ We would like to assure parents that no student will be deprived of an MGS educa
 }
 .tg .tg-uwnk {
     border: 1px solid;
+	border-color: black;
     color: #3D3D3D;
     text-align: left;
     vertical-align: top
 }
 .tg .tg-4whn {
     border: 1px solid;
+	border-color: black;
     background-color: #E2BF00;
     color: #3D3D3D;
     font-weight: bold;
