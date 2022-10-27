@@ -2,7 +2,6 @@ collections:
   admissions:
     output: true
     order:
-      - Scholarships.md
       - Primary Admission.md
       - Secondary Admission/.keep
       - Secondary Admission/Appeals for Admissions into Secondary 1.md
@@ -16,4 +15,5 @@ collections:
       - School Fees/Primary Fees.md
       - School Fees/Secondary Fees.md
       - Financial Assistance & Scholarships.md
+      - Scholarships.md
       - Leave of Absence.md
