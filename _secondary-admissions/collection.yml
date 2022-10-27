@@ -2,6 +2,7 @@ collections:
   secondary-admissions:
     output: true
     order:
+      - Secondary Admission/Immersion Programmes.md
       - Secondary Admission/Secondary 1 Registration.md
       - Secondary Admission/Appeals for Admissions into Secondary 1.md
       - Secondary Admission/Mid stream admission for Secondary school.md
