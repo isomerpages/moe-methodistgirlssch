@@ -2,12 +2,12 @@ collections:
   secondary:
     output: true
     order:
+      - Key Programmes/.keep
       - Key Programmes/Reality Outside Classrooms.md
       - Key Programmes/Regional Youth Conference.md
+      - Key Programmes/Sophia Blackmore Academy.md
       - Key Programmes/STE(A)M.md
       - Key Programmes/WZ COE for Language Arts.md
-      - Key Programmes/Sophia Blackmore Academy.md
-      - Key Programmes/.keep
       - Student Development/Values in Action.md
       - Student Development/Sexuality Education.md
       - Student Development/Independent Learning Day.md
