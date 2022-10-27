@@ -2,7 +2,7 @@ collections:
   primary-curriculum:
     output: true
     order:
-      - MG Curriculum.md
+      - Curriculum.md
       - Academic/.keep
       - Academic/English.md
       - Academic/Mother Tongue.md
