@@ -4,7 +4,6 @@ permalink: /secondary/admissions/dsa-sec1/
 description: ""
 third_nav_title: DSA for Secondary One
 ---
-
 ### Outcome of DSA Application to MGS
 
 Dear Applicants,
@@ -37,7 +36,11 @@ MGS invites Primary 6 students to participate in this year’s DSA exercise. As 
 
 ### Download:
 
-* [MGS DSA Talent Areas and Key Dates.pdf](/files/MGS%20DSA%20Talent%20Areas%20and%20Key%20Dates%202022.pdf)
+1. [MGS DSA Talent Areas and Key Dates.pdf](/files/MGS%20DSA%20Talent%20Areas%20and%20Key%20Dates%202022.pdf)
+2. [MGS DSA Selection Criteria and Process (revised 20 May).pdf](/files/MGS%20DSA%20Selection%20Criteria%20and%20Process%20_%20revised%2020%20May.pdf)
 
+### Brochures:
 
-* [MGS DSA Selection Criteria and Process (revised 20 May).pdf](/files/MGS%20DSA%20Selection%20Criteria%20and%20Process%20_%20revised%2020%20May.pdf)
+1. [Co-curricular Activities](https://issuu.com/mgsedu/docs/brochure_cca_12_may_21_)  
+2. [Integrated Programme](https://issuu.com/mgsedu/docs/brochure_-_ip)  
+3. [Music Elective Programme](https://issuu.com/mgsedu/docs/brochure_-_mep_24_mar_21_)
