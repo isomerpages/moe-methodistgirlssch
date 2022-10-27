@@ -132,7 +132,7 @@ These scholarships are offered to academically strong students attending indepen
 Students of all nationalities who are admitted into the MEP within an Independent School are eligible for a fee subsidy up to a cap of $2400 per student per year.  
   
 
-[Click here for more information](https://www.moe.gov.sg/secondary/courses/express/electives/?term=MOE%20Special%20Music%20Programmes&subterm=Music%20Elective%20Programme%20(MEP)) .
+[Click here for more information](https://www.moe.gov.sg/education-in-sg/our-programmes/mep-sec/where-to-take-it#:~:text=MEP%20students%20do%20not%20need,of%20%242%2C400%20per%20student%20yearly.).
 
 ## MOE UPLIFT Scholarship
 
