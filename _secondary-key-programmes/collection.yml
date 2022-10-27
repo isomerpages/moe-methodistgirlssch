@@ -2,7 +2,6 @@ collections:
   secondary-key-programmes:
     output: true
     order:
-      - Reality Outside Classrooms.md
       - Regional Youth Conference.md
       - STE(A)M.md
       - Sophia Blackmore Academy.md
