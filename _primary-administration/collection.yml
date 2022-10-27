@@ -2,7 +2,6 @@ collections:
   primary-administration:
     output: true
     order:
-      - Admissions/.keep
       - Forms.md
       - Parents.md
       - Leave of Absence.md
