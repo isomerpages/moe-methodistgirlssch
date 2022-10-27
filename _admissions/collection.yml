@@ -2,6 +2,7 @@ collections:
   admissions:
     output: true
     order:
+      - National & Other Awards.md
       - Scholarships and Awards.md
       - Primary Admission/Primary Admission.md
       - Primary Admission/Midstream Admission for Primary School.md
