@@ -2,6 +2,7 @@ collections:
   admissions:
     output: true
     order:
+      - School Fees/Primary Fees.md
       - School Fees/Secondary Fees.md
       - School Fees/.keep
       - Secondary Admission/.keep
