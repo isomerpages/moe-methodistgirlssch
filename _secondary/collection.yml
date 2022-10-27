@@ -2,12 +2,16 @@ collections:
   secondary:
     output: true
     order:
+      - Academic.md
+      - Curriculum.md
+      - CCA.md
       - Key Programmes/.keep
       - Key Programmes/Reality Outside Classrooms.md
       - Key Programmes/Regional Youth Conference.md
       - Key Programmes/Sophia Blackmore Academy.md
       - Key Programmes/STE(A)M.md
       - Key Programmes/WZ COE for Language Arts.md
+      - Student Development/.keep
       - Student Development/Values in Action.md
       - Student Development/Sexuality Education.md
       - Student Development/Independent Learning Day.md
@@ -15,10 +19,6 @@ collections:
       - Student Development/Counselling.md
       - Student Development/Character and Citizenship Education (CCE).md
       - Student Development/Student Development.md
-      - Student Development/.keep
-      - Academic.md
-      - Curriculum.md
-      - CCA.md
       - Useful Links/.keep
       - Useful Links/Loan of MGS Uniform One.md
       - Useful Links/For Staff.md
