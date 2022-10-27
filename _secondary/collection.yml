@@ -1,5 +1,5 @@
 collections:
-  secondary-curriculum:
+  secondary:
     output: true
     order:
       - WZ COE for Language Arts.md
