@@ -25,14 +25,10 @@ description: ""
 
 *   [OPAL 2.0](https://idm.opal2.moe.edu.sg/account/login?returnUrl=%2F)
 
-**Requires SSOE notebooks:**
+#### Requires SSOE notebooks
 
-	*   [CES mail](https://mail.schools.gov.sg/)
-
-	*   [HRMS](http://mgss-hrmssrv01.mgss.edu.sg/FeHR_MGS/eHR/eHRDefault.aspx) 
-
-	*   [MGS B2P](http://mgss-procsrv01.mgss.edu.sg/login)
-
-	*   [MOE Intranet](https://intranet.moe.gov.sg/Pages/Home.aspx)  
-
-	*   [School Cockpit](https://schoolcockpit.moe.edu.sg/)
+* [CES mail](https://mail.schools.gov.sg/)
+* [HRMS](http://mgss-hrmssrv01.mgss.edu.sg/FeHR_MGS/eHR/eHRDefault.aspx) 
+* [MGS B2P](http://mgss-procsrv01.mgss.edu.sg/login)
+* [MOE Intranet](https://intranet.moe.gov.sg/Pages/Home.aspx)  
+* [School Cockpit](https://schoolcockpit.moe.edu.sg/)
