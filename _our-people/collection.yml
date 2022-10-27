@@ -2,7 +2,6 @@ collections:
   our-people:
     output: true
     order:
-      - Board of Management.md
       - School Leaders.md
       - Primary Staff/.keep
       - Primary Staff/Key Personnel.md
@@ -17,7 +16,7 @@ collections:
       - Secondary Staff/Key Personnel.md
       - Secondary Staff/Teachers.md
       - Secondary Staff/Executive & Administrative Staff.md
-      - Alumnae.md
+      - Board of Management.md
       - Parents/.keep
       - Parents/FamilyMatters@Schools.md
       - ParentLink/.keep
@@ -25,6 +24,7 @@ collections:
       - ParentLink/Events.md
       - ParentLink/Join Us.md
       - ParentLink/Publications.md
+      - Alumnae.md
       - Careers at MGS/.keep
       - Careers at MGS/Careers at MGS.md
       - Careers at MGS/Teaching positions.md
