@@ -2,6 +2,7 @@ collections:
   secondary-student-development:
     output: true
     order:
+      - Independent Learning Day.md
       - Education & Career Guidance.md
       - Counselling.md
       - Character and Citizenship Education (CCE).md
