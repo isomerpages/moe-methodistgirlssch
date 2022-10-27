@@ -1,5 +1,5 @@
 collections:
-  primary-curriculum:
+  primary:
     output: true
     order:
       - Academic/.keep
