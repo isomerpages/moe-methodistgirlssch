@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Primary Admission/.keep
-      - Mid stream admission for Primary School.md
       - Primary Admission.md
       - Secondary Admission/.keep
       - Secondary Admission/Appeals for Admissions into Secondary 1.md
