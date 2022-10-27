@@ -2,6 +2,7 @@ collections:
   admissions:
     output: true
     order:
+      - Scholarships and Awards/MOE Scholarship & Awards.md
       - Scholarships and Awards/MGS Special Awards and Scholarships.md
       - Scholarships and Awards/.keep
       - National & Other Awards.md
