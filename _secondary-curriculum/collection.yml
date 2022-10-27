@@ -2,6 +2,7 @@ collections:
   secondary-curriculum:
     output: true
     order:
+      - Reality Outside Classrooms.md
       - Student Development/Values in Action.md
       - Student Development/Sexuality Education.md
       - Student Development/Independent Learning Day.md
