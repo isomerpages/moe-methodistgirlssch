@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Curriculum.md
-      - CCA.md
       - Key Programmes/.keep
       - Key Programmes/Reality Outside Classrooms.md
       - Key Programmes/Regional Youth Conference.md
