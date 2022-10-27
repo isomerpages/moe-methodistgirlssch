@@ -3,15 +3,13 @@ title: Financial Assistance & Scholarships
 permalink: /secondary/admissions/financial-assistance-n-scholarships/
 description: ""
 ---
-### FINANCIAL ASSISTANCE
-
 In MGS, we seek to give every girl a meaningful schooling experience and to help her to MASTER to GROW and to SERVE in every phase of her life. The school has put in place comprehensive financial assistance schemes such as the MOE Independent School Bursary (ISB), school-administered scholarships and bursaries to help students with financial need to reach their full potential for service and contribution beyond the school community.
 
 School-administered financial aid, depending on the level of subsidy, besides school fees, may include subsidies for enrichment programme fees, co-curricular activities (CCA) co-payment fees and compulsory level-wide school activities.
  
 Students who require financial aid at any point of time may approach [student_affairs@mgs.sch.edu.sg](mailto:student_affairs@mgs.sch.edu.sg) / Finance Office (Level 1) directly or through their Form Teacher for assistance.
 
-### MOE INDEPENDENT SCHOOL BURSARY (MOE-ISB)
+## MOE INDEPENDENT SCHOOL BURSARY (MOE-ISB)
 
 **Eligibility Criteria**
 
