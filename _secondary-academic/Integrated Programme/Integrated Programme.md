@@ -4,7 +4,6 @@ permalink: /secondary/curriculum/academic/ip/
 description: ""
 third_nav_title: Integrated Programme
 ---
-
 # BRINGING OUT THE BEST
 
 ### THE ONLY IP LEADING TO IB FOR GIRLS
