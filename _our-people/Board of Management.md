@@ -3,7 +3,11 @@ title: Board of Management
 permalink: /about-us/board-of-management/
 description: ""
 ---
-Mrs Sim Suh-Ting (Chairman)
+### CHAIRMAN
+Mrs Sim Suh-Ting 
+
+
+### MEMBERS
 
 Mrs Barbara Yeo
 
