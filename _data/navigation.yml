@@ -35,20 +35,18 @@ links:
       - title: Careers at MGS
         url: /about-us/Careers-at-MGS/
   - title: Primary
-    url: primary/mg-curriculum/
+    url: /primary/mg-curriculum/
     sublinks:
       - title: Academic
         url: /primary/mg-curriculum/academic/
-      - title: Administration
-        url: /primary/administration/forms/
       - title: CCA
         url: /primary/mg-curriculum/cca/
       - title: Curriculum
-        url: /mg-curriculum/
+        url: /primary/mg-curriculum/
       - title: Student Development
         url: /primary/mg-curriculum/student-development/
       - title: Useful Links
-        url: /primary/useful-links/for-staff/
+        url: /primary/useful-links/forms/
   - title: Secondary
     url: /secondary/curriculum/
     sublinks:
