@@ -71,10 +71,8 @@ links:
         url: /admissions/primary/
       - title: Secondary Admission
         url: /secondary/admissions/dsa-sec1/
-      - title: Submenu Title
-        url: /permalink
-      - title: Leave of Absence
-        url: /secondary/admissions/leave-of-absence/
+      - title: School Fees
+        url: https://staging.dt6ildc2mnegy.amplifyapp.com/secondary/admissions/school-fees/primary/
   - title: News & Events
     url: /news-n-events/calendar-of-events/
     sublinks:
