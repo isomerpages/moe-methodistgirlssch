@@ -2,7 +2,6 @@ collections:
   secondary-useful-links:
     output: true
     order:
-      - For Students.md
       - For Staff.md
       - Loan of MGS Uniform One.md
       - Student Learning Space.md
