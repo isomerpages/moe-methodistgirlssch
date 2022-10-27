@@ -2,6 +2,7 @@ collections:
   secondary:
     output: true
     order:
+      - Key Programmes/.keep
       - WZ COE for Language Arts.md
       - Sophia Blackmore Academy.md
       - STE(A)M.md
