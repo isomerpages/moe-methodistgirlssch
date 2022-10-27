@@ -4,8 +4,7 @@ permalink: /secondary/admissions/school-fees/secondary/
 description: ""
 third_nav_title: School Fees
 ---
-
-
+## School & Miscellaneous fees
 
 We would like to assure parents that no student will be deprived of an MGS education because of financial difficulties. The school has in place a comprehensive financial assistance scheme to help students in need.&nbsp;[Kindly click here for more information.](https://staging.dt6ildc2mnegy.amplifyapp.com/secondary/admissions/financial-assistance-n-scholarships/)
 
