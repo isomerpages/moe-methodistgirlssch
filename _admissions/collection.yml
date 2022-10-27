@@ -1,5 +1,5 @@
 collections:
-  secondary-admissions:
+  admissions:
     output: true
     order:
       - Secondary Admission/.keep
