@@ -1,5 +1,4 @@
 collections:
   primary-administration:
     output: true
-    order:
-      - Forms.md
+    order: []
