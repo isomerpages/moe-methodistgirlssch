@@ -2,7 +2,6 @@ collections:
   secondary-student-development:
     output: true
     order:
-      - Values in Action.md
       - Sexuality Education.md
       - Independent Learning Day.md
       - Education & Career Guidance.md
