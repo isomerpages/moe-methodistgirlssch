@@ -2,11 +2,11 @@ collections:
   secondary-curriculum:
     output: true
     order:
+      - Useful Links/.keep
       - Useful Links/Loan of MGS Uniform One.md
-      - Useful Links/Student Learning Space.md
       - Useful Links/For Staff.md
       - Useful Links/For Students.md
-      - Useful Links/.keep
+      - Useful Links/Student Learning Space.md
       - Curriculum.md
       - Key Programmes.md
       - Student Development.md
