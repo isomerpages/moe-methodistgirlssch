@@ -2,6 +2,5 @@ collections:
   secondary-student-development:
     output: true
     order:
-      - Counselling.md
       - Character and Citizenship Education (CCE).md
       - Student Development.md
