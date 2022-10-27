@@ -2,6 +2,7 @@ collections:
   secondary-admissions:
     output: true
     order:
+      - Secondary Admission/Integrated Programme for Year 3.md
       - Secondary Admission/Integrated Programme for Year 1.md
       - Secondary Admission/Direct School Admission for Secondary One.md
       - Secondary Admission/.keep
