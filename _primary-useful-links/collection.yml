@@ -2,5 +2,4 @@ collections:
   primary-useful-links:
     output: true
     order:
-      - For Students.md
       - For Staff.md
