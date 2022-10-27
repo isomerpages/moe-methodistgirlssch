@@ -19,11 +19,11 @@ collections:
       - Board of Management.md
       - Parents/.keep
       - Parents/FamilyMatters@Schools.md
-      - ParentLink/.keep
-      - ParentLink/About Us.md
-      - ParentLink/Events.md
-      - ParentLink/Join Us.md
-      - ParentLink/Publications.md
+      - "PSG: ParentLink/.keep"
+      - "PSG: ParentLink/About Us.md"
+      - "PSG: ParentLink/Events.md"
+      - "PSG: ParentLink/Join Us.md"
+      - "PSG: ParentLink/Publications.md"
       - Alumnae.md
       - Careers at MGS/.keep
       - Careers at MGS/Careers at MGS.md
