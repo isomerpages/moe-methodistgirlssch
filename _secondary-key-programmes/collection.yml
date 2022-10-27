@@ -1,5 +1,4 @@
 collections:
   secondary-key-programmes:
     output: true
-    order:
-      - WZ COE for Language Arts.md
+    order: []
