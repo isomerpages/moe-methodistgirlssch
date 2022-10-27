@@ -61,12 +61,14 @@ links:
       - title: Useful Links
         url: /secondary/useful-links/for-student/
   - title: Admissions
-    url: /admissions/index/
+    url: /admissions/primary/
     sublinks:
       - title: Primary Admission
         url: /admissions/primary/
       - title: Secondary Admission
         url: /secondary/admissions/dsa-sec1/
+      - title: Scholarships and Awards
+        url: /admissions/Scholarships-and-Awards/
       - title: School Fees
         url: https://staging.dt6ildc2mnegy.amplifyapp.com/secondary/admissions/school-fees/primary/
   - title: News & Events
