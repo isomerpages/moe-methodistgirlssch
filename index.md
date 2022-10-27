@@ -35,5 +35,5 @@ sections:
   - infobar:
       title: Email/Letters to Parents
       button: More Information
-      url: /events/lettertoparents
+      url: /events/letterstoparents/
 ---
