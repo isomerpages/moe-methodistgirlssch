@@ -4,9 +4,6 @@ permalink: /primary/administration/admissions/mid-stream-admission-for-primary-s
 description: ""
 third_nav_title: Primary Admission
 ---
-
-
-
 **For local students transferring from another local school**
 
 
