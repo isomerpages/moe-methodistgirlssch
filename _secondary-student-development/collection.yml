@@ -1,5 +1,4 @@
 collections:
   secondary-student-development:
     output: true
-    order:
-      - Student Development.md
+    order: []
