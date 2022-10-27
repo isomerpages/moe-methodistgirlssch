@@ -11,4 +11,4 @@ Applicants are to submit the completed [LOA Application Form](https://form.gov.
 
   
 
-More information may be obtained on  [MOE's website](http://www.moe.gov.sg/education/admissions/returning-singaporeans/leave-of-absence/).
+More information may be obtained on  [MOE's website](https://www.moe.gov.sg/returning-singaporeans).
