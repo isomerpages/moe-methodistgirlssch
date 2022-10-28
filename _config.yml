@@ -6,15 +6,15 @@ colors:
   secondary-color: "#b18646"
   media-colors:
     - title: media-color-one
-      color: "#767b91"
+      color: "#a39e8e"
     - title: media-color-two
-      color: "#c7ccdb"
+      color: "#7191ba"
     - title: media-color-three
-      color: "#e1e5ee"
+      color: "#978e47"
     - title: media-color-four
-      color: "#ad8318"
+      color: "#627a9f"
     - title: media-color-five
-      color: "#0b3b8a"
+      color: "#9c8d73"
 description: ""
 permalink: none
 baseurl: ""
