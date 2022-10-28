@@ -4,6 +4,7 @@ permalink: /secondary/admissions/financial-assistance-scholarships/
 description: ""
 third_nav_title: Financial Assistance Scheme
 ---
+## Financial Assistance & Scholarships
 
 In MGS, we seek to give every girl a meaningful schooling experience and to help her to MASTER to GROW and to SERVE in every phase of her life. The school has put in place comprehensive financial assistance schemes such as the MOE Independent School Bursary (ISB), school-administered scholarships and bursaries to help students with financial need to reach their full potential for service and contribution beyond the school community.
 
@@ -11,7 +12,7 @@ School-administered financial aid, depending on the level of subsidy, besides sc
  
 Students who require financial aid at any point of time may approach [student_affairs@mgs.sch.edu.sg](mailto:student_affairs@mgs.sch.edu.sg) / Finance Office (Level 1) directly or through their Form Teacher for assistance.
 
-## MOE INDEPENDENT SCHOOL BURSARY (MOE-ISB)
+### MOE INDEPENDENT SCHOOL BURSARY (MOE-ISB)
 
 **Eligibility Criteria**
 
@@ -104,7 +105,7 @@ From 1 April 2020 the revised benefits are as shown in the table below:
 
 *Need to only satisfy either the GHI or the PCI criterion. PCI is computed based on GHI divided by the number of members in the household (including parents, siblings and grandparents).
 
-### **Application Procedure**
+#### **Application Procedure**
 
 Students may apply for MOE-ISB throughout the year as exigencies of each family’s financial situation demand. The bursary granted will take effect from the month the application is approved and will not be back-dated to January.
 
@@ -118,7 +119,7 @@ All MOE-ISB approved will be valid till December of the year. Fresh applications
 [Click here for ISB Application Form 2022](https://drive.google.com/file/d/1lx38lkPmHDvrH9u54KE_w7rOS-OeDGMe/view?usp=sharing).
 
 
-## Edusave Scholarships for Independent Schools (ESIS)
+### Edusave Scholarships for Independent Schools (ESIS)
 
 These scholarships are offered to academically strong students attending independent schools. The award value of the ESIS is up to $2,400 per year. Only Singapore citizens are eligible.
 
@@ -128,14 +129,14 @@ These scholarships are offered to academically strong students attending indepen
 
 [Click here for more information](https://www.moe.gov.sg/financial-matters/awards-scholarships/edusave-scholarships-independent) .
 
-## Music Elective Programme (MEP)
+### Music Elective Programme (MEP)
 
 Students of all nationalities who are admitted into the MEP within an Independent School are eligible for a fee subsidy up to a cap of $2400 per student per year.  
   
 
 [Click here for more information](https://www.moe.gov.sg/education-in-sg/our-programmes/mep-sec/where-to-take-it#:~:text=MEP%20students%20do%20not%20need,of%20%242%2C400%20per%20student%20yearly.).
 
-## MOE UPLIFT Scholarship
+### MOE UPLIFT Scholarship
 
 With effect from 1 April 2019, MOE has introduced the UPLIFT Scholarship to recognise the achievements of students in Independent Schools who have performed well academically or in specific talent areas, and are from lower income families.  
 
