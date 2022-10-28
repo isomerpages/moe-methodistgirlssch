@@ -2,6 +2,7 @@ collections:
   admissions:
     output: true
     order:
+      - Financial Assistance Scheme/Financial Assistance & Scholarships.md
       - Financial Assistance Scheme/Financial Assistance Scheme.md
       - Financial Assistance Scheme/.keep
       - Primary Admission/.keep
