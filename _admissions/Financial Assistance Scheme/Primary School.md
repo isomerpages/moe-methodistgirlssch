@@ -4,7 +4,7 @@ permalink: /admissions/Primary-Admission/fas/
 description: ""
 third_nav_title: Financial Assistance Scheme
 ---
-
+## Financial Assistance Scheme
 
 ### ENHANCEMENT TO MINISTRY OF EDUCATION FINANCIAL ASSISTANCE SCHEME
 
