@@ -2,9 +2,6 @@ collections:
   admissions:
     output: true
     order:
-      - Financial Assistance Scheme/Financial Assistance & Scholarships.md
-      - Financial Assistance Scheme/Financial Assistance Scheme.md
-      - Financial Assistance Scheme/.keep
       - Primary Admission/.keep
       - Primary Admission/Primary Admission.md
       - Primary Admission/Midstream Admission for Primary School.md
@@ -16,12 +13,15 @@ collections:
       - Secondary Admission/Secondary 1 Registration.md
       - Secondary Admission/Midstream Admission for Secondary School.md
       - Secondary Admission/Immersion Programmes.md
-      - Leave of Absence.md
+      - School Fees/.keep
+      - School Fees/Primary School Fees.md
+      - School Fees/Secondary School Fees.md
+      - Financial Assistance Scheme/.keep
+      - Financial Assistance Scheme/Financial Assistance & Scholarships.md
+      - Financial Assistance Scheme/Financial Assistance Scheme.md
       - Scholarships and Awards/.keep
       - Scholarships and Awards/Scholarships and Awards.md
       - Scholarships and Awards/National & Other Awards.md
       - Scholarships and Awards/MOE Scholarship & Awards.md
       - Scholarships and Awards/MGS Special Awards and Scholarships.md
-      - School Fees/.keep
-      - School Fees/Primary School Fees.md
-      - School Fees/Secondary School Fees.md
+      - Leave of Absence.md
