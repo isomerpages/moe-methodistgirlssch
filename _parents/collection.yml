@@ -2,11 +2,11 @@ collections:
   parents:
     output: true
     order:
+      - Primary Parents/.keep
+      - Primary Parents/Primary School Parent Volunteer.md
+      - Secondary Parents/.keep
       - Secondary Parents/Parent Teacher Meeting.md
       - Secondary Parents/Parents' Briefing.md
-      - Secondary Parents/.keep
-      - Primary Parents/Primary School Parent Volunteer.md
-      - Primary Parents/.keep
       - Student Learning Space (SLS).md
       - MOE Parent Kit.md
       - FamilyMatters@Schools.md
