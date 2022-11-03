@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - The MGS Store.md
       - Principal's Message.md
       - Our Heritage.md
       - Our Identity.md
