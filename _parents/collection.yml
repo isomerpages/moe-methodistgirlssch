@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - Secondary Parents/Parents Teacher Meeting.md
       - Secondary Parents/Parents' Briefing.md
       - Secondary Parents/.keep
       - Primary Parents/Primary School Parent Volunteer.md
