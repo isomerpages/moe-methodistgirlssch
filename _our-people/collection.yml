@@ -2,6 +2,7 @@ collections:
   our-people:
     output: true
     order:
+      - Parents.md
       - School Leaders.md
       - Primary Staff/.keep
       - Primary Staff/Key Personnel.md
