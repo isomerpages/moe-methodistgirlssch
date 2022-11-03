@@ -2,5 +2,6 @@ collections:
   parents:
     output: true
     order:
+      - Primary School Parent Volunteer.md
       - MOE Parent Kit.md
       - FamilyMatters@Schools.md
