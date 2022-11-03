@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - Primary Parents/.keep
       - Student Learning Space (SLS).md
       - Primary School Parent Volunteer.md
       - MOE Parent Kit.md
