@@ -2,4 +2,5 @@ collections:
   parents:
     output: true
     order:
+      - MOE Parent Kit.md
       - FamilyMatters@Schools.md
