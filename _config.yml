@@ -10,9 +10,9 @@ colors:
     - title: media-color-two
       color: "#7191ba"
     - title: media-color-three
-      color: "#978e47"
+      color: "#977f47"
     - title: media-color-four
-      color: "#627a9f"
+      color: "#3f679d"
     - title: media-color-five
       color: "#9c8d73"
 description: ""
