@@ -2,6 +2,7 @@ collections:
   openhouse:
     output: true
     order:
+      - My Query.md
       - Openhouse.md
       - DSA Talent Areas.md
       - CCA.md
