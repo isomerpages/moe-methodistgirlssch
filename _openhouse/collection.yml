@@ -2,4 +2,5 @@ collections:
   openhouse:
     output: true
     order:
+      - mgsexperience.md
       - Openhouse.md
