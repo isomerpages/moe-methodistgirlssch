@@ -2,10 +2,10 @@ collections:
   about-us:
     output: true
     order:
-      - School Information/.keep
       - Principal's Message.md
       - Our Heritage.md
       - Our Identity.md
+      - School Information/.keep
       - School Rules/.keep
       - School Rules/School Rules.md
       - School Rules/Absence From School.md
