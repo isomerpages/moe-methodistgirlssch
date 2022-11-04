@@ -248,3 +248,34 @@ Lower Strings: To encourage more cellists and double bassists in the String Ense
 ALL MEP STUDENTS MUST UNDERSTAND THAT THE COMMITMENT IS FOR FOUR YEARS. 
 
 Withdrawal is only allowed with valid reasons e.g., consistently failing MEP or weak in all subjects, including MEP, on case by case basis.
+
+## CCA
+
+### 1. Will my child be guaranteed a place in the school team if she comes in via DSA?
+
+The school team is selected only prior to the team registration for the National School Games. The CCA teachers and the coach will access the players and choose those who are ready to represent the school. 
+
+Generally, most DSA students qualify for the school team due to their good attitude, talent, ability and sustained commitment to training.
+
+
+### 2. My child does not have any achievements. Will she still be selected? She was supposed to go for a competition last year/this year but due to the Circuit Breaker/ safe distancing measures, the competition was postponed."
+
+We are aware that students are unable to produce proof of their achievements last year due to measures implemented during the Circuit Breaker. The selection process will be adjusted to accommodate that. Please refer to our website for updates after MOE commences the 2021 DSA Application Exercise.
+
+### 3. Can my child take up more than one CCA other than her DSA sport?
+
+DSA students are obliged to commit and perform well in their DSA sport. In addition to the school's CCA training (three times per week), most DSA students also train with their private coaches or with the national youth team. They are strongly advised to focus on one CCA so that they have sufficient time to cope with the demands of their DSA CCA and the rigour of the academics.
+
+### 4. How many training sessions are there per week and how long is each session?
+
+School Team Sports CCAs have three training sessions per week. Generally, training sessions are held on Monday, Wednesday and Friday. Each training session is 3 hours long, from 3pm to 6pm. 
+
+Performing Arts CCAs are held on Mondays, Wednesdays and Friday. More practices are arranged only when there is a need to prepare for nation-wide events (e.g. SYF Arts Presentation) or a performance/concert. In such instances, parents and students will be notified at least two weeks in advance. Each training session is about 2 to 3 hours long, starting from 3pm. 
+
+Students’ well-being is our priority. Hence during post-season and end-of-year examination period, CCA Sessions will be scaled down.
+
+### 5. What opportunities are given to students in the performing arts CCAs?
+
+Besides the biennial SYF Arts Presentation, students in the Performing Arts CCA have many platforms where they are involved in different ways, besides performance. For example, students may be involved in production, choreography and leading sections in practices and rehearsals. Platforms are internal and external school events such as Founder's Day, MGS Sunday at CCMC, Student Leaders' Investiture, public performances with VIA partners to reach out to the community. 
+
+Under the guidance of our experienced instructors, they also get to take part in competitions and when they are at their peak , they may be sent for external MOE courses such as the conductor’s course, to hone their skills.
