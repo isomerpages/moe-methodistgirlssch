@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Safety.md
       - Personal Data Protection Act.md
       - Principal's Message.md
       - Our Heritage.md
