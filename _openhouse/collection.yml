@@ -2,10 +2,10 @@ collections:
   openhouse:
     output: true
     order:
-      - My Query.md
       - Openhouse.md
       - DSA Talent Areas.md
       - CCA.md
       - MGS IP.md
       - The MGS Experience.md
       - FAQs.md
+      - My Query.md
