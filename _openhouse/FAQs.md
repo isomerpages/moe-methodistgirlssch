@@ -157,3 +157,60 @@ If choice of CCA is important, then your child should avoid applying for entry v
 ### Would my daughter be at a disadvantage during the DSA exercise if she is not a Singaporean?
 
 Your child’s nationality does not matter in the DSA exercise. Our assessment is based on talents and ability to cope with the rigour of the school curriculum.
+
+## IP
+
+### What are the criteria for entry into the the MGS IP? Does my child need to take any selection Test?
+
+The shortlisting criteria comprises strong academic results and a basket of holistic inidcators. Shortlisted candidates will have to undergo a selection process which includes a domain assessment task, an individual interview and an essay writing component.
+
+
+### Must I take Higher Mother Tongue in the MGS IP?
+
+All MGS students who are offered HMT are strongly encouraged to take up this opportunity to learn MT at a first language level.
+
+### Is it compulsory to take HMT in IP?
+
+It is not compulsory to take HMT.
+
+### Can I switch from HMT to MT at the end of Year 1?
+
+The switch from HMT to MT is possible at the end of Year 1. You can discuss with your parents and teachers to make a decision.
+
+### Does Third Language replace any subject in the final computation of grades?
+
+Third language is taken as an additional subject and L3 marks are computed for the overall year end results.
+
+### Does the school provide any transport to the Third Language Centres?
+
+We do not provide any transport to the Third Language Centres.
+
+### How many vacancies are there? What other opportunities do I have if I am unsuccessful for the IP?
+
+There will be 4 IP classes in Year One.
+
+Those are not successful in getting an IP place can apply for a place at Y3 IP when she is in Sec 2. MGS has a scholastic programme in the O-level track called the Sophia Blackmore Academy (SBA).
+
+If you attained a PSLE T-score of 250 and above (AL equivalent will be made known at a later date), you will be automatically placed in an SBA class in Sec 1. Generally, those with:
+
+*   Achievement Level 1 in Maths and Science will be placed in a Maths & Science enriched SBA class;
+    
+*   Achievement Level 1 in English will be placed in a Language Arts enriched SBA class.
+
+### Can IP students do MEP?
+
+Yes, IP students can apply to do MEP. IP students will sit for the Higher Music paper in the GCE 'O' level examinations.
+
+### If my child is not able to cope with the MGS IP after the 1st year, what other options are there for my child? What is the drop-out rate?"
+
+As a school, we provide our fullest support to our students. This environment comprises the form teachers, subject teachers and Year Heads, and they monitor students' progress and decide on a remediation programme to help students when necessary. Coupled with strong home-school partnership, we are confident of helping our students to do well in the MGS IP and thereafter in the IBDP. 
+
+All students who experience difficulties will have support. The school will discuss support and options with parents.
+
+### Will my child be left with only a PSLE certificate if she is unable to finish the 6-year programme?
+
+All students will receive 4 termly reports in each academic year in MGS & ACSI. She can look forward to being awarded her IB Diploma when she completes her IB exams at the end of Year 6.
+
+### Is there any promotion criteria from Sec 1 to Y5?
+
+Yes, promotion criteria applies for students to be considered for promotion to the next level.
