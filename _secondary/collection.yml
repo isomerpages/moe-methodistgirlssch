@@ -2,6 +2,7 @@ collections:
   secondary:
     output: true
     order:
+      - Academic.md
       - Curriculum.md
       - Key Programmes/Intergenerational Learning (IGL) @ MGS.md
       - Key Programmes/.keep
