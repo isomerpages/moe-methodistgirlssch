@@ -2,11 +2,10 @@ collections:
   about-us:
     output: true
     order:
-      - School Safety.md
-      - Personal Data Protection Act.md
       - Principal's Message.md
       - Our Heritage.md
       - Our Identity.md
+      - Personal Data Protection Act.md
       - School Information/.keep
       - School Rules/.keep
       - School Rules/School Rules.md
@@ -14,6 +13,7 @@ collections:
       - School Rules/Classification of Approved School Attire.md
       - School Rules/MGS Conduct Ratings.md
       - School Rules/The Mark of An MGS Girl.md
+      - School Safety.md
       - School Supplies/.keep
       - School Supplies/Booklist and Bookshop.md
       - School Supplies/MGS cashless (POSB Smart Buddy).md
