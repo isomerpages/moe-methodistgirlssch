@@ -8,8 +8,8 @@ description: ""
 
 **Group Personal Accident Insurance for Students**
 
-*   [Online Claim (recommended mode of claiming)](https://studentgpa.incomegroupins.com.sg/)  
+*   [Group Personal Accident Insurance for Students: Online Claim (recommended mode of claiming)](https://studentgpa.incomegroupins.com.sg/)  
      
-*   [Group Personal Accident Insurance for Students - Factsheet](/files/Product%20Fact%20Sheet%20(Nov%202017)%20Student%20GPA%20(1).pdf)
+*   [Group Personal Accident (GPA) Insurance Plan for Students: Product Fact Sheet (Nov 2017)](https://drive.google.com/file/d/1H29nMD-MxZTjfj10m_Sqp_harreFpfo0/view?usp=share_link)
     
-*   [Claim Form (hard copy)](/files/MOE%20Student%20GPA%20claim%20form.pdf)
+*   [Group Personal Accident (GPA) Insurance Plan for Students: Claim form (hard copy)](https://drive.google.com/file/d/1CWQe63bH5yfvySLRGxwtWsNM_ouZaLAc/view?usp=share_link)
