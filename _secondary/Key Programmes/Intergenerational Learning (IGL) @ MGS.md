@@ -12,9 +12,9 @@ Seniors and students from all parts of Singapore can choose to volunteer with- a
 
 ### Course Registration
 
-[Seniors](https://forms.gle/RpwpMRnmcNqVzsDv5) \- [www.tinyurl.com/MGLearns](http://www.tinyurl.com/MGLearns)
+[**Seniors**](https://forms.gle/RpwpMRnmcNqVzsDv5): [www.tinyurl.com/MGLearns](http://www.tinyurl.com/MGLearns)
  
-[Students/Youths](https://forms.gle/Y3eErseV5dVsEsFd9) \- [www.tinyurl.com/MGServes](http://www.tinyurl.com/MGServes)
+[**Students/Youths**](https://forms.gle/Y3eErseV5dVsEsFd9): [www.tinyurl.com/MGServes](http://www.tinyurl.com/MGServes)
 
 
 ### Current list of projects:
