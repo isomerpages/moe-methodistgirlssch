@@ -1,0 +1,4 @@
+collections:
+  openhouse:
+    output: true
+    order: []
