@@ -10,3 +10,5 @@ Below are some important Administration Forms. Please click on the files below 
 * [Request Form for Updating of Student's Address](/files/Form%20C%20(Address%20Updates).pdf)
 * [Application for MOE Financial Assistance Scheme (MOE FAS)](/files/ENHANCEMENT%20TO%20MINISTRY%20OF%20EDUCATION%20FINANCIAL%20ASSISTANCE%20SCHEME.pdf)
 * [Canteen Stall Application Form](/files/ATS%20canteen-app-form-school.pdf)
+* GIRO
+* Accident Insurance for Students 
