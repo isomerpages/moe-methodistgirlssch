@@ -2,6 +2,7 @@ collections:
   news-and-events:
     output: true
     order:
+      - Openhouse.md
       - Calendar of Events.md
       - Emails & Letters to Parents.md
       - Publications.md
