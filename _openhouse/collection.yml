@@ -2,5 +2,6 @@ collections:
   openhouse:
     output: true
     order:
+      - DSA Talent Areas.md
       - The MGS Experience.md
       - Openhouse.md
