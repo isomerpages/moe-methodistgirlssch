@@ -2,11 +2,11 @@ collections:
   secondary:
     output: true
     order:
-      - CCA.md
       - Academic.md
+      - CCA.md
       - Curriculum.md
-      - Key Programmes/Intergenerational Learning (IGL) @ MGS.md
       - Key Programmes/.keep
+      - Key Programmes/Intergenerational Learning (IGL) @ MGS.md
       - Key Programmes/Reality Outside Classrooms.md
       - Key Programmes/Regional Youth Conference.md
       - Key Programmes/Sophia Blackmore Academy.md
