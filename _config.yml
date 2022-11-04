@@ -8,13 +8,13 @@ colors:
     - title: media-color-one
       color: "#a39e8e"
     - title: media-color-two
-      color: "#a36382"
+      color: "#6d4857"
     - title: media-color-three
-      color: "#16389c"
+      color: "#304066"
     - title: media-color-four
       color: "#656565"
     - title: media-color-five
-      color: "#8d764a"
+      color: "#6f5b34"
 description: ""
 permalink: none
 baseurl: ""
