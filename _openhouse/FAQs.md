@@ -54,7 +54,7 @@ O-Level track: ~190 students (includes 60-90 SBA students)
 
 \* No separate application or selection test is required for SBA.
 
-06
+
 
 ### 6. What are the monthly school fees?
 
