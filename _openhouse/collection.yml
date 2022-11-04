@@ -2,8 +2,8 @@ collections:
   openhouse:
     output: true
     order:
-      - CCA.md
       - Openhouse.md
       - DSA Talent Areas.md
+      - CCA.md
       - MGS IP.md
       - The MGS Experience.md
