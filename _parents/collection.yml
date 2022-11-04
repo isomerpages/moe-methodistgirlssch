@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - School Lockers.md
       - School Uniforms.md
       - MGS cashless (POSB Smart Buddy).md
       - Primary Parents/Pupil Services.md
