@@ -4,26 +4,20 @@ permalink: /about-us/school-information/awards-n-scholarships/national-n-other-a
 description: ""
 third_nav_title: Scholarships and Awards
 ---
-
-
-
-
-
-
 ## Special Awards
 
 
-#### The Prime Minister’s Book Prize (PMBP)
+### The Prime Minister’s Book Prize (PMBP)
 
 This award promotes effective bilingualism in schools and both Primary and Secondary school students are eligible.  
   
 
-#### The Lee Kuan Yew Award for Mathematics and Science (LKY-M&S)
+### The Lee Kuan Yew Award for Mathematics and Science (LKY-M&S)
 
 This award recognises Secondary school students for their achievements in Mathematics and Science and encourages them to continue to pursue STEM.  
   
 
-#### The Lee Kuan Yew Award for All-Round Excellence (LKY-ARE)
+### The Lee Kuan Yew Award for All-Round Excellence (LKY-ARE)
 
 This award recognises well-rounded Secondary school students who have excelled in both academic and non-academic spheres, and who exemplify positive character development, strong leadership and commitment to service to the community.  
   
@@ -36,6 +30,6 @@ The Outstanding All-Rounder Student (OARS) Award aims to recognise outstanding s
   
 
 ## Methodist Schools’ Foundation
-#### Good Steward Financial Assistance Award
+### Good Steward Financial Assistance Award
 
 The Good Steward Financial Assistance Award is given by the Methodist Schools’ Foundation to deserving students who have proven their tenacity in beating the odds to excel in any given discipline (academic or non-academic) notwithstanding their financial circumstances.
