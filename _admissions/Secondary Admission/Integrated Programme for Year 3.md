@@ -4,8 +4,6 @@ permalink: /secondary/admissions/mgs-ip-for-year-3-intake/
 description: ""
 third_nav_title: Secondary Admission
 ---
-
-
 The application for admission into Year 3 of the MGS Integrated Programme is open to students who are currently in 2022 Secondary 2 or its equivalent.
 
 The MGS IP is a through-train programme that leads to the International Baccalaureate Diploma Programme at Anglo-Chinese School (Independent) in Years 5 & 6.
@@ -108,7 +106,7 @@ The MGS IP is a through-train programme that leads to the International Baccalau
 </table>
 
 
-### How to Apply
+## How to Apply
 
 
 You will need the following information and supporting documents (in softcopy) for **upload during the application**:
@@ -140,7 +138,8 @@ Provide a short paragraph about yourself, your interests or what is important to
  
 **F) Print out your application form after submission for your own reference.**
 
-### Enquiries
+
+## Enquiries
 
 For further clarification, please contact:  
   
@@ -150,7 +149,8 @@ For further clarification, please contact:
 **Integrated Programme Assistant Year Head**  
 [Mrs Grace Poh](mailto:grace_poh@schools.gov.sg)
 
-### IMPORTANT NOTE FOR CURRENT SEC 2 MGS STUDENTS/PARENTS
+
+## IMPORTANT NOTE FOR CURRENT SEC 2 MGS STUDENTS/PARENTS
 
 
 1.  You still need to sign up for a Y3IP application account, as it is different from your current MGS ntrix account.
