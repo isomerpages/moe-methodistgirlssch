@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - Emails & Letters to Parents.md
       - Primary Parents/.keep
       - Primary Parents/Booklist and Bookshop.md
       - Primary Parents/Information.md
