@@ -4,8 +4,6 @@ permalink: /admissions/fas-sec/
 description: ""
 third_nav_title: Financial Assistance Scheme
 ---
-
-
 ## Financial Assistance & Scholarships
 
 In MGS, we seek to give every girl a meaningful schooling experience and to help her to MASTER to GROW and to SERVE in every phase of her life. The school has put in place comprehensive financial assistance schemes such as the MOE Independent School Bursary (ISB), school-administered scholarships and bursaries to help students with financial need to reach their full potential for service and contribution beyond the school community.
@@ -16,12 +14,12 @@ Students who require financial aid at any point of time may approach [student_a
 
 ### MOE INDEPENDENT SCHOOL BURSARY (MOE-ISB)
 
-**Eligibility Criteria**
+#### Eligibility Criteria
 
 *   Student must be a Singapore Citizen
 *   Either the monthly Gross household income must meet one of the income criteria, Gross Household Income (GHI) or the Per Capita Income (PCI) criterion must be satisfied
 
-**Income Criteria & Benefits**
+#### Income Criteria & Benefits
 
 From 1 April 2020 the revised benefits are as shown in the table below:
 
@@ -71,41 +69,46 @@ From 1 April 2020 the revised benefits are as shown in the table below:
   <tbody>
     <tr>
       <td class="tg-mppl">Not exceeding<br>
-        $2,750</td>
+        $3,000</td>
       <td class="tg-mppl">Not exceeding<br>
-        $690</td>
-      <td class="tg-mppl">100% subsidy of school and miscellaneous fees<br>
-        <br>
-        Free textbooks and school attire at Secondary level; $900 bursary at JC level <br>
-        <br>
-        $15 transport credit per month, capped at $180 per annum (for students taking public transport) <br>
-        School meal subsidies of $2.90 per meal for 10 meals per school week<br>
-        Full subsidy for exam fees1</td>
+        $750</td>
+      <td class="tg-mppl">
+				*   100% subsidy of school and miscellaneous fees      
+				
+*   Free textbooks and school attire at Secondary level      
+				
+*   $17 transport subsidy per month, capped at $204 per annum (for students taking public transport) <sup>2</sup>
+				
+*   School meal subsidies of $3.50 per meal for 10 meals per school week
+				
+				*   Full subsidy for exam fees <sup>1</sup></td>
     </tr>
     <tr>
-      <td class="tg-mppl">$2,751 - $4,000 </td>
-      <td class="tg-mppl">$691 - $1,000 </td>
-      <td class="tg-mppl">Subsidy such that student pays the equivalent of government and government-aided school (GGAS) fee^ </td>
+      <td class="tg-mppl">$3,001 - $4,400 </td>
+      <td class="tg-mppl">$751 - $1,100 </td>
+      <td class="tg-mppl">Subsidy such that student pays the equivalent of government and government-aided school (GGAS) fee <sup>^</sup> </td>
     </tr>
     <tr>
-      <td class="tg-mppl"> $4,001 - $6,900</td>
-      <td class="tg-mppl">$1,001 - $1,750 </td>
-      <td class="tg-mppl">Subsidy such that student pays the equivalent of 1.5 times GGAS fee ^ </td>
+      <td class="tg-mppl"> $4,401 - $7,500</td>
+      <td class="tg-mppl">$1,101 - $1,875 </td>
+      <td class="tg-mppl">Subsidy such that student pays the equivalent of 1.5 times GGAS fee <sup>^</sup> </td>
     </tr>
     <tr>
-      <td class="tg-mppl"> $6,901 - $9,000</td>
-      <td class="tg-mppl">$1,726 - $2,250</td>
+      <td class="tg-mppl"> $7,501 - $10,000</td>
+      <td class="tg-mppl">$1,876 - $2,500</td>
       <td class="tg-mppl">33% subsidy of school fees and miscellaneous fees </td>
     </tr>
   </tbody>
 </table>
 
 
-*Applicable for students enrolled in the International Baccalaureate Diploma Programme in Government-funded schools. Examination fees for GCE ‘O’ and ‘A’ levels have been waived for all Singapore Citizen students in Government-funded schools from 2015. 
+<sup>1</sup> Applicable only to Singapore Citizen students enrolled in the International Baccalaureate Diploma Programme (IBDP) in Government-funded schools. Exam fees for GCE ‘O’ and ‘A’ levels are waived for all Singapore Citizens in Government-funded schools.
 
-^ GGAS fee comprises school fee, standard miscellaneous fees and maximum 2nd tier miscellaneous fees payable by Singapore Citizen students studying in GGAS.
+<sup>2</sup> The public transport subsidy will only be provided from the effective month of the MOE ISB till December of the year.
 
-*Need to only satisfy either the GHI or the PCI criterion. PCI is computed based on GHI divided by the number of members in the household (including parents, siblings and grandparents).
+<sup>^</sup> GGAS fee comprises school fee, standard miscellaneous fees and maximum 2nd tier miscellaneous fees payable by Singapore Citizen students studying in GGAS.
+
+** Need to only satisfy either the GHI or the PCI criterion. PCI is computed based on GHI divided by the number of members in the household (including parents, siblings and grandparents).
 
 #### **Application Procedure**
 
@@ -146,8 +149,8 @@ The UPLIFT Scholarship is awarded to students who are:
 
 1.  Singapore Citizens attending Independent Schools;
 2.  Admitted to the school through Direct School Admission or qualified for the Edusave Scholarships for Independent Schools; and
-3.  From families with gross monthly household income (GHI) ≤ $2,750, or gross monthly household per capita income (PCI) ≤ $690 (PCI = GHI divided by number of household members). (Note: these students qualify for 100% fee subsidy under the Independent School Bursary (ISB)).
+3.  From families with gross monthly household income (GHI) ≤ $3,000, or gross monthly household per capita income (PCI) ≤ $750 (PCI = GHI divided by number of household members). (Note: these students qualify for 100% fee subsidy under the Independent School Bursary (ISB)).
 
-ISB recipients receiving 100% fee subsidy will be auto-awarded the UPLIFT Scholarship.  
+ISB recipients receiving 100% fee subsidy will be auto-awarded the UPLIFT Scholarship.
 
 [Click here for more information](https://www.moe.gov.sg/financial-matters/awards-scholarships/uplift-scholarships) .
