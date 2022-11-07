@@ -22,40 +22,44 @@ description: ""
 <table width="100%" border="0" cellspacing="0" cellpadding="5">
   <tbody>
     <tr>
-      <td width="25%" align="center" valign="bottom">&nbsp;</td>
+      <td width="20%" align="center" valign="bottom">&nbsp;</td>
       <td width="25%" align="center" valign="bottom"><img src="/images/Others/sl-csim.jpg" width="150" height="190" alt=""/><br>
         <a href="mailto:Corinne_SIM@schools.gov.sg">Mrs Corinne Sim</a><br>
       <strong>Vice-Principal</strong></td>
+      <td width="10%" align="center" valign="bottom">&nbsp;</td>
       <td width="25%" align="center" valign="bottom"><img src="/images/Others/sl-dgoh.jpg" width="150" height="190" alt=""/><br>
         <a href="mailto:Diana_TAN@schools.gov.sg">Mrs Diana Goh</a><br>
         <strong>Vice-Principal</strong></td>
-      <td width="25%" align="center" valign="bottom">&nbsp;</td>
+      <td width="20%" align="center" valign="bottom">&nbsp;</td>
     </tr>
     <tr>
+      <td width="20%" align="center" valign="bottom">&nbsp;</td>
       <td width="25%" align="center" valign="bottom">&nbsp;</td>
+      <td width="10%" align="center" valign="bottom">&nbsp;</td>
       <td width="25%" align="center" valign="bottom">&nbsp;</td>
-      <td width="25%" align="center" valign="bottom">&nbsp;</td>
-      <td width="25%" align="center" valign="bottom">&nbsp;</td>
+      <td width="20%" align="center" valign="bottom">&nbsp;</td>
     </tr>
   </tbody>
 </table>
 <table width="100%" border="0" cellpadding="5" cellspacing="0">
   <tbody>
     <tr>
-      <td width="25%" align="center" valign="bottom">&nbsp;</td>
+      <td width="20%" align="center" valign="bottom">&nbsp;</td>
       <td width="25%" align="center" valign="bottom"><img src="/images/Others/sl-kohce.jpg" width="150" height="190" alt=""/><br>
         <a href="mailto:YEOW_Chern_Ee@schools.gov.sg">Mrs Koh Chern Ee</a><br>
         <strong>Vice-Principal</strong></td>
+      <td width="10%" align="center" valign="bottom">&nbsp;</td>
       <td width="25%" align="center" valign="bottom"><img src="/images/Others/sl-hchia.jpg" width="150" height="190" alt=""/><br>
         <a href="mailto:hannah_chia@schools.gov.sg">Ms Hannah Chia</a><br>
         <strong>Vice-Principal</strong></td>
-      <td width="25%" align="center" valign="bottom">&nbsp;</td>
+      <td width="20%" align="center" valign="bottom">&nbsp;</td>
     </tr>
     <tr>
+      <td width="20%" align="center" valign="bottom">&nbsp;</td>
       <td width="25%" align="center" valign="bottom">&nbsp;</td>
+      <td width="10%" align="center" valign="bottom">&nbsp;</td>
       <td width="25%" align="center" valign="bottom">&nbsp;</td>
-      <td width="25%" align="center" valign="bottom">&nbsp;</td>
-      <td width="25%" align="center" valign="bottom">&nbsp;</td>
+      <td width="20%" align="center" valign="bottom">&nbsp;</td>
     </tr>
   </tbody>
 </table>
