@@ -4,6 +4,8 @@ permalink: /secondary/admissions/school-fees/secondary/
 description: ""
 third_nav_title: School Fees
 ---
+## School & Miscellaneous fees
+
 For more information, please click on the links below:  
 
 *   [School & Miscellaneous Fees 2023 (Finance) - Sec 2 to 4](https://drive.google.com/file/d/1YfK57CZCv4T6KyfWgJXnvRmYuE8Qn60F/view?usp=share_link)
