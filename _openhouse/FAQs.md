@@ -3,6 +3,16 @@ title: FAQs
 permalink: /openhouse/faqs/
 description: ""
 ---
+<a name="top"</a>
+Click the links below for a quick access to the specific parts of our FAQs: 
+1. [General](#general)
+2. [Direct School Admissions](#dsa)
+3. [Integrated Programme](#ip)
+4. [Music Elective Programme](#mep)
+5. [Core Curriculum Activities](#cca)
+
+
+<a name="general"></a>
 ## General ## 
 
 #### 1. What is MGS School Code?
@@ -60,25 +70,18 @@ O-Level track: ~190 students (includes 60-90 SBA students)
 
 **For 2021 Secondary, Integrated Programme:**
 
-*   SG Citizens $320
-    
-*   PR $750
-    
-*   IS (ASEAN) $1410
-    
+*   SG Citizens $320    
+*   PR $750    
+*   IS (ASEAN) $1410    
 *   IS (non-ASEAN) $1900
     
 
-  
 
 **For 2021 Secondary, O-Level track:**
 
-*   SG Citizens $300
-    
-*   PR $710
-    
-*   IS (ASEAN) $1260
-    
+*   SG Citizens $300    
+*   PR $710    
+*   IS (ASEAN) $1260    
 *   IS (non-ASEAN) $1695
     
 
@@ -95,7 +98,12 @@ Lessons usually end at about 2.30pm, depending on which level and the students�
 On some afternoons, students may attend supplementary classes or enrichment programmes.
 
 
-## DSA
+
+[back to the top](#top)
+<hr/>
+
+<a name="dsa"></a>
+## Direct School Admissions
 
 ### 1. What documents do I need to submit together with the application form?
 
@@ -110,43 +118,53 @@ As a DSA student, you are **not allowed** to transfer to another school after th
 
 More info at [https://www.moe.gov.sg/admissions/direct-admissions/dsa-sec/overview](https://www.moe.gov.sg/admissions/direct-admissions/dsa-sec/overview)
 
+
 ### 3. My child has been offered a place in DSA, does she still need to make an option for the Sec schools?"
 
 If your child has been confirmed a place in DSA or given a waitlist in DSA at the DSA Sec exercise, and is posted to MGS, she will not be given an option form to select secondary schools.
 
 However, she needs to complete her registration to her posted secondary school. Please check school websites for registration details.
 
+
 ### 4. When will I know if I have been shortlisted for the test / audition / trial / interview?
 
 All applicants will be informed if they have been shortlisted for e-conferencing and be provided with further details, at the end of June.
+
 
 ### 5. When will I know if I have been offered a place?
 
 All shortlisted applicants will be notified of the outcome of their applications by end of August 2021.
 
+
 ### 6. I received more than one DSA offer. When must I decide which to accept?
 
 You will have to indicate your preferences in ranked order for up to three schools during the Exercise School Preference Stage in late October after PSLE.
+
 
 ### 7. What is the minimum score needed to be shortlisted for DSA trial / audition?
 
 The DSA scheme provides students to gain admission to a DSA school via talent area(s). All applicants will be assessed on their talents and ability to cope with the school curriculum.
 
+
 ### 8. Must my child’s PSLE Score fall within a specific range even if she receives a Confirmed Offer from your school?
 
 For MGS, your child must qualify for the Express stream.
+
 
 ### 9. Where can I find the list of CCAs for DSA 2021? Is it the same as the 2020 list found in the website?
 
 The new list of DSA Talent Areas for DSA 2021 will be put up after MOE’s release of DSA information.
 
+
 ### 10. Is there a DSA quota for each CCA or on the whole?
 
 There is no fixed quota. The objective of DSA is to identify talent, taking into consideration the student’s interest and long term development potential.
 
+
 ### 11. Are there CCAs which are more popular and see a higher number of DSA applicants?
 
 No, there is no discernible trend.
+
 
 ### 12. If my child gets in through DSA, must my child join the CCA for 4 years? What if her interest changes?"
 
@@ -154,11 +172,18 @@ Yes, your child is obliged to contribute in that DSA CCA and hence must remain i
 
 If choice of CCA is important, then your child should avoid applying for entry via DSA Sports or Music as the above conditions apply.
 
+
 ### 13. Would my daughter be at a disadvantage during the DSA exercise if she is not a Singaporean?
 
 Your child’s nationality does not matter in the DSA exercise. Our assessment is based on talents and ability to cope with the rigour of the school curriculum.
 
-## IP
+
+
+[back to the top](#top)
+<hr/>
+
+<a name="ip"></a>
+## Integrated Programme
 
 ### 1. What are the criteria for entry into the the MGS IP? Does my child need to take any selection Test?
 
@@ -169,21 +194,26 @@ The shortlisting criteria comprises strong academic results and a basket of holi
 
 All MGS students who are offered HMT are strongly encouraged to take up this opportunity to learn MT at a first language level.
 
+
 ### 3. Is it compulsory to take HMT in IP?
 
 It is not compulsory to take HMT.
+
 
 ### 4. Can I switch from HMT to MT at the end of Year 1?
 
 The switch from HMT to MT is possible at the end of Year 1. You can discuss with your parents and teachers to make a decision.
 
+
 ### 5. Does Third Language replace any subject in the final computation of grades?
 
 Third language is taken as an additional subject and L3 marks are computed for the overall year end results.
 
+
 ### 6. Does the school provide any transport to the Third Language Centres?
 
 We do not provide any transport to the Third Language Centres.
+
 
 ### 7. How many vacancies are there? What other opportunities do I have if I am unsuccessful for the IP?
 
@@ -194,12 +224,13 @@ Those are not successful in getting an IP place can apply for a place at Y3 IP w
 If you attained a PSLE T-score of 250 and above (AL equivalent will be made known at a later date), you will be automatically placed in an SBA class in Sec 1. Generally, those with:
 
 *   Achievement Level 1 in Maths and Science will be placed in a Maths & Science enriched SBA class;
-    
 *   Achievement Level 1 in English will be placed in a Language Arts enriched SBA class.
+
 
 ### 8. Can IP students do MEP?
 
 Yes, IP students can apply to do MEP. IP students will sit for the Higher Music paper in the GCE 'O' level examinations.
+
 
 ### 9. If my child is not able to cope with the MGS IP after the 1st year, what other options are there for my child? What is the drop-out rate?"
 
@@ -207,15 +238,23 @@ As a school, we provide our fullest support to our students. This environment co
 
 All students who experience difficulties will have support. The school will discuss support and options with parents.
 
+
 ### 10. Will my child be left with only a PSLE certificate if she is unable to finish the 6-year programme?
 
 All students will receive 4 termly reports in each academic year in MGS & ACSI. She can look forward to being awarded her IB Diploma when she completes her IB exams at the end of Year 6.
+
 
 ### 11. Is there any promotion criteria from Sec 1 to Y5?
 
 Yes, promotion criteria applies for students to be considered for promotion to the next level.
 
-## MEP
+
+
+[back to the top](#top)
+<hr/>
+
+<a name="mep"></a>
+## Music Elective Programme
 
 ### 1. May I know the entry criteria for MEP in the Sec school?
 
@@ -233,6 +272,7 @@ All interested applicants (apart from DSA-MEP students) will sit for a Selection
 
 The Music Elective Programme (MEP) aims to nurture the academically able students who are musically inclined. It is a 4-year programme leading to O-level Higher Music. MEP students studying in MGS, enjoy a MOE subsidy of $200 per month for Independent School fees.
 
+
 ### 3. What is expected of a MEP student?
 
 MEP Music replaces the Home Economics subject in lower sec. At Upper Sec, MEP Music is taken as an exam subject (at O-levels). 
@@ -243,13 +283,20 @@ Students are strongly encouraged to join a Music CCA (Choir, Handbell choir, Str
 
 Lower Strings: To encourage more cellists and double bassists in the String Ensemble, there is a subsidy of 18 (1 hour) lessons for new cellists and double bassists in Sec / Year 1 (this does not apply to Sec /Year 2 to 4).
 
+
 ### 4. Can my child drop out of the MEP programme if she finds that she cannot cope with it later?
 
 ALL MEP STUDENTS MUST UNDERSTAND THAT THE COMMITMENT IS FOR FOUR YEARS. 
 
 Withdrawal is only allowed with valid reasons e.g., consistently failing MEP or weak in all subjects, including MEP, on case by case basis.
 
-## CCA
+
+
+[back to the top](#top)
+<hr/>
+
+<a name="cca"></a>
+## Core Curriculum Activities
 
 ### 1. Will my child be guaranteed a place in the school team if she comes in via DSA?
 
@@ -262,9 +309,11 @@ Generally, most DSA students qualify for the school team due to their good attit
 
 We are aware that students are unable to produce proof of their achievements last year due to measures implemented during the Circuit Breaker. The selection process will be adjusted to accommodate that. Please refer to our website for updates after MOE commences the 2021 DSA Application Exercise.
 
+
 ### 3. Can my child take up more than one CCA other than her DSA sport?
 
 DSA students are obliged to commit and perform well in their DSA sport. In addition to the school's CCA training (three times per week), most DSA students also train with their private coaches or with the national youth team. They are strongly advised to focus on one CCA so that they have sufficient time to cope with the demands of their DSA CCA and the rigour of the academics.
+
 
 ### 4. How many training sessions are there per week and how long is each session?
 
@@ -274,8 +323,14 @@ Performing Arts CCAs are held on Mondays, Wednesdays and Friday. More practices 
 
 Students’ well-being is our priority. Hence during post-season and end-of-year examination period, CCA Sessions will be scaled down.
 
+
 ### 5. What opportunities are given to students in the performing arts CCAs?
 
 Besides the biennial SYF Arts Presentation, students in the Performing Arts CCA have many platforms where they are involved in different ways, besides performance. For example, students may be involved in production, choreography and leading sections in practices and rehearsals. Platforms are internal and external school events such as Founder's Day, MGS Sunday at CCMC, Student Leaders' Investiture, public performances with VIA partners to reach out to the community. 
 
 Under the guidance of our experienced instructors, they also get to take part in competitions and when they are at their peak , they may be sent for external MOE courses such as the conductor’s course, to hone their skills.
+
+
+
+[back to the top](#top)
+<hr/>
