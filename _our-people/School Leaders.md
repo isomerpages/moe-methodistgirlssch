@@ -5,20 +5,16 @@ description: ""
 ---
 <table width="100%" border="0" cellspacing="0" cellpadding="5">
   <tr>
-    <td align="center" valign="bottom">&nbsp;</td>
-    <td align="center" valign="bottom"><p><img src="/images/Others/sl-vwilson.jpg" width="150" height="190" alt=""/><br>
+    <td width="37%" align="center" valign="bottom">&nbsp;</td>
+    <td width="25%" align="center" valign="bottom"><p><img src="/images/Others/sl-vwilson.jpg" width="150" height="190" alt=""/><br>
       <a href="mailto:Valarie_koh@schools.gov.sg">Mrs Valarie Wilson</a><br>
       <strong>Principal</strong></p></td>
-    <td align="center" valign="bottom">&nbsp;</td>
+    <td width="38%" align="center" valign="bottom">&nbsp;</td>
   </tr>
   <tbody>
-    <tr>
-      <td width="37%" align="center" valign="bottom">&nbsp;</td>
-      <td width="25%" align="center" valign="bottom">&nbsp;</td>
-      <td width="38%" align="center" valign="bottom">&nbsp;</td>
-    </tr>
   </tbody>
 </table>
+<p>&nbsp;</p>
 <table width="100%" border="0" cellspacing="0" cellpadding="5">
   <tbody>
     <tr>
@@ -32,15 +28,9 @@ description: ""
         <strong>Vice-Principal</strong></td>
       <td width="20%" align="center" valign="bottom">&nbsp;</td>
     </tr>
-    <tr>
-      <td width="20%" align="center" valign="bottom">&nbsp;</td>
-      <td width="25%" align="center" valign="bottom">&nbsp;</td>
-      <td width="10%" align="center" valign="bottom">&nbsp;</td>
-      <td width="25%" align="center" valign="bottom">&nbsp;</td>
-      <td width="20%" align="center" valign="bottom">&nbsp;</td>
-    </tr>
   </tbody>
 </table>
+<p>&nbsp;</p>
 <table width="100%" border="0" cellpadding="5" cellspacing="0">
   <tbody>
     <tr>
@@ -54,15 +44,9 @@ description: ""
         <strong>Vice-Principal</strong></td>
       <td width="20%" align="center" valign="bottom">&nbsp;</td>
     </tr>
-    <tr>
-      <td width="20%" align="center" valign="bottom">&nbsp;</td>
-      <td width="25%" align="center" valign="bottom">&nbsp;</td>
-      <td width="10%" align="center" valign="bottom">&nbsp;</td>
-      <td width="25%" align="center" valign="bottom">&nbsp;</td>
-      <td width="20%" align="center" valign="bottom">&nbsp;</td>
-    </tr>
   </tbody>
 </table>
+<p>&nbsp;</p>
 <table width="100%" border="0" cellspacing="0" cellpadding="5">
   <tbody>
     <tr>
