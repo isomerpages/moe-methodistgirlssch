@@ -4,18 +4,16 @@ permalink: /secondary/useful-links/for-student/loan-of-mgs-uniform-one/
 description: ""
 third_nav_title: Useful Links
 ---
-
-
-
-### Who should be loaning Uniform One?
+## Who should be loaning Uniform One?
 *   School representatives in competitions at Zonal, Cluster, National level
 *   School representatives at award ceremonies at Zonal and National level
 *   Students who are required to make presentations at formal platforms such as Science Fairs, VIA platforms
 *   Students who are required to participate, interact and network with peers at various local and overseas conferences/events
 
-Refer to [ANNEX A: INFORMATION ABOUT UNIFORM ONE](https://www.mgs.moe.edu.sg/secondary/useful-links/for-student/loan-of-mgs-uniform-one#_ptoo_95327)
+Refer to [ANNEX A: INFORMATION ABOUT UNIFORM ONE](#annexa)
 
-### What is loaned to students?
+
+## What is loaned to students?
 
 <img src="/images/Others/loan-uniform1.jpg" 
      style="width:60%" align="right">
@@ -32,7 +30,7 @@ Refer to [ANNEX A: INFORMATION ABOUT UNIFORM ONE](https://www.mgs.moe.edu.sg/se
 1.  Skin-coloured stockings (optional)
 2.  Black court shoes: 1-1.5 inch court shoes as seen in the picture. No sandals, wedges or platform shoes
 
-### Instructions for Care
+## Instructions for Care
 
 
 1.  The Uniform will be loaned out in a full set of blazer, shirt, skirt and tie, together with a Uniform bag.  
@@ -96,7 +94,7 @@ Refer to [ANNEX A: INFORMATION ABOUT UNIFORM ONE](https://www.mgs.moe.edu.sg/se
 ** You may not buy or use your own item to replace any part of the Uniform.
 
 
-### Loan of MGS Uniform One
+## Loan of MGS Uniform One
   
 Please [use this LINK](https://docs.google.com/forms/d/1VrOy1RXlpQiHtkapMRE57EvLIEjSt8Y1_nfzgr2zBDY/edit) for the loan of MGS Uniform One.  
   
@@ -105,8 +103,8 @@ To pick up the items, kindly go to the P/ VP’s office on Level 3 and ring the 
 To return the items, kindly pass them to the staff at the General Office counter.  
   
   
-
-### ANNEX A: INFORMATION ABOUT UNIFORM ONE
+<a name="annexa"></a>
+## ANNEX A: INFORMATION ABOUT UNIFORM ONE
 
   
 Uniform One is the formal attire worn by MGS students on formal occasions or when representing the school in competitions or official functions. As such, it must be worn with pride and decorum. The wearer must treat Uniform One with respect and wear it in a manner that represents the school well.
