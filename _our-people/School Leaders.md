@@ -5,56 +5,53 @@ description: ""
 ---
 <table width="100%" border="0" cellspacing="0" cellpadding="5">
   <tr>
-    <td width="37%" align="center" valign="bottom">&nbsp;</td>
-    <td width="25%" align="center" valign="bottom"><img src="/images/Others/sl-vwilson.jpg" width="150" height="190" alt=""/><br>
+    <td width="37%" valign="bottom">&nbsp;</td>
+    <td width="25%" valign="bottom"><p style="text-align:center;"><img src="/images/Others/sl-vwilson.jpg" width="150" height="190" alt="" /><br>
       <a href="mailto:Valarie_koh@schools.gov.sg">Mrs Valarie Wilson</a><br>
       <strong>Principal</strong></p></td>
-    <td width="38%" align="center" valign="bottom">&nbsp;</td>
+    <td width="38%" valign="bottom">&nbsp;</td>
   </tr>
   <tbody>
   </tbody>
 </table>
-<p>&nbsp;</p>
 <table width="100%" border="0" cellspacing="0" cellpadding="5">
   <tbody>
     <tr>
-      <td width="20%" align="center" valign="bottom">&nbsp;</td>
-      <td width="25%" align="center" valign="bottom"><img src="/images/Others/sl-csim.jpg" width="150" height="190" alt=""/><br>
+      <td width="20%" valign="bottom">&nbsp;</td>
+      <td width="25%" valign="bottom"><p style="text-align:center;"><p style="text-align:center;"><img src="/images/Others/sl-csim.jpg" width="150" height="190" alt=""/><br>
         <a href="mailto:Corinne_SIM@schools.gov.sg">Mrs Corinne Sim</a><br>
-      <strong>Vice-Principal</strong></td>
-      <td width="10%" align="center" valign="bottom">&nbsp;</td>
-      <td width="25%" align="center" valign="bottom"><img src="/images/Others/sl-dgoh.jpg" width="150" height="190" alt=""/><br>
+	  <strong>Vice-Principal</strong></p></td>
+      <td width="10%" valign="bottom">&nbsp;</td>
+      <td width="25%" valign="bottom"><p style="text-align:center;"><p style="text-align:center;"><img src="/images/Others/sl-dgoh.jpg" width="150" height="190" alt=""/><br>
         <a href="mailto:Diana_TAN@schools.gov.sg">Mrs Diana Goh</a><br>
-        <strong>Vice-Principal</strong></td>
-      <td width="20%" align="center" valign="bottom">&nbsp;</td>
+	    <strong>Vice-Principal</strong></p></td>
+      <td width="20%" valign="bottom">&nbsp;</td>
     </tr>
   </tbody>
 </table>
-<p>&nbsp;</p>
 <table width="100%" border="0" cellpadding="5" cellspacing="0">
   <tbody>
     <tr>
-      <td width="20%" align="center" valign="bottom">&nbsp;</td>
-      <td width="25%" align="center" valign="bottom"><img src="/images/Others/sl-kohce.jpg" width="150" height="190" alt=""/><br>
+      <td width="20%" valign="bottom">&nbsp;</td>
+      <td width="25%" valign="bottom"><p style="text-align:center;"><p style="text-align:center;"><img src="/images/Others/sl-kohce.jpg" width="150" height="190" alt=""/><br>
         <a href="mailto:YEOW_Chern_Ee@schools.gov.sg">Mrs Koh Chern Ee</a><br>
-        <strong>Vice-Principal</strong></td>
-      <td width="10%" align="center" valign="bottom">&nbsp;</td>
-      <td width="25%" align="center" valign="bottom"><img src="/images/Others/sl-hchia.jpg" width="150" height="190" alt=""/><br>
+        <strong>Vice-Principal</strong></p></td>
+      <td width="10%" valign="bottom">&nbsp;</td>
+      <td width="25%" valign="bottom"><p style="text-align:center;"><p style="text-align:center;"><img src="/images/Others/sl-hchia.jpg" width="150" height="190" alt=""/><br>
         <a href="mailto:hannah_chia@schools.gov.sg">Ms Hannah Chia</a><br>
-        <strong>Vice-Principal</strong></td>
-      <td width="20%" align="center" valign="bottom">&nbsp;</td>
+	    <strong>Vice-Principal</strong></p></td>
+      <td width="20%" valign="bottom">&nbsp;</td>
     </tr>
   </tbody>
 </table>
-<p>&nbsp;</p>
 <table width="100%" border="0" cellspacing="0" cellpadding="5">
   <tbody>
     <tr>
-      <td width="37%" align="center" valign="bottom">&nbsp;</td>
-      <td width="25%" align="center" valign="bottom"><img src="/images/Others/sl-cteng.jpg" width="150" height="190" alt=""/><br>
+      <td width="37%" valign="bottom">&nbsp;</td>
+      <td width="25%" valign="bottom"><p style="text-align:center;"><p style="text-align:center;"><img src="/images/Others/sl-cteng.jpg" width="150" height="190" alt=""/><br>
         <a href="mailto:teng_tat_meng_charles@schools.gov.sg">Mr Charles Teng</a><br>
-        <strong>Vice-Principal (Administration)</strong></td>
-      <td width="38%" align="center" valign="bottom">&nbsp;</td>
+	    <strong>Vice-Principal (Administration)</strong></p></td>
+      <td width="38%" valign="bottom">&nbsp;</td>
     </tr>
   </tbody>
 </table>
