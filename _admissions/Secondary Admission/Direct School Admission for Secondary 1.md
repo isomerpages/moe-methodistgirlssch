@@ -4,7 +4,7 @@ permalink: /secondary/admissions/dsa-sec1/
 description: ""
 third_nav_title: Secondary Admission
 ---
-### Outcome of DSA Application to MGS
+## Outcome of DSA Application to MGS
 
 Dear Applicants,
 
@@ -14,7 +14,7 @@ Please check your inbox/spam/junk folders.
 
 Thank you for your patience and all the best for your PSLE!
 
-### Direct School Admission Into MGS Secondary 1 In 2023
+## Direct School Admission Into MGS Secondary 1 In 2023
 
 MGS invites Primary 6 students to participate in this year’s DSA exercise. As MGS is a dual track school with both O-level track and IP track, OUR DSA TALENT AREAS ARE APPLICABLE FOR BOTH TRACKS.
 
@@ -34,13 +34,13 @@ MGS invites Primary 6 students to participate in this year’s DSA exercise. As 
 
   
 
-### Download:
+## Download:
 
 1. [MGS DSA Talent Areas and Key Dates.pdf](/files/MGS%20DSA%20Talent%20Areas%20and%20Key%20Dates%202022.pdf)
 2. [MGS DSA Selection Criteria and Process (revised 20 May).pdf](/files/MGS%20DSA%20Selection%20Criteria%20and%20Process%20_%20revised%2020%20May.pdf)
 
 
-### Brochures:
+## Brochures:
 
 1. [MGS School Stories](https://issuu.com/mgsedu/docs/mgs_school_stories_2021)
 2.  [Co-curricular Activities](https://issuu.com/mgsedu/docs/brochure_cca_12_may_21_)  
