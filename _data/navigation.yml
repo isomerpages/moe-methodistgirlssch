@@ -31,7 +31,7 @@ links:
       - title: Board of Management
         url: /about-us/board-of-management/
       - title: Parents
-        url: /our-people/Parents/moe-parent-kit/
+        url: /our-people/Parents/letterstoparents/
       - title: ParentLink
         url: /parentlink/aboutus/
       - title: Alumnae
@@ -86,8 +86,6 @@ links:
     sublinks:
       - title: Calendar of Events
         url: /news-n-events/calendar-of-events/
-      - title: Emails & Letters to Parents
-        url: /events/letterstoparents/
       - title: Open House
         url: /news-and-events/mgsoh/
       - title: Publications
