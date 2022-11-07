@@ -3,11 +3,9 @@ title: FamilyMatters@Schools
 permalink: /our-people/Parents/familymatters/
 description: ""
 ---
+![](/images/Others/parents-family-matters.jpg)
 
-
-
-
-## Introduction
+# Introduction
 
 **FamilyMatters@School** is a school-based programme that offers parents and students easy access to family life education (FLE) programmes and resources. 
 
@@ -34,16 +32,16 @@ Under the **FamilyMatters@School** programme, the Ministry of Social and Famil
 
   
 
-### Introducing Triple P: Positive Parenting Programme
+## Introducing Triple P: Positive Parenting Programme
 
 The following video gives a quick introduction to the Positive Parenting Programme, Triple P in short, which is the evidence-based parenting programme MSF is offering to Pri 3 & 4 as well as Sec 1 & 2 parents.  
 
   
 
-#### The programmes are as follows:
+### The programmes are as follows:
 
   
-##### Triple P Level 2
+#### Triple P Level 2
 3 X 2 hour seminars spread over the course of the year, for parents who are generally coping well but have some concerns with their children’s behaviour. 
 
 **Primary Seminar Topics:** 
@@ -58,7 +56,7 @@ The following video gives a quick introduction to the Positive Parenting Program
       
     
 
-##### Triple P Level 3
+#### Triple P Level 3
 4 X 45 min individual consultations spread over a 4 to 6 week period for parents with a specific concern about their child’s behaviour and who require one-to-one consultations. Alternatively, Primary parents may choose to attend the Signposts Programme\* which consists of 5 X 2.5 hour small group sessions for 5 families.  
 
 \*Note: Signposts Programme is NOT for Secondary parents
