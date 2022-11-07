@@ -4,9 +4,7 @@ permalink: /secondary/useful-links/for-staff/
 description: ""
 third_nav_title: Useful Links
 ---
-
-
-### MGS Links
+## MGS Links
 
 *   [ACE-Learning](https://www.ace-learning.com.sg/sys/index.html)   [(Secondary School)](https://www.ace-learning.com.sg/sys/index.html)
 
@@ -16,7 +14,7 @@ third_nav_title: Useful Links
 
 *   [MGS Ntrix](https://mgs.ntrix.sg/)
 
-### MOE Links
+## MOE Links
 
 *   [MOE](http://www.moe.gov.sg/)
 
@@ -28,7 +26,7 @@ third_nav_title: Useful Links
 
 *   [OPAL 2.0](https://idm.opal2.moe.edu.sg/account/login?returnUrl=%2F)
 
-#### Requires SSOE notebooks
+### Requires SSOE notebooks
 
 * [CES mail](https://mail.schools.gov.sg/)
 * [HRMS](http://mgss-hrmssrv01.mgss.edu.sg/FeHR_MGS/eHR/eHRDefault.aspx) 
