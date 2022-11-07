@@ -3,7 +3,7 @@ title: FAQs
 permalink: /openhouse/faqs/
 description: ""
 ---
-<a name="top"</a>
+<a name="top"></a>
 Click the links below for a quick access to the specific parts of our FAQs: 
 1. [General](#general)
 2. [Direct School Admissions](#dsa)
