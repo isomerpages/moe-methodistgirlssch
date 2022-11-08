@@ -31,6 +31,32 @@ To Master, To Grow, To Serve
 Being anchored by a greater purpose that directs one’s beliefs, thoughts and actions.
 
 
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+ <tr>
+ <td width="100%" colspan="2"><p align="center"><strong>Godliness:</strong><br>
+  Being anchored by a greater purpose that directs one&rsquo;s beliefs, thoughts and actions.</p></td>
+ </tr>
+ <tr>
+ <td width="50%" valign="top"><p align="right"><em>&ldquo;Have nothing to do with godless myths and old wives&rsquo; tales; rather, train yourself to be godly. </em><br>
+  <em>For physical training is of some value, but godliness has value for all things, holding promise for both the present life and the life to come. This is a trustworthy saying that deserves full acceptance. That is why we labour and strive, because we have put our hope in the living God, who is the Saviour of all people, </em><br>
+  <em>and especially of those who believe.&rdquo;</em></p>
+  <p align="right">1 Timothy 4:7-10, NIV</p></td>
+ <td width="50%" valign="top"><p align="right"><em>One of them, an expert in the law, tested him with this question: &ldquo;Teacher, which is the greatest commandment in the Law?&rdquo; </em><br>
+  <em>Jesus replied: &ldquo;&lsquo;Love the Lord your God </em><br>
+  <em>with all your heart and with all your soul and </em><br>
+  <em>with all your mind.&rsquo; This is the first and greatest commandment. And the second is like it: &lsquo;Love your neighbour as yourself.&rsquo; All the Law and the Prophets hang on these two commandments.&rdquo;</em></p>
+  <p align="right">Matthew 22:35-40, NIV</p></td>
+ </tr>
+ <tr>
+ <td valign="top"><p align="right">Being Godly requires training and is important <br>
+  for this life and beyond. </p></td>
+ <td valign="top"><p align="right">Being Godly means connecting our heart, soul and mind to a greater purpose, to God. </p></td>
+ </tr>
+ <tr>
+ <td valign="top"></td>
+ <td valign="top"></td>
+ </tr>
+</table>
 
 |  Being Godly requires training and is important for this life and beyond. | Being Godly means connecting our heart, soul and mind to a greater purpose, to God. |
 | -------- | -------- | 
