@@ -27,56 +27,41 @@ To Master, To Grow, To Serve
 ### School Values
 
 #### Godliness
-
 Being anchored by a greater purpose that directs one’s beliefs, thoughts and actions.
 
-
 ##### Being Godly requires training and is important for this life and beyond. 
-
 **1 Timothy 4:7-10, NIV** <br>
 *“Have nothing to do with godless myths and old wives’ tales; rather, train yourself to be godly. 
 For physical training is of some value, but godliness has value for all things, holding promise for both the present life and the life to come. This is a trustworthy saying that deserves full acceptance. That is why we labour and strive, because we have put our hope in the living God, who is the Saviour of all people, 
 and especially of those who believe.”*
 
-
 ##### Being Godly means connecting our heart, soul and mind to a greater purpose, to God.
-
 **Matthew 22:35-40, NIV** <br>
 *One of them, an expert in the law, tested him with this question: “Teacher, which is the greatest commandment in the Law?” <br>
 Jesus replied: “‘Love the Lord your God with all your heart and with all your soul and with all your mind.’ This is the first and greatest commandment. And the second is like it: ‘Love your neighbour as yourself.’ All the Law and the Prophets hang on these two commandments.”*
 
 
 #### Excellence
-
 Being resilient and persistent despite challenges. Having an inner strength and positive attitude to give one’s best so that one can learn and grow.
 
-
 ##### Being excellent means glorifying God, not ourselves.
-
 **Colossians 3:23-24, GNT** <br>
 *“Whatever you do, work at it with all your heart, as though you were working for the Lord and not for people. Remember that the Lord will give you as a reward what he has kept for his people. For Christ is the real Master you serve.” *
 
-
 ##### Being excellent is an inner attitude of our heart, not outward achievements.
-
 **1 Samuel 16:7, NIV** <br>
 *“But the Lord said to Samuel, “Do not consider his appearance or his height, for I have rejected him. The Lord does not look at the things people look at. People look at the outward appearance, but the Lord looks at the heart.”*
 
 
 #### Love
-
 Being empathetic, compassionate and others-centred, seeking to understand, serve and give.
 
-
 ##### Being loving is to love God and love others.  	
-
 **Matthew 22:35-40, NIV** <br>
 *One of them, an expert in the law, tested him with this question: “Teacher, which is the greatest commandment in the Law?” <br>
 Jesus replied: “‘Love the Lord your God with all your heart and with all your soul and with all your mind.’ This is the first and greatest commandment. And the second is like it: ‘Love your neighbour as yourself.’ All the Law and the Prophets hang on these two commandments.”*
 
-
 ##### Being loving is the most important gift and achievement.
-
 **1 Corinthians 13: 1-8. NIV** <br>
 *“If I speak in the tongues of men or of angels, but do not have love, I am only a resounding gong or a clanging cymbal. If I have the gift of prophecy and can fathom all mysteries and all knowledge, and if I have a faith that can move mountains, but do not have love, I am nothing. If I give all I possess to the poor and give over my body to hardship that I may boast, but do not have love, I gain nothing. <br>
 Love is patient, love is kind. It does not envy, it does not boast, it is not proud. It does not dishonour others, it is not self-seeking, it is not easily angered, it keeps no record of wrongs. Love does not delight in evil but rejoices with the truth. It always protects, always trusts, always hopes, always perseveres. <br>
@@ -87,21 +72,18 @@ Love never fails.”*
 
 
 #### To Master
-
 **Going deep** <br>
 To understand and know deeply.  <br>
 To work hard to achieve mastery even when it is challenging. 	
 
 
 #### To Grow
-
 **Moving forward** <br>
 To step out of one’s comfort zone to learn more.  <br>
 To be curious and humble and willing to receive feedback.
 
 
 #### To Serve
-
 **Moving upwards and outwards** <br>
 To give generously and sacrificially to meet the needs of others.  <br>
 To give of self to God and others out of love.  <br>
