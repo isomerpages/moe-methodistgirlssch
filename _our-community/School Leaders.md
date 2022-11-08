@@ -3,7 +3,6 @@ title: School Leaders
 permalink: /community/school-leaders/
 description: ""
 ---
-
 <table width="100%" border="0" cellspacing="0" cellpadding="5">
   <tbody>
     <tr>
@@ -50,17 +49,15 @@ description: ""
     </tr>
   </tbody>
 </table>
-
 <table width="100%" border="0" cellspacing="0" cellpadding="5">
   <tbody>
     <tr>
       <td width="37%" valign="bottom">&nbsp;</td>
       <td width="25%" valign="bottom"><p style="text-align:center;"><img src="/images/Others/sl-cteng.jpg" width="150" height="190" alt="" /><br>
           <a href="mailto:teng_tat_meng_charles@schools.gov.sg">Mr Charles Teng</a><br>
-          <strong>Vice-Principal (Administration)</strong></p>
+          <strong>Vice-Principal <br>(Administration)</strong></p>
         <br></td>
       <td width="38%" valign="bottom">&nbsp;</td>
     </tr>
   </tbody>
 </table>
-
