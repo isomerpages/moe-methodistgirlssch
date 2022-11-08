@@ -2,7 +2,6 @@ collections:
   our-community:
     output: true
     order:
-      - CCMC.md
       - School Leaders.md
       - Primary Staff/.keep
       - Primary Staff/Key Personnel.md
@@ -24,6 +23,7 @@ collections:
       - ParentLink/Join Us.md
       - ParentLink/Publications.md
       - Alumnae.md
+      - CCMC.md
       - Careers at MGS/.keep
       - Careers at MGS/Careers at MGS.md
       - Careers at MGS/Teaching positions.md
