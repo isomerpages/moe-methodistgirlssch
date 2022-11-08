@@ -3,78 +3,139 @@ title: Our Identity
 permalink: /about-us/our-identity/
 description: ""
 ---
-
-### THE MGS EDUCATION EXPERIENCE - HERE, FOR A PURPOSE
-
-<div style="width:100%; height:400px">
-  <iframe class="ive_eobj_center" allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/aBKMUTH21BM" height="100%" width="100%">
-  </iframe>
-</div>
-
-The school video encapsulates the quintessence of MGS, an established legacy since 1887.
-
-### BLESS THIS SCHOOL
-
-['Bless This School'](https://drive.google.com/file/d/1L41AyMuvFF0gVZPPpHLrB5u5OHsI5iIQ/preview)  is a familiar song that reverberates throughout the school campus daily, and distinctively characterises the schooling days of all MGS girls. Refreshed in 2022, it marks the 135th founding anniversary of MGS, and was first performed live at the MGS 135th Founder's Day Service & Graduation Ceremony.
-<br>
-<br>
-
-
 <img src="/images/Others/logo-mgs.png" style="width:30%">
-		 
-## (I) School Philosophy
 
-### VISION
+# School Philosophy
 
-**Godly women of Excellence with a heart of Love**
+## VISION
 
-  
+Being and Becoming Godly women of Excellence with a heart of Love 
 
-### MISSION
 
-**To educate every girl 1 in a Christian environment 2 in order that she may MASTER, GROW and SERVE 3 in every phase of her life 4 .**
+## MISSION
 
-1.  We are a school for girls. Every child we have stewardship over is uniquely created by God and is precious  to us. We recognise the need to consider the female psyche in our programmes.  
-    
-2.  Our ethos and culture is Christian. The values we live by and which we imbue in our girls are that which are  made explicit in the Bible.  
-    
-3.  The school motto resonates throughout the many generations of MGS girls and embodies the attitude and  motivation which distinguish the alumnae.  
-    
-4.  Each phase in her life brings a new dimension of understanding, learning and growth; and hence, the  approach to educating her considers all phases of her development. It is our hope that the values, attitudes  and skills instilled in her in MGS will stand her in good stead in the future phases of her life.  
-    
-### MOTTO
+To educate every girl in a Christian environment 
+To Master, To Grow and To Serve in every phase of her life.
 
-**To Master 1 , To Grow 2 , To Serve 3**
 
-1.  Mastery is defined by excellence and the attitude of excellence in all that the MGS girl does.  
-    
-2.  An MGS girl shall grow holistically, ―in stature and wisdom, and in favour with God and man. She will  develop the skills for continuous and independent learning which will carry her through her phases of  development and place her confidently in the future world and society she chooses to serve in.  
-    
-3.  An MGS girl is not self-serving; she chooses to serve out of gratitude and love. With an outlook beyond  herself, she will make a positive impact on her community, her country, the environment and the world.
+## VALUES
 
-### CORE VALUES
+Godliness, Excellence and Love 
 
-**Godliness**  
+### Godliness
+Being anchored by a greater purpose that directs one’s beliefs, thoughts and actions.
 
-1.  Possessing character traits bearing the fruit of the Spirit: love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control (Galatians 5:22,23)
-2.  Leading God-fearing and purposeful lives with the moral courage to stand up for what is right and persevere through difficulties and uncertain circumstances.
 
-**Excellence**  
+#### Being Godly requires training and is important for this life and beyond. 
 
-1.  Doing one‘s best in everything by setting and giving high standards of work and conduct (Philippians 4:8), pushing the boundaries and endeavouring always to do better in order to reach one‘s fullest potential.
-2.  Being a responsible steward of time, talent and resources and exemplary in the performance of tasks and duties.
+**1 Timothy 4:7-10, NIV**
 
-**Love**  
+*“Have nothing to do with godless myths and old wives’ tales; rather, train yourself to be godly. 
+For physical training is of some value, but godliness has value for all things, holding promise for both the present life and the life to come. This is a trustworthy saying that deserves full acceptance. That is why we labour and strive, because we have put our hope in the living God, who is the Saviour of all people, 
+and especially of those who believe.”*
 
-1.  Be actively reaching out and touching lives, compassionate and respectful to all one comes into contact with, and embodying the ideals of servant leadership.
 
-## (II) School Crest
+#### Being Godly means connecting our heart, soul and mind to a greater purpose, to God.
+
+**Matthew 22:35-40, NIV**
+
+*One of them, an expert in the law, tested him with this question: “Teacher, which is the greatest commandment in the Law?” <br>
+Jesus replied: “‘Love the Lord your God with all your heart and with all your soul and with all your mind.’ This is the first and greatest commandment. And the second is like it: ‘Love your neighbour as yourself.’ All the Law and the Prophets hang on these two commandments.”*
+
+
+### Excellence
+
+Being resilient and persistent despite challenges. Having an inner strength and positive attitude to give one’s best so that one can learn and grow.
+
+
+#### Being excellent means glorifying God, not ourselves.
+
+**Colossians 3:23-24, GNT**
+
+*“Whatever you do, work at it with all your heart, as though you were working for the Lord and not for people. Remember that the Lord will give you as a reward what he has kept for his people. For Christ is the real Master you serve.” *
+
+
+#### Being excellent is an inner attitude of our heart, not outward achievements.
+
+**1 Samuel 16:7, NIV**
+
+*“But the Lord said to Samuel, “Do not consider his appearance or his height, for I have rejected him. The Lord does not look at the things people look at. People look at the outward appearance, but the Lord looks at the heart.”
+*
+
+
+### Love
+
+Being empathetic, compassionate and others-centred, seeking to understand, serve and give.
+
+
+#### Being loving is to love God and love others.  	
+
+**Matthew 22:35-40, NIV**
+
+*One of them, an expert in the law, tested him with this question: “Teacher, which is the greatest commandment in the Law?” 
+
+Jesus replied: “‘Love the Lord your God with all your heart and with all your soul and with all your mind.’ 
+This is the first and greatest commandment. And the second is like it: ‘Love your neighbour as yourself.’ 
+All the Law and the Prophets hang on these two commandments.”*
+
+
+#### Being loving is the most important gift and achievement.
+
+**1 Corinthians 13: 1-8. NIV**
+
+*“If I speak in the tongues of men or of angels, but do not have love, I am only a resounding gong or a clanging cymbal. If I have the gift of prophecy and can fathom all mysteries and all knowledge, and if I have a faith that can move mountains, but do not have love, I am nothing. 
+If I give all I possess to the poor and give over my body to hardship that I may boast, but do not have love, I gain nothing. 
+
+Love is patient, love is kind. It does not envy, 
+it does not boast, it is not proud. It does not dishonour others, it is not self-seeking, it is not easily angered, it keeps no record of wrongs. Love does not delight in evil but rejoices with the truth. It always protects, always trusts, always hopes, always perseveres. 
+
+Love never fails.”*
+
+
+
+## MOTTO
+
+To Master, To Grow, To Serve
+
+
+### To Master
+
+**Going deep **
+
+To understand and know deeply. 
+
+To work hard to achieve mastery even when it is challenging. 	
+
+
+### To Grow
+
+**Moving forward**
+
+To step out of one’s comfort zone to learn more. 
+
+To be curious and humble and willing to receive feedback.
+
+
+
+### To Serve
+
+**Moving upwards and outwards**
+
+To give generously and sacrificially to meet the needs of others. 
+
+To give of self to God and others out of love. 
+
+To know that as one serves, one also receives. 	
+
+
+
+## School Crest
 
 The change in the school crest was initiated by the Principal Miss Lau Meau Eng (1957-1972) as the old badge in enamel could only be made in England.
 
 The crest was introduced in 1965, but there is no record of who designed it.
 
-## (III) School Song
+## School Song
 
 With loving hearts and joyous song we sing to M.G.S. <br>
 And tell the fame of that fair name for we can do no less. <br>
@@ -90,6 +151,23 @@ And now we're proud to raise the shout and sing of M.G.S. <br>
 Lift high her banner, one and all, her name we now profess. <br>
 In work and play for honours won, today our hearts confess <br>
 The debt we owe, the love we hold for our dear M.G.S.
+
+
+## THE MGS EDUCATION EXPERIENCE - HERE, FOR A PURPOSE
+
+<div style="width:100%; height:400px">
+  <iframe class="ive_eobj_center" allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/aBKMUTH21BM" height="100%" width="100%">
+  </iframe>
+</div>
+
+The school video encapsulates the quintessence of MGS, an established legacy since 1887.
+
+
+## BLESS THIS SCHOOL
+
+['Bless This School'](https://drive.google.com/file/d/1L41AyMuvFF0gVZPPpHLrB5u5OHsI5iIQ/preview)  is a familiar song that reverberates throughout the school campus daily, and distinctively characterises the schooling days of all MGS girls. Refreshed in 2022, it marks the 135th founding anniversary of MGS, and was first performed live at the MGS 135th Founder's Day Service & Graduation Ceremony.
+<br>
+
 
 ## MG Houses
 
