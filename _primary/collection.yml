@@ -2,6 +2,7 @@ collections:
   primary:
     output: true
     order:
+      - Key Programmes/.keep
       - Academic/.keep
       - Academic/English.md
       - Academic/Mother Tongue.md
