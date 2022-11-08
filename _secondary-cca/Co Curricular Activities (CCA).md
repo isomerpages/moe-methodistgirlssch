@@ -3,10 +3,7 @@ title: Co Curricular Activities (CCA)
 permalink: /secondary/curriculum/cca/
 description: ""
 ---
-
-
-
-
+![](/images/Others/Splash/pic-cca.jpg)
 
 The School offers a CCA programme designed to encourage pupils’ all-round development, to build a sense of responsibility and independence, to cultivate correct values and desirable social attitudes, to provide for healthy recreational activity, to identify & nurture special qualities (e.g. leadership), to provide enrichment, to give scope for creativity and to cultivate esprit de corps.
 
