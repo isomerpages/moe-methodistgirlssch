@@ -37,7 +37,7 @@ sections:
   - infopic:
       title: Letters to Parents
       button: More Information
-      url: /our-people/Parents/letterstoparents/
+      url: /community/parents/letterstoparents/
       image: /images/Announcements/btn-letterstoparents.jpg
       alt: Image alt text
 ---
