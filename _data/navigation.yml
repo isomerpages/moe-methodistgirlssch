@@ -19,7 +19,7 @@ links:
         url: https://form.jotform.com/221370850063448
       - title: Contact Us
         url: /contact-us/
-  - title: Our People
+  - title: Our Community
     url: /about-us/school-leaders/
     sublinks:
       - title: School Leaders
@@ -28,8 +28,6 @@ links:
         url: /primary/staff/key-personnel/
       - title: Secondary Staff
         url: /secondary/staff/key-personnel/
-      - title: Board of Management
-        url: /about-us/board-of-management/
       - title: Parents
         url: /our-people/Parents/letterstoparents/
       - title: ParentLink
