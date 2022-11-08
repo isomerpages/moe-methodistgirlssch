@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Others/Banners/mgs-mission.jpg
+      background: /images/Others/Splash/pic-main3.jpg
       key_highlights:
         - title: Direct School Admission Into MGS Secondary One In 2023
           description: Outcome for Direct School Admission for Secondary One
