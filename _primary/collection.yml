@@ -2,6 +2,7 @@ collections:
   primary:
     output: true
     order:
+      - Key Programmes/Applied Learning Programme.md
       - Key Programmes/Talent Development and Academic Support.md
       - Key Programmes/.keep
       - Academic/.keep
