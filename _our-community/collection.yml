@@ -1,5 +1,5 @@
 collections:
-  our-people:
+  our-community:
     output: true
     order:
       - School Leaders.md
