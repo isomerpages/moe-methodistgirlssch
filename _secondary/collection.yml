@@ -2,7 +2,6 @@ collections:
   secondary:
     output: true
     order:
-      - CCA.md
       - Curriculum.md
       - Key Programmes/.keep
       - Key Programmes/Intergenerational Learning (IGL) @ MGS.md
