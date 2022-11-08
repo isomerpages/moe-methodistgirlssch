@@ -2,10 +2,10 @@ collections:
   primary:
     output: true
     order:
-      - Key Programmes/Learning for Life Programme.md
-      - Key Programmes/Applied Learning Programme.md
-      - Key Programmes/Talent Development and Academic Support.md
       - Key Programmes/.keep
+      - Key Programmes/Applied Learning Programme.md
+      - Key Programmes/Learning for Life Programme.md
+      - Key Programmes/Talent Development and Academic Support.md
       - Academic/.keep
       - Academic/English.md
       - Academic/Mother Tongue.md
