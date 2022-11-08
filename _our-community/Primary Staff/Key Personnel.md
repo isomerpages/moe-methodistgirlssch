@@ -37,4 +37,4 @@ Science |[Mrs Mun Poh Hoon ](chua_poh_hoon@schools.gov.sg)
 | P3    | [Mrs Amy Ng ](fang_yingying_amy@schools.gov.sg)
 | P4    | [Miss Suhaily Mohamed Moktar](suhaily_md_moktar@schools.gov.sg) 
 | P5    | [Mrs Rita James](rita_james@schools.gov.sg) 
-| P6   | [Mrs Sim Lee Hong](chua_lee_hong@schools.gov.sg) | 
+| P6   | [Mrs Sim Lee Hong](chua_lee_hong@schools.gov.sg) |
