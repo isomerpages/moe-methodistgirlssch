@@ -19,18 +19,22 @@ School Staff Developer| [Mrs Brenda Ow](koh_li_ying_brenda@schools.gov.sg)
 
 # Level / Subject Head 
 
-| Department | Head of Departmet | 
+| Department | Head of Department | 
 | -------- | -------- |
 | Education Technology| [Mr Christopher Wong ](christopher_wong_say_eng@schools.gov.sg)
-Character and Citizenship Education | [Mrs Sophia Koh ](koh_pei_chen_sophia@schools.gov.sg)
-Education Technology| [Ms Rebekah Foong](foong_chen_kai_rebekah@schools.gov.sg)
-English| [Mrs Jamie Chaw](lo_hwee_ling_jamie@schools.gov.sg)
-Mathematics|[Ms Adene Chua ](chua_yuen_yee@schools.gov.sg)
+English| [Mrs Sophia Koh ](koh_pei_chen_sophia@schools.gov.sg)
+Mathematics | [Ms Belinda Goh ](goh_gek_kheng_belinda@schools.gov.sg)
+Physical Education  | [Mrs Gladys Jiow](tan_tsu_pei_gladys@schools.gov.sg)
+Science |[Mrs Mun Poh Hoon ](chua_poh_hoon@schools.gov.sg)
 
 # Year Heads & Assistant Year Heads
 
 
-| Department | Column 2 | Column 3 |
+| Level | Assistant Year Head | Yeah Head |
 | -------- | -------- | -------- |
-| Text     | Text     | Text     |
-
+| P1    | [Ms Evelyn Huang ](huang_yulin_evelyn@schools.gov.sg)
+| P2    | [Mrs Hwee Ching Tan ](tan_sian_huang@schools.gov.sg)| 
+| P3    | [Mrs Amy Ng ](fang_yingying_amy@schools.gov.sg)
+| P4    | [Miss Suhaily Mohamed Moktar](suhaily_md_moktar@schools.gov.sg) 
+| P5    | [Mrs Rita James](rita_james@schools.gov.sg) 
+| P6   | [Mrs Sim Lee Hong](chua_lee_hong@schools.gov.sg) | 
