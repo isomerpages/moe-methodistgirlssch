@@ -38,6 +38,6 @@ sections:
       title: Letters to Parents
       button: More Information
       url: /our-people/Parents/letterstoparents/
-      image: /images/Announcements/tn-letterstoparents.jpg
+      image: /images/Announcements/btn-letterstoparents.jpg
       alt: Image alt text
 ---
