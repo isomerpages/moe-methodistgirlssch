@@ -3,7 +3,7 @@ title: Curriculum
 permalink: /primary/mg-curriculum/
 description: ""
 ---
-
+![](/images/Others/Splash/pic-pri-curr.jpg)
 
 * [2022 P1 Infosheet](https://drive.google.com/file/d/1F0RYNd4mwvT9eBHdxdMds_Qr9AXny0rT/view?usp=sharing)  
 
