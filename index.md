@@ -26,6 +26,7 @@ sections:
       button: More information
       url: https://staging.dt6ildc2mnegy.amplifyapp.com/secondary/admissions/dsa-sec1/
       image: /images/Others/Splash/pic-dsa.jpg
+      alt: 4 sec students
   - infobar:
       title: Application for Admission into Year 3 Integrated Programme
       description: The application for admission into Year 3 of the MGS Integrated
