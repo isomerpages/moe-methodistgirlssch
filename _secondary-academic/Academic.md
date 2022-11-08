@@ -3,8 +3,6 @@ title: Academic
 permalink: /secondary/curriculum/academic/
 description: ""
 ---
-![](/images/Others/Splash/pic-academic.jpg)
-
 ## Schedules 
 
 *   [Assessment Schedule 2022: S1Y1-S4Y4](https://docs.google.com/spreadsheets/d/e/2PACX-1vQGQHxtNXgQCPf25QlTrCEJ7CaOsujlpMchbhQvgypw69646HP3eT3wGh5zw3V6POKGI3c8W-CGxcfl/pubhtml)
