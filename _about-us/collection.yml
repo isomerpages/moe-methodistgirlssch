@@ -2,10 +2,10 @@ collections:
   about-us:
     output: true
     order:
-      - Board of Management.md
       - Principal's Message.md
       - Our Heritage.md
       - Our Identity.md
+      - Board of Management.md
       - Personal Data Protection Act.md
       - School Safety.md
       - The MGS Store.md
