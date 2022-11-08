@@ -20,11 +20,12 @@ sections:
       title: ANNOUNCEMENTS
       subtitle: Stay up to date with us
       button: more
-  - infobar:
+  - infopic:
       title: Direct School Admission Into MGS Secondary One In 2023
       description: Outcome for Direct School Admission for Secondary One
       button: More information
       url: https://staging.dt6ildc2mnegy.amplifyapp.com/secondary/admissions/dsa-sec1/
+      image: /images/Others/Splash/pic-dsa.jpg
   - infobar:
       title: Application for Admission into Year 3 Integrated Programme
       description: The application for admission into Year 3 of the MGS Integrated
@@ -32,8 +33,10 @@ sections:
         its equivalent
       button: More information
       url: https://staging.dt6ildc2mnegy.amplifyapp.com/secondary/admissions/mgs-ip-for-year-3-intake/
-  - infobar:
-      title: Emails and Letters to Parents
+  - infopic:
+      title: Letters to Parents
       button: More Information
       url: /our-people/Parents/letterstoparents/
+      image: /images/Announcements/tn-letterstoparents.jpg
+      alt: Image alt text
 ---
