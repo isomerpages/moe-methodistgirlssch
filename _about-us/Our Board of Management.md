@@ -3,10 +3,6 @@ title: Our Board of Management
 permalink: /about-us/board-of-management/
 description: ""
 ---
-
-
-The Board of Management guides the school, helping our students to achieve their full potential in learning, leading and serving.
-
 ### CHAIRMAN
 Mrs Sim Suh-Ting 
 
