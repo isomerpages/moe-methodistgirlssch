@@ -20,7 +20,7 @@ links:
       - title: Contact Us
         url: /contact-us/
   - title: Our Community
-    url: /about-us/school-leaders/
+    url: /community/school-leaders/
     sublinks:
       - title: School Leaders
         url: /about-us/school-leaders/
@@ -29,13 +29,13 @@ links:
       - title: Secondary Staff
         url: /secondary/staff/key-personnel/
       - title: Parents
-        url: /our-people/Parents/letterstoparents/
+        url: /community/parents/letterstoparents/
       - title: ParentLink
         url: /parentlink/aboutus/
       - title: Alumnae
         url: https://www.mgsalumnae.com/
       - title: Careers at MGS
-        url: /about-us/Careers-at-MGS/
+        url: /Careers-at-MGS/
   - title: Primary
     url: /primary/mg-curriculum/
     sublinks:
