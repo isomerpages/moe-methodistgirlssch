@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Curriculum.md
+      - Key Programmes/Regional Youth Conference.md
       - Key Programmes/.keep
       - Key Programmes/Intergenerational Learning (IGL) @ MGS.md
       - Key Programmes/STE(A)M.md
