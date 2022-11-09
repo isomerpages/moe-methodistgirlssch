@@ -6,7 +6,7 @@ description: ""
 <style type="text/css">
 .tg {
     width: 90%;
-	  border-width: 0px;
+    border-width: 0px;
 }
 .tg td {
     overflow: hidden;
@@ -24,12 +24,12 @@ description: ""
 .tg .tr-norm {
     border-left: medium;
     padding: 10px;
-	vertical-align: bottom;
+    vertical-align: bottom;
 }
 .tg .tr-color {
     background-color: #2B416B;
     padding: 0px;
-	vertical-align: bottom;
+    vertical-align: bottom;
 }
 </style>
 
@@ -66,26 +66,18 @@ To Master, To Grow, To Serve
   </thead>
   <tbody>
     <tr>
-      <td class="tr-norm"><em>“Have nothing to do with godless myths and old wives’ tales; rather, train yourself to be godly.  For physical training is of some value, but godliness has value for all things, holding promise for both the present life and the life to come. This is a trustworthy saying that deserves full acceptance. That is why we labour and strive, because we have put our hope in the living God, who is the Saviour of all people,  and especially of those who believe.”</em></td>
-    </tr>
-    <tr>
-      <td class="tr-norm">1 Timothy 4:7-10 [NIV]</td>
-    </tr>
-    <tr>
-      <td class="tr-norm">Being Godly requires training and is important  for this life and beyond. </td>
+      <td class="tr-norm"><p><em>“Have nothing to do with godless myths and old wives’ tales; rather, train yourself to be godly.  For physical training is of some value, but godliness has value for all things, holding promise for both the present life and the life to come. This is a trustworthy saying that deserves full acceptance. That is why we labour and strive, because we have put our hope in the living God, who is the Saviour of all people,  and especially of those who believe.”</em></p>
+      <p>1 Timothy 4:7-10 [NIV]</p>
+      <p>Being Godly requires training and is important  for this life and beyond. </p></td>
     </tr>
     <tr>
       <td class="tr-color">&nbsp;</td>
     </tr>
     <tr>
-      <td class="tr-norm"><em>One of them, an expert in the law, tested him with this question: “Teacher, which is the greatest commandment in the Law?” <br>
-        Jesus replied: “‘Love the Lord your God  with all your heart and with all your soul and  with all your mind.’ This is the first and greatest commandment. And the second is like it: ‘Love your neighbour as yourself.’ All the Law and the Prophets hang on these two commandments.” </em></td>
-    </tr>
-    <tr>
-      <td class="tr-norm">Matthew 22:35-40 [NIV]</td>
-    </tr>
-    <tr>
-      <td class="tr-norm">Being Godly means connecting our heart, soul and mind to a greater purpose, to God. </td>
+      <td class="tr-norm"><p><em>One of them, an expert in the law, tested him with this question: “Teacher, which is the greatest commandment in the Law?” <br>
+        Jesus replied: “‘Love the Lord your God  with all your heart and with all your soul and  with all your mind.’ This is the first and greatest commandment. And the second is like it: ‘Love your neighbour as yourself.’ All the Law and the Prophets hang on these two commandments.” </em></p>
+        <p>Matthew 22:35-40 [NIV]</p>
+        <p>Being Godly means connecting our heart, soul and mind to a greater purpose, to God. </p></td>
     </tr>
     <tr>
       <td class="tr-color">&nbsp;</td>
