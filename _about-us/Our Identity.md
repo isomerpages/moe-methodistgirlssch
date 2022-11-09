@@ -84,6 +84,35 @@ To Master, To Grow, To Serve
     </tr>
   </tbody>
 </table>
+<p>&nbsp;</p>
+<table class="tg">
+  <thead>
+    <tr>
+      <th class="tr-header">EXCELLENCE<br>
+        Being resilient and persistent despite challenges. Having an inner strength and positive attitude to give one’s best so that one can learn and grow.</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="tr-norm"><p><em>“Whatever you do, work at it with all your heart, as though you were working for the Lord and not for people. Remember that the Lord will give you as a reward what he has kept for his people. For Christ is the real Master you serve.” </em></p>
+        <p>Colossians 3:23-24 [GNT]</p>
+        <p>Being excellent means glorifying God, not ourselves.</p></td>
+    </tr>
+    <tr>
+      <td class="tr-color">&nbsp;</td>
+    </tr>
+    <tr>
+      <td class="tr-norm"><p><em>“But the Lord said to Samuel, “Do not consider his appearance or his height, for I have rejected him. The Lord does not look at the things people look at. People look at the outward appearance, but the Lord looks at the heart.” </em></p>
+        <p>1 Samuel 16:7 [NIV]</p>
+        <p>Being excellent is an inner attitude of our heart, not outward achievements.</p></td>
+    </tr>
+    <tr>
+      <td class="tr-color">&nbsp;</td>
+    </tr>
+  </tbody>
+</table>
+<p>&nbsp;</p>
+
 
 ##### Being Godly requires training and is important for this life and beyond. 
 **1 Timothy 4:7-10, NIV** <br>
