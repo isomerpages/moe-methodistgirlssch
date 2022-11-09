@@ -126,23 +126,27 @@ To Master, To Grow, To Serve
 ### School Motto
 
 
-#### To Master
-**Going deep** <br>
-To understand and know deeply.  <br>
-To work hard to achieve mastery even when it is challenging. 	
-
-
-#### To Grow
-**Moving forward** <br>
-To step out of one’s comfort zone to learn more.  <br>
-To be curious and humble and willing to receive feedback.
-
-
-#### To Serve
-**Moving upwards and outwards** <br>
-To give generously and sacrificially to meet the needs of others.  <br>
-To give of self to God and others out of love.  <br>
-To know that as one serves, one also receives. 	
+<table class="tg">
+  <thead>
+    <tr>
+      <th width="33%" class="tr-header">TO MASTER<br>
+        Going deep </th>
+      <th width="34%" class="tr-header">TO GROW<br>Moving forward</th>
+      <th width="33%" class="tr-header">TO SERVE<br>Moving upwards and outwards</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td width="33%" class="tr-norm"><p>To understand and know deeply.</p>
+        <p>To work hard to achieve mastery even when it is challenging.</p></td>
+      <td width="34%" class="tr-norm"><p>To step out of one’s comfort zone to learn more. </p>
+        <p>To be curious and humble and willing to receive feedback.</p></td>
+      <td width="33%" class="tr-norm"><p>To give generously and sacrificially to meet the needs of others.</p>
+        <p>To give of self to God and others out of love. </p>
+        <p>To know that as one serves, one also receives.</p></td>
+    </tr>
+  </tbody>
+</table>
 
 
 ## School Crest
