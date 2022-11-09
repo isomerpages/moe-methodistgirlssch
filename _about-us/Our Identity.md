@@ -27,8 +27,10 @@ To Master, To Grow, To Serve
 ### School Values
 
 #### Godliness
-##### Being anchored by a greater purpose that directs one’s beliefs, thoughts and actions.
-|   |
+
+**Being anchored by a greater purpose that directs one’s beliefs, thoughts and actions.**
+
+| |
 | -------- | 
 | <br>*“Have nothing to do with godless myths and old wives’ tales; rather, train yourself to be godly. For physical training is of some value, but godliness has value for all things, holding promise for both the present life and the life to come. This is a trustworthy saying that deserves full acceptance. That is why we labour and strive, because we have put our hope in the living God, who is the Saviour of all people, and especially of those who believe.”*  <br>  **1 Timothy 4:7-10 (NIV)** <br> **Being Godly requires training and is important for this life and beyond.** <br><br>  |
 | |
