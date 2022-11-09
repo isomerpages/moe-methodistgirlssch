@@ -6,14 +6,15 @@ description: ""
 <style type="text/css">
 .tg {
     width: 90%;
-    border-width: 0px;
+    border-width: 1px;
+    border-color: #2B416B;
 }
 .tg td {
     overflow: hidden;
     word-break: normal;
 }
 .tg .tr-header {
-    background-color: #182E56;
+    background-color: #2B416B;
     border-spacing: 0px;
     color: #FFFFFF;
     font-weight: bold;
@@ -22,7 +23,9 @@ description: ""
     vertical-align: top;
 }
 .tg .tr-norm {
-    border-left: medium;
+    border-width: 1px;
+    border-color: #2B416B;
+    border-spacing: 0px;
     padding: 10px;
     vertical-align: bottom;
 }
@@ -67,20 +70,14 @@ To Master, To Grow, To Serve
   <tbody>
     <tr>
       <td class="tr-norm"><p><em>“Have nothing to do with godless myths and old wives’ tales; rather, train yourself to be godly.  For physical training is of some value, but godliness has value for all things, holding promise for both the present life and the life to come. This is a trustworthy saying that deserves full acceptance. That is why we labour and strive, because we have put our hope in the living God, who is the Saviour of all people,  and especially of those who believe.”</em></p>
-      <p>1 Timothy 4:7-10 [NIV]</p>
-      <p>Being Godly requires training and is important  for this life and beyond. </p></td>
-    </tr>
-    <tr>
-      <td class="tr-color">&nbsp;</td>
+        <p>1 Timothy 4:7-10 [NIV]</p>
+        <p>Being Godly requires training and is important  for this life and beyond. </p></td>
     </tr>
     <tr>
       <td class="tr-norm"><p><em>One of them, an expert in the law, tested him with this question: “Teacher, which is the greatest commandment in the Law?” <br>
-        Jesus replied: “‘Love the Lord your God  with all your heart and with all your soul and  with all your mind.’ This is the first and greatest commandment. And the second is like it: ‘Love your neighbour as yourself.’ All the Law and the Prophets hang on these two commandments.” </em></p>
+          Jesus replied: “‘Love the Lord your God  with all your heart and with all your soul and  with all your mind.’ This is the first and greatest commandment. And the second is like it: ‘Love your neighbour as yourself.’ All the Law and the Prophets hang on these two commandments.” </em></p>
         <p>Matthew 22:35-40 [NIV]</p>
         <p>Being Godly means connecting our heart, soul and mind to a greater purpose, to God. </p></td>
-    </tr>
-    <tr>
-      <td class="tr-color">&nbsp;</td>
     </tr>
   </tbody>
 </table>
@@ -99,15 +96,9 @@ To Master, To Grow, To Serve
         <p>Being excellent means glorifying God, not ourselves.</p></td>
     </tr>
     <tr>
-      <td class="tr-color">&nbsp;</td>
-    </tr>
-    <tr>
       <td class="tr-norm"><p><em>“But the Lord said to Samuel, “Do not consider his appearance or his height, for I have rejected him. The Lord does not look at the things people look at. People look at the outward appearance, but the Lord looks at the heart.” </em></p>
         <p>1 Samuel 16:7 [NIV]</p>
         <p>Being excellent is an inner attitude of our heart, not outward achievements.</p></td>
-    </tr>
-    <tr>
-      <td class="tr-color">&nbsp;</td>
     </tr>
   </tbody>
 </table>
