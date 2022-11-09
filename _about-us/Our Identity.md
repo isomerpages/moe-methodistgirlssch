@@ -79,7 +79,8 @@ To Master, To Grow, To Serve
       <td class="tr-norm"><p><em>One of them, an expert in the law, tested him with this question: “Teacher, which is the greatest commandment in the Law?” <br>
           Jesus replied: “‘Love the Lord your God  with all your heart and with all your soul and  with all your mind.’ This is the first and greatest commandment. And the second is like it: ‘Love your neighbour as yourself.’ All the Law and the Prophets hang on these two commandments.” </em></p>
         <p>Matthew 22:35-40 [NIV]</p>
-        <p>Being Godly means connecting our heart, soul and mind to a greater purpose, to God. </p></td>
+        <p>Being Godly means connecting our heart, soul and mind to a greater purpose, to God. </p>
+		</td>
     </tr>
   </tbody>
 </table>
@@ -100,7 +101,8 @@ To Master, To Grow, To Serve
     <tr>
       <td class="tr-norm"><p><em>“But the Lord said to Samuel, “Do not consider his appearance or his height, for I have rejected him. The Lord does not look at the things people look at. People look at the outward appearance, but the Lord looks at the heart.” </em></p>
         <p>1 Samuel 16:7 [NIV]</p>
-        <p>Being excellent is an inner attitude of our heart, not outward achievements.</p></td>
+        <p>Being excellent is an inner attitude of our heart, not outward achievements.</p>
+		</td>
     </tr>
   </tbody>
 </table>
@@ -126,10 +128,12 @@ To Master, To Grow, To Serve
           and give over my body to hardship that I may boast, but do not have love, I gain nothing. Love is patient, love is kind. It does not envy, it does not boast, it is not proud. It does not dishonour others, it is not self-seeking, it is not easily angered, it keeps no record of wrongs. Love does not delight in evil but rejoices with the truth. It always protects, always trusts, always hopes, always perseveres. 
           Love never fails.” </em></p>
         <p>1 Corinthians 13: 1-8 [NIV]</p>
-        <p>Being loving is the most important gift and achievement.</p></td>
+        <p>Being loving is the most important gift and achievement.</p>
+		</td>
     </tr>
   </tbody>
 </table>
+
 
 
 #### Love
