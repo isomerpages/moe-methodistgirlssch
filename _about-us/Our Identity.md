@@ -18,6 +18,7 @@ description: ""
     border-spacing: 0px;
     color: #FFFFFF;
     font-weight: bold;
+	font-size: 1.2em;
     padding: 10px;
     text-align: center;
     vertical-align: top;
