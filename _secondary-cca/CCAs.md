@@ -3,6 +3,7 @@ title: CCAs
 permalink: /secondary/curriculum/cca/
 description: ""
 ---
+## Co-Curricular Activities
 
 ![](/images/Others/Splash/pic-cca.jpg)
 
