@@ -19,7 +19,7 @@ description: ""
     background-color: #2B416B;
     color: #FFFFFF;
     font-weight: bold;
-    font-size: 1.2em;
+    font-size: 1.4em;
     padding: 10px;
     text-align: center;
 }
