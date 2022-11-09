@@ -15,6 +15,7 @@ description: ""
     width: 50%;
     border-left: medium;
     padding: 10px;
+	  vertical-align: bottom;
 }
 .tg .tr-header {
     background-color: #182E56;
@@ -23,7 +24,7 @@ description: ""
     font-weight: bold;
     padding: 10px;
     text-align: center;
-    vertical-align: top;
+    
 }
 </style>
 
