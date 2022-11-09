@@ -6,6 +6,7 @@ description: ""
 <style type="text/css">
 .tg {
     width: 90%;
+	  border-width: 0px;
 }
 .tg td {
     overflow: hidden;
