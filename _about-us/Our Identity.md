@@ -6,8 +6,6 @@ description: ""
 <style type="text/css">
 .tg {
     width: 90%;
-    border-width: 1px;
-    border-color: #2B416B;
 }
 .tg td {
     overflow: hidden;
@@ -15,22 +13,25 @@ description: ""
 }
 .tg .tr-header {
     background-color: #2B416B;
-    border-spacing: 0px;
+	  border-width: 1px;
+    border-color: #2B416B;
     color: #FFFFFF;
     font-weight: bold;
-	font-size: 1.2em;
+	  font-size: 1.2em;
     padding: 10px;
     text-align: center;
     vertical-align: top;
 }
 .tg .tr-norm {
-    border-width: 1px;
+      border-width: 1px;
     border-color: #2B416B;
     border-spacing: 0px;
     padding: 10px;
     vertical-align: bottom;
 }
 .tg .tr-color {
+	    border-width: 1px;
+    border-color: #2B416B;
     background-color: #2B416B;
     padding: 0px;
     vertical-align: bottom;
