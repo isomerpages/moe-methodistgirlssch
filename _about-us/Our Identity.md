@@ -23,18 +23,10 @@ description: ""
     text-align: center;
 }
 .tg .tr-norm {    
-	border-width: 1px;
-	border-bottom: 1px #2B416B;
+	border-width: 1px;	
     border-color: #2B416B;
     border-spacing: 0px;
     padding: 10px;
-}
-.tg .tr-lastcell {    
-	border-width: 1px;
-    border-color: #2B416B;
-	  border-bottom: 2px;
-    border-spacing: 0px;
-    padding: 10px;	
 }
 </style>
 
