@@ -32,7 +32,8 @@ To Master, To Grow, To Serve
 | -------- | 
 | <p>*“Have nothing to do with godless myths and old wives’ tales; rather, train yourself to be godly. For physical training is of some value, but godliness has value for all things, holding promise for both the present life and the life to come. This is a trustworthy saying that deserves full acceptance. That is why we labour and strive, because we have put our hope in the living God, who is the Saviour of all people, and especially of those who believe.”*  </p>  **1 Timothy 4:7-10 (NIV)** <br> **Being Godly requires training and is important for this life and beyond.** |
 | |
-|   |
+
+| |
 | -------- | 
 | <p> One of them, an expert in the law, tested him with this question: “Teacher, which is the greatest commandment in the Law?” <br> Jesus replied: “‘Love the Lord your God with all your heart and with all your soul and with all your mind.’ This is the first and greatest commandment. And the second is like it: ‘Love your neighbour as yourself.’ All the Law and the Prophets hang on these two commandments.” </p>**Matthew 22:35-40 (NIV)** <br>  **Being Godly means connecting our heart, soul and mind to a greater purpose, to God.** | 
 | |
