@@ -3,8 +3,6 @@ title: Achievements
 permalink: /secondary/curriculum/cca/achievements/
 description: ""
 ---
-#### ACHIEVEMENTS OF CLUBS & SOCIETIES 2022 (SECONDARY)
-
 <style type="text/css">
 .tg {
     border-color: black;
@@ -42,6 +40,8 @@ description: ""
     vertical-align: middle;
 }
 </style>
+
+### CLUBS & SOCIETIES 2022 (SECONDARY)
 
 <table class="tg">
   <thead>
@@ -93,8 +93,7 @@ description: ""
 </table>
 
 
-### ACHIEVEMENTS OF PHYSICAL SPORTS (NATIONAL SCHOOL GAMES 2022)
-
+### PHYSICAL SPORTS (NATIONAL SCHOOL GAMES 2022)
 
 <table class="tg">
 <thead>
@@ -226,8 +225,8 @@ description: ""
 </table>
 *External CCA
 
-### ACHIEVEMENTS OF UNIFORMED GROUPS 2021/2022 (SECONDARY)
 
+### UNIFORMED GROUPS 2021/2022 (SECONDARY)
 
 <table class="tg">
 <thead>
@@ -280,7 +279,8 @@ description: ""
 </tbody>
 </table>
 
-### ACHIEVEMENTS OF VISUAL & PERFORMING ARTS 2022 (SECONDARY)
+
+### VISUAL & PERFORMING ARTS 2022 (SECONDARY)
 
 <table class="tg">
 <thead>
