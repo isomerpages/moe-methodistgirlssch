@@ -5,27 +5,27 @@ description: ""
 ---
 <style type="text/css">
 .tg {
-    width: 90%;    
+    width: 90%;
     border-color: #2B416B;
+    border-width: 1px;
 }
 .tg td {
     overflow: hidden;
     word-break: normal;
 }
 .tg .tr-header {
-	border-width: 1px;
+    border-color: #2B416B;
+    border-width: 1px;
     background-color: #2B416B;
-    border-spacing: 0px;
     color: #FFFFFF;
     font-weight: bold;
     font-size: 1.2em;
     padding: 10px;
     text-align: center;
 }
-.tg .tr-norm {    
-	border-width: 1px;	
+.tg .tr-norm {
     border-color: #2B416B;
-    border-spacing: 0px;
+    border-width: 1px;
     padding: 10px;
 }
 </style>
