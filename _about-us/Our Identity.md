@@ -5,8 +5,7 @@ description: ""
 ---
 <style type="text/css">
 .tg {
-    width: 90%;
-    border-width: 1px;
+    width: 90%;    
     border-color: #2B416B;
 }
 .tg td {
@@ -14,6 +13,7 @@ description: ""
     word-break: normal;
 }
 .tg .tr-header {
+	border-width: 1px;
     background-color: #2B416B;
     border-spacing: 0px;
     color: #FFFFFF;
@@ -23,17 +23,18 @@ description: ""
     text-align: center;
 }
 .tg .tr-norm {    
+	border-width: 1px;
 	border-bottom: 1px #2B416B;
     border-color: #2B416B;
     border-spacing: 0px;
     padding: 10px;
 }
 .tg .tr-lastcell {    
+	border-width: 1px;
     border-color: #2B416B;
 	border-bottom: thick double #2B416B;
     border-spacing: 0px;
-    padding: 10px;
-	
+    padding: 10px;	
 }
 </style>
 
