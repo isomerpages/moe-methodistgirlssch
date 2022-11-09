@@ -5,17 +5,11 @@ description: ""
 ---
 <style type="text/css">
 .tg {
-    width: 100%;
+    width: 90%;
 }
 .tg td {
     overflow: hidden;
     word-break: normal;
-}
-.tg .tr-norm {
-    width: 50%;
-    border-left: medium;
-    padding: 10px;
-	  vertical-align: bottom;
 }
 .tg .tr-header {
     background-color: #182E56;
@@ -24,7 +18,17 @@ description: ""
     font-weight: bold;
     padding: 10px;
     text-align: center;
-    
+    vertical-align: top;
+}
+.tg .tr-norm {
+    border-left: medium;
+    padding: 10px;
+	vertical-align: bottom;
+}
+.tg .tr-color {
+    background-color: #2B416B;
+    padding: 0px;
+	vertical-align: bottom;
 }
 </style>
 
@@ -55,23 +59,35 @@ To Master, To Grow, To Serve
 <table class="tg">
   <thead>
     <tr>
-      <th colspan="2" class="tr-header">GODLINESS<br>
+      <th class="tr-header">GODLINESS<br>
         Being anchored by a greater purpose that directs one’s beliefs, thoughts and actions.</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td class="tr-norm"><em>“Have nothing to do with godless myths and old wives’ tales; rather, train yourself to be godly.  For physical training is of some value, but godliness has value for all things, holding promise for both the present life and the life to come. This is a trustworthy saying that deserves full acceptance. That is why we labour and strive, because we have put our hope in the living God, who is the Saviour of all people,  and especially of those who believe.”</em></td>
+    </tr>
+    <tr>
+      <td class="tr-norm">1 Timothy 4:7-10 [NIV]</td>
+    </tr>
+    <tr>
+      <td class="tr-norm">Being Godly requires training and is important  for this life and beyond. </td>
+    </tr>
+    <tr>
+      <td class="tr-color">&nbsp;</td>
+    </tr>
+    <tr>
       <td class="tr-norm"><em>One of them, an expert in the law, tested him with this question: “Teacher, which is the greatest commandment in the Law?” <br>
         Jesus replied: “‘Love the Lord your God  with all your heart and with all your soul and  with all your mind.’ This is the first and greatest commandment. And the second is like it: ‘Love your neighbour as yourself.’ All the Law and the Prophets hang on these two commandments.” </em></td>
     </tr>
     <tr>
-      <td class="tr-norm">1 Timothy 4:7-10 [NIV]</td>
       <td class="tr-norm">Matthew 22:35-40 [NIV]</td>
     </tr>
     <tr>
-      <td class="tr-norm">Being Godly requires training and is important  for this life and beyond. </td>
       <td class="tr-norm">Being Godly means connecting our heart, soul and mind to a greater purpose, to God. </td>
+    </tr>
+    <tr>
+      <td class="tr-color">&nbsp;</td>
     </tr>
   </tbody>
 </table>
