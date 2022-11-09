@@ -16,6 +16,24 @@ The School offers a CCA programme designed to encourage pupils’ all-round deve
 
 ### CCA Offerings in MGS:
 
+| Physical Sports |
+|----|
+| Artistic Swimming, Golf\*, Football, Netball, Softball, Squash, Swimming, Tennis, Bowling, Track & Cross Country |
+
+| Visual & Performing Arts |
+|----|
+| Choir, Dance (Indian) Club, Dance (International) Club, Drama Society, Guitar Ensemble, Handbell Ensemble, String Ensemble, IDEAS |
+
+| Clubs & Societies |
+|----|
+| Chess Club, Infocomm Club, Library Club, SALT Club, Sophia Society |
+
+| Uniformed Groups (UG) |
+|----|
+| Girl Guides, Girls’ Brigade, National Cadet Corps (Air) |
+
+
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
