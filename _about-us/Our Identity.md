@@ -6,6 +6,8 @@ description: ""
 <style type="text/css">
 .tg {
     width: 90%;
+    border-width: 1px;
+    border-color: #2B416B;
 }
 .tg td {
     overflow: hidden;
@@ -13,28 +15,25 @@ description: ""
 }
 .tg .tr-header {
     background-color: #2B416B;
-	  border-width: 1px;
-    border-color: #2B416B;
+    border-spacing: 0px;
     color: #FFFFFF;
     font-weight: bold;
-	  font-size: 1.2em;
+    font-size: 1.2em;
     padding: 10px;
     text-align: center;
-    vertical-align: top;
 }
-.tg .tr-norm {
-      border-width: 1px;
+.tg .tr-norm {    
+	border-bottom: 1px #2B416B;
     border-color: #2B416B;
     border-spacing: 0px;
     padding: 10px;
-    vertical-align: bottom;
 }
-.tg .tr-color {
-	    border-width: 1px;
+.tg .tr-lastcell {    
     border-color: #2B416B;
-    background-color: #2B416B;
-    padding: 0px;
-    vertical-align: bottom;
+	border-bottom: thick double #2B416B;
+    border-spacing: 0px;
+    padding: 10px;
+	
 }
 </style>
 
@@ -76,7 +75,7 @@ To Master, To Grow, To Serve
         <p>Being Godly requires training and is important  for this life and beyond. </p></td>
     </tr>
     <tr>
-      <td class="tr-norm"><p><em>One of them, an expert in the law, tested him with this question: “Teacher, which is the greatest commandment in the Law?” <br>
+      <td class="tr-lastcell"><p><em>One of them, an expert in the law, tested him with this question: “Teacher, which is the greatest commandment in the Law?” <br>
           Jesus replied: “‘Love the Lord your God  with all your heart and with all your soul and  with all your mind.’ This is the first and greatest commandment. And the second is like it: ‘Love your neighbour as yourself.’ All the Law and the Prophets hang on these two commandments.” </em></p>
         <p>Matthew 22:35-40 [NIV]</p>
         <p>Being Godly means connecting our heart, soul and mind to a greater purpose, to God. </p>
@@ -99,7 +98,7 @@ To Master, To Grow, To Serve
         <p>Being excellent means glorifying God, not ourselves.</p></td>
     </tr>
     <tr>
-      <td class="tr-norm"><p><em>“But the Lord said to Samuel, “Do not consider his appearance or his height, for I have rejected him. The Lord does not look at the things people look at. People look at the outward appearance, but the Lord looks at the heart.” </em></p>
+      <td class="tr-lastcell"><p><em>“But the Lord said to Samuel, “Do not consider his appearance or his height, for I have rejected him. The Lord does not look at the things people look at. People look at the outward appearance, but the Lord looks at the heart.” </em></p>
         <p>1 Samuel 16:7 [NIV]</p>
         <p>Being excellent is an inner attitude of our heart, not outward achievements.</p>
 		</td>
@@ -122,7 +121,7 @@ To Master, To Grow, To Serve
         <p>Being loving is to love God and love others.</p></td>
     </tr>
     <tr>
-      <td class="tr-norm"><p><em>“If I speak in the tongues of men or of angels, but do not have love, I am only 
+      <td class="tr-lastcell"><p><em>“If I speak in the tongues of men or of angels, but do not have love, I am only 
           a resounding gong or a clanging cymbal. If I have the gift of prophecy and can fathom all mysteries and all knowledge, 
           and if I have a faith that can move mountains, but do not have love, I am nothing. If I give all I possess to the poor 
           and give over my body to hardship that I may boast, but do not have love, I gain nothing. Love is patient, love is kind. It does not envy, it does not boast, it is not proud. It does not dishonour others, it is not self-seeking, it is not easily angered, it keeps no record of wrongs. Love does not delight in evil but rejoices with the truth. It always protects, always trusts, always hopes, always perseveres. 
@@ -133,22 +132,6 @@ To Master, To Grow, To Serve
     </tr>
   </tbody>
 </table>
-
-
-
-#### Love
-Being empathetic, compassionate and others-centred, seeking to understand, serve and give.
-
-##### Being loving is to love God and love others.  	
-**Matthew 22:35-40, NIV** <br>
-*One of them, an expert in the law, tested him with this question: “Teacher, which is the greatest commandment in the Law?” <br>
-Jesus replied: “‘Love the Lord your God with all your heart and with all your soul and with all your mind.’ This is the first and greatest commandment. And the second is like it: ‘Love your neighbour as yourself.’ All the Law and the Prophets hang on these two commandments.”*
-
-##### Being loving is the most important gift and achievement.
-**1 Corinthians 13: 1-8. NIV** <br>
-*“If I speak in the tongues of men or of angels, but do not have love, I am only a resounding gong or a clanging cymbal. If I have the gift of prophecy and can fathom all mysteries and all knowledge, and if I have a faith that can move mountains, but do not have love, I am nothing. If I give all I possess to the poor and give over my body to hardship that I may boast, but do not have love, I gain nothing. <br>
-Love is patient, love is kind. It does not envy, it does not boast, it is not proud. It does not dishonour others, it is not self-seeking, it is not easily angered, it keeps no record of wrongs. Love does not delight in evil but rejoices with the truth. It always protects, always trusts, always hopes, always perseveres. <br>
-Love never fails.”*
 
 
 ### School Motto
