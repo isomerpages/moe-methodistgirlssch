@@ -55,12 +55,6 @@ During each chess session, members are coached and apply what they are taught vi
 </style>
 
 <table class="tg">
-  <thead>
-    <tr>
-      <th class="tr-header">Achievements in 2021<br></th>
-      <td class="tr-norm">72nd National Schools Individual Chess Championships - 10 prizes in the West Zone, 7 national placings</td>
-    </tr>
-  </thead>
   <tbody>
     <tr>
       <th class="tr-header">Leadership Opportunities</th>
