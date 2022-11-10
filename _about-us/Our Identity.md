@@ -30,12 +30,14 @@ description: ""
 }
 .tg .tr-norm {
     padding: 10px;
-	border-bottom-width: 1px;
-	border-bottom-style: double;
+	border-top-width : 2px;
+	border-bottom-width: 2px;
+	border-color: #2B416B;
 	vertical-align: top;
 }
 .tg .tr-3col {
-    border-width: 1px;
+    border-width: 2px;
+	border-color: #FFFFFF;
     background-color: #E8D583;
     color: #000000;
     padding: 10px;
