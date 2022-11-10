@@ -13,7 +13,7 @@ The Netball School Team CCA cultivates quick-thinking skills in all players and 
 
 Netball is a sport where teamwork, respect, resilience are fostered. All members share common goals and strive hard to achieve them, contributing to the camaraderie on and off the court. Rigorous trainings are never dreaded here, as members are constantly spurred on by each other, and as it also allows members to reach and expand their potential.
 
-![](/images/Sec_cca/netball%202021.jpg)
+![](/images/Sec_cca/netball.jpg)
 
 For members to challenge themselves and hone their skills, the CCA competes in the annual National School Games (NSG) for both the ‘B’ and ‘C’ Divisions. It also takes part in carnivals and tournaments, and organizes friendly games against other schools to acquire exposure and build chemistry between all players.
 
