@@ -41,6 +41,16 @@ description: ""
     border-top-width: 0px;
     border-left-width: 0px;
 }
+.tg .tr-normright {
+    padding: 10px;
+    border-color: #2B416B;
+    vertical-align: top;
+    font-weight: bold;
+    border-bottom-width: 2px;
+    border-right-width: 2px;
+    border-top-width: 0px;
+    border-left-width: 0px;
+}
 .tg .tr-3colheader {
     background-color: #2B416B;
     color: #FFFFFF;
@@ -109,14 +119,18 @@ To Master, To Grow, To Serve
     </tr>
     <tr>
       <td width="70%" class="tr-norm"><em>“Have nothing to do with godless myths and old wives’ tales; rather, train yourself to be godly.  For physical training is of some value, but godliness has value for all things, holding promise for both the present life and the life to come. This is a trustworthy saying that deserves full acceptance. That is why we labour and strive, because we have put our hope in the living God, who is the Saviour of all people,  and especially of those who believe.”</em></td>
-      <td width="30%" class="tr-norm"><p>1 Timothy 4:7-10 [NIV]</p>
-      <p>Being Godly requires training and is important  for this life and beyond. </p></td>
+      <td width="30%" class="tr-normright"><p>1 Timothy 4:7-10 [NIV]</p>
+        <p>Being Godly requires training and is important  for this life and beyond. </p></td>
     </tr>
     <tr>
-      <td width="70%" class="tr-norm"><em>One of them, an expert in the law, tested him with this question: “Teacher, which is the greatest commandment in the Law?” <br>
-Jesus replied: “‘Love the Lord your God  with all your heart and with all your soul and  with all your mind.’ This is the first and greatest commandment. And the second is like it: ‘Love your neighbour as yourself.’ All the Law and the Prophets hang on these two commandments.” </em></td>
-      <td width="30%" class="tr-norm"><p>Matthew 22:35-40 [NIV]</p>
+      <td class="tr-norm"><em>One of them, an expert in the law, tested him with this question: “Teacher, which is the greatest commandment in the Law?” <br>
+        Jesus replied: “‘Love the Lord your God  with all your heart and with all your soul and  with all your mind.’ This is the first and greatest commandment. And the second is like it: ‘Love your neighbour as yourself.’ All the Law and the Prophets hang on these two commandments.” </em></td>
+      <td class="tr-normright"><p>Matthew 22:35-40 [NIV]</p>
         <p>Being Godly means connecting our heart, soul and mind to a greater purpose, to God. </p></td>
+    </tr>
+    <tr>
+      <td class="tr-norm">&nbsp;</td>
+      <td class="tr-norm">&nbsp;</td>
     </tr>
   </tbody>
 </table>
@@ -133,13 +147,17 @@ Jesus replied: “‘Love the Lord your God  with all your heart and with all yo
     </tr>
     <tr>
       <td width="70%" class="tr-norm"><em>“Whatever you do, work at it with all your heart, as though you were working for the Lord and not for people. Remember that the Lord will give you as a reward what he has kept for his people. For Christ is the real Master you serve.” </em></td>
-      <td width="30%" class="tr-norm"><p>Colossians 3:23-24 [GNT]</p>
+      <td width="30%" class="tr-normright"><p>Colossians 3:23-24 [GNT]</p>
         <p>Being excellent means glorifying God, not ourselves.</p></td>
     </tr>
     <tr>
-      <td width="70%" class="tr-norm"><em>“But the Lord said to Samuel, “Do not consider his appearance or his height, for I have rejected him. The Lord does not look at the things people look at. People look at the outward appearance, but the Lord looks at the heart.” </em></td>
-      <td width="30%" class="tr-norm"><p>1  Samuel 16:7 [NIV]</p>
+      <td class="tr-norm"><em>“But the Lord said to Samuel, “Do not consider his appearance or his height, for I have rejected him. The Lord does not look at the things people look at. People look at the outward appearance, but the Lord looks at the heart.” </em></td>
+      <td class="tr-normright"><p>1 Samuel 16:7 [NIV]</p>
         <p>Being excellent is an inner attitude of our heart, not outward achievements.</p></td>
+    </tr>
+    <tr>
+      <td class="tr-norm">&nbsp;</td>
+      <td class="tr-norm">&nbsp;</td>
     </tr>
   </tbody>
 </table>
@@ -156,16 +174,20 @@ Jesus replied: “‘Love the Lord your God  with all your heart and with all yo
     </tr>
     <tr>
       <td width="70%" class="tr-norm"><em>One of them, an expert in the law, tested him with this question: “Teacher, which is the greatest commandment in the Law?” <br>
-Jesus replied: “‘Love the Lord your God with all your heart and with all your soul and with all your mind.’ This is the first and greatest commandment. And the second is like it: ‘Love your neighbour as yourself.’ All the Law and the Prophets hang on these two commandments.”</em></td>
-      <td width="30%" class="tr-norm"><p>Matthew 22:35-40 [NIV]</p>
+        Jesus replied: “‘Love the Lord your God with all your heart and with all your soul and with all your mind.’ This is the first and greatest commandment. And the second is like it: ‘Love your neighbour as yourself.’ All the Law and the Prophets hang on these two commandments.”</em></td>
+      <td width="30%" class="tr-normright"><p>Matthew 22:35-40 [NIV]</p>
         <p>Being loving is to love God and love others.</p></td>
     </tr>
     <tr>
-      <td width="70%" class="tr-norm"><em>“If I speak in the tongues of men or of angels, but do not have love, I am only a resounding gong or a clanging cymbal. If I have the gift of prophecy and can fathom all mysteries and all knowledge, and if I have a faith that can move mountains, but do not have love, I am nothing. If I give all I possess to the poor and give over my body to hardship that I may boast, but do not have love, I gain nothing. <br>
-Love is patient, love is kind. It does not envy, it does not boast, it is not proud. It does not dishonour others, it is not self-seeking, it is not easily angered, it keeps no record of wrongs. Love does not delight in evil but rejoices with the truth. It always protects, always trusts, always hopes, always perseveres. <br>
-Love never fails.” </em></td>
-      <td width="30%" class="tr-norm"><p>1 Corinthians 13: 1-8 [NIV]</p>
+      <td class="tr-norm"><em>“If I speak in the tongues of men or of angels, but do not have love, I am only a resounding gong or a clanging cymbal. If I have the gift of prophecy and can fathom all mysteries and all knowledge, and if I have a faith that can move mountains, but do not have love, I am nothing. If I give all I possess to the poor and give over my body to hardship that I may boast, but do not have love, I gain nothing. <br>
+        Love is patient, love is kind. It does not envy, it does not boast, it is not proud. It does not dishonour others, it is not self-seeking, it is not easily angered, it keeps no record of wrongs. Love does not delight in evil but rejoices with the truth. It always protects, always trusts, always hopes, always perseveres. <br>
+        Love never fails.” </em></td>
+      <td class="tr-normright"><p>1 Corinthians 13: 1-8 [NIV]</p>
         <p>Being loving is the most important gift and achievement.</p></td>
+    </tr>
+    <tr>
+      <td class="tr-norm">&nbsp;</td>
+      <td class="tr-norm">&nbsp;</td>
     </tr>
   </tbody>
 </table>
