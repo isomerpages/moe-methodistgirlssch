@@ -34,6 +34,14 @@ description: ""
 	border-bottom-style: double;
 	vertical-align: top;
 }
+.tg .tr-3col {
+    border-width: 1px;
+    background-color: #E8D583;
+    color: #000000;
+    padding: 10px;
+    text-align: left;
+	vertical-align: top;
+}	
 </style>
 
 <img src="/images/Others/logo-mgs.png" style="width:30%">
@@ -151,17 +159,18 @@ To Master, To Grow, To Serve
       <td width="33%" class="tr-subheader">Moving upwards and outwards</td>
     </tr>
     <tr>
-      <td width="33%" class="tr-norm"><p>To understand and know deeply.</p>
+      <td width="33%" class="tr-3col"><p>To understand and know deeply.</p>
         <p>To work hard to achieve mastery even when it is challenging.</p></td>
-      <td width="34%" class="tr-norm"><p>To step out of one’s comfort zone to learn more. </p>
+      <td width="34%" class="tr-3col"><p>To step out of one’s comfort zone to learn more. </p>
         <p>To be curious and humble and willing to receive feedback.</p></td>
-      <td width="33%" class="tr-norm"><p>To give generously and sacrificially to meet the needs of others.</p>
+      <td width="33%" class="tr-3col"><p>To give generously and sacrificially to meet the needs of others.</p>
         <p>To give of self to God and others out of love. </p>
         <p>To know that as one serves, one also receives.</p></td>
     </tr>
   </tbody>
 </table>
 <p>&nbsp;</p>
+
 
 
 
