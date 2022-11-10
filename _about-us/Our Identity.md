@@ -4,6 +4,7 @@ permalink: /about-us/our-identity/
 description: ""
 ---
 <style type="text/css">
+<style type="text/css">
 .tg {
     width: 90%;
 }
@@ -18,6 +19,8 @@ description: ""
     font-size: 1.4em;
     padding: 10px;
     text-align: center;
+	border-width: 2px;
+	border-color: #FFFFFF;
 }
 .tg .tr-subheader {
     border-width: 1px;
@@ -27,22 +30,47 @@ description: ""
     font-size: 1.2em;
     padding: 10px;
     text-align: center;
+	border-width: 2px;
+	border-color: #FFFFFF;
 }
 .tg .tr-norm {
-    padding: 10px;
-	border-top-width : 2px;
-	border-bottom-width: 2px;
+    padding: 10px;	
 	border-color: #2B416B;
 	vertical-align: top;
+	border-bottom-width: 2px;
+	border-right-width: 2px;
+	border-top-width: 0px;
+	border-left-width: 0px;
+}
+.tg .tr-3colheader {
+    background-color: #2B416B;
+    color: #FFFFFF;
+    font-weight: bold;
+    font-size: 1.4em;
+    padding: 10px;
+    text-align: center;
+	border-width: 4px;
+	border-color: #FFFFFF;
+}
+.tg .tr-3colsubheader {
+    border-width: 1px;
+    background-color: #937818;
+    color: #FFFFFF;
+    font-weight: bold;
+    font-size: 1.2em;
+    padding: 10px;
+    text-align: center;
+	border-width: 4px;
+	border-color: #FFFFFF;
 }
 .tg .tr-3col {
-    border-width: 2px;
+    border-width: 4px;
 	border-color: #FFFFFF;
     background-color: #E8D583;
     color: #000000;
     padding: 10px;
     text-align: left;
-	vertical-align: top;
+	vertical-align: top;	
 }	
 </style>
 
@@ -72,22 +100,22 @@ To Master, To Grow, To Serve
 <table class="tg">
   <thead>
     <tr>
-      <th class="tr-header">GODLINESS</th>
+      <th colspan="2" class="tr-header">GODLINESS</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td class="tr-subheader">Being anchored by a greater purpose that directs one’s beliefs, thoughts and actions.</td>
+      <td colspan="2" class="tr-subheader">Being anchored by a greater purpose that directs one’s beliefs, thoughts and actions.</td>
     </tr>
     <tr>
-      <td class="tr-norm"><p><em>“Have nothing to do with godless myths and old wives’ tales; rather, train yourself to be godly.  For physical training is of some value, but godliness has value for all things, holding promise for both the present life and the life to come. This is a trustworthy saying that deserves full acceptance. That is why we labour and strive, because we have put our hope in the living God, who is the Saviour of all people,  and especially of those who believe.”</em></p>
-        <p>1 Timothy 4:7-10 [NIV]</p>
-        <p>Being Godly requires training and is important  for this life and beyond. </p></td>
+      <td width="70%" class="tr-norm"><em>“Have nothing to do with godless myths and old wives’ tales; rather, train yourself to be godly.  For physical training is of some value, but godliness has value for all things, holding promise for both the present life and the life to come. This is a trustworthy saying that deserves full acceptance. That is why we labour and strive, because we have put our hope in the living God, who is the Saviour of all people,  and especially of those who believe.”</em></td>
+      <td width="30%" class="tr-norm"><p>1 Timothy 4:7-10 [NIV]</p>
+      <p>Being Godly requires training and is important  for this life and beyond. </p></td>
     </tr>
     <tr>
-      <td class="tr-norm"><p><em>One of them, an expert in the law, tested him with this question: “Teacher, which is the greatest commandment in the Law?” <br>
-          Jesus replied: “‘Love the Lord your God  with all your heart and with all your soul and  with all your mind.’ This is the first and greatest commandment. And the second is like it: ‘Love your neighbour as yourself.’ All the Law and the Prophets hang on these two commandments.” </em></p>
-        <p>Matthew 22:35-40 [NIV]</p>
+      <td width="70%" class="tr-norm"><em>One of them, an expert in the law, tested him with this question: “Teacher, which is the greatest commandment in the Law?” <br>
+Jesus replied: “‘Love the Lord your God  with all your heart and with all your soul and  with all your mind.’ This is the first and greatest commandment. And the second is like it: ‘Love your neighbour as yourself.’ All the Law and the Prophets hang on these two commandments.” </em></td>
+      <td width="30%" class="tr-norm"><p>Matthew 22:35-40 [NIV]</p>
         <p>Being Godly means connecting our heart, soul and mind to a greater purpose, to God. </p></td>
     </tr>
   </tbody>
@@ -96,21 +124,21 @@ To Master, To Grow, To Serve
 <table class="tg">
   <thead>
     <tr>
-      <th class="tr-header">EXCELLENCE</th>
+      <th colspan="2" class="tr-header">EXCELLENCE</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td class="tr-subheader">Being resilient and persistent despite challenges. Having an inner strength and positive attitude to give one’s best so that one can learn and grow.</td>
+      <td colspan="2" class="tr-subheader">Being resilient and persistent despite challenges. Having an inner strength and positive attitude to give one’s best so that one can learn and grow.</td>
     </tr>
     <tr>
-      <td class="tr-norm"><p><em>“Whatever you do, work at it with all your heart, as though you were working for the Lord and not for people. Remember that the Lord will give you as a reward what he has kept for his people. For Christ is the real Master you serve.” </em></p>
-        <p>Colossians 3:23-24 [GNT]</p>
+      <td width="70%" class="tr-norm"><em>“Whatever you do, work at it with all your heart, as though you were working for the Lord and not for people. Remember that the Lord will give you as a reward what he has kept for his people. For Christ is the real Master you serve.” </em></td>
+      <td width="30%" class="tr-norm"><p>Colossians 3:23-24 [GNT]</p>
         <p>Being excellent means glorifying God, not ourselves.</p></td>
     </tr>
     <tr>
-      <td class="tr-norm"><p><em>“But the Lord said to Samuel, “Do not consider his appearance or his height, for I have rejected him. The Lord does not look at the things people look at. People look at the outward appearance, but the Lord looks at the heart.” </em></p>
-        <p>1 Samuel 16:7 [NIV]</p>
+      <td width="70%" class="tr-norm"><em>“But the Lord said to Samuel, “Do not consider his appearance or his height, for I have rejected him. The Lord does not look at the things people look at. People look at the outward appearance, but the Lord looks at the heart.” </em></td>
+      <td width="30%" class="tr-norm"><p>1  Samuel 16:7 [NIV]</p>
         <p>Being excellent is an inner attitude of our heart, not outward achievements.</p></td>
     </tr>
   </tbody>
@@ -119,24 +147,24 @@ To Master, To Grow, To Serve
 <table class="tg">
   <thead>
     <tr>
-      <th class="tr-header">LOVE</th>
+      <th colspan="2" class="tr-header">LOVE</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td class="tr-subheader">Being empathetic, compassionate and others-centred, seeking to understand, serve and give. </td>
+      <td colspan="2" class="tr-subheader">Being empathetic, compassionate and others-centred, seeking to understand, serve and give. </td>
     </tr>
     <tr>
-      <td class="tr-norm"><p><em>One of them, an expert in the law, tested him with this question: “Teacher, which is the greatest commandment in the Law?” <br>
-          Jesus replied: “‘Love the Lord your God with all your heart and with all your soul and with all your mind.’ This is the first and greatest commandment. And the second is like it: ‘Love your neighbour as yourself.’ All the Law and the Prophets hang on these two commandments.”</em></p>
-        <p>Matthew 22:35-40 [NIV]</p>
+      <td width="70%" class="tr-norm"><em>One of them, an expert in the law, tested him with this question: “Teacher, which is the greatest commandment in the Law?” <br>
+Jesus replied: “‘Love the Lord your God with all your heart and with all your soul and with all your mind.’ This is the first and greatest commandment. And the second is like it: ‘Love your neighbour as yourself.’ All the Law and the Prophets hang on these two commandments.”</em></td>
+      <td width="30%" class="tr-norm"><p>Matthew 22:35-40 [NIV]</p>
         <p>Being loving is to love God and love others.</p></td>
     </tr>
     <tr>
-      <td class="tr-norm"><p><em>“If I speak in the tongues of men or of angels, but do not have love, I am only a resounding gong or a clanging cymbal. If I have the gift of prophecy and can fathom all mysteries and all knowledge, and if I have a faith that can move mountains, but do not have love, I am nothing. If I give all I possess to the poor and give over my body to hardship that I may boast, but do not have love, I gain nothing. <br>
-          Love is patient, love is kind. It does not envy, it does not boast, it is not proud. It does not dishonour others, it is not self-seeking, it is not easily angered, it keeps no record of wrongs. Love does not delight in evil but rejoices with the truth. It always protects, always trusts, always hopes, always perseveres. <br>
-          Love never fails.” </em></p>
-        <p>1 Corinthians 13: 1-8 [NIV]</p>
+      <td width="70%" class="tr-norm"><em>“If I speak in the tongues of men or of angels, but do not have love, I am only a resounding gong or a clanging cymbal. If I have the gift of prophecy and can fathom all mysteries and all knowledge, and if I have a faith that can move mountains, but do not have love, I am nothing. If I give all I possess to the poor and give over my body to hardship that I may boast, but do not have love, I gain nothing. <br>
+Love is patient, love is kind. It does not envy, it does not boast, it is not proud. It does not dishonour others, it is not self-seeking, it is not easily angered, it keeps no record of wrongs. Love does not delight in evil but rejoices with the truth. It always protects, always trusts, always hopes, always perseveres. <br>
+Love never fails.” </em></td>
+      <td width="30%" class="tr-norm"><p>1 Corinthians 13: 1-8 [NIV]</p>
         <p>Being loving is the most important gift and achievement.</p></td>
     </tr>
   </tbody>
@@ -149,16 +177,16 @@ To Master, To Grow, To Serve
 <table class="tg">
   <thead>
     <tr>
-      <th width="33%" class="tr-header">TO MASTER<br></th>
-      <th width="34%" class="tr-header">TO GROW</th>
-      <th width="33%" class="tr-header">TO SERVE</th>
+      <th width="33%" class="tr-3colheader">TO MASTER<br></th>
+      <th width="34%" class="tr-3colheader">TO GROW</th>
+      <th width="33%" class="tr-3colheader">TO SERVE</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td width="33%" class="tr-subheader">Going deep </td>
-      <td width="34%" class="tr-subheader">Moving forward</td>
-      <td width="33%" class="tr-subheader">Moving upwards and outwards</td>
+      <td width="33%" class="tr-3colsubheader">Going deep </td>
+      <td width="34%" class="tr-3colsubheader">Moving forward</td>
+      <td width="33%" class="tr-3colsubheader">Moving upwards and outwards</td>
     </tr>
     <tr>
       <td width="33%" class="tr-3col"><p>To understand and know deeply.</p>
@@ -172,8 +200,6 @@ To Master, To Grow, To Serve
   </tbody>
 </table>
 <p>&nbsp;</p>
-
-
 
 
 ## School Crest
