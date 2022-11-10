@@ -4,7 +4,6 @@ permalink: /about-us/our-identity/
 description: ""
 ---
 <style type="text/css">
-<style type="text/css">
 .tg {
     width: 90%;
 }
@@ -19,8 +18,8 @@ description: ""
     font-size: 1.4em;
     padding: 10px;
     text-align: center;
-	border-width: 2px;
-	border-color: #FFFFFF;
+    border-width: 2px;
+    border-color: #FFFFFF;
 }
 .tg .tr-subheader {
     border-width: 1px;
@@ -30,17 +29,17 @@ description: ""
     font-size: 1.2em;
     padding: 10px;
     text-align: center;
-	border-width: 2px;
-	border-color: #FFFFFF;
+    border-width: 2px;
+    border-color: #FFFFFF;
 }
 .tg .tr-norm {
-    padding: 10px;	
-	border-color: #2B416B;
-	vertical-align: top;
-	border-bottom-width: 2px;
-	border-right-width: 2px;
-	border-top-width: 0px;
-	border-left-width: 0px;
+    padding: 10px;
+    border-color: #2B416B;
+    vertical-align: top;
+    border-bottom-width: 2px;
+    border-right-width: 2px;
+    border-top-width: 0px;
+    border-left-width: 0px;
 }
 .tg .tr-3colheader {
     background-color: #2B416B;
@@ -49,8 +48,8 @@ description: ""
     font-size: 1.4em;
     padding: 10px;
     text-align: center;
-	border-width: 4px;
-	border-color: #FFFFFF;
+    border-width: 4px;
+    border-color: #FFFFFF;
 }
 .tg .tr-3colsubheader {
     border-width: 1px;
@@ -60,18 +59,19 @@ description: ""
     font-size: 1.2em;
     padding: 10px;
     text-align: center;
-	border-width: 4px;
-	border-color: #FFFFFF;
+    border-width: 4px;
+    border-color: #FFFFFF;
+    vertical-align: center;
 }
 .tg .tr-3col {
     border-width: 4px;
-	border-color: #FFFFFF;
+    border-color: #FFFFFF;
     background-color: #E8D583;
     color: #000000;
     padding: 10px;
     text-align: left;
-	vertical-align: top;	
-}	
+    vertical-align: top;
+}
 </style>
 
 <img src="/images/Others/logo-mgs.png" style="width:30%">
