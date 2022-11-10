@@ -46,6 +46,7 @@ description: ""
     border-color: #2B416B;
     vertical-align: top;
     font-weight: bold;
+	  font-size: 1em;
     border-bottom-width: 2px;
     border-right-width: 0px;
     border-top-width: 0px;
