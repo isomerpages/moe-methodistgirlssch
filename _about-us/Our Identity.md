@@ -47,9 +47,9 @@ description: ""
     vertical-align: top;
     font-weight: bold;
     border-bottom-width: 2px;
-    border-right-width: 2px;
+    border-right-width: 0px;
     border-top-width: 0px;
-    border-left-width: 0px;
+    border-left-width: 2px;
 }
 .tg .tr-3colheader {
     background-color: #2B416B;
@@ -128,10 +128,6 @@ To Master, To Grow, To Serve
       <td class="tr-normright"><p>Matthew 22:35-40 [NIV]</p>
         <p>Being Godly means connecting our heart, soul and mind to a greater purpose, to God. </p></td>
     </tr>
-    <tr>
-      <td class="tr-norm">&nbsp;</td>
-      <td class="tr-norm">&nbsp;</td>
-    </tr>
   </tbody>
 </table>
 <p>&nbsp;</p>
@@ -154,10 +150,6 @@ To Master, To Grow, To Serve
       <td class="tr-norm"><em>“But the Lord said to Samuel, “Do not consider his appearance or his height, for I have rejected him. The Lord does not look at the things people look at. People look at the outward appearance, but the Lord looks at the heart.” </em></td>
       <td class="tr-normright"><p>1 Samuel 16:7 [NIV]</p>
         <p>Being excellent is an inner attitude of our heart, not outward achievements.</p></td>
-    </tr>
-    <tr>
-      <td class="tr-norm">&nbsp;</td>
-      <td class="tr-norm">&nbsp;</td>
     </tr>
   </tbody>
 </table>
@@ -183,11 +175,8 @@ To Master, To Grow, To Serve
         Love is patient, love is kind. It does not envy, it does not boast, it is not proud. It does not dishonour others, it is not self-seeking, it is not easily angered, it keeps no record of wrongs. Love does not delight in evil but rejoices with the truth. It always protects, always trusts, always hopes, always perseveres. <br>
         Love never fails.” </em></td>
       <td class="tr-normright"><p>1 Corinthians 13: 1-8 [NIV]</p>
-        <p>Being loving is the most important gift and achievement.</p></td>
-    </tr>
-    <tr>
-      <td class="tr-norm">&nbsp;</td>
-      <td class="tr-norm">&nbsp;</td>
+        <p>Being loving is the most important gift and achievement.</p>
+		</td>
     </tr>
   </tbody>
 </table>
