@@ -2,7 +2,6 @@ collections:
   secondary-academic:
     output: true
     order:
-      - MGS Education Experience.md
       - Academic.md
       - Aesthetics/.keep
       - Aesthetics/Aesthetics.md
@@ -21,6 +20,7 @@ collections:
       - Mathematics.md
       - Physical Education.md
       - Sciences.md
+      - MGS Education Experience.md
       - Integrated Programme/.keep
       - Integrated Programme/Integrated Programme.md
       - Integrated Programme/MGS IP Curriculum Structure & Subject Options.md
