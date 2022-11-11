@@ -16,7 +16,7 @@ sections:
           description: Outcome for Direct School Admission for Secondary One
           url: /secondary/admissions/dsa-sec1/
   - resources:
-      title: ANNOUNCEMENTS
+      title: Highlights
       subtitle: Stay up to date with us
       button: more
   - infopic:
