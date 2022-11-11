@@ -3,8 +3,6 @@ title: CCA
 permalink: /secondary/cca/
 description: ""
 ---
-
-
 ## Co-Curricular Activities
 
 ![](/images/Others/Splash/pic-cca.jpg)
@@ -17,37 +15,6 @@ The School offers a CCA programme designed to encourage pupils’ all-round deve
 2.  [LEAPS 2.0 Grading system](https://drive.google.com/file/d/1K8IRrZvsWIV_e86-XfkR7wTYEO8zDD61/view?usp=sharing)
 
 ### CCA Offerings in MGS:
-
-| Physical Sports |
-|----|
-| Artistic Swimming, Golf\*, Football, Netball, Softball, Squash, Swimming, Tennis, Bowling, Track & Cross Country |
-
-| Visual & Performing Arts |
-|----|
-| Choir, Dance (Indian) Club, Dance (International) Club, Drama Society, Guitar Ensemble, Handbell Ensemble, String Ensemble, IDEAS |
-
-| Clubs & Societies |
-|----|
-| Chess Club, Infocomm Club, Library Club, SALT Club, Sophia Society |
-
-| Uniformed Groups (UG) |
-|----|
-| Girl Guides, Girls’ Brigade, National Cadet Corps (Air) |
-
-
-#### Physical Sports
-
-Artistic Swimming, Golf\*, Football, Netball, Softball, Squash, Swimming, Tennis, Bowling, Track & Cross Country
-
-#### Visual & Performing Arts
-
-Choir, Dance (Indian) Club, Dance (International) Club, Drama Society, Guitar Ensemble, Handbell Ensemble, String Ensemble, IDEAS
-
-#### Clubs & Societies
-Chess Club, Infocomm Club, Library Club, SALT Club, Sophia Society
-
-#### Uniformed Groups (UG)
-Girl Guides, Girls’ Brigade, National Cadet Corps (Air)
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
