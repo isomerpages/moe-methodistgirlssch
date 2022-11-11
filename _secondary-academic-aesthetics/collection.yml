@@ -1,5 +1,4 @@
 collections:
   secondary-academic-aesthetics:
     output: true
-    order:
-      - Music Elective Programme.md
+    order: []
