@@ -2,6 +2,7 @@ collections:
   secondary:
     output: true
     order:
+      - Mother Tongue.md
       - Language Arts.md
       - Computer Studies.md
       - Academic.md
