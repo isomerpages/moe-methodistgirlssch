@@ -2,5 +2,6 @@ collections:
   secondary-academic-aesthetics:
     output: true
     order:
+      - Home Economics.md
       - Lower Secondary Music.md
       - Art.md
