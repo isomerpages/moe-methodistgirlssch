@@ -2,6 +2,7 @@ collections:
   secondary-academic:
     output: true
     order:
+      - Aesthetics/Music Elective Programme.md
       - Aesthetics/.keep
       - Humanities/Geography.md
       - Humanities/Global Studies.md
