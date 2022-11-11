@@ -2,6 +2,7 @@ collections:
   secondary-academic:
     output: true
     order:
+      - Humanities/History.md
       - Humanities/.keep
       - Integrated Programme/Integrated Programme.md
       - Integrated Programme/Curriculum Structure & Subject Options.md
