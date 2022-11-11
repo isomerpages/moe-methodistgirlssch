@@ -4,12 +4,6 @@ collections:
     order:
       - MGS Education Experience.md
       - Academic.md
-      - CCA.md
-      - Key Programmes/.keep
-      - Key Programmes/Intergenerational Learning (IGL) @ MGS.md
-      - Key Programmes/Regional Youth Conference.md
-      - Key Programmes/STE(A)M.md
-      - Key Programmes/WZ COE for Language Arts.md
       - Student Development/.keep
       - Student Development/Student Development.md
       - Student Development/Character and Citizenship Education (CCE).md
@@ -18,6 +12,12 @@ collections:
       - Student Development/Independent Learning Day.md
       - Student Development/Sexuality Education.md
       - Student Development/Values in Action.md
+      - CCA.md
+      - Key Programmes/.keep
+      - Key Programmes/Intergenerational Learning (IGL) @ MGS.md
+      - Key Programmes/Regional Youth Conference.md
+      - Key Programmes/STE(A)M.md
+      - Key Programmes/WZ COE for Language Arts.md
       - Useful Links/.keep
       - Useful Links/For Staff.md
       - Useful Links/For Students.md
