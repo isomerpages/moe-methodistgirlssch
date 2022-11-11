@@ -56,12 +56,14 @@ links:
   - title: Secondary
     url: /secondary-academic/academic/
     sublinks:
+      - title: MGS Education Experience
+        url: /secondary/education-experience/
       - title: Academic
         url: /secondary-academic/academic/
-      - title: CCA
-        url: /secondary/curriculum/cca/
       - title: Student Development
         url: /secondary/student-development/
+      - title: CCA
+        url: /secondary/curriculum/cca/
       - title: Key Programmes
         url: /news-and-events/igl/
       - title: Useful Links
