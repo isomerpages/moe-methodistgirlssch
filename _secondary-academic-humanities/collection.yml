@@ -1,5 +1,4 @@
 collections:
   secondary-academic-humanities:
     output: true
-    order:
-      - History.md
+    order: []
