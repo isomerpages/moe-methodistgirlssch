@@ -2,18 +2,18 @@ collections:
   secondary:
     output: true
     order:
-      - Academic/Aesthetics.md
-      - Academic/Humanities.md
+      - Academic/.keep
       - Academic/Academic.md
+      - Academic/Aesthetics.md
       - Academic/Computer Studies.md
+      - Academic/Humanities.md
       - Academic/Language Arts.md
-      - Academic/Mother Tongue.md
       - Academic/Mathematics.md
-      - Academic/Sciences.md
+      - Academic/Mother Tongue.md
       - Academic/Physical Education.md
+      - Academic/Sciences.md
       - "Academic/1: 1 Learning Programme.md"
       - Academic/Lessons and Assessment Schedules.md
-      - Academic/.keep
       - MGS Education Experience.md
       - Key Programmes/.keep
       - Key Programmes/Intergenerational Learning (IGL) @ MGS.md
