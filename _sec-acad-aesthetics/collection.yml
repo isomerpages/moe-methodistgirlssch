@@ -1,5 +1,5 @@
 collections:
-  secondary-academic-aesthetics:
+  sec-acad-aesthetics:
     output: true
     order:
       - Art.md
