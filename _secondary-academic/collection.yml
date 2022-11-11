@@ -1,4 +1,5 @@
 collections:
   secondary-academic:
     output: true
-    order: []
+    order:
+      - Lessons and Assessment Schedules.md
