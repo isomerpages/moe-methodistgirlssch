@@ -4,12 +4,8 @@ permalink: /primary/staff/teachers/primary-two/
 description: ""
 third_nav_title: Primary Staff
 ---
-<| Class | Form Teacher | | |
+| Class | Form Teacher | ||
 | -------- | -------- | -------- |-------- |
-|P2.1|[Mdm Xu Jing](xu_jing@schools.gov.sg)|[Ms Neo Shiwei](neo_shiwei@schools.gov.sg)| | |
-|P2.2|[Mrs Katherine Hah ](katherine_loi_huay_kiew@schools.gov.sg))|[Mrs Sim Jiayan](sim_jiayan@schools.gov.sg)| |
-|P1.3|[Mr Tan See Chow](tan_see_chow@schools.gov.sg) | [Ms Pu Lu](pu_lu@schools.gov.sg)|
-|P1.4| [Mrs Evelyn Ong ](tan_ee_ming_evelyn@schools.gov.sg) |[Mrs Sandy Lim](yu_pui_shan@schools.gov.sg)|
-|P1.5|[Mrs Michelle Sin](michelle_sin@schools.gov.sg) |[Mrs Eileen Ong](ngui_shu_may_eileen@schools.gov.sg)| [Mdm Lee Yu Ching ](lee_yu_ching_hephzibah@moe.edu.sg )
-|P1.6|[Mdm Siti Maisarah](siti_maisarah_mohamed_wafa@schools.gov.sg)|[Mdm Liu Biting](liu_biting@schools.gov.sg)|
-|P1.7|[Mrs Chris Lim](yap_lay_chin@schools.gov.sg)|[Ms Rebekah Foong ](foong_chen_kai_rebekah@schools.gov.sg)|
+|P2.1|[Mdm Xu Jing](xu_jing@schools.gov.sg)|[Ms Neo Shiwei](neo_shiwei@schools.gov.sg)|
+|P2.2|[Mrs Katherine Hah ](katherine_loi_huay_kiew@schools.gov.sg))|[Ms Tan May Lin](tan_may_lin@schools.gov.sg)|[Mrs Lily Pook](pook_lily@moe.edu.sg ) |
+|P2.1|[Mdm Xu Jing](xu_jing@schools.gov.sg)|[Ms Neo Shiwei](neo_shiwei@schools.gov.sg)|
