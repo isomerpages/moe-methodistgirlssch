@@ -2,6 +2,7 @@ collections:
   secondary-academic:
     output: true
     order:
+      - Humanities/Global Studies.md
       - Humanities/History.md
       - Humanities/.keep
       - Integrated Programme/Integrated Programme.md
