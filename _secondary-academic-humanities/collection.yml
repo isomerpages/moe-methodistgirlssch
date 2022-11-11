@@ -1,5 +1,5 @@
 collections:
-  sec-acad-humanities:
+  secondary-academic-humanities:
     output: true
     order:
       - Geography.md
