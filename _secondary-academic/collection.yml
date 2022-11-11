@@ -2,6 +2,7 @@ collections:
   secondary-academic:
     output: true
     order:
+      - MGS IP Curriculum Structure & Subject Options.md
       - Integrated Programme.md
       - History.md
       - Global Studies.md
