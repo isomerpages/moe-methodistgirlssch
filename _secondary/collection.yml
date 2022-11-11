@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - MGS Education Experience.md
-      - Academic/.keep
       - Key Programmes/.keep
       - Key Programmes/Intergenerational Learning (IGL) @ MGS.md
       - Key Programmes/Regional Youth Conference.md
