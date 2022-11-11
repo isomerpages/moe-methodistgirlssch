@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Aesthetics/.keep
-      - Aesthetics/Home Economics.md
       - Aesthetics/Music Elective Programme.md
       - Humanities/.keep
       - Humanities/History.md
