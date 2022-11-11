@@ -2,6 +2,7 @@ collections:
   secondary-academic:
     output: true
     order:
+      - Humanities.md
       - Language Arts.md
       - Mathematics.md
       - Mother Tongue.md
