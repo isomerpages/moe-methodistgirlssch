@@ -1,5 +1,5 @@
 collections:
-  sec-acad-ip:
+  secondary-academic-ip:
     output: true
     order:
       - Integrated Programme.md
