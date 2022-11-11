@@ -2,6 +2,7 @@ collections:
   secondary:
     output: true
     order:
+      - Physical Education.md
       - Sciences.md
       - Mathematics.md
       - Mother Tongue.md
