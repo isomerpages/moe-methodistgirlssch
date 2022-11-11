@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Aesthetics/.keep
-      - Aesthetics/Aesthetics.md
       - Aesthetics/Art.md
       - Aesthetics/Lower Secondary Music.md
       - Aesthetics/Home Economics.md
