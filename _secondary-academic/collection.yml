@@ -2,6 +2,7 @@ collections:
   secondary-academic:
     output: true
     order:
+      - Geography.md
       - Music Elective Programme.md
       - Lower Secondary Music.md
       - Home Economics.md
