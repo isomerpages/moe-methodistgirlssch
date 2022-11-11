@@ -2,25 +2,25 @@ collections:
   secondary-academic:
     output: true
     order:
+      - Aesthetics/.keep
       - Aesthetics/Aesthetics.md
       - Aesthetics/Art.md
       - Aesthetics/Home Economics.md
       - Aesthetics/Lower Secondary Music.md
       - Aesthetics/Music Elective Programme.md
-      - Aesthetics/.keep
+      - Computer Studies.md
+      - Humanities.md
+      - Humanities/.keep
       - Humanities/Geography.md
       - Humanities/Global Studies.md
       - Humanities/History.md
-      - Humanities/.keep
-      - Integrated Programme/Integrated Programme.md
-      - Integrated Programme/Curriculum Structure & Subject Options.md
-      - Integrated Programme/.keep
-      - Computer Studies.md
-      - Humanities.md
       - Language Arts.md
       - Mathematics.md
       - Mother Tongue.md
       - Physical Education.md
       - Sciences.md
+      - Integrated Programme/.keep
+      - Integrated Programme/Integrated Programme.md
+      - Integrated Programme/Curriculum Structure & Subject Options.md
       - "1: 1 Learning Programme.md"
       - Lessons and Assessment Schedules.md
