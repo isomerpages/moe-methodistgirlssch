@@ -128,15 +128,15 @@ Email: [sayguants@yahoo.com.sg](mailto:sayguants@yahoo.com.sg)
     </tr>
     <tr>
       <td class="tg-kw6s">&gt;12 – 14km</td>
-      <td class="tg-kw6s">240.75</td>
-      <td class="tg-kw6s">256.80</td>
-      <td class="tg-kw6s"> 252.00</td>
-      <td class="tg-kw6s">256.80</td>
+      <td class="tg-kw6s">274.40</td>
+      <td class="tg-kw6s">291.20</td>
+      <td class="tg-kw6s">274.40</td>
+      <td class="tg-kw6s">291.20</td>
       <td class="tg-x1qg"></td>
       <td class="tg-x1qg"></td>
     </tr>
     <tr>
-      <td class="tg-kw6s">&gt;12 – 14km</td>
+      <td class="tg-kw6s">&gt;14 – 16km</td>
       <td class="tg-kw6s">262.15</td>
       <td class="tg-kw6s">278.20</td>
       <td class="tg-kw6s">262.15</td>
@@ -146,19 +146,19 @@ Email: [sayguants@yahoo.com.sg](mailto:sayguants@yahoo.com.sg)
     </tr>
     <tr>
       <td class="tg-kw6s">&gt;14 – 16km</td>
-      <td class="tg-kw6s">283.55</td>
-      <td class="tg-kw6s">299.60</td>
-      <td class="tg-kw6s">283.55</td>
-      <td class="tg-kw6s">299.60</td>
+      <td class="tg-kw6s">296.80</td>
+      <td class="tg-kw6s">313.60</td>
+      <td class="tg-kw6s">296.80</td>
+      <td class="tg-kw6s">313.60</td>
       <td class="tg-x1qg"></td>
       <td class="tg-x1qg"></td>
     </tr>
     <tr>
       <td class="tg-kw6s">&gt;16 – 18km</td>
-      <td class="tg-kw6s">304.95</td>
-      <td class="tg-kw6s">321.00</td>
-      <td class="tg-kw6s">304.95</td>
-      <td class="tg-kw6s">321.00</td>
+      <td class="tg-kw6s">319.20</td>
+      <td class="tg-kw6s">336.00</td>
+      <td class="tg-kw6s">319.20</td>
+      <td class="tg-kw6s">336.00</td>
       <td class="tg-x1qg"></td>
       <td class="tg-x1qg"></td>
     </tr>
