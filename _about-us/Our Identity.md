@@ -102,7 +102,7 @@ Godliness, Excellence and Love
 
 
 **MOTTO**  <br>
-To Master, To Grow, To Serve
+To Master To Grow To Serve
 
 
 ### School Values
