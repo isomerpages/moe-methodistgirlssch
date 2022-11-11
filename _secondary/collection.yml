@@ -2,6 +2,7 @@ collections:
   secondary:
     output: true
     order:
+      - Academic/Aesthetics.md
       - Academic/Humanities.md
       - Academic/Academic.md
       - Academic/Computer Studies.md
