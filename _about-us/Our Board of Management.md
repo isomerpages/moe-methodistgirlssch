@@ -15,13 +15,11 @@ Mrs Charlotte Goh
 
 Mr Chew Kwee San
 
+Rev David Gwee
+
 Mr Eddie Koh
 
 Mr Gerald Lim
-
-Rev Dr Malcolm Tan
-
-Ms Shandini Dhanabalan
 
 Ms Sharmila Nair
 
