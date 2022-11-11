@@ -2,5 +2,6 @@ collections:
   sec-acad-humanities:
     output: true
     order:
+      - Global Studies.md
       - Geography.md
       - History.md
