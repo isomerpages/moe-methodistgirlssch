@@ -2,6 +2,7 @@ collections:
   secondary:
     output: true
     order:
+      - Academic/Lessons and Assessment Schedules.md
       - Academic/.keep
       - "1: 1 Learning Programme.md"
       - Physical Education.md
