@@ -2,6 +2,7 @@ collections:
   secondary-academic:
     output: true
     order:
+      - MGS Education Experience.md
       - Academic.md
       - Aesthetics/.keep
       - Aesthetics/Aesthetics.md
