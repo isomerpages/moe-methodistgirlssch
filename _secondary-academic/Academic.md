@@ -3,4 +3,4 @@ title: Academic
 permalink: /secondary-academic/academic/
 description: ""
 ---
-put in a para to describe (SB)
+![](/images/Others/Splash/pic-academic.jpg)
