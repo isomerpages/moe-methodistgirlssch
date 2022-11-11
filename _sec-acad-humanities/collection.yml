@@ -2,4 +2,5 @@ collections:
   sec-acad-humanities:
     output: true
     order:
+      - Geography.md
       - History.md
