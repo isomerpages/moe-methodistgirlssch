@@ -2,7 +2,6 @@ collections:
   secondary-academic:
     output: true
     order:
-      - Aesthetics/.keep
       - Humanities/.keep
       - Humanities/History.md
       - Humanities/Geography.md
