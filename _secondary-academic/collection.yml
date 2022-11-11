@@ -2,6 +2,7 @@ collections:
   secondary-academic:
     output: true
     order:
+      - Integrated Programme/Integrated Programme.md
       - Integrated Programme/Curriculum Structure & Subject Options.md
       - Integrated Programme/.keep
       - History.md
