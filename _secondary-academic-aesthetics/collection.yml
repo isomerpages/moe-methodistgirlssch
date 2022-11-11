@@ -2,7 +2,7 @@ collections:
   secondary-academic-aesthetics:
     output: true
     order:
-      - Music Elective Programme.md
+      - Art.md
       - Home Economics.md
       - Lower Secondary Music.md
-      - Art.md
+      - Music Elective Programme.md
