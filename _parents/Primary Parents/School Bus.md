@@ -4,8 +4,6 @@ permalink: /parents/Primary-Parents/school-bus/
 description: ""
 third_nav_title: Primary Parents
 ---
-
-
 ### School Bus Operator  
 
 
@@ -85,54 +83,54 @@ Email: [sayguants@yahoo.com.sg](mailto:sayguants@yahoo.com.sg)
   <tbody>
     <tr>
       <td class="tg-kw6s">Up to 2km</td>
-      <td class="tg-kw6s">128.40</td>
-      <td class="tg-kw6s">149.80</td>
-      <td class="tg-kw6s">128.40</td>
-      <td class="tg-kw6s">149.80</td>
+      <td class="tg-kw6s">134.40</td>
+      <td class="tg-kw6s">156.80</td>
+      <td class="tg-kw6s">134.40</td>
+      <td class="tg-kw6s">156.80</td>
       <td class="tg-x1qg"></td>
       <td class="tg-x1qg"></td>
     </tr>
     <tr>
       <td class="tg-kw6s">&gt;2 – 4km</td>
-      <td class="tg-kw6s">155.15</td>
-      <td class="tg-kw6s">171.20</td>
-      <td class="tg-kw6s">155.15</td>
-      <td class="tg-kw6s">171.20</td>
+      <td class="tg-kw6s">162.40</td>
+      <td class="tg-kw6s">179.20</td>
+      <td class="tg-kw6s">162.40</td>
+      <td class="tg-kw6s">179.20</td>
       <td class="tg-x1qg"></td>
       <td class="tg-x1qg"></td>
     </tr>
     <tr>
       <td class="tg-kw6s">&gt;4 – 6km</td>
-      <td class="tg-kw6s">176.55</td>
-      <td class="tg-kw6s">192.60</td>
-      <td class="tg-kw6s">176.55</td>
-      <td class="tg-kw6s">192.60</td>
-      <td class="tg-x1qg"></td>
-      <td class="tg-x1qg"></td>
-    </tr>
-    <tr>
-      <td class="tg-kw6s">&gt;6 – 8km</td>
-      <td class="tg-kw6s">197.95</td>
-      <td class="tg-kw6s">214.00</td>
-      <td class="tg-kw6s">197.95</td>
-      <td class="tg-kw6s">214.00</td>
+      <td class="tg-kw6s">184.80</td>
+      <td class="tg-kw6s">201.60</td>
+      <td class="tg-kw6s">184.80</td>
+      <td class="tg-kw6s">201.60</td>
       <td class="tg-x1qg"></td>
       <td class="tg-x1qg"></td>
     </tr>
     <tr>
       <td class="tg-kw6s">&gt;8 – 10km</td>
-      <td class="tg-kw6s">219.35</td>
-      <td class="tg-kw6s">235.40</td>
-      <td class="tg-kw6s">219.35</td>
-      <td class="tg-kw6s">235.40</td>
+      <td class="tg-kw6s">207.20</td>
+      <td class="tg-kw6s">224.00</td>
+      <td class="tg-kw6s">207.20</td>
+      <td class="tg-kw6s">224.00</td>
       <td class="tg-x1qg"></td>
       <td class="tg-x1qg"></td>
     </tr>
     <tr>
       <td class="tg-kw6s">&gt;10 – 12km</td>
+      <td class="tg-kw6s">252.00</td>
+      <td class="tg-kw6s">268.80</td>
+      <td class="tg-kw6s">252.00</td>
+      <td class="tg-kw6s">268.80</td>
+      <td class="tg-x1qg"></td>
+      <td class="tg-x1qg"></td>
+    </tr>
+    <tr>
+      <td class="tg-kw6s">&gt;12 – 14km</td>
       <td class="tg-kw6s">240.75</td>
       <td class="tg-kw6s">256.80</td>
-      <td class="tg-kw6s"> 240.75</td>
+      <td class="tg-kw6s"> 252.00</td>
       <td class="tg-kw6s">256.80</td>
       <td class="tg-x1qg"></td>
       <td class="tg-x1qg"></td>
