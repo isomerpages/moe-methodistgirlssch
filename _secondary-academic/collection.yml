@@ -2,4 +2,5 @@ collections:
   secondary-academic:
     output: true
     order:
+      - "1: 1 Learning Programme.md"
       - Lessons and Assessment Schedules.md
