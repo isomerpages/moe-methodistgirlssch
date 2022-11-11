@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Integrated Programme/.keep
-      - Curriculum Structure & Subject Options.md
       - Integrated Programme.md
       - History.md
       - Global Studies.md
