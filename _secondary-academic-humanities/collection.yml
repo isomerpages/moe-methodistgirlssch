@@ -2,6 +2,5 @@ collections:
   secondary-academic-humanities:
     output: true
     order:
-      - Geography.md
       - Global Studies.md
       - History.md
