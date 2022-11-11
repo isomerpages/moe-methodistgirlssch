@@ -2,4 +2,5 @@ collections:
   sec-acad-ip:
     output: true
     order:
+      - Integrated Programme.md
       - MGS IP Curriculum Structure & Subject Options.md
