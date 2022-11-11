@@ -1,4 +1,5 @@
 collections:
   secondary-academic-aesthetics:
     output: true
-    order: []
+    order:
+      - Art.md
