@@ -2,6 +2,7 @@ collections:
   secondary-academic:
     output: true
     order:
+      - Global Studies.md
       - Geography.md
       - Music Elective Programme.md
       - Lower Secondary Music.md
