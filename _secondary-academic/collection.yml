@@ -1,5 +1,4 @@
 collections:
   secondary-academic:
     output: true
-    order:
-      - Integrated Programme/.keep
+    order: []
