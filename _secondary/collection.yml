@@ -2,6 +2,7 @@ collections:
   secondary:
     output: true
     order:
+      - MGS Education Experience.md
       - Academic/.keep
       - Academic/Academic.md
       - Academic/Aesthetics.md
@@ -12,7 +13,6 @@ collections:
       - Academic/Mother Tongue.md
       - Academic/Physical Education.md
       - Academic/Sciences.md
-      - MGS Education Experience.md
       - Key Programmes/.keep
       - Key Programmes/Intergenerational Learning (IGL) @ MGS.md
       - Key Programmes/Regional Youth Conference.md
