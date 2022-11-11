@@ -2,6 +2,7 @@ collections:
   secondary:
     output: true
     order:
+      - Academic/Mother Tongue.md
       - Academic/Mathematics.md
       - Academic/Sciences.md
       - Academic/Physical Education.md
