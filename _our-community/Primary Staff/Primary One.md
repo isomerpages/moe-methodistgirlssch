@@ -4,8 +4,6 @@ permalink: /primary/staff/teachers/
 description: ""
 third_nav_title: Primary Staff
 ---
-
-
 | Class | Form Teacher | | |
 | -------- | -------- | -------- |-------- |
 |P1.1| [Mrs Evelyn Huang ](huang_yulin_evelyn@schools.gov.sg)| [Mdm Zhang Qiaoming](zhang_qiao_ming@schools.gov.sg) | [Mrs Magdalene Tan](Magdalene_kooi_kg@moe.edu.sg)
@@ -15,4 +13,3 @@ third_nav_title: Primary Staff
 |P1.5|[Mrs Michelle Sin](michelle_sin@schools.gov.sg) |[Mrs Eileen Ong](ngui_shu_may_eileen@schools.gov.sg)| [Mdm Lee Yu Ching ](lee_yu_ching_hephzibah@moe.edu.sg )
 |P1.6|[Mdm Siti Maisarah](siti_maisarah_mohamed_wafa@schools.gov.sg)|[Mdm Liu Biting](liu_biting@schools.gov.sg)|
 |P1.7|[Mrs Chris Lim](yap_lay_chin@schools.gov.sg)|[Ms Rebekah Foong ](foong_chen_kai_rebekah@schools.gov.sg)|
-
