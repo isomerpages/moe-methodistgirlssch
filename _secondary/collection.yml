@@ -2,6 +2,7 @@ collections:
   secondary:
     output: true
     order:
+      - Lessons and Assessment Schedules.md
       - "1: 1 Learning Programme.md"
       - Physical Education.md
       - Sciences.md
