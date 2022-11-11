@@ -2,6 +2,7 @@ collections:
   secondary-academic:
     output: true
     order:
+      - Humanities/Geography.md
       - Humanities/Global Studies.md
       - Humanities/History.md
       - Humanities/.keep
