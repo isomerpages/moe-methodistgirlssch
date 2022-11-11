@@ -1,5 +1,4 @@
 collections:
   secondary-academic-ip:
     output: true
-    order:
-      - MGS IP Curriculum Structure & Subject Options.md
+    order: []
