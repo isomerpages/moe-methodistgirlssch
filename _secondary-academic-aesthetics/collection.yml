@@ -2,4 +2,5 @@ collections:
   secondary-academic-aesthetics:
     output: true
     order:
+      - Lower Secondary Music.md
       - Art.md
