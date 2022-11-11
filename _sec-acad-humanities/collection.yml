@@ -1,4 +1,5 @@
 collections:
   sec-acad-humanities:
     output: true
-    order: []
+    order:
+      - History.md
