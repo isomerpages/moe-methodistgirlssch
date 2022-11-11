@@ -2,6 +2,7 @@ collections:
   secondary:
     output: true
     order:
+      - Academic/Mathematics.md
       - Academic/Sciences.md
       - Academic/Physical Education.md
       - "Academic/1: 1 Learning Programme.md"
