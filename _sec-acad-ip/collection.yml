@@ -1,4 +1,5 @@
 collections:
   sec-acad-ip:
     output: true
-    order: []
+    order:
+      - MGS IP Curriculum Structure & Subject Options.md
