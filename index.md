@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Others/Splash/pic-main3.jpg
+      background: /images/Common/pic-landing.jpg
       key_highlights:
         - title: Post-PSLE School Tours - MGS Welcomes You!
           description: Join us on Friday 25 Nov 2022
