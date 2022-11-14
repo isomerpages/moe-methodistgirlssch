@@ -4,7 +4,7 @@ permalink: /secondary/admissions/secondary-1-registration/
 description: ""
 third_nav_title: Secondary Admission
 ---
-![](/images/Others/Splash/pic-admissions-welcome-sec1.jpg)
+![](/images/Secondary/sec1-registration.jpg)
 
 Dear Parent/Guardian, 
 
