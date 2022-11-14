@@ -3,11 +3,7 @@ title: MOE Parent Kit
 permalink: /our-people/Parents/moe-parent-kit/
 description: ""
 ---
-
-
-
-
-<img src="/images/Others/parents-moe-parentkit.jpg" 
+<img src="/images/Common/logo-moe-parentkit.jpg" 
      style="width:40%;">
 
 Click here to access the [MOE Parent Kit](https://www.moe.gov.sg/parentkit?pt=Education%20Stages%C2%A0%C2%A0):
