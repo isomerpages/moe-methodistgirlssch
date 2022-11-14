@@ -4,7 +4,7 @@ permalink: /secondary/admissions/dsa-sec1/
 description: ""
 third_nav_title: Secondary Admission
 ---
-![](/images/Others/Splash/pic-dsa.jpg)
+![](/images/Highlights/pic-dsa.jpg)
 ## Outcome of DSA Application to MGS
 
 Dear Applicants,
