@@ -21,7 +21,7 @@ Students who require financial aid at any point of time may approach [student_a
 
 #### Income Criteria & Benefits
 
-From 1 April 2020 the revised benefits are as shown in the table below:
+From 1 Jan 2023 the revised benefits are as shown in the table below:
 
 <style type="text/css">
 .tg {
