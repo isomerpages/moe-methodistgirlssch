@@ -4,7 +4,7 @@ permalink: /Careers-at-MGS/
 description: ""
 third_nav_title: Careers at MGS
 ---
-![](/images/Others/Splash/pic-careers.jpg)
+![](/images/Common/careers.jpg)
 
 Keen to join the MGS Family? Join the family who believes firmly in a holistic education which grooms Godly Women of Excellence with a Heart of Love.
 
