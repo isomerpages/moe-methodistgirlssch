@@ -6,9 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-
-
-![](/images/Others/Splash/pic-admissions-welcome-sec1.jpg)
+![](/images/Secondary/sec1-registration.jpg)
 
 Soar with us as we [showcase](https://www.mgsopenhouse.com/) the distinctive MGS education experience and special programmes to nurture the MGS girl "**To Master, To Grow, To Serve** in every phase of her life.”   
 
