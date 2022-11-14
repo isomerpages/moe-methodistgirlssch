@@ -44,7 +44,7 @@ People and the Community
 * Art Writing  
 * 2D Design  
 * Painting  
-* 3D Design  
+* 3D Design 
   
 
 **Secondary 3 / Year 3**
@@ -70,89 +70,44 @@ People and the Community
 
 Comprises individual and group term projects and time-based examinations
 
-<table class="ive_eobj_center iveo_table ives_tab_simple3" style="width: 100%;">
+<table width="100%" style="width: 100%;">
   <tbody>
     <tr>
-      <th style="width: 74px;">
-        <br>
+      <th width="8%"> <br>
       </th>
-      <th style="width: 121px;">Sec/ Year 1
-      </th>
-      <th style="width: 154px;">Sec/ Year 2
-      </th>
-      <th style="width: 196px;">Sec/ Year 3
-      </th>
-      <th style="width: 203px;">Sec/ Year 4
-      </th>
+      <th width="23%">Sec/ Year 1 </th>
+      <th width="23%">Sec/ Year 2 </th>
+      <th width="23%">Sec/ Year 3 </th>
+      <th width="23%">Sec/ Year 4 </th>
     </tr>
     <tr>
-      <td style="width: 60px;">
-        <b>Term 1
-        </b>
-      </td>
-      <td style="width: 60px;">10%
-      </td>
-      <td style="width: 60px;">20%
-      </td>
-      <td style="width: 60px;">10%
-        <br>Artist Response Portfolio
-      </td>
-      <td rowspan="2" style="width: 60px;">30%
-        <span style="color: rgb(61, 61, 61);">
-          <br>Preparatory Studies (Term 1-2)
-        </span>
-        <br>      &nbsp;-
-      </td>
+      <td width="8%"><b>Term 1 </b></td>
+      <td width="23%">-</td>
+      <td width="23%">-</td>
+      <td width="23%">-</td>
+      <td width="23%">30%  Preparatory Studies (Term 1-2)   - </td>
     </tr>
     <tr>
-      <td>
-        <b>Term 2
-        </b>
-      </td>
-      <td>&nbsp;50%
-      </td>
-      <td>&nbsp;40%
-      </td>
-      <td>&nbsp;10%
-        <br>Research Presentation
-        <br>
-      </td>
+      <td width="8%"><b>Term 2 </b></td>
+      <td width="23%">60% </td>
+      <td width="23%">60% </td>
+      <td width="23%">Research Presentation (5%) <br>
+        Artist Response Portfolio (10%) </td>
     </tr>
     <tr>
-      <td>
-        <b>Term 3
-        </b>
-      </td>
-      <td>&nbsp;40%
-      </td>
-      <td>&nbsp;40%
-      </td>
-      <td>&nbsp;10%
-        <br>Coursework
-        <br>
-      </td>
-      <td>70%
-        <br>Preliminary Examination
-      </td>
+      <td width="8%"><b>Term 3 </b></td>
+      <td width="23%">40% </td>
+      <td width="23%">40% </td>
+      <td width="23%">Applied Arts Journey (15%)<br></td>
+      <td width="23%">70% <br>
+        Preliminary Examination </td>
     </tr>
     <tr>
-      <td style="width: 60px;">
-        <b>Term 4
-        </b>
-      </td>
-      <td style="width: 60px;">
-        -
-      </td>
-      <td style="width: 60px;">
-        -
-      </td>
-      <td style="width: 60px;">70%
-        <br>End-Year Examination
-        <br>
-      </td>
-      <td style="width: 60px;">
-        -
-      </td>
+      <td width="8%"><b>Term 4 </b></td>
+      <td width="23%"> - </td>
+      <td width="23%"> - </td>
+      <td width="23%">Visual Journal (10%)<br></td>
+      <td width="23%"> - </td>
     </tr>
   </tbody>
 </table>
