@@ -3,7 +3,7 @@ title: Letters to Parents
 permalink: /community/parents/letterstoparents/
 description: ""
 ---
-<img src="/images/Highlights/letters-to-parents.jpg" style="width:50%">
+![](/images/Highlights/letters-to-parents.jpg)
 
 [Primary School](https://drive.google.com/drive/folders/1unqyO3EaoYTibKifTGNK41Jwuar38NVO?usp=sharing)
 
