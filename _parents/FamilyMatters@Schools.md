@@ -3,7 +3,8 @@ title: FamilyMatters@Schools
 permalink: /our-people/Parents/familymatters/
 description: ""
 ---
-![](/images/Others/parents-family-matters.jpg)
+<img src="/images/Common/logo-family-matters.jpg" 
+     style="width:60%">
 
 # Introduction
 
