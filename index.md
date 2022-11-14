@@ -24,7 +24,7 @@ sections:
       description: Outcome for Direct School Admission for Secondary One
       button: More information
       url: https://staging.dt6ildc2mnegy.amplifyapp.com/secondary/admissions/dsa-sec1/
-      image: /images/Others/Splash/pic-dsa.jpg
+      image: /images/Highlights/pic-dsa.jpg
       alt: 4 sec students
   - infopic:
       title: Letters to Parents
