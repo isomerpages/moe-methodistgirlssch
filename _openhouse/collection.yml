@@ -2,7 +2,7 @@ collections:
   openhouse:
     output: true
     order:
-      - Openhouse.md
+      - Open House.md
       - DSA Talent Areas.md
       - Student Voices.md
       - FAQs.md
