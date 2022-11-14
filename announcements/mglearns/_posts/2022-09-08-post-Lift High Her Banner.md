@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-![](/images/Announcements/2022/mgl-lhhb.jpg)
+![](/images/Highlights/2022/mgl-lhhb.jpg)
 
 **By Laura Lang (3R, 2022)**
 
