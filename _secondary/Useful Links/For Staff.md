@@ -16,20 +16,32 @@ third_nav_title: Useful Links
 
 ## MOE Links
 
-*   [MOE](http://www.moe.gov.sg/)
+* [MOE](http://www.moe.gov.sg/)
 
-*   [iCONnect](https://icon.moe.edu.sg/)
+* [Parents Gateway](https://pg.moe.edu.sg/)  
 
-*   [Parents Gateway](https://pg.moe.edu.sg/)  
+* [SC:Mobile](https://scmobile.moe.edu.sg/login)
 
-*   [SC:Mobile](https://scmobile.moe.edu.sg/login)
+* [OPAL 2.0](https://idm.opal2.moe.edu.sg/account/login?returnUrl=%2F)
 
-*   [OPAL 2.0](https://idm.opal2.moe.edu.sg/account/login?returnUrl=%2F)
+* [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)
+
+* [MIMS Portal](https://idp.mims.moe.gov.sg/nidp/saml2/sso)
+
+* [All Ears Form Builders](https://forms.moe.edu.sg/)
+
+
 
 ### Requires SSOE notebooks
 
 * [CES mail](https://mail.schools.gov.sg/)
+
 * [HRMS](http://mgss-hrmssrv01.mgss.edu.sg/FeHR_MGS/eHR/eHRDefault.aspx) 
+
 * [MGS B2P](http://mgss-procsrv01.mgss.edu.sg/login)
+
 * [MOE Intranet](https://intranet.moe.gov.sg/Pages/Home.aspx)  
-* [School Cockpit](https://schoolcockpit.moe.edu.sg/)
+
+* [School Cockpit](https://schoolcockpit.moe.gov.sg/)
+
+* [iEXAMS2](https://iexams.seab.gov.sg/)
