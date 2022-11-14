@@ -6,7 +6,7 @@ third_nav_title: Useful Links
 ---
 ## MGS Links
 
-*   [ACE-Learning](https://www.ace-learning.com.sg/sys/index.html)   [(Secondary School)](https://www.ace-learning.com.sg/sys/index.html)
+*   [ACE-Learning](https://www.ace-learning.com.sg/sys/index.html)
 
 *   [MGS Library Google Site](https://sites.google.com/mgs.sch.edu.sg/mgslibrary/home?authuser=0)
 
@@ -16,20 +16,19 @@ third_nav_title: Useful Links
 
 ## MOE Links
 
+* [All Ears Form Builders](https://forms.moe.edu.sg/)
+
+* [MIMS Portal](https://idp.mims.moe.gov.sg/nidp/saml2/sso)
+
 * [MOE](http://www.moe.gov.sg/)
 
+* [OPAL 2.0](https://idm.opal2.moe.edu.sg/account/login?returnUrl=%2F)
+ 
 * [Parents Gateway](https://pg.moe.edu.sg/)  
 
 * [SC:Mobile](https://scmobile.moe.edu.sg/login)
 
-* [OPAL 2.0](https://idm.opal2.moe.edu.sg/account/login?returnUrl=%2F)
-
 * [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)
-
-* [MIMS Portal](https://idp.mims.moe.gov.sg/nidp/saml2/sso)
-
-* [All Ears Form Builders](https://forms.moe.edu.sg/)
-
 
 
 ### Requires SSOE notebooks
@@ -38,10 +37,10 @@ third_nav_title: Useful Links
 
 * [HRMS](http://mgss-hrmssrv01.mgss.edu.sg/FeHR_MGS/eHR/eHRDefault.aspx) 
 
+* [iEXAMS2](https://iexams.seab.gov.sg/)
+
 * [MGS B2P](http://mgss-procsrv01.mgss.edu.sg/login)
 
 * [MOE Intranet](https://intranet.moe.gov.sg/Pages/Home.aspx)  
 
 * [School Cockpit](https://schoolcockpit.moe.gov.sg/)
-
-* [iEXAMS2](https://iexams.seab.gov.sg/)
