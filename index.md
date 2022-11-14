@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/Others/Splash/pic-main3.jpg
       key_highlights:
-        - title: MGS Welcomes You!
+        - title: Post-PSLE School Tours - MGS Welcomes You!
           description: Join us on Friday 25 Nov 2022
           url: /announcements/events/mgs-welcomes-you/
         - title: Direct School Admission Into MGS Secondary One In 2023
