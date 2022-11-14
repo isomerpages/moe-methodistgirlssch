@@ -37,8 +37,8 @@ MGS invites Primary 6 students to participate in this year’s DSA exercise. As 
 
 ## Download:
 
-1. [MGS DSA Talent Areas and Key Dates 2022](/files/Secondary/MGS%20DSA%20Talent%20Areas%20and%20Key%20Dates%202022.pdf)
-2. [MGS DSA Selection Criteria and Process (revised 20 May)](/files/Secondary/MGS%20DSA%20Selection%20Criteria%20and%20Process%20_%20revised%2020%20May.pdf)
+1. [MGS DSA Talent Areas and Key Dates 2022](https://drive.google.com/file/d/1kOwRU39VcmUbbSVGIF-5Ozz_is23e4CG/view?usp=share_link)
+2. [MGS DSA Selection Criteria and Process (revised 20 May)](https://drive.google.com/file/d/1oogdwojAgtRAdUi6GWAd7w8x4X17bQ37/view?usp=share_link)
 
 
 ## Brochures:
