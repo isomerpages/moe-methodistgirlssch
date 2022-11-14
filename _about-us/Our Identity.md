@@ -260,33 +260,33 @@ The MGS House system was first formed in 1932, with four houses named after Meth
 
 ### About The Four Houses
 
-![Photograph of 4 MGS house leaders holding their house flags](/images/Common/mgs-houses-stds.jpg)
+![](/images/Common/houses-sec.jpg)
 
 <table width="100%" border="0" cellpadding="3" cellspacing="0" >
   <tr>
-    <td width="30%" align="left" valign="middle"><img src="/images/Common/mgs-houses-blackmore.jpg" alt="MGS Blackmore House"
+    <td width="30%" align="left" valign="middle"><img src="/images/Common/logo-houses-blackmore.jpg" alt="MGS Blackmore House"
      style="padding:0px 0px 0px 7px; width:90%;"></td>
     <td width="70%"><p><b> BLACKMORE</b></p>
       Blackmore House was named after Miss Sophia Blackmore, founder of MGS and principal from 1887 to 1892. Miss Blackmore was born in 1857 in New South Wales, Australia, and was the first female missionary sent to Singapore by the Methodist Women’s Foreign Missionary Society in 1887. She pioneered education for girls in Singapore, and established two schools, a church and the Nind Home boarding school for girls, which was located at Mount Sophia.</td>
   </tr>
   <tr>
-    <td width="30%" align="left" valign="middle"><img src="/images/Common/mgs-houses-olson.jpg" alt="MGS Olson House"
+    <td width="30%" align="left" valign="middle"><img src="/images/Common/logo-houses-olson.jpg" alt="MGS Olson House"
      style="padding:0px 0px 0px 7px; width:90%;"></td>
     <td width="70%"><p><b>OLSON</b></p>
       Olson House was named after Miss Mary Olson, who was the principal of both MGS and Fairfield Methodist School from 1905 to 1910. Miss Olson resumed the principalship of MGS from 1926 to 1930. In 1925, MGS moved from Short Street to Mount Sophia where the Olson Building, officially opened by Miss Olson in 1928, still resides today as a conserved heritage site.</td>
   </tr>
   <tr>
-    <td width="30%" align="left" valign="middle"><img src="/images/Common/mgs-houses-lee.jpg" alt="MGS Lee House"
+    <td width="30%" align="left" valign="middle"><img src="/images/Common/logo-houses-lee.jpg" alt="MGS Lee House"
      style="padding:0px 0px 0px 7px; width:90%;"></td>
     <td width="70%"><p><b>LEE</b></p>
       Lee House was named after Edwin Ferdinand Lee, who was elected Missionary Bishop of the Methodist Episcopal Church and The Methodist Church in 1928. Prior to that, he was Pastor of the Wesley Church of Singapore, Straits Settlements, and the Superintendent of the Singapore District of the M.E. Church (1924–28). Beyond Singapore, Bishop Lee’s episcopal leadership spanned Malaysia and the Philippines. </td>
   </tr>
   <tr>
-    <td width="30%" align="left" valign="middle"><img src="/images/Common/mgs-houses-jackson.jpg" alt="MGS Jackson House"
+    <td width="30%" align="left" valign="middle"><img src="/images/Common/logo-houses-jackson.jpg" alt="MGS Jackson House"
      style="padding:0px 0px 0px 7px; width:90%;"></td>
     <td width="70%"><p><b>JACKSON</b></p>
       Jackson House was named after Miss Catherine Jackson, who served as principal of MGS in 1920 & 1931. Miss Jackson served as a Methodist missionary on the Malay Peninsula for 36 years, and was among the Methodist missionaries who chose to stay behind in Singapore during the Japanese Occupation from 1942 to 1945. She passed away in 1944 while interned in a Japanese prison camp. </td>
   </tr>
 </table>
 
-![](/images/Primary/pic-houses-pri.jpg)
+![](/images/Common/houses-pri.jpg)
