@@ -4,17 +4,9 @@ permalink: /secondary/academic/aesthetics/food-consumer-education/
 description: ""
 third_nav_title: Aesthetics
 ---
-
-
-
-
-
-
-
-
 ### Aims and Objectives
 
-The Home Economics (HE) Programme at MGS aims to equip our students with the knowledge and skills for independent living in the 21st century. The lifeskills acquired through the HE programme will enable them to think critically and make informed decisions for healthy and responsible living.  Students are provided the learning opportunities in applying the basic principles of
+The Food and Consumer Education Programme at MGS aims to equip our students with the knowledge and skills for independent living in the 21st century. The lifeskills acquired through the Food and Consumer Education programme will enable them to think critically and make informed decisions for healthy and responsible living.  Students are provided the learning opportunities in applying the basic principles of
 
 (i)   Nutrition and food management for planning a meal and for food preparation
 
@@ -22,9 +14,10 @@ The Home Economics (HE) Programme at MGS aims to equip our students with the kno
 
 (iii) Consumer Education for making informed choices.
 
+
 ### Programme Structure
 
-The Home Economics programme is offered to the Lower Secondary Level in MGS.
+The Food and Consumer Education programme is offered to the Lower Secondary Level in MGS.
 
 <style type="text/css">
 .tg {
@@ -120,7 +113,7 @@ The Home Economics programme is offered to the Lower Secondary Level in MGS.
   </tbody>
 </table>
 
-### Lower Secondary Home Economics Curriculum
+### Lower Secondary Curriculum
 
 **Secondary One**
 
