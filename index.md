@@ -2,7 +2,7 @@
 layout: homepage
 title: Methodist Girls' School
 description: An Isomer site of the Singapore Government
-image: /images/Others/logo-mgs.png
+image: /images/Common/logo-mgs.png
 permalink: /
 notification: ""
 sections:
@@ -33,3 +33,4 @@ sections:
       image: /images/Highlights/letters-to-parents.jpg
       alt: letter to parents
 ---
+
