@@ -11,7 +11,7 @@ image: ""
 On Teachers’ Day, the entire primary cohort gathered together at the Indoor Sports Hall and we had a whale of a time. With the theme, “A Day in the Life of an MGS girl”, we kicked off the celebration with a “PE lesson” organised by the House Leaders. We then returned to our respective classrooms, where we had recess as a class and our Student Leaders conducted “lessons” for our teachers. As Prefects planning the celebrations, we had hoped for our teachers to experience what we usually go through on a regular school day - the fun and meaningful lessons. We wanted to show our appreciation to the teachers who have helped us come so far. Through this experience, we learnt to better communicate with our new Prefects and House Leaders, while leading the P3 to 6 class leaders to execute the “lessons” as well. All in all, this was a very unforgettable experience and a very good learning experience for all of us.
 
 
-![](/images/Announcements/2022/mgs-teachers-day.png)
+![](/images/Highlights/2022/mgs-teachers-day.png)
 
 
 **By: Grace Chan (3R)**
