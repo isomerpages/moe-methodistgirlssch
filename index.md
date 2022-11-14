@@ -30,6 +30,6 @@ sections:
       title: Letters to Parents
       button: More Information
       url: /community/parents/letterstoparents/
-      image: /images/Announcements/btn-letterstoparents.jpg
+      image: /images/Highlights/letters-to-parents.jpg
       alt: letter to parents
 ---
