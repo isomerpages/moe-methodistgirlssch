@@ -51,7 +51,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.dt6ildc2mnegy.amplifyapp.com
 prod: https://master.dt6ildc2mnegy.amplifyapp.com
-shareicon: /images/Others/logo-mgs.png
+shareicon: /images/Common/logo-mgs.png
 is_government: false
 facebook-pixel: ""
 google_analytics: ""
