@@ -53,6 +53,16 @@ The values of the award are as follows:
 *   $500 for Secondary/specialised schools
 
 
+### Edusave Award for Achievement, Good Leadership and Service (EAGLES)
+
+To recognise up to 10% of students who have demonstrated leadership qualities, service to community and schools, excellence in non-academic activities, and good conduct.
+
+The values of the award are as follows:
+
+*   $250 for Primary 4 to 6
+*   $350 for Secondary 1 to 5
+
+
 ### Edusave Character Award (ECHA) 
 
 To recognise up to 2% of students who have demonstrated exemplary character and outstanding personal qualities through their behaviour and actions.
@@ -62,16 +72,6 @@ The values of the award are as follows:
 *   $200 for Primary 1 to 3
 *   $350 for Primary 4 to 6
 *   $500 for Secondary 1 to 5
-
-
-### Edusave Award for Achievement, Good Leadership and Service (EAGLES)
-
-To recognise up to 10% of students who have demonstrated leadership qualities, service to community and schools, excellence in non-academic activities, and good conduct.
-
-The values of the award are as follows:
-
-*   $250 for Primary 4 to 6
-*   $350 for Secondary 1 to 5
 
 
 ### Edusave Merit Bursary (EMB)
