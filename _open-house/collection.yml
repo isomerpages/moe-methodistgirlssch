@@ -2,6 +2,7 @@ collections:
   open-house:
     output: true
     order:
+      - Principal's Welcome Message.md
       - Open House.md
       - DSA Talent Areas.md
       - Student Voices.md
