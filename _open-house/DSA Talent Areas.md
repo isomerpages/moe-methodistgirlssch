@@ -3,6 +3,15 @@ title: DSA Talent Areas
 permalink: /openhouse/dsa-talent-areas/
 description: ""
 ---
+<div style="width:100%; height:400px">
+  <iframe class="ive_eobj_center" allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/jUfBPDKm2z4" height="100%" width="100%">
+  </iframe>
+</div>
+
+#### By Mrs Corinne Sim, Vice-Principal
+Find out more about MGS DSA Talent Areas, our criteria for admissions and the application process for both IP and O-Level Track.
+
+
 ## IP and O-Level Track
 
 ### STEM / EL
