@@ -73,11 +73,12 @@ Each year, the CCA visits the Methodist Welfare Services Nursing Home at Yew Tee
   <thead>
     <tr>
       <th class="tr-header">Leadership Opportunities</th>
-      <td class="tr-norm">Chairman<br>
-        Head of Worship Committee<br>
-        Head of Creative Committee<br>
-        Head of Hospitality Committee<br>
-        Head of Events Committee 
+      <td class="tr-norm">Chairman
+          <br>President
+          <br>Vice President
+          <br>Head of Praise and Worship Committee
+          <br>Head of Publicity Committee
+          <br>Head of Programme Committee
 				</td>
     </tr>
   </thead>
@@ -85,8 +86,8 @@ Each year, the CCA visits the Methodist Welfare Services Nursing Home at Yew Tee
     <tr>
       <th class="tr-header">CCA Schedule</th>
       <td class="tr-norm">Day: Wednesday<br>
-        Time: 3.00pm to 5.00pm<br>
-        Venue: Think Tank</td>
+        Time: 3.00pm to 5.30pm<br>
+        Venue: Teaching Lab (L1 Sports Complex)</td>
     </tr>
   </tbody>
 </table>
