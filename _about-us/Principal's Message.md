@@ -3,8 +3,7 @@ title: Principal's Message
 permalink: /about-us/principals-message/
 description: ""
 ---
-<img src="/images/Common/sl-vwilson2.jpg" 
-     style="width:30%">
+<img style="width:30%" align="right" src="/images/Common/sl-vwilson2.jpg">
 
 At MGS, our students experience a distinctive heritage that has nurtured generations of Godly women of Excellence with a heart of Love since the school’s establishment in 1887.
 
