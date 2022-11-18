@@ -4,78 +4,77 @@ permalink: /secondary/staff/executive-n-administrative-staff/
 description: ""
 third_nav_title: Secondary Staff
 ---
+### **ADMINISTRATIVE OFFICE**
 
+Manager: [Ms Sharon Yeo](mailto:Sharon_yeo_a@schools.gov.sg)  
+Senior Executive: Ms Ho Wai Fun  
+Senior Executive (Procurement): Ms Ruth Chng  
+Executive (Procurement) : Mdm Sulaigal  
+Senior Officer: Ms Esvary  
 
+### **CORPORATE COMMUNICATIONS & OUTREACH**
 
-### ADMINISTRATIVE OFFICE
+Director: [Mrs Joyce Ang](mailto:joyce_ang_a@schools.gov.sg)  
+Senior Manager: [Mrs Sue-Mei Tay](mailto:tay_sue-mei@schools.gov.sg)  
+Senior Executive: Mrs Michelle Lim  
+Executive: Mrs Joanna Kong  
 
-Manager: [Ms Sharon Yeo](mailto:Sharon_yeo_a@schools.gov.sg)  <br>
-Senior Executive: Ms Ho Wai Fun <br>
-Senior Executive (Procurement): Ms Ruth Chng  <br>
-Assistant Executive (Procurement) : Mdm Sulaigal <br>  Senior Officer: Ms Esvary
+### **COUNSELLING**
 
-### CORPORATE COMMUNICATIONS & OUTREACH
-
-Director: [Mrs Joyce Ang](mailto:joyce_ang_a@schools.gov.sg)  <br>
-Senior Manager: [Mrs Sue-Mei Tay](mailto:tay_sue-mei@schools.gov.sg)  <br>
-Senior Executive: Mrs Michelle Lim  <br>
-Executive: Mrs Joanna Kong
-
-### COUNSELLING
-
-Education and Career Guidance (ECG) Counsellor: [Ms Sylvia Ng](mailto:sylvia_ng_pik_san@schools.gov.sg)  <br>
-Education and Career Guidance (ECG) Counsellor: [Dr Tan Lay Theng](mailto:tan_lay_theng@schools.gov.sg)  <br>
-Learning and Behavioural Support: [Ms Nimala](mailto:Nimala_Mokhna_Rau@schools.gov.sg)  <br>
+Education and Career Guidance (ECG) Counsellor: [Ms Sylvia Ng](mailto:sylvia_ng_pik_san@schools.gov.sg)  
+Education and Career Guidance (ECG) Counsellor: [Dr Tan Lay Theng](mailto:tan_lay_theng@schools.gov.sg)  
+Learning and Behavioural Support: [Ms Nimala](mailto:Nimala_Mokhna_Rau@schools.gov.sg)  
 School Counselor: [Ms Goh Chor Siang](mailto:goh_chor_siang@schools.gov.sg)  
 
-### CHRISTIAN MINISTRY
+### **CHRISTIAN MINISTRY**
 
 Christian Ministry Staff: [Ms Jenny Koh](mailto:jenny_koh@mgs.sch.edu.sg)  
 
-### FINANCE OFFICE
+### **FINANCE OFFICE**
 
-Director: [Ms Cheryl Chan](mailto:cheryl_chan_hp@schools.gov.sg)  <br>
-Manager:  [Ms Teoh Ling Hui](mailto:teoh_ling_hui@schools.gov.sg)  <br>
-Executive: Ms Charyl Lee  <br>
-Executive: Ms Janice Teo  
+Director: [Ms Cheryl Chan](mailto:cheryl_chan_hp@schools.gov.sg)  
+Manager:  [Ms Teoh Ling Hui](mailto:teoh_ling_hui@schools.gov.sg)  
+Senior Executive: Ms Charyl Lee  
+Senior Executive: Ms Janice Teo  
 
 ### HUMAN RESOURCE OFFICE
 
-Senior Manager:  [Ms Yong Sheue Horng](mailto:yong_sheue_horng@schools.gov.sg)  <br>
+Senior Manager:  [Ms Yong Sheue Horng](mailto:yong_sheue_horng@schools.gov.sg)  
 Senior Executive: Ms Hazel Yeow  
 
-### INFORMATION TECHNOLOGY DEPARTMENT
+### **INFORMATION TECHNOLOGY DEPARTMENT**
 
-Manager:  [Mr Edmund Wong](mailto:edmund_wong@schools.gov.sg)  <br>
-Senior Executive: Mr David Quah  <br>
-Assistant Executive: Mr Siva Chandran  <br>
+Manager:  [Mr Edmund Wong](mailto:edmund_wong@schools.gov.sg)  
+Senior Executive: Mr David Quah  
+Senior Executive: Mr Siva Chandran  
 Desktop Engineer: Mr Zakery Lee 
 
-### LIBRARY
+### **LIBRARY**
 
 Librarian: Ms Zainap Bte Abdul Majid  
 
-### MAINTENANCE AND TECHNICAL DEPARTMENT
+### **MAINTENANCE AND TECHNICAL DEPARTMENT**
 
-Manager:  [Mr Lawrence Jeremiah](mailto:Lawrence_Jeremiah@schools.gov.sg)  <br>
-Senior Executive: Mr Henry Liow  <br>
-Assistant Executive: Mr Khairulanwar Bin Mahad  <br>
+Manager:  [Mr Lawrence Jeremiah](mailto:Lawrence_Jeremiah@schools.gov.sg)  
+Senior Executive: Mr Henry Liow  
+Assistant Executive: Mr Khairulanwar Bin Mahad  
 Operations Support Officer: Mr Chan Keng Seng
 
-### OPERATIONS OFFICE
+### **OPERATIONS OFFICE**
 
-Manager: [Mr Muhammad Asdy Bin Rusdy](mailto:muhammad_asdy_rusdi@schools.gov.sg)  <br>
+Manager: [Mr Muhammad Asdy Bin Rusdy](mailto:muhammad_asdy_rusdi@schools.gov.sg)  
+Manager: [Mr George Arriola](mailto:George_Ulric_Arriola@schools.gov.sg)  
 Assistant and Security Officer: Mdm Vimala  
 
-### SCIENCE LABORATORY
+### **SCIENCE LABORATORY**
 
-Senior Executive: Mdm Loh Yen Nee  <br>
-Executive: Ms Caren Ng  <br>
-Assistant Executive: Ms Sally Lee  <br>
+Senior Executive: Mdm Loh Yen Nee  
+Executive: Ms Caren Ng  
+Assistant Executive: Ms Sally Lee  
 Senior Officer: Mr Chong Tze Yuen  
 
-### TEACHERS' SUPPORT
+### **TEACHERS' SUPPORT**
 
-Executive: Ms Irene Chua  <br>
-Executive: Ms Lim Aik Wang  <br>
+Executive: Ms Irene Chua  
+Executive: Ms Lim Aik Wang  
 Executive: Mrs Pauline Yong
