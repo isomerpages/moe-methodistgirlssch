@@ -61,48 +61,61 @@ The MGS Physical Education Department strives to develop our pupil’s physical,
   <tbody>
     <tr>
       <td width="12%" class="tr-header">SEC 1</td>
-      <td width="22%" class="tr-norm"><p>Track &amp; Field (Wk 2-4) </p>
-        <p>Gymnastics (Wk 5-10)</p></td>
-      <td width="22%" class="tr-norm"><p>Phys. Conditioning (Wk 1-4) </p>
-        <p>PFT &amp; Retest (Wk 5-6) </p>
-        <p>Gym Performance (Wk 7-9)</p></td>
-      <td width="22%" class="tr-norm"><p>Gym Routine Viewing &amp; Swim PE Briefing (Wk 1) </p>
-        <p>Team Building/Rugged Activities (Wk 2-3) </p>
-        <p>Swimming (Wk 4-10)</p></td>
+      <td width="22%" class="tr-norm">Track &amp; Field (Wk 2-4)<br>
+      <br>        Gymnastics (Wk 5-10)</td>
+      <td width="22%" class="tr-norm">Phys. Conditioning (Wk 1-4)        <br>
+        <br>
+      PFT &amp; Retest (Wk 5-6)<br>
+      <br>      Gym Performance (Wk 7-9)</td>
+      <td width="22%" class="tr-norm">Gym Routine Viewing &amp; Swim PE Briefing (Wk 1)        <br>
+        <br>
+      Team Building/Rugged Activities (Wk 2-3)        <br>
+      <br>
+      Swimming (Wk 4-10)</td>
       <td width="22%" class="tr-norm">Swimming (Wk 1-3)</td>
     </tr>
     <tr>
       <td width="12%" class="tr-header">SEC 2</td>
-      <td width="22%" class="tr-norm"><p>T &amp; F (Wk 2-5) </p>
-        <p>Module 1 (Wk 6-10)</p></td>
-      <td width="22%" class="tr-norm"><p>Phys. Conditioning (Wk 1-4) </p>
-        <p>PFT &amp; Retest (Wk 5-6) </p>
-        <p>Module 2 (Wk 7-9)</p></td>
-      <td width="22%" class="tr-norm"><p>Module 3 (Wk 1-5) </p>
-        <p>Module 4 (Wk 6-10)</p></td>
+      <td width="22%" class="tr-norm">T &amp; F (Wk 2-5)        <br>
+        <br>
+      Module 1 (Wk 6-10)</td>
+      <td width="22%" class="tr-norm">Phys. Conditioning (Wk 1-4)        <br>
+        <br>
+      PFT &amp; Retest (Wk 5-6)<br>
+      <br>      Module 2 (Wk 7-9)</td>
+      <td width="22%" class="tr-norm">Module 3 (Wk 1-5)        <br>
+        <br>
+      Module 4 (Wk 6-10)</td>
       <td width="22%" class="tr-norm">Module 5 (Wk 1-4)</td>
     </tr>
     <tr>
       <td width="12%" class="tr-header">SEC 3</td>
-      <td width="22%" class="tr-norm"><p>Track &amp; Field (Wk 2-5) </p>
-        <p>Choice Module 1 (Wk 6-10)</p></td>
-      <td width="22%" class="tr-norm"><p>Phys. Conditioning (Wk 1-4) </p>
-        <p>PFT &amp; Retest (Wk 5-6) </p>
-        <p>Core Module 1 (Wk 7-9)</p></td>
-      <td width="22%" class="tr-norm"><p>Choice Module 3 (Wk 1-5) </p>
-        <p>Choice Module 4 (Wk 6-10)</p></td>
+      <td width="22%" class="tr-norm">Track &amp; Field (Wk 2-5)<br>
+      <br>        Choice Module 1 (Wk 6-10)</td>
+      <td width="22%" class="tr-norm">Phys. Conditioning (Wk 1-4)        <br>
+        <br>
+      PFT &amp; Retest (Wk 5-6)<br>
+<br>
+      Core Module 1 (Wk 7-9)</td>
+      <td width="22%" class="tr-norm">Choice Module 3 (Wk 1-5)        <br>
+        <br>
+      Choice Module 4 (Wk 6-10)</td>
       <td width="22%" class="tr-norm">Core Module 2 (Wk 1-4)</td>
     </tr>
     <tr>
       <td width="12%" class="tr-header">SEC 4</td>
-      <td width="22%" class="tr-norm"><p>Track &amp; Field (Wk 2-3) </p>
-        <p>Sec 4 Sports Education Beijing, Olympic Games(Wk 4 – 10)</p></td>
-      <td width="22%" class="tr-norm"><p>Olympic Games (Mar 29) </p>
-        <p>Phys. Conditioning (Wk 1-4) </p>
-        <p>PFT &amp; Retest (Wk 5-7) </p>
-        <p>Mid-Year Exams</p></td>
-      <td width="22%" class="tr-norm"><p>Traditional/Modified Games (Wk 1-5) </p>
-        <p>Revision for Prelims</p></td>
+      <td width="22%" class="tr-norm">Track &amp; Field (Wk 2-3)<br>
+      <br>        
+      Sec 4 Sports Education Beijing, Olympic Games (Wk 4 – 10)</td>
+      <td width="22%" class="tr-norm">Olympic Games (Mar 29)        <br>
+        <br>
+      Phys. Conditioning (Wk 1-4)        <br>
+      <br>
+      PFT &amp; Retest (Wk 5-7)        <br>
+      Mid-Year Exams</td>
+      <td width="22%" class="tr-norm">Traditional/Modified Games (Wk 1-5)        <br>
+        <br>
+      Revision for Prelims</td>
       <td width="22%" class="tr-norm">---</td>
     </tr>
   </tbody>
@@ -123,42 +136,47 @@ The MGS Physical Education Department strives to develop our pupil’s physical,
   <tbody>
     <tr>
       <td width="12%" class="tr-header">SEC 2</td>
-      <td width="29%" class="tr-norm"><p>Ultimate Frisbee </p>
-        <p>Touch Rugby </p>
-        <p>Soccer </p>
-        <p>Netball </p></td>
-      <td width="29%" class="tr-norm"><p>Soft Volleyball<br>
-          <br>
-          Pickleball</p></td>
-      <td width="30%" class="tr-norm"><p>Rounders</p></td>
+      <td width="29%" class="tr-norm">Ultimate <br>
+        <br>
+      Frisbee        <br>
+      <br>
+      Touch Rugby        <br>
+      <br>
+      Soccer        <br>
+      <br>
+      Netball </td>
+      <td width="29%" class="tr-norm">Soft Volleyball<br>
+        <br>
+        Pickleball</td>
+      <td width="30%" class="tr-norm">Rounders</td>
     </tr>
     <tr>
       <td width="12%" class="tr-header">SEC 3</td>
-      <td width="29%" class="tr-norm"><p>Basketball<br>
-          <br>
-          Floorball/Hockey<br>
-          <br>
-          Handball<br>
-          <br>
-          Netball</p></td>
-      <td width="29%" class="tr-norm"><p>Hard Volleyball<br>
-          <br>
-          Badminton (Core Module)<br>
-          <br>
-          Squash Tennis</p></td>
-      <td width="30%" class="tr-norm"><p>Softball (Core Module)</p></td>
+      <td width="29%" class="tr-norm">Basketball<br>
+        <br>
+        Floorball/Hockey<br>
+        <br>
+        Handball<br>
+        <br>
+        Netball</td>
+      <td width="29%" class="tr-norm">Hard Volleyball<br>
+        <br>
+        Badminton (Core Module)<br>
+        <br>
+        Squash Tennis</td>
+      <td width="30%" class="tr-norm">Softball (Core Module)</td>
     </tr>
     <tr>
       <td width="12%" class="tr-header">SEC 4</td>
-      <td width="29%" class="tr-norm"><p>Floorball<br>
-          <br>
-          Benchball<br>
-          <br>
-          Ultimate Frisbee</p></td>
-      <td width="29%" class="tr-norm"><p>Badminton<br>
-          <br>
-          Pickleball</p></td>
-      <td width="30%" class="tr-norm"><p>&nbsp;</p></td>
+      <td width="29%" class="tr-norm">Floorball<br>
+        <br>
+        Benchball<br>
+        <br>
+        Ultimate Frisbee</td>
+      <td width="29%" class="tr-norm">Badminton<br>
+        <br>
+        Pickleball</td>
+      <td width="30%" class="tr-norm">&nbsp;</td>
     </tr>
   </tbody>
 </table>
