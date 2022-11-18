@@ -22,20 +22,21 @@ Members have exchanges and collaborate with the community, such as other schools
 Every year, the Handbell Ensemble offers an accreditation opportunity to all Secondary 1-4 members with the London College of Music (LCM) Handbell Ensemble Level 5 Examination Certification. The examination is designed to encourage students to develop their musical skills within an integrated framework of assessment.
 
 **2022 Performance and Achievements:** <br>
-Methodist Girls’ School Festival of Arts I (a digital Arts Production): Ikigai
+* Methodist Girls’ School Festival of Arts I (a digital Arts Production): Ikigai
 
 **2021 Performance and Achievements:**  <br>
-Singapore Youth Festival Arts Presentation - Distinction  
-Methodist Girls’ School Performing Arts Night (a digital Arts Production): Chikara
+* Singapore Youth Festival Arts Presentation - Distinction  
+* Methodist Girls’ School Performing Arts Night (a digital Arts Production): Chikara
 
 **2020 Performances and Activities:** <br>
-Cajon workshop
+* Cajon workshop
 
 **2019 Performance and Achievements:** <br>
-Singapore Youth Festival Arts Presentation - Distinction <br> 
-Methodist Girls’ School Performing Arts Night: Confidi in Dio  <br>
-London College of Music (LCM) Handbell Ensemble Level 5 - Certificate of Distinction  <br>
-Extraordinary People (EPL) Concert @ National University Singapore Culture Centre
+* Singapore Youth Festival Arts Presentation - Distinction <br> 
+* Methodist Girls’ School Performing Arts Night: Confidi in Dio  <br>
+* London College of Music (LCM) Handbell Ensemble Level 5 - Certificate of Distinction  <br>
+* Extraordinary People (EPL) Concert @ National University Singapore Culture Centre
+
 
 <style type="text/css">
 .tg {
