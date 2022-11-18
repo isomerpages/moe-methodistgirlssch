@@ -3,11 +3,6 @@ title: Mathematics
 permalink: /secondary/academic/mathematics/
 description: ""
 ---
-
-
-
-
-
 ### Vision
 
 To develop logical and critical thinkers who are competent in using mathematical reasoning, communication and problem solving skills in other fields and disciplines.
@@ -41,72 +36,63 @@ The learning of mathematics involves exploration, analysis and presentation of m
 
 <style type="text/css">
 .tg {
-    border-collapse: collapse;
-    border-spacing: 0;
+	border-color: black;
+	border-style: solid;
+	border-width: 1px;
+	color: #3D3D3D;
+	padding: 10px 5px;
+	width: 100%;
 }
 .tg td {
-    border-color: black;
-    border-style: solid;
-    border-width: 1px;
-    overflow: hidden;
-    padding: 10px 5px;
-    word-break: normal;
+	overflow: hidden;
+	word-break: normal;
 }
 .tg th {
-    border-color: black;
-    border-style: solid;
-    border-width: 1px;
-    font-weight: normal;
-    overflow: hidden;
-    padding: 10px 5px;
-    word-break: normal;
+	background-color: #DDD;
+	border-color: black;
+	border-style: solid;
+	border-width: 1px;
+	color: #3D3D3D;
+	font-weight: bold;
 }
-.tg .tg-teua {
-    background-color: #dddddd;
-    color: #666666;
-    text-align: center;
-    vertical-align: top
+.tg .tr-norm {
+	border-color: black;
+	border-style: solid;
+	border-width: 1px;
+	text-align: left;
+	vertical-align: top;
 }
-.tg .tg-a4yv {
-    background-color: #DDD;
-    color: #666;
-    font-weight: bold;
-    text-align: center;
-    vertical-align: top
-}
-.tg .tg-5hwe {
-    color: #3D3D3D;
-    text-align: center;
-    vertical-align: middle
-}
-.tg .tg-feqv {
-    background-color: #DDD;
-    color: #666;
-    font-weight: bold;
-    text-align: center;
-    vertical-align: middle
+.tg .tr-header {
+	border-color: black;
+	border-style: solid;
+	border-width: 1px;
+	color: #3D3D3D;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
 }
 </style>
+
 <table class="tg">
   <thead>
     <tr>
-      <th class="tg-a4yv"></th>
-      <th class="tg-feqv">‘O’ Level Track</th>
-      <th class="tg-feqv">IP Track</th>
+      <th width="33%" class="tr-header">&nbsp;</th>
+      <th width="33%" class="tr-header">&lsquo;O&rsquo; Level Track</th>
+      <th width="34%" class="tr-header">IP Track</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td class="tg-5hwe">Lower Secondary</td>
-      <td class="tg-5hwe">Mathematics</td>
-      <td class="tg-5hwe">Mathematics</td>
+      <td width="33%" class="tr-header">Lower Secondary</td>
+      <td width="33%" class="tr-norm">Mathematics</td>
+      <td width="34%" class="tr-norm">Mathematics</td>
     </tr>
     <tr>
-      <td class="tg-5hwe">Upper Secondary</td>
-      <td class="tg-5hwe">Mathematics<br>
-        Additional Mathematics</td>
-      <td class="tg-5hwe">Core Mathematics<br>
-        Advanced Mathematics</td>
+      <td width="33%" class="tr-header">Upper Secondary</td>
+      <td width="33%" class="tr-norm">Mathematics<br>
+      Additional Mathematics</td>
+      <td width="34%" class="tr-norm">Core Mathematics<br>
+      Advanced Mathematics</td>
     </tr>
   </tbody>
 </table>
