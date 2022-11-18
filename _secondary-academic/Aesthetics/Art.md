@@ -74,44 +74,85 @@ Art influences how we live
 
 Comprises individual and group term projects and time-based examinations
 
-<table width="100%" style="width: 100%;">
+<style type="text/css">
+.tg {
+	border-color: black;
+	border-style: solid;
+	border-width: 1px;
+	color: #3D3D3D;
+	padding: 10px 5px;
+	width: 100%;
+}
+.tg td {
+	overflow: hidden;
+	word-break: normal;
+}
+.tg th {
+	background-color: #DDD;
+	border-color: black;
+	border-style: solid;
+	border-width: 1px;
+	color: #3D3D3D;
+	font-weight: bold;
+}
+.tg .tr-norm {
+	border-color: black;
+	border-style: solid;
+	border-width: 1px;
+	text-align: left;
+	vertical-align: top;
+}
+.tg .tr-header {
+	border-color: black;
+	border-style: solid;
+	border-width: 1px;
+	color: #3D3D3D;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+}
+</style>
+
+<table class="tg">
+  <thead>
+    <tr>
+      <th width="12%" class="tr-header">&nbsp;</th>
+      <th width="22%" class="tr-header">SEC/YEAR 1</th>
+      <th width="22%" class="tr-header">SEC/YEAR 2</th>
+      <th width="22%" class="tr-header">SEC/YEAR 3</th>
+      <th width="22%" class="tr-header">SEC/YEAR 4</th>
+    </tr>
+  </thead>
   <tbody>
     <tr>
-      <th width="8%"> <br>
-      </th>
-      <th width="23%">Sec/ Year 1 </th>
-      <th width="23%">Sec/ Year 2 </th>
-      <th width="23%">Sec/ Year 3 </th>
-      <th width="23%">Sec/ Year 4 </th>
+      <td width="12%" class="tr-header">TERM 1</td>
+      <td width="22%" class="tr-norm">-</td>
+      <td width="22%" class="tr-norm">-</td>
+      <td width="22%" class="tr-norm">-</td>
+      <td width="22%" class="tr-norm">30% Preparatory Studies (Term 1-2)</td>
     </tr>
     <tr>
-      <td width="8%"><b>Term 1 </b></td>
-      <td width="23%">-</td>
-      <td width="23%">-</td>
-      <td width="23%">-</td>
-      <td width="23%">30%  Preparatory Studies (Term 1-2)   - </td>
+      <td width="12%" class="tr-header">TERM 2</td>
+      <td width="22%" class="tr-norm">60%</td>
+      <td width="22%" class="tr-norm">60%</td>
+      <td width="22%" class="tr-norm">Research Presentation (5%)<br>
+      Artist Response Portfolio (10%)</td>
+      <td width="22%" class="tr-norm">-</td>
     </tr>
     <tr>
-      <td width="8%"><b>Term 2 </b></td>
-      <td width="23%">60% </td>
-      <td width="23%">60% </td>
-      <td width="23%">Research Presentation (5%) <br>
-        Artist Response Portfolio (10%) </td>
+      <td width="12%" class="tr-header">TERM 3</td>
+      <td width="22%" class="tr-norm">40%</td>
+      <td width="22%" class="tr-norm">40%</td>
+      <td width="22%" class="tr-norm">Applied Arts Journey (15%)</td>
+      <td width="22%" class="tr-norm">70%<br>
+      Preliminary Examination</td>
     </tr>
     <tr>
-      <td width="8%"><b>Term 3 </b></td>
-      <td width="23%">40% </td>
-      <td width="23%">40% </td>
-      <td width="23%">Applied Arts Journey (15%)<br></td>
-      <td width="23%">70% <br>
-        Preliminary Examination </td>
-    </tr>
-    <tr>
-      <td width="8%"><b>Term 4 </b></td>
-      <td width="23%"> - </td>
-      <td width="23%"> - </td>
-      <td width="23%">Visual Journal (10%)<br></td>
-      <td width="23%"> - </td>
+      <td width="12%" class="tr-header">TERM 4</td>
+      <td width="22%" class="tr-norm">-</td>
+      <td width="22%" class="tr-norm">-</td>
+      <td width="22%" class="tr-norm">Visual Journal (10%)</td>
+      <td width="22%" class="tr-norm">-</td>
     </tr>
   </tbody>
 </table>
