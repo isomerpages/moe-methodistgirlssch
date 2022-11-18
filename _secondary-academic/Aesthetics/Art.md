@@ -135,7 +135,7 @@ Comprises individual and group term projects and time-based examinations
       <td width="12%" class="tr-header">TERM 2</td>
       <td width="22%" class="tr-norm">60%</td>
       <td width="22%" class="tr-norm">60%</td>
-      <td width="22%" class="tr-norm">Research Presentation (5%)<br>
+      <td width="22%" class="tr-norm">Research Presentation (5%)<br><br>
       Artist Response Portfolio (10%)</td>
       <td width="22%" class="tr-norm">-</td>
     </tr>
