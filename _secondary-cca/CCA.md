@@ -72,32 +72,54 @@ The School offers a CCA programme designed to encourage pupils’ all-round deve
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td width="25%" class="tr-norm-center">Artistic Swimming<br>
-Golf* <br>
-Football <br>
-Netball <br>
-Softball <br>
-Squash <br>
-Swimming <br>
-Tennis <br>
-Bowling <br>
-Track &amp; Cross Country </td>
-      <td width="25%" class="tr-norm-center">Choir <br>
+    <tr class="tr-norm">
+      <td width="25%" class="tr-norm">Artistic Swimming<br>
+        <br>
+Golf*<br>
+<br>
+ Football <br>
+ <br>
+ Netball <br>
+ <br>
+ Softball <br>
+ <br>
+ Squash <br>
+ <br>
+ Swimming <br>
+ <br>
+ Tennis <br>
+ <br>
+ Bowling <br>
+ <br>
+ Track &amp; Cross Country </td>
+      <td width="25%" class="tr-norm">Choir <br>
+        <br>
       Dance (Indian) Club <br>
+      <br>
       Dance (International) Club <br>
+      <br>
       Drama Society <br>
+      <br>
       Guitar Ensemble <br>
+      <br>
       Handbell Ensemble <br>
+      <br>
       String Ensemble <br>
+      <br>
       IDEAS </td>
-      <td width="25%" class="tr-norm-center">Chess Club <br>
-      Infocomm Club <br>
-      Library Club <br>
-      SALT Club <br>
+      <td width="25%" class="tr-norm">Chess Club <br>
+        <br>
+        Infocomm Club <br>
+        <br>
+        Library Club <br>
+        <br>
+        SALT Club <br>
+        <br>
       Sophia Society </td>
-      <td width="25%" class="tr-norm-center">Girl Guides <br>
-      Girls’ Brigade <br>
+      <td width="25%" class="tr-norm">Girl Guides <br>
+        <br>
+        Girls’ Brigade <br>
+        <br>
       National Cadet Corps (Air) </td>
     </tr>
   </tbody>
