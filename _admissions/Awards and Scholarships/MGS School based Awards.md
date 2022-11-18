@@ -4,9 +4,6 @@ permalink: /admissions/Scholarships-and-Awards/school-based-awards/
 description: ""
 third_nav_title: Awards and Scholarships
 ---
-
-MGS School-based Awards
-
 *   Subject Prizes 
     
 *   MGS Sports Award/ Scholarship
