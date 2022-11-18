@@ -57,7 +57,7 @@ The School offers a CCA programme designed to encourage pupils’ all-round deve
 	border-width: 1px;
 	color: #3D3D3D;
 	font-weight: bold;
-	text-align: center;
+	text-align: left;
 	vertical-align: middle;
 }
 </style>
