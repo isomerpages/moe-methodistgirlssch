@@ -9,23 +9,21 @@ third_nav_title: Visual and Performing Arts
   </iframe>
 </div>
 
-<img src="/images/Sec_cca/ideas-logo.png" 
-     style="width:40%">
 		 
 ### Innovation.Design.Entrepreneurship.Art for Society
+
+<img src="/images/Sec_cca/ideas-logo.png" 
+    align="right" style="width:40%">
 
 
 **Motto** : Value All Creation
 
-  
 
 **Vision** : Inspiring girls to be Creative, Responsible, Enthusiastic, Ambitious, Tenacious and Enterprising
 
-  
 
 **Mission** : Expressing through Innovation and Blessing through Creation
 
-  
 
 IDEAS (Innovation.Design.Entrepreneurship.Art.for Society) provides opportunities for students to develop innovative, critical thinking and entrepreneurial skills through various forms of visual art mediums. Through a comprehensive and well-rounded programme, community projects, and competitions, we aim to develop students holistically in areas of leadership, arts appreciation and various 21st century skills such as collaboration, communication and creativity.
 
@@ -33,17 +31,16 @@ IDEAS (Innovation.Design.Entrepreneurship.Art.for Society) provides opportunitie
 
 IDEAS provides a platform for students to showcase their artistic talents in various art competitions such as the Live-on Design Competition and YellowRen, with members clinching multiple accolades; as well as community projects such as the Singapore General Hospital Arts Expression Wall, SOTA Art Exhibition, PassionArts and Art Lab Programme. The CCA has also contributed its expertise and skills to many school projects such as props production for the MGS Musical, the aesthetics for the Art Gallery, and MGS Founder's Day decor. Members have had the opportunity to hone their entrepreneurial skills through selling handmade products at public platforms, being involved in the making of products, merchandise display, pricing, marketing and selling process.
 
-![](/images//Sec_cca/ideas%202021.jpg)
+![](/images/Sec_cca/ideas%202021.jpg)
 
-**Welcome to our eBOX Cafe & Discover the  JOY of shopping and selling with eBOX by clicking [here](https://sites.google.com/mgs.sch.edu.sg/mg-entrepreneur-box/shop?authuser=0).**  
+#### eBox Cafe
 
-  
+Welcome to our eBOX Cafe & Discover the JOY of shopping and selling with eBOX by clicking [here](https://sites.google.com/mgs.sch.edu.sg/mg-entrepreneur-box/shop?authuser=0). 
 
 We believe in encouraging all members to embrace creativity and innovation as their way of life!
 
   
-
-**Community Projects & VIA**
+#### Community Projects & VIA
 
 *   Digital Workshop for MGS (Primary) Art Club & MGS (Secondary) students 2022  
 *   e-Shop Project on Recycled Materials with SengKang Hospital 2021  
@@ -59,7 +56,7 @@ We believe in encouraging all members to embrace creativity and innovation as th
 
   
 
-**Achievements**  
+#### Achievements
 
 *   VOMG CHROMATIKA (Voice of My Generation Art Competition) 2022 - 1st Runner Up  
 *   Live-On Design Competition organised by National Organ Transport Unit, Ministry of Health 2022 - Higher Distinction (1) & Merit award (1)
