@@ -44,7 +44,7 @@ The MGS Choir has a shared sense of passion and love for singing. The Choir’s 
 
 **2017:**
 
-Recording choir for South East Asian (SEA) Games and National Day Parade.
+* Recording choir for South East Asian (SEA) Games and National Day Parade.
 
   
 
