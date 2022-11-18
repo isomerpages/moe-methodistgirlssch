@@ -4,12 +4,6 @@ permalink: /secondary/academic/humanities/history/
 description: ""
 third_nav_title: Humanities
 ---
-
-
-
-
-
-
 (‘O’ Level and Integrated Programme)
   
 
@@ -48,7 +42,8 @@ Students should be able to:
 
 ## Curriculum
 
-*“History is the witness that testifies to the passing of time; it  illuminates reality, vitalizes memory, provides guidance in daily life, and brings us tidings of antiquity."* Cicero
+> “History is the witness that testifies to the passing of time; it  illuminates reality, vitalizes memory, provides guidance in daily life, and brings us tidings of antiquity."  <br><br>
+Cicero
 
 The History curriculum aims to provide an opportunity for reinforcing and extending student’s historical knowledge and understanding, gaining a global perspective of the complex world we live in and appreciating the interactions between nations.  They will appreciate and understand the concepts of cause and effect, change and continuity, similarities and differences.
 
