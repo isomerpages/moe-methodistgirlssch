@@ -260,7 +260,7 @@ Yes, promotion criteria applies for students to be considered for promotion to t
 
 Pupils who wish to take up MEP must first meet the entry requirement of the Express courses in the selected school.
 
-All interested applicants (apart from DSA-MEP students) will sit for a Selection exercise on **27 Dec 2021 (Monday)**. The Selection exercise comprises:
+All interested applicants (apart from DSA-MEP students) will sit for a Selection exercise on **6 Jan 2023 (Friday)**. The Selection exercise comprises:
 
 1. A listening test 
 2. An aural test 
