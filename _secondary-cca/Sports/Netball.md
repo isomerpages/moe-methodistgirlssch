@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Sports
 ---
 <div style="width:100%; height:400px">
-  <iframe class="ive_eobj_center" allowfullscreen="" frameborder="0" title="MGS Heritage Video" src="https://www.youtube.com/embed/vgYv_w-VamY" height="100%" width="100%">
+  <iframe width="100%" height="100%" src="https://www.youtube.com/embed/vgYv_w-VamY" title="MGS Heritage Video" frameborder="0" allowfullscreen="" class="ive_eobj_center">
   </iframe>
 </div>
 
@@ -13,7 +13,9 @@ The Netball School Team CCA cultivates quick-thinking skills in all players and 
 
 Netball is a sport where teamwork, respect, resilience are fostered. All members share common goals and strive hard to achieve them, contributing to the camaraderie on and off the court. Rigorous trainings are never dreaded here, as members are constantly spurred on by each other, and as it also allows members to reach and expand their potential.
 
-![](/images/Sec_cca/netball.jpg)
+<div style="width:100%; height:470px">
+	<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTPMJMXOQWNlI-36HZC0ZDGDMn0KETWCpmRrjQ_1UeTkNOOSXUy2HLzXrneFiBP3mql3bSHdN1kUXTd/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="100%" height="100%" allowfullscreen="true"></iframe>	
+</div>
 
 For members to challenge themselves and hone their skills, the CCA competes in the annual National School Games (NSG) for both the ‘B’ and ‘C’ Divisions. It also takes part in carnivals and tournaments, and organizes friendly games against other schools to acquire exposure and build chemistry between all players.
 
