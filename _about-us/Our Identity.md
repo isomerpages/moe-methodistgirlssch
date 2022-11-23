@@ -94,7 +94,8 @@ Being and Becoming Godly women of Excellence with a heart of Love
 
 
 **MISSION** <br>
-To educate every girl in a Christian environment To Master, To Grow and To Serve in every phase of her life.
+To educate every girl in a Christian environment <br>
+To Master, To Grow and To Serve in every phase of her life.
 
 
 **VALUES**  <br>
