@@ -4,24 +4,20 @@ permalink: /primary/administration/admissions/mid-stream-admission-for-primary-s
 description: ""
 third_nav_title: Primary Admission
 ---
+###### For local students transferring from another local school
 
-**For local students transferring from another local school**
+Application window is from **1st Jun to 30th Sep**.  
 
+Interested applicants should complete the online application between 1 Jun to 30 Sep (click [here](https://form.gov.sg/62901bee6c8b460015882888)) and submit supporting documents via the attachment section provided in the form (i.e past year results, Semester 1 HDP report book slip, if any).  
 
-Application window is from **1st Jun to 30th Sep**.
-  
+Please be informed that the school will only notify the successful applicants by early of November.  In addition, students who are offered P3 and P4 HMTL in their previous school
 
-Interested applicants must complete the online application between 1 Jun to 30 Sep (click [here](https://form.gov.sg/62901bee6c8b460015882888)) and submit supporting documents via the attachment section provided in the form (i.e past year results, including latest SA1 results). 
+may not be offered the same in MGS, as this depends on the school’s internal consideration of a basket of different factors. The school's decision is final and will not be able to entertain appeals regarding unsuccessful applications. 
 
-  
+For any further queries or assistance, please email to [mgps@schools.gov.sg](mailto:mgps@schools.gov.sg). 
 
-Please be informed that the school will only notify the successful applicants by early of November. 
-
-The school's decision is final and will not be able to entertain appeals regarding unsuccessful applications. 
-
-For any further queries or assistance, please email to [mgps@schools.gov.sg](mailto:mgps@schools.gov.sg). **  
 FAQs:  
-**[FAQ\_Mid-Stream Admission to MGS (Primary)](https://drive.google.com/file/d/1927gu4m7nP8jlwzNaG6wd186E8dNIsmU/view?usp=sharing)  
+[FAQ\_Mid-Stream Admission to MGS (Primary)](https://drive.google.com/file/d/1927gu4m7nP8jlwzNaG6wd186E8dNIsmU/view?usp=sharing)  
   
 
 **For Returning Singaporeans**  
