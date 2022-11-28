@@ -23,10 +23,3 @@ These are a list of [possible IGL courses](https://docs.google.com/document/d/e
 
 [www.tinyurl.com/MGServes](https://forms.gle/Y3eErseV5dVsEsFd9)
 
-
-
-### Current list of projects:
-
-1.  [Rail Corridor - Heritage and Literary Trail](https://docs.google.com/document/d/e/2PACX-1vR1ZG-58XC8OvWYIMaZsNfAFd_5TGHaLPDhbb3uYRfrjK6t2q8NaGsj_wTNl-Tg0vZjINGrMe4M0qvN/pub?urp=gmail_link)
-2.  [Sustainable Christmas Market](https://docs.google.com/document/d/e/2PACX-1vTkEihpPRaoDdw1Vc6iUqzIf3ehxiXnDv6NUv0o99BumJArbrSIZihqhEFTNRtm8QWvsuLOlhKmWWOw/pub)
-3.  [The Resonance Project's Music Mixer Course](https://docs.google.com/document/d/e/2PACX-1vSdTROyMtdZj5qjYZpIxqtJR1UO3T4qiLxqMHvYyK4aGGAdrp8-z0UzUhkZmYHvC6cWHJTTO4EWHGKD/pub)
