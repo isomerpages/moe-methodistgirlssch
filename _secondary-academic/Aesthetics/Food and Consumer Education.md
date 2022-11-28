@@ -119,7 +119,7 @@ The Food and Consumer Education programme is offered to the Lower Secondary Leve
 
 ### Lower Secondary Curriculum
 
-#### Secondary One
+#### Secondary / Year One
 
 <table class="tg">
   <thead>
@@ -148,7 +148,7 @@ The Food and Consumer Education programme is offered to the Lower Secondary Leve
   </tbody>
 </table>
 
-#### Secondary Two
+#### Secondary / Year Two
 
 <table class="tg">
   <thead>
