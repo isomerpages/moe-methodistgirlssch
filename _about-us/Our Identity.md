@@ -163,6 +163,34 @@ Love is patient, love is kind. It does not envy, it does not boast, it is not pr
 Love never fails.”
 
 
+## School Motto
+
+
+### TO MASTER
+
+#### Going deep
+
+To understand and know deeply.  
+To work hard to achieve mastery even when it is challenging.  
+  
+
+### TO GROW
+
+#### Moving forward
+
+To step out of one’s comfort zone to learn more.  
+To be curious and humble and willing to receive feedback.  
+  
+
+### TO SERVE
+
+#### Moving upwards and outwards
+
+To give generously and sacrificially to meet the needs of others.  
+To give of self to God and others out of love.  
+To know that as one serves, one also receives.
+
+
 ## School Crest
 
 The change in the school crest was initiated by the Principal Miss Lau Meau Eng (1957-1972) as the old badge in enamel could only be made in England.
