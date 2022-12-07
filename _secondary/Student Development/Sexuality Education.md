@@ -4,9 +4,6 @@ permalink: /secondary/student-development/cce/sexuality-education/
 description: ""
 third_nav_title: Student Development
 ---
-
-
-
 ### MOE Sexuality Education in Schools
 
 1. Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.
@@ -29,7 +26,7 @@ third_nav_title: Student Development
 
 (iv) Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
 
-You may click [here](https://www.google.com/url?q=https://beta.moe.gov.sg/programmes/sexuality-education/&sa=D&source=editors&ust=1665113309390188&usg=AOvVaw3D_VUjncEfvLZI8N4QOVYI) for more information on MOE Sexuality Education. (Link works better if opened in a new tab)
+You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education) for more information on MOE Sexuality Education. (Link works better if opened in a new tab)
 
 ### OVERVIEW OF METHODIST GIRLS' SCHOOL'S SEXUALITY EDUCATION PROGRAMME FOR 2022
 
@@ -38,9 +35,9 @@ You may click [here](https://www.google.com/url?q=https://beta.moe.gov.sg/progr
 
 5. The subjects that incorporate topics on sexuality include:
 
-a. [Science](https://www.google.com/url?q=http://www.moe.gov.sg/education/programmes/social-emotional-learning/sexuality-education/scope/files/science-curriculum.pdf&sa=D&source=editors&ust=1665113309391626&usg=AOvVaw1vlDsEye7C4HIp6sS6Uhzb)
+a. [Science](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education/scope-and-teaching-approach)
 
-b. [Character and Citizenship Education](https://www.google.com/url?q=https://beta.moe.gov.sg/programmes/sexuality-education/&sa=D&source=editors&ust=1665113309392006&usg=AOvVaw2W1BF1zOwa_acm_5PfBvFF)
+b. [Character and Citizenship Education](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education/scope-and-teaching-approach)
 
 **Revised Character and Citizenship Education (CCE) Programme 2021 for Upper and Lower Secondary**
 
@@ -48,7 +45,7 @@ b. [Character and Citizenship Education](https://www.google.com/url?q=https://b
 
 7. Through the revised CCE programme, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.
 
-**At Methodist Girls' School, the following lessons from the REvised Character and Citizenship Education Programme will be taught in 2022:**
+**At Methodist Girls' School, the following lessons from the Revised Character and Citizenship Education Programme will be taught in 2022:**
 
 <style type="text/css">
 .tg {
@@ -249,7 +246,7 @@ b. [Character and Citizenship Education](https://www.google.com/url?q=https://b
 
 10. Parents may opt their children out of the MGS Sexuality Education Programme (incorporating the Growing Years programme) and/or the eTeens programme.
 
-11. Parents who wish to opt their children out of the MGS Sexuality Education Programme (incorporating the Growing Years (GY) programme) need to complete an opt-out form.  [This form is downloadable here](https://www.google.com/url?q=https://drive.google.com/file/d/1Cq53Zugl346YPJG9Tr2tBruzoh9V2Xeg/view?usp%3Dsharingwrr0Da7898IJ/view?usp%3Dsharing&sa=D&source=editors&ust=1665113309412144&usg=AOvVaw3UpBT_ygFyeh2K5pq62hYt). Parents who wish to opt out for the eTeens programme ONLY, need to complete this [opt out form](https://www.google.com/url?q=https://drive.google.com/file/d/1qwTU3LefD9NCkEsyTjdgBbLwy6Ezwyh4/view?usp%3Dsharing&sa=D&source=editors&ust=1665113309412539&usg=AOvVaw3o5_AUsEJEQg1d4ZEwWNt4).  Please open the forms in a new tab in order to view the forms.  A hardcopy of the form/s, duly completed and signed, is to be submitted to your daughter’s / ward’s Form Teacher.
+11. Parents who wish to opt their children out of the MGS Sexuality Education Programme (incorporating the Growing Years (GY) programme) need to complete an opt-out form.  [This form is downloadable here](https://drive.google.com/file/d/1Cq53Zugl346YPJG9Tr2tBruzoh9V2Xeg/view). Parents who wish to opt out for the eTeens programme ONLY, need to complete this [opt out form](https://drive.google.com/file/d/1qwTU3LefD9NCkEsyTjdgBbLwy6Ezwyh4/view).  Please open the forms in a new tab in order to view the forms.  A hardcopy of the form/s, duly completed and signed, is to be submitted to your daughter’s / ward’s Form Teacher.
 
 12. The deadline for submission of the forms is 16 May 2022.
 
