@@ -75,7 +75,7 @@ The School offers a CCA programme designed to encourage pupils’ all-round deve
     <tr class="tr-norm">
       <td width="25%" class="tr-norm">Artistic Swimming<br>
         <br>
-Golf*<br>
+Bowling<br>
 <br>
  Football <br>
  <br>
@@ -88,8 +88,6 @@ Golf*<br>
  Swimming <br>
  <br>
  Tennis <br>
- <br>
- Bowling <br>
  <br>
  Track &amp; Cross Country </td>
       <td width="25%" class="tr-norm">Choir <br>
@@ -116,9 +114,9 @@ Golf*<br>
         SALT Club <br>
         <br>
       Sophia Society </td>
-      <td width="25%" class="tr-norm">Girl Guides <br>
+      <td width="25%" class="tr-norm">Girls’ Brigade<br>
         <br>
-        Girls’ Brigade <br>
+         Girl Guides <br>
         <br>
       National Cadet Corps (Air) </td>
     </tr>
