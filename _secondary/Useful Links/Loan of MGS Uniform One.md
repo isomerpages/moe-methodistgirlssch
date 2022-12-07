@@ -15,7 +15,7 @@ Refer to [ANNEX A: INFORMATION ABOUT UNIFORM ONE](#annexa)
 
 ## What is loaned to students?
 
-<img src="/images/Others/loan-uniform1.jpg" 
+<img src="/images/Common/loan-uniform1.jpg" 
      style="width:60%" align="right">
 		 
 **MGS No. 1 Uniform includes the following:**
