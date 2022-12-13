@@ -3,8 +3,20 @@ title: Secondary 1 Registration
 permalink: /secondary/admissions/secondary-1-registration/
 description: ""
 ---
-
 ![](/images/Secondary/sec1-registration.jpg)
+
+Dear Parent/Guardian, 
+
+We are pleased to welcome your daughter to Methodist Girls’ School! At MGS, we believe each and every MGS girl is precious, and she is our raison d'être. With your partnership, the MGS girl will Master, Grow and Serve, anchored in strong fundamentals and values. 
+
+Registration will be done online from this webpage from 22 December 2022, 3 PM to 24 December 2022, 6 PM.
+
+All other information (for e.g. booklist, uniform) will be made available on the day of posting. 
+
+Students posted to MGS need not report to the school after the release of posting results.
+
+
+## old text from 2021
 
 Dear Parent/Guardian, 
 
