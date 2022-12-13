@@ -35,15 +35,18 @@ MGS invites Primary 6 students to participate in this year’s DSA exercise. As 
 
   
 
-## Download:
+## Downloads:
 
 1. [MGS DSA Talent Areas and Key Dates 2022](https://drive.google.com/file/d/1kOwRU39VcmUbbSVGIF-5Ozz_is23e4CG/view?usp=share_link)
 2. [MGS DSA Selection Criteria and Process (revised 20 May)](https://drive.google.com/file/d/1oogdwojAgtRAdUi6GWAd7w8x4X17bQ37/view?usp=share_link)
 
 
-## Brochures:
+## More Information:
 
-1. [MGS School Stories](https://issuu.com/mgsedu/docs/mgs_school_stories_2021)
+1. [Our School Stories](https://issuu.com/mgsedu/docs/mgs_school_stories_2021)
 2.  [Co-curricular Activities](https://issuu.com/mgsedu/docs/brochure_cca_12_may_21_)  
 3.  [Integrated Programme](https://issuu.com/mgsedu/docs/brochure_-_ip)  
 4.  [Music Elective Programme](https://issuu.com/mgsedu/docs/brochure_-_mep_24_mar_21_)
+5. Briefing notes from DSA Interaction Tea Session:
+    - [Briefing on DSA Processes](https://drive.google.com/file/d/1vReTre0YMb04uT380Xsn-DWFvCRTUSSf/view?usp=sharing)  
+    - [Briefing on Integrated Programme & O-Level Track Programme](https://drive.google.com/file/d/1lqhxFPlQYAZ9RbNE0Htc_BzIK1yQDXqm/view?usp=sharing)
