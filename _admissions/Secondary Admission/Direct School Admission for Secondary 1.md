@@ -47,6 +47,6 @@ MGS invites Primary 6 students to participate in this year’s DSA exercise. As 
 2.  [Co-curricular Activities](https://issuu.com/mgsedu/docs/brochure_cca_12_may_21_)  
 3.  [Integrated Programme](https://issuu.com/mgsedu/docs/brochure_-_ip)  
 4.  [Music Elective Programme](https://issuu.com/mgsedu/docs/brochure_-_mep_24_mar_21_)
-5. Briefing notes from DSA Interaction Tea Session:
-    - [Briefing on DSA Processes](https://drive.google.com/file/d/1vReTre0YMb04uT380Xsn-DWFvCRTUSSf/view?usp=sharing)  
-    - [Briefing on Integrated Programme & O-Level Track Programme](https://drive.google.com/file/d/1lqhxFPlQYAZ9RbNE0Htc_BzIK1yQDXqm/view?usp=sharing)
+5. Briefing notes from DSA Interaction Tea Session on:
+    - [DSA Processes](https://drive.google.com/file/d/1vReTre0YMb04uT380Xsn-DWFvCRTUSSf/view?usp=sharing)  
+    - [Integrated Programme & O-Level Track Programme](https://drive.google.com/file/d/1lqhxFPlQYAZ9RbNE0Htc_BzIK1yQDXqm/view?usp=sharing)
