@@ -58,7 +58,7 @@ Jesus replied: "'Love the Lord your God with all your heart and with all your so
 #### Being resilient and persistent despite challenges. Having an inner strength and positive attitude to give one’s best so that one can learn and grow.
 
   
-**Being excellent means glorifying God, not ourselves.  
+**Being excellent means glorifying God, not ourselves.**
 
 Colossians 3:23-24, GNT: "Whatever you do, work at it with all your heart, as though you were working for the Lord and not for people. Remember that the Lord will give you as a reward what he has kept for his people. For Christ is the real Master you serve."
 
