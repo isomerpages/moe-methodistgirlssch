@@ -4,19 +4,17 @@ permalink: /secondary/admissions/secondary-1-registration/
 description: ""
 third_nav_title: Secondary Admission
 ---
-
 ![](/images/Secondary/sec1-registration.jpg)
 
-Dear Parent/Guardian, 
+Dear Parent/Guardian,   
 
-We are pleased to welcome your daughter to Methodist Girls’ School! At MGS, we believe each and every MGS girl is precious, and she is our raison d'être. With your partnership, the MGS girl will Master, Grow and Serve, anchored in strong fundamentals and values. 
+We are pleased to welcome your daughter to Methodist Girls’ School! At MGS, we believe each and every MGS girl is precious, and she is our raison d'être. With your partnership, the MGS girl will Master, Grow and Serve, anchored in strong fundamentals and values. [Click here to access the MGS Secondary 1 Registration Package 2023.](https://drive.google.com/drive/folders/1yDMFJX-mi-ZqLmoz4MDIURzaFGc5GLJI?usp=share_link)  
 
-Please click here to access the [2023 MGS Sec One Online Registration Package](https://drive.google.com/drive/folders/1waiha9egKWOvkEaFsBzklp0Z2FoGdseL?usp=sharing).
+All students who are posted to MGS must register officially. The MGS Secondary 1 Online Registration will start on **Wednesday 21 December from 3.00pm to Monday 26 December 6.00pm**. This exercise will take approximately 20 minutes and best to be completed on your personal computer. DSA students posted to MGS would need to register via this link as well. 
 
-**All students who are posted to MGS must register officially.** MGS Secondary 1 Online Registration will start on 22 December 2022, 3 PM to 24 December 2022, 6 PM. 
+To access the [MGS Secondary 1 Online Registration portal](https://mgs.ntrix.sg/sec1registration/), please key in the following for:
 
-Registration can be done [online via this NTRIX link](https://mgs.ntrix.sg/sec1registration/) . This exercise will take approximately 20 minutes and best to be completed on your personal computer. DSA students posted to MGS would need to register via this link as well.
-* Login ID: Last 4 digits and letter (in CAPS) of Child’s NRIC (Eg. 1234A)
-* Password: ‘$tudent’ + last 4 digits and letter (in CAPS) of Child’s NRIC (E.g. $tudent1234A)
-
-You may email [info@ncodeconsultant.com](mailto:info@ncodeconsultant.com) if you face any technical difficulties.
+*   Login ID: Last 4 digits and letter (in CAPS) of Child’s NRIC  (E.g. 1234A)
+*   Password: ‘$tudent’ + last 4 digits as per Login ID (E.g. $tudent1234A)  
+    
+Please email [info@ncodeconsultant.com](mailto:info@ncodeconsultant.com) if you face any technical difficulties.
