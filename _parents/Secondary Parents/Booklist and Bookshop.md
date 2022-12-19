@@ -7,9 +7,6 @@ third_nav_title: Secondary Parents
 ### Booklist 2023
 
 [Access the 2023 booklist](https://drive.google.com/drive/folders/1BdsqFy7exfWyFm5t2vvbFDhKCjxowbZc?usp=share_link)
- 
-\*Sec/Yr 1 booklist will be uploaded at a later date in December 2022
-
 
 
 ### Pacific Bookstores
