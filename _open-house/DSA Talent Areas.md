@@ -4,8 +4,7 @@ permalink: /openhouse/dsa-talent-areas/
 description: ""
 ---
 <div style="width:100%; height:400px">
-  <iframe class="ive_eobj_center" allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/jUfBPDKm2z4" height="100%" width="100%">
-  </iframe>
+	<iframe width="600" height="338" src="https://www.youtube.com/embed/jUfBPDKm2z4" title="MGS DSA Talent Areas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 **By Mrs Corinne Sim, Vice-Principal**
