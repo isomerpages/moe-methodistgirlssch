@@ -26,9 +26,9 @@ Her experiences in MG have shaped her into the individual she is today, and taug
 ## Vlog of an MGS Student
 
 <div style="width:100%; height:400px">
-  <iframe class="ive_eobj_center" allowfullscreen="" frameborder="0" title="Vlog of an MGS Student" src="https://www.youtube.com/embed/jgc13GkUqbY" height="100%" width="100%">
-  </iframe>
+	<iframe width="600" height="338" src="https://www.youtube.com/embed/jgc13GkUqbY" title="Vlog of an MGS Student" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
 
 Join our house captains, Poorva, Emma, Krystal and Kay as they present to you a day in the life of an MGS student. <br><br>
 
@@ -40,8 +40,7 @@ Join our house captains, Poorva, Emma, Krystal and Kay as they present to you a 
 
 ## Student Testimonials
 <div style="width:100%; height:400px">
-  <iframe class="ive_eobj_center" allowfullscreen="" frameborder="0" title="Student Testimonials" src="https://www.youtube.com/embed/LZT0I1SWSvs" height="100%" width="100%">
-  </iframe>
+<iframe width="600" height="338" src="https://www.youtube.com/embed/LZT0I1SWSvs" title="Student Testimonials" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 Hear from our students about what being an MGS girl means to them.
