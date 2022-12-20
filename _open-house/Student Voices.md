@@ -4,8 +4,7 @@ permalink: /openhouse/student-voices/
 description: ""
 ---
 <div style="width:100%; height:400px">
-  <iframe class="ive_eobj_center" allowfullscreen="" frameborder="0" title="Nicole Sim (MGS, Class of 2021)" src="https://www.youtube.com/embed/F5m_pkI_m-shttps://www.youtube.com/embed/QvQ53lOmk4M" height="100%" width="100%">
-  </iframe>
+	<iframe width="600" height="338" src="https://www.youtube.com/embed/QvQ53lOmk4M" title="Nicole Sim (MGS, Class of 2021)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 Hear from **Nicole Sim, Class of 2021**, as she shares about her journey as a leader and her unique leadership style of taking on the supporting role to inspire others. 
@@ -14,9 +13,10 @@ The nurturing environment in MGS — especially in the Netball School Team and P
 
 
 <div style="width:100%; height:400px">
-  <iframe class="ive_eobj_center" allowfullscreen="" frameborder="0" title="Tan Yun Xuan (MGS, Class of 2021)" src="https://www.youtube.com/embed/SI3dTPIMyx0" height="100%" width="100%">
-  </iframe>
+<iframe width="600" height="338" src="https://www.youtube.com/embed/SI3dTPIMyx0" title="Tan Yun Xuan (MGS, Class of 2021)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+
 
 Hear from **Tan Yun Xuan, Class of 2021**, as she talks about her inspiring journey as a leader and the challenges that she encountered. 
 
