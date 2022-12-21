@@ -32,12 +32,9 @@ Please note that admission into the IP course in MGS-Sec is based purely on meri
 
 ### 3. How many Sec One Classes are there?
 
-Integrated Programme: 4 classes
+Integrated Programme: ~120 students
 
-O-Level track: 6 classes (includes 2-3 SBA classes\*)
-
-\* No separate application or selection test is required for SBA.
-
+O-Level track: ~190 students
 
 
 ### 4. How many students are there in Sec One Classes?
@@ -238,7 +235,7 @@ The Music Elective Programme (MEP) aims to nurture the academically able student
 
 ### 3. What is expected of a MEP student?
 
-MEP Music replaces the Home Economics subject in lower sec. At Upper Sec, MEP Music is taken as an exam subject (at O-levels). 
+MEP Music replaces the Food & Consumer Education subject in Lower Sec. At Upper Sec, MEP Music is taken as an exam subject (at O-levels). 
 
 Beyond MEP lessons, MEP students will be involved in concert attendance, workshops, masterclasses, and MOE-MEP events. 
 
@@ -268,9 +265,9 @@ The school team is selected only prior to the team registration for the National
 Generally, most DSA students qualify for the school team due to their good attitude, talent, ability and sustained commitment to training.
 
 
-### 2. My child does not have any achievements. Will she still be selected? She was supposed to go for a competition last year/this year but due to the Circuit Breaker/ safe distancing measures, the competition was postponed."
+### 2. My child does not have any achievements. Will she still be selected? She was supposed to go for a competition but due to the Circuit Breaker/ safe distancing measures, the competition was postponed."
 
-We are aware that students are unable to produce proof of their achievements last year due to measures implemented during the Circuit Breaker. The selection process will be adjusted to accommodate that. Please refer to our website for updates after MOE commences the 2021 DSA Application Exercise.
+We are aware that students are unable to produce proof of their achievements due to measures implemented during the Circuit Breaker. The selection process will be adjusted to accommodate that. Please refer to [our DSA webpage](https://www.mgs.moe.edu.sg/secondary/admissions/direct-school-admission-for-secondary-one) for updates after MOE commences the DSA Application Exercise.
 
 
 ### 3. Can my child take up more than one CCA other than her DSA sport?
@@ -280,11 +277,13 @@ DSA students are obliged to commit and perform well in their DSA sport. In addit
 
 ### 4. How many training sessions are there per week and how long is each session?
 
-School Team Sports CCAs have three training sessions per week. Generally, training sessions are held on Monday, Wednesday and Friday. Each training session is 3 hours long, from 3pm to 6pm. 
+School Team Sports CCAs have three training sessions per week. Generally, training sessions are held on Monday, Wednesday and Friday. Each training session can be up to 3 hours long, from 3pm to 6pm. 
 
 Performing Arts CCAs are held on Mondays, Wednesdays and Friday. More practices are arranged only when there is a need to prepare for nation-wide events (e.g. SYF Arts Presentation) or a performance/concert. In such instances, parents and students will be notified at least two weeks in advance. Each training session is about 2 to 3 hours long, starting from 3pm. 
 
 Students’ well-being is our priority. Hence during post-season and end-of-year examination period, CCA Sessions will be scaled down.
+
+Please refer to our [CCA schedule](https://drive.google.com/file/d/1rl2VORy_Dg_IDTtD9w7K14ZyfOl8FEO7/view) for more details on the training days and duration.
 
 
 ### 5. What opportunities are given to students in the performing arts CCAs?
