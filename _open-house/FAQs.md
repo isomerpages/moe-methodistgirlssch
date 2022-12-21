@@ -68,24 +68,7 @@ O-Level track: ~190 students (includes 60-90 SBA students)
 
 ### 6. What are the monthly school fees?
 
-**For 2021 Secondary, Integrated Programme:**
-
-*   SG Citizens $320    
-*   PR $750    
-*   IS (ASEAN) $1410    
-*   IS (non-ASEAN) $1900
-    
-
-
-**For 2021 Secondary, O-Level track:**
-
-*   SG Citizens $300    
-*   PR $710    
-*   IS (ASEAN) $1260    
-*   IS (non-ASEAN) $1695
-    
-
-There is also a monthly miscellaneous fees of $55 (for all categories of students). The school has various financial assistance schemes to assist families in need.
+Please refer to the [school fees page](https://staging.dt6ildc2mnegy.amplifyapp.com/secondary/admissions/school-fees/secondary/) for more information.
 
 
 
