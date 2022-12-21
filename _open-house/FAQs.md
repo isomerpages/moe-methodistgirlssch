@@ -96,10 +96,12 @@ However, she needs to complete her registration to her posted secondary school. 
 
 All applicants will be informed if they have been shortlisted for e-conferencing and be provided with further details, at the end of June.
 
+Shortlisted applicants will be informed of selection date, time and tasks via email by late June/early July.
+
 
 ### 5. When will I know if I have been offered a place?
 
-All shortlisted applicants will be notified of the outcome of their applications by end of August 2021.
+All shortlisted applicants will be notified of the outcome of their applications by 2nd week of September.
 
 
 ### 6. I received more than one DSA offer. When must I decide which to accept?
@@ -117,9 +119,9 @@ The DSA scheme provides students to gain admission to a DSA school via talent ar
 For MGS, your child must qualify for the Express stream.
 
 
-### 9. Where can I find the list of CCAs for DSA 2021? Is it the same as the 2020 list found in the website?
+### 9. Where can I find the list of CCAs for DSA? Will the list be the same as the previous year?
 
-The new list of DSA Talent Areas for DSA 2021 will be put up after MOE’s release of DSA information.
+The new list of DSA Talent Areas for MGS will be put up after MOE’s release of DSA information.
 
 
 ### 10. Is there a DSA quota for each CCA or on the whole?
@@ -153,7 +155,7 @@ Your child’s nationality does not matter in the DSA exercise. Our assessment i
 
 ### 1. What are the criteria for entry into the the MGS IP? Does my child need to take any selection Test?
 
-The shortlisting criteria comprises strong academic results and a basket of holistic inidcators. Shortlisted candidates will have to undergo a selection process which includes a domain assessment task, an individual interview and an essay writing component.
+The shortlisting criteria comprises strong academic results and a basket of holistic indicators. Shortlisted candidates will have to undergo a selection process which includes a domain assessment task, an individual interview and an essay writing component.
 
 
 ### 2. Must I take Higher Mother Tongue in the MGS IP?
@@ -185,12 +187,7 @@ We do not provide any transport to the Third Language Centres.
 
 There will be 4 IP classes in Year One.
 
-Those are not successful in getting an IP place can apply for a place at Y3 IP when she is in Sec 2. MGS has a scholastic programme in the O-level track called the Sophia Blackmore Academy (SBA).
-
-If you attained a PSLE T-score of 250 and above (AL equivalent will be made known at a later date), you will be automatically placed in an SBA class in Sec 1. Generally, those with:
-
-*   Achievement Level 1 in Maths and Science will be placed in a Maths & Science enriched SBA class;
-*   Achievement Level 1 in English will be placed in a Language Arts enriched SBA class.
+Those are not successful in getting an IP place can apply for a place at Y3 IP when she is in Sec 2.
 
 
 ### 8. Can IP students do MEP?
