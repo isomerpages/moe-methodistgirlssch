@@ -17,7 +17,7 @@ may not be offered the same in MGS, as this depends on the school’s internal 
 For any further queries or assistance, please email to [mgps@schools.gov.sg](mailto:mgps@schools.gov.sg). 
 
 FAQs:  
-[FAQ\_Mid-Stream Admission to MGS (Primary)](https://drive.google.com/file/d/1927gu4m7nP8jlwzNaG6wd186E8dNIsmU/view?usp=sharing)  
+[FAQ\_Mid-Stream Admission to MGS (Primary)](https://drive.google.com/file/d/10zpBex6Lp7_gpLbw4f5W7kdWouVVT1tB/view?usp=sharing)  
   
 
 **For Returning Singaporeans**  
