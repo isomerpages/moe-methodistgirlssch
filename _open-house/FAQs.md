@@ -27,7 +27,9 @@ Note that these are 2 separate codes so students need to indicate what they want
 
 The indicative AL Score ranges of Methodist Girls' School (Sec) can be found on this [MOE SchoolFinder record for MGS](https://www.moe.gov.sg/schoolfinder/schooldetail?schoolname=methodist-girls-school-secondary).
 
-Please note that admission into the IP course in MGS-Sec is based purely on merit. There is no affiliation requirement.
+Note that admission into the IP course in MGS-Sec is based purely on merit. There is no affiliation requirement.
+
+Click [here](https://www.moe.gov.sg/news/press-releases/20210427-psle-2021-supporting-students-and-their-parents-in-making-informed-school-choices) for more information on supporting your child in making informed school choices.
 
 
 ### 3. How many Sec One Classes are there?
