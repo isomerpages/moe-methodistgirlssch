@@ -18,3 +18,5 @@ To access the [MGS Secondary 1 Online Registration portal](https://mgs.ntrix.sg
 *   Password: ‘$tudent’ + last 4 digits as per Login ID (E.g. $tudent1234A)  
     
 Please email [info@ncodeconsultant.com](mailto:info@ncodeconsultant.com) if you face any technical difficulties.
+
+[Download the Secondary/Year One Parents’ Engagement Webinar slides](https://drive.google.com/file/d/1AO7c2pdE5YkSWefQA526lrle4CcU7dwI/view?usp=sharing).
