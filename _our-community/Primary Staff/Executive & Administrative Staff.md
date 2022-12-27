@@ -4,9 +4,6 @@ permalink: /primary/staff/executive-n-administrative-staff/
 description: ""
 third_nav_title: Primary Staff
 ---
-
-
-
 ### Allied Educator
 
 <style type="text/css">
@@ -27,11 +24,11 @@ third_nav_title: Primary Staff
 </thead>
 <tbody>
   <tr>
-    <td class="tg-zvks"><span style="color:#000">Senior Allied Educator (Learning Behaviour Support)</span><br></td>
+    <td class="tg-zvks"><span style="color:#000">Special Educational Needs (SEN) Officer</span><br></td>
     <td class="tg-pv77">Mrs Lee E-Lyn<br><span style="color:#000">lim_e-lyn_lin_yilin@schools.gov.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-zvks">Allied Educator (Learning Behaviour Support)</td>
+    <td class="tg-zvks">Special Educational Needs (SEN) Officer</td>
     <td class="tg-pv77">Miss Chiam Puay Hoon <br>lindy_chiam_puay_hoon@schools.gov.sg</td>
   </tr>
   <tr>
