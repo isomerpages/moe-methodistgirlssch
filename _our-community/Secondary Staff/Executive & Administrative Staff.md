@@ -39,12 +39,12 @@ Senior Executive: Ms Janice Teo
 
 ### HUMAN RESOURCE OFFICE
 
-Senior Manager:  [Ms Yong Sheue Horng](mailto:yong_sheue_horng@schools.gov.sg)  
+Senior Manager: [Ms Yong Sheue Horng](mailto:yong_sheue_horng@schools.gov.sg)  
 Senior Executive: Ms Hazel Yeow  
 
 ### **INFORMATION TECHNOLOGY DEPARTMENT**
 
-Manager:  [Mr Edmund Wong](mailto:edmund_wong@schools.gov.sg)  
+Manager: [Mr Edmund Wong](mailto:edmund_wong@schools.gov.sg)  
 Senior Executive: Mr David Quah  
 Senior Executive: Mr Siva Chandran  
 Desktop Engineer: Mr Zakery Lee 
@@ -55,7 +55,7 @@ Librarian: Ms Zainap Bte Abdul Majid
 
 ### **MAINTENANCE AND TECHNICAL DEPARTMENT**
 
-Manager:  [Mr Lawrence Jeremiah](mailto:Lawrence_Jeremiah@schools.gov.sg)  
+Manager: [Mr Lawrence Jeremiah](mailto:Lawrence_Jeremiah@schools.gov.sg)  
 Senior Executive: Mr Henry Liow  
 Assistant Executive: Mr Khairulanwar Bin Mahad  
 Operations Support Officer: Mr Chan Keng Seng
