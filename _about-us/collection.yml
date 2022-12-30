@@ -2,11 +2,11 @@ collections:
   about-us:
     output: true
     order:
-      - Our Corporate Video.md
       - Principal's Message.md
+      - Our Board of Management.md
+      - Our Corporate Video.md
       - Our Heritage.md
       - Our Identity.md
-      - Our Board of Management.md
       - PDPA Policy.md
       - School Safety.md
       - The MGS Store.md
