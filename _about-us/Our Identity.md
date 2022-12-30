@@ -29,7 +29,7 @@ To Master To Grow To Serve
 
 
 
-## School Values ##
+## Values ##
 
 
 ### GODLINESS ###
@@ -85,7 +85,7 @@ Love never fails."
 
 
 
-## School Motto
+## Motto
 
 
 ### TO MASTER
