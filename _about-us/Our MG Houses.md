@@ -3,8 +3,6 @@ title: Our MG Houses
 permalink: /about-us/our-mg-houses/
 description: ""
 ---
-## MG Houses
-
 The MGS House system was first formed in 1932, with four houses named after Methodist pioneers in Singapore: Blackmore, Oldham, Shellabear and Horley. They were later renamed **Blackmore , Olson , Lee and Jackson** .
 
 ### About The Four Houses
