@@ -3,8 +3,6 @@ title: Our Identity
 permalink: /about-us/our-identity/
 description: ""
 ---
-## Our MGS Identity
-
 **VISION**
 
 Being and Becoming Godly women of Excellence with a heart of Love 
@@ -113,7 +111,3 @@ To be curious and humble and willing to receive feedback.
 To give generously and sacrificially to meet the needs of others.  
 To give of self to God and others out of love.  
 To know that as one serves, one also receives.
-
-
-
-
