@@ -27,7 +27,7 @@ third_nav_title: Secondary Staff
     text-align: left;
     font-weight: bold;
     vertical-align: top;
-    width: 40%;
+    width: 50%;
 }
 </style>
 
@@ -62,6 +62,10 @@ third_nav_title: Secondary Staff
     <tr>
       <th class="tr-header">Humanities</th>
       <td class="tr-norm"><a href="mailto:wendy_li-_jin_tan@schools.gov.sg">Ms Wendy Tan</a></td>
+    </tr>
+    <tr>
+      <th class="tr-header">Integrated Programme</th>
+      <td class="tr-norm">Ms Grace Tang</td>
     </tr>
     <tr>
       <th class="tr-header">Language Arts</th>
@@ -105,16 +109,12 @@ third_nav_title: Secondary Staff
       <td class="tr-norm"><a href="mailto:lim_li_huang_doreen@schools.gov.sg">Mrs Doreen Ang</a></td>
     </tr>
     <tr>
+      <th class="tr-header">Senior Teacher (Character and Citizenship Education)</th>
+      <td class="tr-norm"><a href="mailto:ow_chee_keong_christopher@schools.gov.sg">Mr Christopher Ow</a></td>
+    </tr>
+    <tr>
       <th class="tr-header">Senior Teacher (Chemistry)</th>
       <td class="tr-norm"><a href="mailto:loh_jee_yong_david@schools.gov.sg">Mr David Loh</a></td>
-    </tr>
-    <tr>
-      <th class="tr-header">Senior Teacher (Interdisciplinary Project Work)</th>
-      <td class="tr-norm"><a href="mailto:kow_eng_swee_patrick@schools.gov.sg">Mr Patrick Kow</a></td>
-    </tr>
-    <tr>
-      <th class="tr-header">Senior Teacher (Knowledge, Skills &amp; New Literacies)</th>
-      <td class="tr-norm"><a href="mailto:ow_chee_keong_christopher@schools.gov.sg">Mr Christopher Ow</a></td>
     </tr>
     <tr>
       <th class="tr-header">Senior Teacher (Language Arts)</th>
@@ -134,7 +134,11 @@ third_nav_title: Secondary Staff
 <table class="tg">
   <thead>
     <tr>
-      <th class="tr-header">Community Service &amp; Advocacy</th>
+      <th class="tr-header">Character and Citizenship Education</th>
+      <td class="tr-norm"><a href="mailto:joy_sim@schools.gov.sg">Mrs Joy Goh</a></td>
+    </tr>
+    <tr>
+      <th class="tr-header">Community Education</th>
       <td class="tr-norm"><a href="mailto:auyang_seh_hon_dennis@schools.gov.sg">Mr Dennis Auyang</a></td>
     </tr>
     <tr>
@@ -148,6 +152,10 @@ third_nav_title: Secondary Staff
     <tr>
       <th class="tr-header">Humanities (Social Studies)</th>
       <td class="tr-norm"><a href="mailto:goh_keng_lee_terence@mgs.sch.edu.sg">Mr Terence Goh</a></td>
+    </tr>
+    <tr>
+      <th class="tr-header">Integrated Programme</th>
+      <td class="tr-norm"><a href="mailto:grace_poh@schools.gov.sg">Mrs Grace Poh</a></td>
     </tr>
     <tr>
       <th class="tr-header">Language Arts</th>
@@ -196,31 +204,27 @@ third_nav_title: Secondary Staff
     </tr>
     <tr>
       <th class="tr-header">Secondary 2 YH</th>
-      <td class="tr-norm"><a href="mailto:chng_sze_kuen@schools.gov.sg">Mrs Jenny Ng</a></td>
-    </tr>
-    <tr>
-      <th class="tr-header">Secondary 2 AYH</th>
-      <td class="tr-norm"><a href="mailto:xiu_ying_alethea_eng@schools.gov.sg">Ms Alethea Eng</a></td>
-    </tr>
-    <tr>
-      <th class="tr-header">Secondary 3 YH</th>
-      <td class="tr-norm"><a href="mailto:carol_tay_dan_guey@schools.gov.sg">Ms Carol Tay</a> </td>
-    </tr>
-    <tr>
-      <th class="tr-header">Secondary 3 AYH</th>
-      <td class="tr-norm"><a href="mailto:catherine_cheong@schools.gov.sg">Mrs Catherine Cheong</a></td>
-    </tr>
-    <tr>
-      <th class="tr-header">Secondary 4 YH</th>
       <td class="tr-norm"><a href="mailto:pang_sally@schools.gov.sg">Mrs Sally E</a> </td>
     </tr>
     <tr>
-      <th class="tr-header">Secondary 4 AYH</th>
+      <th class="tr-header">Secondary 2 AYH</th>
+      <td class="tr-norm"><a href="mailto:janine_sarah_poon@schools.gov.sg">Ms Sarah Poon</a></td>
+    </tr>
+    <tr>
+      <th class="tr-header">Secondary 3 YH</th>
       <td class="tr-norm"><a href="mailto:wong_khai_shin@schools.gov.sg">Ms Wong Khai Shin</a> </td>
     </tr>
     <tr>
-      <th class="tr-header">Integrated Programme AYH</th>
-      <td class="tr-norm"><a href="mailto:grace_poh@schools.gov.sg">Mrs Grace Poh</a></td>
+      <th class="tr-header">Secondary 3 AYH</th>
+      <td class="tr-norm"><a href="mailto:ling_lek_suan@schools.gov.sg" target="">Mr Ling Lek Suan</a><a href="mailto:catherine_cheong@schools.gov.sg"></a></td>
+    </tr>
+    <tr>
+      <th class="tr-header">Secondary 4 YH</th>
+      <td class="tr-norm"><a href="mailto:carol_tay_dan_guey@schools.gov.sg">Ms Carol Tay</a> </td>
+    </tr>
+    <tr>
+      <th class="tr-header">Secondary 4 AYH</th>
+      <td class="tr-norm"><a href="mailto:catherine_cheong@schools.gov.sg">Mrs Catherine Cheong</a></td>
     </tr>
   </thead>
   <tbody>
@@ -237,15 +241,19 @@ third_nav_title: Secondary Staff
     </tr>
     <tr>
       <th class="tr-header">Citizenship Education</th>
-      <td class="tr-norm"><a href="mailto:janine_sarah_poon@schools.gov.sg">Ms Sarah Poon</a></td>
+      <td class="tr-norm"><a href="mailto:joy_sim@schools.gov.sg">Mrs Joy Goh</a><a href="mailto:janine_sarah_poon@schools.gov.sg"></a></td>
     </tr>
     <tr>
       <th class="tr-header">House Leadership</th>
-      <td class="tr-norm"><a href="mailto:wong_khai_shin@schools.gov.sg">Ms Wong Khai Shin</a></td>
+      <td class="tr-norm"><a href="mailto:nadia_dahak_ibrahim@schools.gov.sg">Ms Nadia Ibrahim</a></td>
     </tr>
     <tr>
       <th class="tr-header">Sexuality Education</th>
       <td class="tr-norm"><a href="mailto:catherine_cheong@schools.gov.sg">Mrs Catherine Cheong</a></td>
+    </tr>
+    <tr>
+      <th class="tr-header">Values in Education</th>
+      <td class="tr-norm"><a href="mailto:tay_hui_ping@schools.gov.sg" target="">Ms Tay Hui Ping</a></td>
     </tr>
   </thead>
   <tbody>
