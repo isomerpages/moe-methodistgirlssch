@@ -3,6 +3,16 @@ title: Our Heritage
 permalink: /about-us/our-heritage/
 description: ""
 ---
+## School Crest
+<img src="/images/Common/logo-mgs.png" style="width:30%">
+
+The change in the school crest was initiated by the Principal Miss Lau Meau Eng (1957-1972) as the old badge in enamel could only be made in England.
+
+The crest was introduced in 1965, but there is no record of who designed it.
+
+
+## School History
+
 <div style="width:100%; height:400px">
   <iframe class="ive_eobj_center" allowfullscreen="" frameborder="0" title="MGS Heritage Video" src="https://www.youtube.com/embed/F5m_pkI_m-s" height="100%" width="100%">
   </iframe>
@@ -28,6 +38,31 @@ A hundred years after its founding, MGS sought greater autonomy from the Ministr
 
   
 **Unless the LORD builds the house, they labour in vain who build it; Unless the LORD guards the city, the watchman stays awake in vain. Psalm 127:1**
+
+
+## School Song
+
+With loving hearts and joyous song we sing to M.G.S. <br>
+And tell the fame of that fair name for we can do no less. <br>
+We hope that we may honour bring, and heaven ever bless <br>
+Our school, the fairest in the land, our own dear M.G.S.
+
+Down through the years our memories will keep a loving place <br>
+For friendships made and pleasures shared, and lessons learned apace. <br>
+For those who worked and gave their best that we might learn to face <br>
+The trials of life with faith and hope and nobly run the race.
+
+And now we're proud to raise the shout and sing of M.G.S. <br>
+Lift high her banner, one and all, her name we now profess. <br>
+In work and play for honours won, today our hearts confess <br>
+The debt we owe, the love we hold for our dear M.G.S.
+
+
+## BLESS THIS SCHOOL
+
+['Bless This School'](https://drive.google.com/file/d/1L41AyMuvFF0gVZPPpHLrB5u5OHsI5iIQ/preview)  is a familiar song that reverberates throughout the school campus daily, and distinctively characterises the schooling days of all MGS girls. Refreshed in 2022, it marks the 135th founding anniversary of MGS, and was first performed live at the MGS 135th Founder's Day Service & Graduation Ceremony.
+<br>
+
 
 ## To MGS
 	
