@@ -82,11 +82,7 @@ School-based training sessions are also included to help build up the bowlers’
         Monday: 3.30pm to 5:30pm<br>
         Wednesday: 3.30pm to 5:30pm<br>
         Friday: 3.30pm to 5:30pm        <br>
-        <br>
-        Bowling Club<br>
-        Monday: 3.30pm to 5:30pm        <br>
-        <br>
-        Venue: Temasek Club<br>
+        <br> Venue: Temasek Club<br>
       *One-way transport is provided to the training venues.</td>
     </tr>
   </tbody>
