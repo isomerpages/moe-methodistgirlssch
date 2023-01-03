@@ -14,5 +14,3 @@ Welcome to the MGS family! The school's philosophy and the policy on Co-curricul
   
 
 For any enquiry regarding CCA, you may email [mgps@moe.edu.sg](mailto:mgps@moe.edu.sg)
-
-![](/images/CCA_Home.png)
