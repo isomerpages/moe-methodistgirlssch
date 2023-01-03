@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Our Educational Experience.md
+      - Student Development/MGS Growth Journey.md
       - Student Development/.keep
       - Student Development/Student Development.md
       - Student Development/Character and Citizenship Education (CCE).md
