@@ -4,51 +4,27 @@ permalink: /primary/mg-curriculum/cca/sports/swimming-club/
 description: ""
 third_nav_title: Sports
 ---
-The Swimming Club provides a conducive and fun environment for the students to learn basic swimming skills as well as to challenge the proficient swimmers to master and develop stronger swimming strokes. The programme is based on ability and confidence levels of the students in the water. Learning how to swim also helps to inculcate intrinsic qualities such as discipline, perseverance and social skills as the students interact with one another during the sessions.
+We aim to equip our students with different aquatic skills and develop their swim strokes. During lessons, they also work on increasing their speed and stamina. Students in the beginner and intermediate groups learn front crawl, breaststroke, and aquatic survival techniques. The beginner swimmers are introduced to swimming in deep water, which include performing confidence jumps. The intermediate and advanced swimmers practise their starts and dives from the start blocks. The latter also learn basic backstroke and butterfly stroke techniques. To cultivate team spirit and love for the sport, there are fun relays and ball games which our students actively participate in.
 
-**Swimming Club CCA is conducted on:**
-
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-baqh{text-align:center;vertical-align:top}
-.tg .tg-33au{background-color:#DDD;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-33au"><span style="background-color:transparent">Level</span></th>
-    <th class="tg-33au"><span style="background-color:transparent">Day/Time</span></th>
-    <th class="tg-33au"><span style="background-color:transparent">Venue</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-baqh"><span style="color:#000;background-color:transparent">Primary 3 - Primary 6</span></td>
-    <td class="tg-baqh"><span style="color:#000;background-color:transparent">Tuesdays or Thursdays, 3.15pm to 5.15pm</span></td>
-    <td class="tg-baqh"><span style="color:#000;background-color:transparent">Sport Complex, </span><br><span style="color:#000;background-color:transparent">Swimming Pool</span></td>
-  </tr>
-</tbody>
-</table>
-
-The MGS Swim Team comprises competitive swimmers who compete and represent the school in the National School Games.  The team prides itself on embodying the school value of “Excellence” and has consistently attained top medals and championships for the school. For more information on the swim team, please contact Mrs Choy Yen Nee or Mrs Lily Teo.
-
-**CCA Teachers:**
-
-*   Mdm Zhang Li (Club IC)
+**The CCA aims to:**
     
-*   Mrs Gina Low (Club)
-    
-*   Mrs Choy Yen Nee (Competitive)
-    
-*   Mrs Lily Teo (Competitive)
 
+*   inculcate values which include respect, resilience, responsibility and care;
+    
 
-<img src="/images/swim1.png" 
-     style="width:75%">
-<img src="/images/swim2.png" 
-     style="width:75%">
+*   develop socio-emotional competencies and collaboration skills;
+    
+*   encourage endurance and pursuit for excellence.
+    
+
+*   The CCA adopts the follow approaches:
+    
+
+*   creates a positive and conducive learning environment by setting achievable goals for the students;
+    
+*   challenges the students to strive for improvement;
+    
+*   encourages the students to show care to each other and be responsible for their personal belongings and swimming equipment.
+ 
+
+<table style="border:none;border-collapse:collapse;"><colgroup><col width="58"><col width="301"><col width="133"><col width="121"></colgroup><tbody><tr style="height:0pt"><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Level&nbsp;</span></p></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Day/Time</span></p></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Venue</span></p></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Teachers</span></p></td></tr><tr style="height:0pt"><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">P3 to P6</span></p></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Tuesday &amp; Thursday</span></p><p dir="ltr" style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">(3.15 to 4.45 p.m.)</span></p><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Report at Bamboo Courtyard at 3.10 p.m.&nbsp;</span></p><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Dismissal at Concourse at 5.15 p.m.</span></p></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Indoor Sports Hall (Swimming Pool)</span></p></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Ms Zhang Li (ic)</span></p><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Mrs Gina Low</span></p><br></td></tr></tbody></table>
