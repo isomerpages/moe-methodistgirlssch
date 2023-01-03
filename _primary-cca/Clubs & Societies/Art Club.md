@@ -4,79 +4,37 @@ permalink: /primary/mg-curriculum/cca/clubs-and-societies/art-club/
 description: ""
 third_nav_title: Clubs & Societies
 ---
+Art Club allows students across levels of shared interest in art to learn and experience a variety of art media and tools together.
 
-Art Club CCA allows pupils to learn a variety of art techniques and skills.
+The CCA aims to develop students’ confidence and key capacities in expressing themselves through art. Besides progressive development of skills and techniques for the students, the programme also encourages thinking dispositions such as flexible thinking and considering multiple perspectives.
 
-  
+The varied art modules present ample opportunities for students to discover their artistic interests and express their creative voices.
 
-Pupils are given opportunities to apply design and colouring skills using different mediums (e.g. markers, oil pastels, paints, mixed media). They explore a variety of art forms, from 2-Dimensional art pieces (e.g. watercolour and batik paintings) to 3-Dimensional art forms such as wire sculpture, collages and jewellery making.
+Values and competencies the CCA aims to develop:
 
-  
-
-Elements of Art and Principles of Design are also covered so as to ensure that there is a systematic and progressive development of skills for the pupils in the Art Club programme.
-
-  
-
-The varied art modules inculcate visual literacy and art appreciation in pupils and they are able to see the relevance of arts in present culture and society. They also learn to be more creative and think out-of-the-box.
-
-  
-
-In addition, values of perseverance, teamwork and responsibility are also developed during the programme.
-
-### Art Club CCA is conducted on:
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-feqv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-nrix{text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-feqv"><span style="color:#666;background-color:#DDD">Level</span></th>
-    <th class="tg-feqv"><span style="color:#666;background-color:#DDD">Day/Time</span></th>
-    <th class="tg-feqv"><span style="color:#666;background-color:#DDD">Venue</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-nrix">Primary 3 &amp; 4</td>
-    <td class="tg-nrix">Tuesdays, 3.15pm to 4.45pm</td>
-    <td class="tg-nrix" rowspan="2">Art Rooms 1 &amp; 2</td>
-  </tr>
-  <tr>
-    <td class="tg-nrix">Primary 5 &amp; 6<br></td>
-    <td class="tg-nrix">Thursdays, 3.15pm to 4.45pm<br></td>
-  </tr>
-</tbody>
-</table>
-
-### CCA Teachers: 
-
-*   Mdm Ng Leh See (Primary 3 & 4 I/C)  
+*   Imparts values of responsibility, resilience and teamwork
     
-*   Mrs Sim Jiayan (Primary 5 & 6 I/C)  
+*   Expands creativity and imagination
     
-*   Mdm Nur Shafarina
+*   Builds capacity in visual literacy, art appreciation and skills in handling various media
+    
+  
+Approaches the CCA adopts 
 
+*   Introduces a wide variety of art forms from 2D to 3D and digital media
+    
+*   Opportunities to contribute to school’s art programmes and events
+    
+*   Opportunities to participate in external art competitions
+    
+  
 
+CCA Achievements (if applicable) 
 
-<img src="/images/image00.jpg" 
-     style="width:50%">
-		 
-<img src="/images/image01.jpg" 
-     style="width:50%">
-		 
-<img src="/images/image02.jpg" 
-     style="width:50%">
-		 
-<img src="/images/image04.jpg" 
-     style="width:50%" align="left">
-		 
-<img src="/images/image03.jpg" 
-     style="width:50%" align="right">
-		 
+*   Singapore Youth Festival (SYF) Art Exhibition - Certificate of Recognition (Category B)
+    
+<table style="border:none;border-collapse:collapse;"><colgroup><col width="119"><col width="160"><col width="134"><col width="196"></colgroup><tbody><tr style="height:0pt"><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Level / Group</span></p></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Day/Time</span></p></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Venue</span></p></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Teacher(s)</span></p></td></tr><tr style="height:0pt"><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">P3 to P6</span></p></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Tuesday,&nbsp;</span></p><p dir="ltr" style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">3.15 pm to 5.15 pm</span></p></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Art Room 1 &amp; 2</span></p></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Mrs Kang Jiayan (P3-4 IC)</span></p><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Mdm Ng Leh See (P5-6 IC)&nbsp;</span></p></td></tr></tbody></table>
+
+  
+
+<table style="border:none;border-collapse:collapse;"><colgroup><col width="332"><col width="276"></colgroup><tbody><tr style="height:23.89892578125pt"><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Events / Competitions</span></p></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Date</span></p></td></tr><tr style="height:0pt"><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Singapore Youth Festival (SYF) Art Exhibition</span></p></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Term 1 &amp; 2</span></p></td></tr></tbody></table>
