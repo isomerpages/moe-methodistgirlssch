@@ -4,66 +4,26 @@ permalink: /primary/Key-Programmes/alp/
 description: ""
 third_nav_title: Key Programmes
 ---
+In MGS, we aim to deepen our students’ learning by providing meaningful opportunities for them to have real-world applications of their classroom learning. We integrate ALP with our English and Mother Tongue Language lessons, to foreground the development of their language skills and in particular, their communication skills. Through ALP, we create authentic contexts and audiences for the students to hone their communication and language skills. We also hope to cultivate the joy of learning in our students as well as encourage them to explore different ideas and discover new skills.
 
+The committee aims to:
 
-Based on the theme of “Communications through Service-Learning”, the ALP at MGS is a multi-disciplinary curricular programme that allows every MGS girl to draw links and connections between different subjects through service-learning related activities. Across all 6 levels, students apply their learning by practising their communication skills in different authentic contexts both within school and in the wider community to different stakeholders and audiences.
+*   inculcate values which include respect, resilience and responsibility;
+    
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-zvks{background-color:#FFF;color:#1A1C1E;text-align:left;vertical-align:top}
-.tg .tg-pv77{background-color:#FFF;color:#1A1C1E;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-pv77"><span style="font-weight:700;color:#000;background-color:transparent">Level</span></th>
-    <th class="tg-pv77"><span style="font-weight:700;color:#000;background-color:transparent">Timeline</span></th>
-    <th class="tg-pv77"><span style="font-weight:700;color:#000;background-color:transparent">ALP 2021 </span></th>
-    <th class="tg-pv77"><span style="font-weight:700;color:#000;background-color:transparent">Subjects</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-zvks"><span style="color:#000;background-color:transparent">P1</span></td>
-    <td class="tg-zvks"><span style="color:#000;background-color:transparent">Term 1</span><br><span style="color:#000;background-color:transparent">Term 3</span></td>
-    <td class="tg-zvks"><span style="color:#000;background-color:transparent">My Gift to MGS </span><br><span style="color:#000;background-color:transparent">Spending a Day with My Grandparent</span></td>
-    <td class="tg-zvks"><span style="color:#000;background-color:transparent">English &amp; Mother Tongue</span><br><span style="color:#000;background-color:transparent">English, Mother Tongue, Maths &amp; Social Studies</span></td>
-  </tr>
-  <tr>
-    <td class="tg-zvks"><span style="color:#000;background-color:transparent">P2</span></td>
-    <td class="tg-zvks"><span style="color:#000;background-color:transparent">Term 2</span><br><span style="color:#000;background-color:transparent">Term 3</span></td>
-    <td class="tg-zvks"><span style="color:#000;background-color:transparent">We Knead Pizza </span><br><span style="color:#000;background-color:transparent">Improvements around MGS</span></td>
-    <td class="tg-zvks"><span style="color:#000;background-color:transparent">English, Mother Tongue, Maths &amp; Art</span><br><span style="color:#000;background-color:transparent">Maths, English &amp; Art</span></td>
-  </tr>
-  <tr>
-    <td class="tg-zvks"><span style="color:#000;background-color:transparent">P3</span></td>
-    <td class="tg-zvks"><span style="color:#000;background-color:transparent">Term 3</span></td>
-    <td class="tg-zvks"><span style="color:#000;background-color:transparent">Fun with Magnets (STEM)</span></td>
-    <td class="tg-zvks"><span style="color:#000;background-color:transparent">Science, Maths &amp; English</span></td>
-  </tr>
-  <tr>
-    <td class="tg-zvks"><span style="color:#000;background-color:transparent">P4</span></td>
-    <td class="tg-zvks"><span style="color:#000;background-color:transparent">Term 2</span><br><span style="color:#000;background-color:transparent">Feb to May</span></td>
-    <td class="tg-zvks"><span style="color:#000;background-color:transparent">Docents Programme</span><br><span style="color:#000;background-color:transparent">Advocacy Journalism (Primary 4)</span></td>
-    <td class="tg-zvks"><span style="color:#000;background-color:transparent">English, Mother Tongue &amp; Social Studies</span><br><span style="color:#000;background-color:transparent">English </span></td>
-  </tr>
-  <tr>
-    <td class="tg-zvks"><span style="color:#000;background-color:transparent">P5</span></td>
-    <td class="tg-zvks"><span style="color:#000;background-color:transparent">Term 2</span></td>
-    <td class="tg-zvks"><span style="color:#000;background-color:transparent">Singapore: Down Memory Lane</span></td>
-    <td class="tg-zvks"><span style="color:#000;background-color:transparent">English, Mother Tongue, Maths &amp; Social Studies</span></td>
-  </tr>
-  <tr>
-    <td class="tg-zvks"><span style="color:#000;background-color:transparent">P6</span></td>
-    <td class="tg-zvks"><span style="color:#000;background-color:transparent">Term 2</span></td>
-    <td class="tg-zvks"><span style="color:#000;background-color:transparent">Reaching Out to Our Community</span></td>
-    <td class="tg-zvks"><span style="color:#000;background-color:transparent">Mother Tongue, English &amp; Social Studies</span></td>
-  </tr>
-</tbody>
-</table>
+*   develop socio-emotional competencies and 21st century competencies (which include communication and collaboration skills, critical and inventive thinking);
+    
+*   spark curiosity in the students
+    
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRdFGpssVEDZoz8AAx4YW4KVFxu4lQpJwKx_zXP5i7WBYa6IA4aCBS7VN6_-pFze7kdKZ3eicQ1pWtt/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+  
+
+The committee adopts the following approaches:  
+
+*   ensures that the ALP content allows for deep learning and application of the skills which are taught and learnt during language lessons;
+*   designs and plans the level ALP based on our students’ profile, interests and learning preferences;
+    
+
+  
+
+<table style="margin: 0px; outline: 0px; padding: 0px; border: none; border-collapse: collapse;"><colgroup style="margin: 0px; outline: 0px; padding: 0px;"><col width="393" style="margin: 0px; outline: 0px; padding: 0px;"><col width="215" style="margin: 0px; outline: 0px; padding: 0px;"></colgroup><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px; height: 0pt;"><td style="margin: 0px; outline: 0px; padding: 5pt; border-width: 0.999997pt; border-style: solid; border-color: rgb(0, 0, 0); vertical-align: top; overflow: hidden; overflow-wrap: break-word;"><p dir="ltr" style="margin: 12pt 0px; outline: 0px; padding: 0px; line-height: 1.38; text-align: center;"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Programme</span></p></td><td style="margin: 0px; outline: 0px; padding: 5pt; border-width: 1pt 1pt 1pt 0.999997pt; border-style: solid; border-color: rgb(0, 0, 0); vertical-align: top; overflow: hidden; overflow-wrap: break-word;"><p dir="ltr" style="margin: 12pt 0px; outline: 0px; padding: 0px; line-height: 1.38; text-align: center;"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Level</span></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; height: 0pt;"><td style="margin: 0px; outline: 0px; padding: 5pt; border-width: 0.999997pt; border-style: solid; border-color: rgb(0, 0, 0); vertical-align: top; overflow: hidden; overflow-wrap: break-word;"><p dir="ltr" style="margin: 12pt 0px; outline: 0px; padding: 0px; line-height: 1.38;"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Our Favourite Canteen Food (Mother Tongue Language)</span></p></td><td style="margin: 0px; outline: 0px; padding: 5pt; border-width: 1pt 1pt 1pt 0.999997pt; border-style: solid; border-color: rgb(0, 0, 0); vertical-align: top; overflow: hidden; overflow-wrap: break-word;"><br style="margin: 0px; outline: 0px; padding: 0px;"><p dir="ltr" style="margin: 0pt 0px; outline: 0px; padding: 0px; line-height: 1.2; text-align: center;"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">P1</span></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; height: 0pt;"><td style="margin: 0px; outline: 0px; padding: 5pt; border-width: 0.999997pt; border-style: solid; border-color: rgb(0, 0, 0); vertical-align: top; overflow: hidden; overflow-wrap: break-word;"><p dir="ltr" style="margin: 12pt 0px; outline: 0px; padding: 0px; line-height: 1.38;"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Food Festival Day (English Language)</span></p></td><td style="margin: 0px; outline: 0px; padding: 5pt; border-width: 1pt 1pt 1pt 0.999997pt; border-style: solid; border-color: rgb(0, 0, 0); vertical-align: top; overflow: hidden; overflow-wrap: break-word;"><br style="margin: 0px; outline: 0px; padding: 0px;"><p dir="ltr" style="margin: 0pt 0px; outline: 0px; padding: 0px; line-height: 1.2; text-align: center;"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">P2</span></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; height: 0pt;"><td style="margin: 0px; outline: 0px; padding: 5pt; border-width: 0.999997pt; border-style: solid; border-color: rgb(0, 0, 0); vertical-align: top; overflow: hidden; overflow-wrap: break-word;"><p dir="ltr" style="margin: 12pt 0px; outline: 0px; padding: 0px; line-height: 1.38;"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Be a Tour Guide (Mother Tongue Language)</span></p></td><td style="margin: 0px; outline: 0px; padding: 5pt; border-width: 1pt 1pt 1pt 0.999997pt; border-style: solid; border-color: rgb(0, 0, 0); vertical-align: top; overflow: hidden; overflow-wrap: break-word;"><br style="margin: 0px; outline: 0px; padding: 0px;"><p dir="ltr" style="margin: 0pt 0px; outline: 0px; padding: 0px; line-height: 1.2; text-align: center;"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">P3</span></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; height: 0pt;"><td style="margin: 0px; outline: 0px; padding: 5pt; border-width: 0.999997pt; border-style: solid; border-color: rgb(0, 0, 0); vertical-align: top; overflow: hidden; overflow-wrap: break-word;"><p dir="ltr" style="margin: 12pt 0px; outline: 0px; padding: 0px; line-height: 1.38;"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Be a Sports Commentator (English Language)</span></p></td><td style="margin: 0px; outline: 0px; padding: 5pt; border-width: 1pt 1pt 1pt 0.999997pt; border-style: solid; border-color: rgb(0, 0, 0); vertical-align: top; overflow: hidden; overflow-wrap: break-word;"><br style="margin: 0px; outline: 0px; padding: 0px;"><p dir="ltr" style="margin: 0pt 0px; outline: 0px; padding: 0px; line-height: 1.2; text-align: center;"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">P4</span></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; height: 0pt;"><td style="margin: 0px; outline: 0px; padding: 5pt; border-width: 0.999997pt; border-style: solid; border-color: rgb(0, 0, 0); vertical-align: top; overflow: hidden; overflow-wrap: break-word;"><p dir="ltr" style="margin: 12pt 0px; outline: 0px; padding: 0px; line-height: 1.38;"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Be a Caption or Meme Creator (English Language)</span></p></td><td style="margin: 0px; outline: 0px; padding: 5pt; border-width: 1pt 1pt 1pt 0.999997pt; border-style: solid; border-color: rgb(0, 0, 0); vertical-align: top; overflow: hidden; overflow-wrap: break-word;"><br style="margin: 0px; outline: 0px; padding: 0px;"><p dir="ltr" style="margin: 0pt 0px; outline: 0px; padding: 0px; line-height: 1.2; text-align: center;"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">P5</span></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; height: 0pt;"><td style="margin: 0px; outline: 0px; padding: 5pt; border-width: 0.999997pt; border-style: solid; border-color: rgb(0, 0, 0); vertical-align: top; overflow: hidden; overflow-wrap: break-word;"><p dir="ltr" style="margin: 12pt 0px; outline: 0px; padding: 0px; line-height: 1.38;"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Be a Facilitator (English Language)</span></p></td><td style="margin: 0px; outline: 0px; padding: 5pt; border-width: 1pt 1pt 1pt 0.999997pt; border-style: solid; border-color: rgb(0, 0, 0); vertical-align: top; overflow: hidden; overflow-wrap: break-word;"><br style="margin: 0px; outline: 0px; padding: 0px;"><p dir="ltr" style="margin: 0pt 0px; outline: 0px; padding: 0px; line-height: 1.2; text-align: center;"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">P6</span></p></td></tr></tbody></table>
