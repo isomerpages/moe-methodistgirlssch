@@ -4,75 +4,36 @@ permalink: /primary/mg-curriculum/academic/education-technology/
 description: ""
 third_nav_title: Academic
 ---
-### Outcomes&nbsp;
+### Outcomes 
 
-In alignment with the MOE ICT Masterplan 4 and the school’s vision, the Education Technology (EdTech) Department aims to nurture future-ready and responsible digital learners, well equipped with 21st century and digital baseline competencies.&nbsp;
+In alignment with the MOE ICT Masterplan 4 and the school’s vision, the Education Technology (EdTech) Department aims to nurture future-ready and responsible digital learners, well equipped with 21st century and digital baseline competencies. 
 
-### Key Approaches
+**EdTech-enriched School Curriculum** 
 
-EdTech-enriched School Curriculum&nbsp;
-
-Components of the Student Learning Space Pedagogical Scaffold (SLS PS) are integrated in the school curriculum to ensure that EdTech is used purposefully for quality learning. Teachers are equipped with relevant E-Pedagogy knowledge and skills to design EdTech-enriched learning experiences.
-
-<figure>
-<img src="/images/pasted%20image%200.png">
-<figcaption>Figure 1: Student Learning Space Pedagogical Scaffold (SLS PS)</figcaption>
-</figure>
-
-*Digital Baseline Competencies*
-
-The digital baseline competencies are weaved into the total curriculum to enable quality learning empowered by EdTech. These competencies are designed in line with the [MOE New Media Literacies Framework](https://sites.google.com/moe.edu.sg/baseline-ict/home). By the end of their primary education, students are equipped with the skills to create, connect and curate in a digitally networked environment.&nbsp;&nbsp;&nbsp;
+Components of the Student Learning Space Pedagogical Scaffold (SLS PS) are integrated in the school curriculum to ensure that EdTech is used purposefully for quality learning. Teachers are equipped with relevant E-Pedagogy knowledge and skills to design EdTech-enriched learning experiences. 
 
   
 
-*Digital Literacy Programme and Infocomm Club Curriculum*
+![](https://lh3.googleusercontent.com/3F_nz2UL4-D33HBEjMUpE3FWHFupoKB5XEdZUUJ_d6wUpyxb7ZJGYR8EktSteFGBVeu23HCSeBEpH78Kdsy1frW3eVH6wRM5KbxypyRaFNTg0uwbqH_VPI7nLfqVSkmrbNSmtnp-)
 
-As Singapore gears up to be a Smart Nation, it is integral for our students to be digitally literate. As such, the school has a 6-year Digital Literacy Programme in place to expose all students to coding and computational thinking. Through the programme, students develop problem-solving skills and creative thinking skills.
+Figure 1: Student Learning Space Pedagogical Scaffold (SLS PS)
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-zvks{background-color:#FFF;color:#1A1C1E;text-align:left;vertical-align:top}
-.tg .tg-uimk{background-color:#CFE2F3;color:#1A1C1E;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-uimk"><span style="font-weight:700;color:#000;background-color:transparent">Level</span></th>
-    <th class="tg-uimk"><span style="font-weight:700;color:#000;background-color:transparent">Programme</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-zvks"><span style="color:#000;background-color:transparent">Primary 1</span></td>
-    <td class="tg-zvks"><span style="color:#000;background-color:transparent">E</span><span style="color:#000">³ Modular - Scratch Junior Programming </span><span style="color:#202124"> </span></td>
-  </tr>
-  <tr>
-    <td class="tg-zvks"><span style="color:#000;background-color:transparent">Primary 2</span></td>
-    <td class="tg-zvks"><span style="color:#000">E³ Modular - MicroBit Programing</span><span style="color:#202124">   </span></td>
-  </tr>
-  <tr>
-    <td class="tg-zvks"><span style="color:#000;background-color:transparent">Primary 3</span></td>
-    <td class="tg-zvks"><span style="color:#000;background-color:transparent">Digital Story-Telling (TBC) </span></td>
-  </tr>
-  <tr>
-    <td class="tg-zvks"><span style="color:#000;background-color:transparent">Primary 4</span></td>
-    <td class="tg-zvks"><span style="color:#000;background-color:transparent">Lego Mindstorms EV3 (TBC)</span></td>
-  </tr>
-  <tr>
-    <td class="tg-zvks"><span style="color:#000;background-color:transparent">Primary 5</span></td>
-    <td class="tg-zvks"><span style="color:#000;background-color:transparent">Intro to Mobile App Design (TBC) </span></td>
-  </tr>
-  <tr>
-    <td class="tg-zvks"><span style="color:#000;background-color:transparent">Primary 6</span></td>
-    <td class="tg-zvks"><span style="color:#000;background-color:transparent">Code For Fun Enrichment Programme </span></td>
-  </tr>
-</tbody>
-</table>
+  
+
+**Digital Baseline Competencies**
+
+The digital baseline competencies are weaved into the total curriculum to enable quality learning empowered by EdTech. These competencies are designed in line with the [MOE New Media Literacies Framework](https://sites.google.com/moe.edu.sg/baseline-ict/home). By the end of their primary education, students are equipped with the skills to create, connect and curate in a digitally networked environment.   
+
+  
+
+**Digital Literacy Programme and Infocomm Club Curriculum** 
+
+As Singapore gears up to be a Smart Nation, it is integral for our students to be digitally literate. As such, the school has a 6-year Digital Literacy Programme in place to expose all students to coding and computational thinking. Through the programme, students develop problem-solving skills and creative thinking skills. 
+
+  
+
+<table style="margin: 0px; outline: 0px; padding: 0px; border: none; border-collapse: collapse;"><colgroup style="margin: 0px; outline: 0px; padding: 0px;"><col width="420" style="margin: 0px; outline: 0px; padding: 0px;"><col width="188" style="margin: 0px; outline: 0px; padding: 0px;"></colgroup><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px; height: 0pt;"><td style="margin: 0px; outline: 0px; padding: 5pt; border-width: 1pt; border-style: solid; border-color: rgb(0, 0, 0); vertical-align: top; overflow: hidden; overflow-wrap: break-word;"><p dir="ltr" style="margin: 0pt 0px; outline: 0px; padding: 0px; line-height: 1.2; text-align: center;"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Programme</span></p></td><td style="margin: 0px; outline: 0px; padding: 5pt; border-width: 1pt; border-style: solid; border-color: rgb(0, 0, 0); vertical-align: top; overflow: hidden; overflow-wrap: break-word;"><p dir="ltr" style="margin: 0pt 0px; outline: 0px; padding: 0px; line-height: 1.2; text-align: center;"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Level</span></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; height: 0pt;"><td style="margin: 0px; outline: 0px; padding: 5pt; border-width: 1pt; border-style: solid; border-color: rgb(0, 0, 0); vertical-align: top; overflow: hidden; overflow-wrap: break-word;"><p dir="ltr" style="margin: 0pt 0px; outline: 0px; padding: 0px; line-height: 1.2;"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 10pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">E</span><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 10pt; font-family: Arial; color: rgb(0, 0, 0); font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">³ Modular - Scratch Junior Programming </span><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 10pt; font-family: Arial; color: rgb(32, 33, 36); font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">&nbsp;</span></p></td><td style="margin: 0px; outline: 0px; padding: 5pt; border-width: 1pt; border-style: solid; border-color: rgb(0, 0, 0); vertical-align: top; overflow: hidden; overflow-wrap: break-word;"><p dir="ltr" style="margin: 0pt 0px; outline: 0px; padding: 0px; line-height: 1.2; text-align: center;"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">P1&nbsp;</span></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; height: 0pt;"><td style="margin: 0px; outline: 0px; padding: 5pt; border-width: 1pt; border-style: solid; border-color: rgb(0, 0, 0); vertical-align: top; overflow: hidden; overflow-wrap: break-word;"><p dir="ltr" style="margin: 0pt 0px; outline: 0px; padding: 0px; line-height: 1.2;"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 10pt; font-family: Arial; color: rgb(0, 0, 0); font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">E³ Modular - MicroBit Programing</span><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 10pt; font-family: Arial; color: rgb(32, 33, 36); font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">&nbsp;</span></p></td><td style="margin: 0px; outline: 0px; padding: 5pt; border-width: 1pt; border-style: solid; border-color: rgb(0, 0, 0); vertical-align: top; overflow: hidden; overflow-wrap: break-word;"><p dir="ltr" style="margin: 0pt 0px; outline: 0px; padding: 0px; line-height: 1.2; text-align: center;"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">P2</span></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; height: 0pt;"><td style="margin: 0px; outline: 0px; padding: 5pt; border-width: 1pt; border-style: solid; border-color: rgb(0, 0, 0); vertical-align: top; overflow: hidden; overflow-wrap: break-word;"><p dir="ltr" style="margin: 0pt 0px; outline: 0px; padding: 0px; line-height: 1.2;"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Canva - Digital Art</span></p></td><td style="margin: 0px; outline: 0px; padding: 5pt; border-width: 1pt; border-style: solid; border-color: rgb(0, 0, 0); vertical-align: top; overflow: hidden; overflow-wrap: break-word;"><p dir="ltr" style="margin: 0pt 0px; outline: 0px; padding: 0px; line-height: 1.2; text-align: center;"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">P3</span></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; height: 0pt;"><td style="margin: 0px; outline: 0px; padding: 5pt; border-width: 1pt; border-style: solid; border-color: rgb(0, 0, 0); vertical-align: top; overflow: hidden; overflow-wrap: break-word;"><p dir="ltr" style="margin: 0pt 0px; outline: 0px; padding: 0px; line-height: 1.2;"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Co-Spaces - Virtual Reality gallery walk</span></p></td><td style="margin: 0px; outline: 0px; padding: 5pt; border-width: 1pt; border-style: solid; border-color: rgb(0, 0, 0); vertical-align: top; overflow: hidden; overflow-wrap: break-word;"><p dir="ltr" style="margin: 0pt 0px; outline: 0px; padding: 0px; line-height: 1.2; text-align: center;"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">P4</span></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; height: 0pt;"><td style="margin: 0px; outline: 0px; padding: 5pt; border-width: 1pt; border-style: solid; border-color: rgb(0, 0, 0); vertical-align: top; overflow: hidden; overflow-wrap: break-word;"><p dir="ltr" style="margin: 0pt 0px; outline: 0px; padding: 0px; line-height: 1.2;"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">EKO Studios - Interactive Video</span></p></td><td style="margin: 0px; outline: 0px; padding: 5pt; border-width: 1pt; border-style: solid; border-color: rgb(0, 0, 0); vertical-align: top; overflow: hidden; overflow-wrap: break-word;"><p dir="ltr" style="margin: 0pt 0px; outline: 0px; padding: 0px; line-height: 1.2; text-align: center;"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">P5</span></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; height: 0pt;"><td style="margin: 0px; outline: 0px; padding: 5pt; border-width: 1pt; border-style: solid; border-color: rgb(0, 0, 0); vertical-align: top; overflow: hidden; overflow-wrap: break-word;"><p dir="ltr" style="margin: 0pt 0px; outline: 0px; padding: 0px; line-height: 1.2;"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Code for Fun - Sphero Robot Programming</span></p></td><td style="margin: 0px; outline: 0px; padding: 5pt; border-width: 1pt; border-style: solid; border-color: rgb(0, 0, 0); vertical-align: top; overflow: hidden; overflow-wrap: break-word;"><p dir="ltr" style="margin: 0pt 0px; outline: 0px; padding: 0px; line-height: 1.2; text-align: center;"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">P6</span></p></td></tr></tbody></table>
+
+  
 
 For students who are passionate about technology, the Infocomm Club offers a differentiated curriculum for them to acquire intermediate to advanced digital and media production skills.
-
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQuXdsYFdj1HZX_pZxbYbGHGp0Ydl1MlU3MFeZXVRyI1_Lwq5KDhR-kH3DSyxQY38NyHEep__JvyIm7/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
