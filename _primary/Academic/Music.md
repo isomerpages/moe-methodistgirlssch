@@ -4,96 +4,22 @@ permalink: /primary/mg-curriculum/academic/music/
 description: ""
 third_nav_title: Academic
 ---
-### Aims
+The Music programme in MGS aims to inculcate in every girl an appreciation and love for music. Every girl possesses innate musical qualities that could be harnessed and developed by
 
-The aims of General Music Programme (GMP) are as follows:
+a. Acquiring and applying musical skills, knowledge and understanding through Listening, Creating and Performing
 
-*   Develop:
-*   awareness of and appreciation for music of various cultures and the role of music in daily living
-*   ability for creative expression through music making
-*   Provide the basis to develop an informed and lifelong involvement in music
+b. Developing abilities for creative expression and communication
 
-  
+c. Developing an understanding and appreciation of music in local and global cultures
 
-### Objectives
-
-To fulfil the aims of GMP, the syllabus is organised around six objectives that describe the music skills and knowledge students should acquire, as follows:
-
-*   Sing and play melodic and rhythmic instruments individually and in groups
-*   Create and improvise music
-*   Describe and evaluate music through listening
-*   Develop understanding of music elements/concepts
-*   Discern and understand music from various cultures and of various genres
-*   Understand the role of music in daily living
-
-Students develop music appreciation and understanding through direct experiences in listening, creating and performing music. By understanding music in its sociocultural context, students better appreciate the role of music in their lives and develop meaningful involvement in music.
+d. Cultivating a life-long enjoyment and involvement in music.
 
   
 
-### Learning Outcomes
-
-Each objective is defined by a set of learning outcomes which details the music competencies students should acquire and be able to demonstrate. 
-
-Some learning outcomes:
-
-*   Sing a variety of songs with a sense of the shape of the melody
-*   Sing in unison and in 2-part canons
-*   Use solfege names and handsigns
-*   Play a variety of tuned and untuned percussion instruments
-*   Play individually, in unison and in sections of up to four parts 
-*   Accompany singing where appropriate
-*   Read staff and decipher notation
-*   Explore the ways sounds are organised through manipulating, experimenting and putting it together:
-*   Create: 
-*   sound effects with untuned instruments, body percussion and voice
-*   sounds and select sound sources in response to a story, descriptive words and visuals
-*   Improvise 3- and 4-beat rhythmic and melodic patterns and phrases
-*   Use graphic notation to represent sound 
-*   Respond to different moods suggested in the music heard through body movements and visual representations
-*   Describe the mood of the music heard
-*   Identify selected percussion, string, woodwind and brass instruments of large western ensembles visually and aurally
-*   Identify selected percussion, string, woodwind and brass instruments of Malay, Chinese and Indian music
-*   Evaluate music performances 
-*   Identify basic music elements/concepts
-*   Distinguish: 
-*   contrasts in music
-*   music of Malay, Chinese, Indian and Western cultures
-*   Identify similar and different rhythmic and melodic patterns 
-*   Recognise and talk about how music is featured in daily life
-*   Describe the role of music in dance
+The girls have many opportunities to showcase what they have learnt through performing as an ensemble during class, recess recitals and performances during school-wide events.
 
   
 
-### Assessment
+<table style="margin: 0px; outline: 0px; padding: 0px; border: none; border-collapse: collapse; width: 679px; height: 158px;"><colgroup style="margin: 0px; outline: 0px; padding: 0px;"><col width="420" style="margin: 0px; outline: 0px; padding: 0px;"><col width="188" style="margin: 0px; outline: 0px; padding: 0px;"></colgroup><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px; height: 0pt;"><td style="margin: 0px; outline: 0px; padding: 5pt; border-width: 1pt; border-style: solid; border-color: rgb(0, 0, 0); vertical-align: top; overflow: hidden; overflow-wrap: break-word; width: 468px;"><p dir="ltr" style="margin: 0pt 0px; outline: 0px; padding: 0px; line-height: 1.2; text-align: center;"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 11pt; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Programme</span></p></td><td style="margin: 0px; outline: 0px; padding: 5pt; border-width: 1pt; border-style: solid; border-color: rgb(0, 0, 0); vertical-align: top; overflow: hidden; overflow-wrap: break-word; width: 210px;"><p dir="ltr" style="margin: 0pt 0px; outline: 0px; padding: 0px; line-height: 1.2; text-align: center;"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 11pt; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Level</span></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; height: 0pt;"><td style="margin: 0px; outline: 0px; padding: 5pt; border-width: 1pt; border-style: solid; border-color: rgb(0, 0, 0); vertical-align: top; overflow: hidden; overflow-wrap: break-word;"><p dir="ltr" style="margin: 0pt 0px; outline: 0px; padding: 0px; line-height: 1.2;"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 11pt; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">STOMP Programme</span></p></td><td style="margin: 0px; outline: 0px; padding: 5pt; border-width: 1pt; border-style: solid; border-color: rgb(0, 0, 0); vertical-align: top; overflow: hidden; overflow-wrap: break-word;"><p dir="ltr" style="margin: 0pt 0px; outline: 0px; padding: 0px; line-height: 1.2; text-align: center;"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 11pt; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">P2</span></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; height: 0pt;"><td style="margin: 0px; outline: 0px; padding: 5pt; border-width: 1pt; border-style: solid; border-color: rgb(0, 0, 0); vertical-align: top; overflow: hidden; overflow-wrap: break-word;"><p dir="ltr" style="margin: 0pt 0px; outline: 0px; padding: 0px; line-height: 1.2;"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 11pt; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Garageband Programme</span></p></td><td style="margin: 0px; outline: 0px; padding: 5pt; border-width: 1pt; border-style: solid; border-color: rgb(0, 0, 0); vertical-align: top; overflow: hidden; overflow-wrap: break-word;"><p dir="ltr" style="margin: 0pt 0px; outline: 0px; padding: 0px; line-height: 1.2; text-align: center;"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 11pt; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">P3</span></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; height: 0pt;"><td style="margin: 0px; outline: 0px; padding: 5pt; border-width: 1pt; border-style: solid; border-color: rgb(0, 0, 0); vertical-align: top; overflow: hidden; overflow-wrap: break-word;"><p dir="ltr" style="margin: 0pt 0px; outline: 0px; padding: 0px; line-height: 1.2;"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 11pt; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Ukulele Programme</span></p></td><td style="margin: 0px; outline: 0px; padding: 5pt; border-width: 1pt; border-style: solid; border-color: rgb(0, 0, 0); vertical-align: top; overflow: hidden; overflow-wrap: break-word;"><p dir="ltr" style="margin: 0pt 0px; outline: 0px; padding: 0px; line-height: 1.2; text-align: center;"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 11pt; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">P4</span></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; height: 0pt;"><td style="margin: 0px; outline: 0px; padding: 5pt; border-width: 1pt; border-style: solid; border-color: rgb(0, 0, 0); vertical-align: top; overflow: hidden; overflow-wrap: break-word;"><p dir="ltr" style="margin: 0pt 0px; outline: 0px; padding: 0px; line-height: 1.2;"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 11pt; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Cajon Programme</span></p></td><td style="margin: 0px; outline: 0px; padding: 5pt; border-width: 1pt; border-style: solid; border-color: rgb(0, 0, 0); vertical-align: top; overflow: hidden; overflow-wrap: break-word;"><p dir="ltr" style="margin: 0pt 0px; outline: 0px; padding: 0px; line-height: 1.2; text-align: center;"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 11pt; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">P5</span></p></td></tr></tbody></table>
 
-Assessment is conducted once a semester and some possible modes of assessment are:
-
-*   Theory tests (Primary 1 to 4)
-*   Individual and group performances (Recorder, Ukulele, Guitar and Cajon)
-
-  
-
-Lesson Schedules
-
-*   For Primary 1 to 4, hourly lessons are conducted weekly
-*   For Primary 5 and 6, hourly lessons are conducted fortnightly (odd weeks) alternating with Social Studies (even weeks) 
-
-  
-
-### Enrichment Programmes
-
-**Semester 1:** 
-
-*   Vocal training (Primary 1)
-*   Ukulele (Primary 4)
-*   Guitar (Primary 5)
-*   Cajon (Primary 6)
-
-  
-
-**Semester 2:**
-
-*   Ethnic Drumming, PAL Performing Arts programme (Primary 1)
-*   Boomwhackers (Primary 2)
-*   Handbells (Primary 3)
-*   Music composition using Garage Band software (Primary 4)
+The learning objectives, outcomes and approaches of the Music programme in MGS are closely aligned with that of the MOE Music Syllabus.
