@@ -5,10 +5,9 @@ description: ""
 third_nav_title: Sports
 ---
 <div style="width:100%; height:400px">
-  <iframe class="ive_eobj_center" allowfullscreen="" frameborder="0" title="MGS Heritage Video" src="https://www.youtube.com/embed/q9HBVXGwUT4" height="100%" width="100%">
+  <iframe class="ive_eobj_center" allowfullscreen="" frameborder="0" title="MGS Heritage Video" src="https://www.youtube.com/embed/OtluTcW0TyA" height="100%" width="100%">
   </iframe>
 </div>
-
 
 The MGS Bowling School Team aims to develop a team of dedicated and passionate bowlers who are interested in developing and furthering their bowling skills and techniques to enable them to participate in the various National Bowling Competitions over the course of their secondary school education. Throughout their four years in the team, our bowlers will undergo rigorous training sessions up to 3 times a week so that they will be equipped with the necessary bowling competencies. The training sessions will help to nurture and develop bowlers to maximise their fullest potential in the team sport. Bowlers will also learn to work and bond as a team through various activities.
 
