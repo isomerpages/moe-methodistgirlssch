@@ -4,13 +4,7 @@ permalink: /secondary/curriculum/cca/uniformed-groups/girl-guides/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-<div style="width:100%; height:400px">
-  <iframe class="ive_eobj_center" allowfullscreen="" frameborder="0" title="MGS Heritage Video" src="https://www.youtube.com/embed/pSDGyHKmEDw" height="100%" width="100%">
-  </iframe>
-</div>
-
-
-As part of the international sisterhood of Girl Guides, the MG Girl Guides have always been proud to contribute to the rich heritage of the Guiding movement in Singapore.
+As part of the international sisterhood of Girl Guides, the [MG Girl Guides](https://youtu.be/pSDGyHKmEDw) have always been proud to contribute to the rich heritage of the Guiding movement in Singapore.
 
   
 
