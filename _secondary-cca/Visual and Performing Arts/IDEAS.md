@@ -4,12 +4,6 @@ permalink: /secondary/curriculum/cca/visual-and-performing-arts/ideas/
 description: ""
 third_nav_title: Visual and Performing Arts
 ---
-<div style="width:100%; height:400px">
-  <iframe class="ive_eobj_center" allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/Kr4scKttbMo" height="100%" width="100%">
-  </iframe>
-</div>
-
-		 
 ### Innovation.Design.Entrepreneurship.Art for Society
 
 <img src="/images/Sec_cca/ideas-logo.png" 
@@ -25,7 +19,7 @@ third_nav_title: Visual and Performing Arts
 **Mission** : Expressing through Innovation and Blessing through Creation
 
 
-IDEAS (Innovation.Design.Entrepreneurship.Art.for Society) provides opportunities for students to develop innovative, critical thinking and entrepreneurial skills through various forms of visual art mediums. Through a comprehensive and well-rounded programme, community projects, and competitions, we aim to develop students holistically in areas of leadership, arts appreciation and various 21st century skills such as collaboration, communication and creativity.
+[IDEAS (Innovation.Design.Entrepreneurship.Art.for Society)](https://youtu.be/Kr4scKttbMo) provides opportunities for students to develop innovative, critical thinking and entrepreneurial skills through various forms of visual art mediums. Through a comprehensive and well-rounded programme, community projects, and competitions, we aim to develop students holistically in areas of leadership, arts appreciation and various 21st century skills such as collaboration, communication and creativity.
 
   
 
