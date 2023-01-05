@@ -65,7 +65,7 @@ third_nav_title: Secondary Staff
     </tr>
     <tr>
       <th class="tr-header">Integrated Programme</th>
-      <td class="tr-norm">Ms Grace Tang</td>
+      <td class="tr-norm"><a href="mailto:tang_lyn_lyn@schools.gov.sg">Ms Grace Tang</a></td>
     </tr>
     <tr>
       <th class="tr-header">Language Arts</th>
