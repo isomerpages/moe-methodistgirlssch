@@ -4,12 +4,7 @@ permalink: /secondary/curriculum/cca/sports/football/
 description: ""
 third_nav_title: Sports
 ---
-<div style="width:100%; height:400px">
-  <iframe class="ive_eobj_center" allowfullscreen="" frameborder="0" title="MGS Heritage Video" src="https://www.youtube.com/embed/RuS6JeCgk7w" height="100%" width="100%">
-  </iframe>
-</div>
-
-Football was started by a group of like-minded girls and teachers in 2013. As interest and commitment in the sport grew, Football became a full CCA in 2016.  
+[Football](https://youtu.be/RuS6JeCgk7w) was started by a group of like-minded girls and teachers in 2013. As interest and commitment in the sport grew, Football became a full CCA in 2016.  
 
   
 
