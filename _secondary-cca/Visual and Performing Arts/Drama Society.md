@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Visual and Performing Arts
 ---
 <div style="width:100%; height:400px">
-  <iframe class="ive_eobj_center" allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/JbsQluFv5Gs" height="100%" width="100%">
+  <iframe class="ive_eobj_center" allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/F_Q-pdx1J_0" height="100%" width="100%">
   </iframe>
 </div>
 
