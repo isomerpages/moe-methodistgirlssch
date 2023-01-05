@@ -6,7 +6,7 @@ third_nav_title: Primary Staff
 ---
 # DEPARTMENT HEADS
 
-| Department | Head of Departmet | 
+| Department | Head of Department | 
 | -------- | -------- |
 | Aesthetic, Physical Education & CCA| [Mrs Choy Yen Nee  ](tan_yen_nee@schools.gov.sg)
 Character and Citizenship Education | [Mrs Jayanthi Rajaratnam](jayanthi_kadiresan@schools.gov.sg) 
@@ -16,6 +16,7 @@ Mathematics|[Ms Adene Chua ](chua_yuen_yee@schools.gov.sg)
 Mother Tongue|[Ms Linda Chan ](chan_pei_chui@schools.gov.sg)
 Science|[Mrs Velicia Lim](foo_wei_tint_velicia@schools.gov.sg)
 School Staff Developer| [Mrs Brenda Ow](koh_li_ying_brenda@schools.gov.sg)
+Talent Development| [Ms Ann Cheo](ann_cheo@schools.gov.sg)
 
 # Level / Subject Head 
 
