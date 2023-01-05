@@ -5,10 +5,9 @@ description: ""
 third_nav_title: Clubs and Societies
 ---
 <div style="width:100%; height:400px">
-  <iframe class="ive_eobj_center" allowfullscreen="" frameborder="0" title="MGS Heritage Video" src="https://www.youtube.com/embed/CB7RIXipZmU" height="100%" width="100%">
+  <iframe class="ive_eobj_center" allowfullscreen="" frameborder="0" title="MGS Heritage Video" src="https://www.youtube.com/embed/dlB6ekRzcGQ" height="100%" width="100%">
   </iframe>
 </div>
-
 
 Chess Club aims to develop cognitive abilities - attention span, memory, analysis, and logic for personal growth. Our philosophy is a healthy mind through competitions, and support and encouragement for one another through teamwork. The CCA was established to develop sportsmanship, integrity, honesty, excellence, mentorship and empathy in members of the Chess Club, and to nurture them to be able to play Chess during their leisure with enthusiasm and passion.
 
