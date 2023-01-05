@@ -5,7 +5,7 @@ description: ""
 ---
 ## Co-Curricular Activities
 
-![](/images/Others/Splash/pic-cca.jpg)
+![](/images/Secondary/pic-cca.jpg)
 
 The School offers a CCA programme designed to encourage pupils’ all-round development, to build a sense of responsibility and independence, to cultivate correct values and desirable social attitudes, to provide for healthy recreational activity, to identify & nurture special qualities (e.g. leadership), to provide enrichment, to give scope for creativity and to cultivate esprit de corps.
 
@@ -122,5 +122,3 @@ Bowling<br>
     </tr>
   </tbody>
 </table>
-
-*Golf will cease to be an official CCA in April 2022
