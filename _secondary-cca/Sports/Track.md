@@ -4,11 +4,7 @@ permalink: /secondary/curriculum/cca/sports/track/
 description: ""
 third_nav_title: Sports
 ---
-<div style="width:100%; height:400px">
-  <iframe class="ive_eobj_center" allowfullscreen="" frameborder="0" title="MGS Heritage Video" src="https://www.youtube.com/embed/4Vlxam18DJU" height="100%" width="100%">
-  </iframe>
-</div>
-
+[Video](https://youtu.be/4Vlxam18DJU) 
 
 Started in 2015 to cater to girls with a passion for running - either sprints or longer distances, the CCA looks to continually improve and build upon its previous achievements. The collective experience of the rigorous physical training fosters positive, enduring memories and develops a strong bond among team members, which in turn nurtures their resilience, respect and sense of responsibility. The CCA’s structured comprehensive training programme provides everyone with the opportunity to reach their full potential.
 
