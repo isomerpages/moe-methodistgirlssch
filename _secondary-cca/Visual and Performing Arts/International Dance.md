@@ -7,7 +7,7 @@ third_nav_title: Visual and Performing Arts
 [MG Dance on WIX](https://mgdancee.wixsite.com/mgdancee)
 
 <div style="width:100%; height:400px">
-  <iframe class="ive_eobj_center" allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/CX6ekf-WXNo" height="100%" width="100%">
+  <iframe class="ive_eobj_center" allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/cLIczQXvusA" height="100%" width="100%">
   </iframe>
 </div>
 
