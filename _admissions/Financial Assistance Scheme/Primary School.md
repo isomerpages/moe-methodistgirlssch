@@ -38,11 +38,10 @@ You may refer to the **[MOE FAS Pamphlet](https://drive.google.com/file/d/1euj1
 
 2\. Parents can also apply via the link below :
 
-
 [**https://go.gov.sg/moe-efas**](https://go.gov.sg/moe-efas)
 
 
-You may refer to the eFAS User Guide (insert the document here) for online submission.
+You may refer to the [eFAS User Guide](https://drive.google.com/file/d/1r73LXFaXaiqu-zwVWT8X31XzL7mp93Me/view?usp=sharing) for online submission.
 
 6.    Please note that application via hardcopy form is required for: 
 
