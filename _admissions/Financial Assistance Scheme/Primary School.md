@@ -34,12 +34,9 @@ You may refer to the **[MOE FAS Pamphlet](https://drive.google.com/file/d/1euj1
 
 5.  **HOW TO APPLY**?
 
-    Hardcopy Application
+1/.  Parents can obtain the hard copy Application forms from the General Office or school website [here](https://drive.google.com/file/d/1wwLOxqXgYUoZon-mYY7uMJVShEtyvrK1/view?usp=sharing).
+2/.  Parents can also apply via the link below :
 
-1.  Parents can obtain the hard copy Application forms from the General Office or school website here (link).
-2.  Online via the link /QR code below 
-
-                Parents can also apply via the link /QR code below :
 
 [**https://go.gov.sg/moe-efas**](https://go.gov.sg/moe-efas)
 
