@@ -38,9 +38,10 @@ You may refer to the **[MOE FAS Pamphlet](https://drive.google.com/file/d/1euj1
 
 2\. Parents can also apply via the link below :
 
-<img style="width:40%" align="right" src="/images/primary/qrcode1.jpg">
+<img style="width:40%" align="center" src="/images/Primary/qr%20code.jpg">
 
 [**https://go.gov.sg/moe-efas**](https://go.gov.sg/moe-efas)
+
 
 
 You may refer to the [eFAS User Guide](https://drive.google.com/file/d/1r73LXFaXaiqu-zwVWT8X31XzL7mp93Me/view?usp=sharing) for online submission.
