@@ -6,12 +6,54 @@ third_nav_title: Financial Assistance Scheme
 ---
 ## Financial Assistance Scheme
 
-### ENHANCEMENT TO MINISTRY OF EDUCATION FINANCIAL ASSISTANCE SCHEME
+**OBJECTIVE**
 
-Date: March 16, 2018
+1.  The objective of the Ministry of Education (MOE) Financial Assistance Scheme (FAS) is to help financially needy Singaporean students in Government and Government-aided schools to meet basic schooling expenses.
 
-1. Starting from 1 April 2018, Singapore Citizen students from households with gross monthly household income (GHI) of $2,750 and below, or per capita income (PCI) of $690 and below, will be eligible for the MOE FAS.
-2. MOE FAS recipients are not required to pay school fees and standard miscellaneous fees. They are also eligible for free textbooks, school attire and transport subsidy. Those at pre-university will receive an annual bursary of $900 in lieu of textbooks and school attire. All students can opt to pay their 2nd Tier miscellaneous fees from their Edusave account.
-3. If you are eligible and wish to apply for the MOE FAS, please [download](files/Primary/AnnexA-Appn-Form-MOE-FAS.pdf) and complete the application form and return it to the school. You can also obtain a copy of the application form from the General Office and return the completed form to the school for processing. If you have any enquiries, please contact the school Admin Office at 6469 4800.
+**ELIGIBILITY CRITERIA**
 
-By MGS Primary Admin Team
+2\. Student must be a Singapore citizen enrolled in a Government or Government-aided school and meets either one of the following criteria:
+
+a. Gross household income (GHI) as at the time of application does not exceed $3,000 per month; or
+
+b. Household per capita income (PCI) as at the time of application does not exceed $750 per month.
+
+PCI = Monthly GHI / No. of members in the same household
+
+**HOUSEHOLD MEMBERS**
+
+3\. Household members include the student, his/her parents, and unmarried siblings of the student, regardless of the address.
+
+4\. Grandparents and other dependents living at the same address may be included on a case-by-case basis. They include:
+
+a. Relatives who are old or sick and are unemployed and dependent on the family; and
+
+b. Child dependent (where the family is the legal guardian).
+
+You may refer to the **[MOE FAS Pamphlet](https://drive.google.com/file/d/1euj1JLCGOXiwNcg6I6_v24f7KxnFhuC3/view?usp=sharing)** or click [here](https://www.moe.gov.sg/financial-matters/financial-assistance) for more information on the available schemes to support our Singaporean Students.
+
+5.  **HOW TO APPLY**?
+
+    Hardcopy Application
+
+1.  Parents can obtain the hard copy Application forms from the General Office or school website here (link).
+2.  Online via the link /QR code below 
+
+                Parents can also apply via the link /QR code below :
+
+[**https://go.gov.sg/moe-efas**](https://go.gov.sg/moe-efas)
+
+
+You may refer to the eFAS User Guide (insert the document here) for online submission.
+
+6.    Please note that application via hardcopy form is required for: 
+
+        a. families with other dependents (Great grandparents, Aunties/Uncles, Cousins and others) 
+
+        b. family with more than 5 children 
+
+        c. family with more than 4 unmarried children 
+
+        d. family with more than 3 grandparents in the household 
+
+7.   If your child is a ComCare recipient, they need not submit the application for MOE FAS as MOE FAS will be auto-granted to ComCare beneficiaries.
