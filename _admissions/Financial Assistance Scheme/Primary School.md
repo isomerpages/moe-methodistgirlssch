@@ -42,7 +42,6 @@ You may refer to the **[MOE FAS Pamphlet](https://drive.google.com/file/d/1euj1
 <img style="width:40%"  src="/images/Primary/qr%20code.jpg">
 </p>
 
-<!DOCTYPE html>
 <html>
 <head>
 <style>
