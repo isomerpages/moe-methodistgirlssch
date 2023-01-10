@@ -1,0 +1,24 @@
+collections:
+  mgserves-archive:
+    output: true
+    order:
+      - 2021.md
+      - 2020/.keep
+      - "2020/Bringing Cheer to Commuters through Our Creations #MGSBlessings.md"
+      - 2020/Learning about Singapore's General Elections.md
+      - 2020/The MGrevival Squad.md
+      - 2020/A helping hand.md
+      - 2020/Lessons learnt apace during HBL.md
+      - 2020/Thanking the SAF.md
+      - 2020/Caring for our Migrant Workers.md
+      - 2020/#MGSBlessings.md
+      - 2020/MGS Appreciates.md
+      - 2020/Art reflections at KAP Station in disruptive times.md
+      - 2020/Rallying together to care and to share.md
+      - 2020/Welcoming our P1s & Sec 1s as they embark on their MGS Journey.md
+      - 2019.md
+      - 2018.md
+      - 2017.md
+      - 2016.md
+      - 2015.md
+      - 2014.md

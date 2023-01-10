@@ -1,0 +1,23 @@
+collections:
+  primary-cca:
+    output: true
+    order:
+      - CCA.md
+      - Achievements.md
+      - Clubs & Societies/.keep
+      - Clubs & Societies/Art Club.md
+      - Clubs & Societies/Christian Fellowship.md
+      - Clubs & Societies/Infocomm Club.md
+      - Performing Arts/.keep
+      - Performing Arts/Choir.md
+      - Performing Arts/Handbells.md
+      - Performing Arts/Modern Jazz.md
+      - Performing Arts/International Dance.md
+      - Performing Arts/String Ensemble.md
+      - Sports/.keep
+      - Sports/Artistic Swimming.md
+      - Sports/Bowling.md
+      - Sports/Gymnastics.md
+      - Sports/Netball.md
+      - Sports/Softball.md
+      - Sports/Swimming Club.md

@@ -1,0 +1,36 @@
+collections:
+  secondary-cca:
+    output: true
+    order:
+      - CCA.md
+      - Achievements.md
+      - Clubs and Societies/.keep
+      - Clubs and Societies/Chess Club.md
+      - Clubs and Societies/Infocomm Club.md
+      - Clubs and Societies/Library Club.md
+      - Clubs and Societies/SALT.md
+      - Clubs and Societies/Sophia Society.md
+      - Sports/.keep
+      - Sports/Artistic Swimming.md
+      - Sports/Bowling.md
+      - Sports/Football.md
+      - Sports/Netball.md
+      - Sports/Softball.md
+      - Sports/Squash.md
+      - Sports/Swimming.md
+      - Sports/Tennis.md
+      - Sports/Track.md
+      - Uniformed Groups/.keep
+      - Uniformed Groups/Girl Guides.md
+      - Uniformed Groups/Girls’ Brigade.md
+      - Uniformed Groups/NCC (Air).md
+      - Visual and Performing Arts/.keep
+      - Visual and Performing Arts/Visual and Performing Arts.md
+      - Visual and Performing Arts/Choir.md
+      - Visual and Performing Arts/Drama Society.md
+      - Visual and Performing Arts/Guitar Ensemble.md
+      - Visual and Performing Arts/Handbell Ensemble.md
+      - Visual and Performing Arts/IDEAS.md
+      - Visual and Performing Arts/Indian Dance Club.md
+      - Visual and Performing Arts/International Dance.md
+      - Visual and Performing Arts/String Ensemble.md

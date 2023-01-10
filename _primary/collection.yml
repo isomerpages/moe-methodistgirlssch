@@ -1,0 +1,28 @@
+collections:
+  primary:
+    output: true
+    order:
+      - Academic/.keep
+      - Academic/English.md
+      - Academic/Mother Tongue.md
+      - Academic/Mathematics.md
+      - Academic/Science.md
+      - Academic/Physical Education.md
+      - Academic/Music.md
+      - Academic/Art.md
+      - Academic/Education Technology.md
+      - Curriculum.md
+      - Key Programmes/.keep
+      - Key Programmes/Applied Learning Programme.md
+      - Key Programmes/Learning for Life Programme.md
+      - Key Programmes/Talent Development and Academic Support.md
+      - Student Development/.keep
+      - Student Development/Student Development.md
+      - Student Development/Student Leadership.md
+      - Student Development/Counselling.md
+      - Student Development/Cyber Wellness.md
+      - Student Development/Social Studies and National Education.md
+      - Student Development/Sexuality Education.md
+      - Useful Links/.keep
+      - Useful Links/For Staff.md
+      - Useful Links/For Students.md

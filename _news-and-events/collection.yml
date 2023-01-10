@@ -1,0 +1,7 @@
+collections:
+  news-and-events:
+    output: true
+    order:
+      - Calendar of Events.md
+      - Open House.md
+      - Publications.md
