@@ -8,7 +8,7 @@ third_nav_title: Financial Assistance Scheme
 
 **OBJECTIVE**
 
-1.  The objective of the Ministry of Education (MOE) Financial Assistance Scheme (FAS) is to help financially needy Singaporean students in Government and Government-aided schools to meet basic schooling expenses.
+1\.  The objective of the Ministry of Education (MOE) Financial Assistance Scheme (FAS) is to help financially needy Singaporean students in Government and Government-aided schools to meet basic schooling expenses.
 
 **ELIGIBILITY CRITERIA**
 
@@ -34,8 +34,9 @@ You may refer to the **[MOE FAS Pamphlet](https://drive.google.com/file/d/1euj1
 
 5.  **HOW TO APPLY**?
 
-1/.  Parents can obtain the hard copy Application forms from the General Office or school website [here](https://drive.google.com/file/d/1wwLOxqXgYUoZon-mYY7uMJVShEtyvrK1/view?usp=sharing).
-2/.  Parents can also apply via the link below :
+1\.  Parents can obtain the hard copy Application forms from the General Office or school website [here](https://drive.google.com/file/d/1wwLOxqXgYUoZon-mYY7uMJVShEtyvrK1/view?usp=sharing).
+
+2\. Parents can also apply via the link below :
 
 
 [**https://go.gov.sg/moe-efas**](https://go.gov.sg/moe-efas)
