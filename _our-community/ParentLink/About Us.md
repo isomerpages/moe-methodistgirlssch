@@ -38,9 +38,9 @@ All parents in MGS are automatically part of the school’s parent support group
 <thead>
   <tr>
     <th class="tg-bzr3">Ex- officio Advisors:</th>
-    <th class="tg-uwnk"><p>Mrs Valarie Wilson<br>
+    <th class="tg-uwnk">Mrs Valarie Wilson<br>
       Mrs Diana Goh <br>
-      Mrs Koh Chern Ee</p></th>
+      Mrs Koh Chern Ee</th>
   </tr>
 </thead>
 <tbody>
