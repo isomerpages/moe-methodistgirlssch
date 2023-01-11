@@ -7,7 +7,7 @@ Please click on the links below to access the latest schedule for each level:
 
 *   [Lesson Schedules 2022](https://drive.google.com/drive/u/0/folders/1MFCMD3zXF0TIs47-w_GlXdPeveBc_PWS)
 
-*   [Assessment Schedule 2022](https://docs.google.com/spreadsheets/d/e/2PACX-1vQGQHxtNXgQCPf25QlTrCEJ7CaOsujlpMchbhQvgypw69646HP3eT3wGh5zw3V6POKGI3c8W-CGxcfl/pubhtml)
+*   [Assessment Schedule 2023](https://docs.google.com/spreadsheets/d/e/2PACX-1vRm149XtkmSXhY5s6v6LFCqfESiU9dOGnoe0Nr-PAlrqZodOortLm7C5VY-tWMrQ00DFxKnRT1ix7AK/pubhtml)
 
 
 **Preliminary/End-of-Year Examination Timetable 2022**
