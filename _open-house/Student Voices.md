@@ -16,8 +16,6 @@ The nurturing environment in MGS — especially in the Netball School Team and P
 <iframe width="600" height="338" src="https://www.youtube.com/embed/SI3dTPIMyx0" title="Tan Yun Xuan (MGS, Class of 2021)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
-
 Hear from **Tan Yun Xuan, Class of 2021**, as she talks about her inspiring journey as a leader and the challenges that she encountered. 
 
 Her experiences in MG have shaped her into the individual she is today, and taught her what it truly means to Master, to Grow and to Serve.
@@ -29,9 +27,7 @@ Her experiences in MG have shaped her into the individual she is today, and taug
 	<iframe width="600" height="338" src="https://www.youtube.com/embed/jgc13GkUqbY" title="Vlog of an MGS Student" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 Join our house captains, Poorva, Emma, Krystal and Kay as they present to you a day in the life of an MGS student. <br><br>
-
 
 > Down through the years our memories will keep a loving place.  
 > 
