@@ -79,29 +79,18 @@ In addition, parents can also be involved with career talks and providing work e
 
 **Remarks:**
 
-*   Combined meetings:- sessions where parents with child(ren) of different levels meet together
-*   Sec 4 Group denote:- sessions where parents with child(ren) in Sec 4/Year 4 (taking O Levels, or EOY IP exams) meet together  
-    
-*   P6 Group denote:- sessions where parents with P6 child(ren) meet together
+*   **Combined meetings** denote prayer sessions for Parents with child(ren) in different levels. Hence ALL parents are welcomed!
+*   **Sec 4 Group** denote prayer sessions for Parents with child(ren) in Sec 4/Year 4 (taking O Levels, or EOY IP exams)
+*   **P6 Group** denote prayer sessions for Parents with child(ren) in Primary 6 (taking PSLE)
 
   
 
 **Important Note:**
 
-** If on-site, otherwise the Parents’ Prayer Meeting will be via Zoom.
+1.  Please take lift to Level 4, walk straight past the Pri School library, 1st room on your right along the corridor
+2.  Do remember to exchange for a Visitor’s Pass at the Security Post – kindly inform Security on duty that you are going to Level 4 for parents’ prayer meeting.
+3.  Vehicles parked inside the school premise is strictly based on a first-come-first-serve basis, subject to availability, and in WHITE coloured VISITOR LOTS ONLY. There must be a “temporary parking label” to be displayed on the vehicle dashboard – this “temporary parking label” is subject to availability at the Security Post.
 
   
 
-Directions to Level 4 CCMC Wesley Hall: Please take the lift to Level 4, and walk past the Pri School library. CCMC Wesley Hall is the first room on your right along the corridor.
-
-  
-
-Do remember to obtain a Visitor’s Pass at the Security Post – please inform Security on duty that you are going to **Level 4 CCMC Wesley Hall** for the parents’ prayer meeting.  
-
-  
-
-Vehicles parked inside the school premise is strictly based on a **first-come-first-serve basis, subject to availability, and in WHITE coloured VISITOR LOTS ONLY**.  There **must be a “temporary parking label” displayed** on the vehicle dashboard – this “temporary parking label” is subject to availability at the Security Post.
-
-  
-
-If you have any enquiries regarding Parents’ Prayer Meetings, please contact Jenny Koh or Corrine Chee at the school office, 6469 4800.
+If you have any enquiries regarding Parents’ Prayer Meetings, please contact Ms Jenny Koh or Ms Corrine Chee at 6469 4800.
