@@ -34,18 +34,16 @@ Click [here](https://www.moe.gov.sg/news/press-releases/20210427-psle-2021-suppo
 
 ### 3. How many Sec One Classes are there?
 
-Integrated Programme: ~120 students
+Integrated Programme: 4 classes
 
-O-Level track: ~190 students
+O-Level track: 6 classes
 
 
 ### 4. How many students are there in Sec One Classes?
 
 Integrated Programme: ~120 students
 
-O-Level track: ~190 students (includes 60-90 SBA students)
-
-\* No separate application or selection test is required for SBA.
+O-Level track: ~190 students
 
 
 
@@ -57,8 +55,7 @@ Please refer to the [school fees page](https://staging.dt6ildc2mnegy.amplifyapp.
 
 ### 6. What are the school hours like in MGS?
 
-Lessons start at 7.30am on Mondays, 7.50am on Tuesdays, Wednesdays and Fridays and 8.20 am on Thursdays. In Semester 1, your child will stay home for
-independent learning on even week Thursdays. In Semester 2, she will stay home for independent learning on odd week Thursdays. 
+Lessons start at 7.30am on Mondays, 7.50am on Tuesdays, Wednesdays and Fridays and 8.20 am on Thursdays. In Semester 1, your child will stay home for independent learning on even week Thursdays. In Semester 2, she will stay home for independent learning on odd week Thursdays.
 
 Dismissal for Lower Secondary classes is at 2.15pm or 2.30pm daily. Enrichment/remedial lessons where necessary, are scheduled to take place on Tuesday afternoons. Please keep these afternoons free.
 
