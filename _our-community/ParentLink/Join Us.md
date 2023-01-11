@@ -4,13 +4,6 @@ permalink: /parentlink/join-us/
 description: ""
 third_nav_title: ParentLink
 ---
-
-
-
-
-
-
-
 ### How you can help:
 
 Class reps form an important network through which PL functions. They are appointed based on indications of interest and recommendations from level reps, PL committee and/or teachers. Class reps are encouraged to participate and engage other class parents to support PL events, offer/channel feedback and suggestions relevant to PL, assist teachers/the school when requested and initiate informal activities at class levels.  
@@ -23,7 +16,7 @@ In addition, parents can also be involved with career talks and providing work e
 
   
 
-### 2022 Prayer Meeting Dates:
+### 2023 Prayer Meeting Dates:
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -38,35 +31,48 @@ In addition, parents can also be involved with career talks and providing work e
 <thead>
   <tr>
     <th class="tg-bzr3">Schedule</th>
-    <th class="tg-bzr3">Combined<br>7.30 - 8.45am<br>Level 4 CCMC<br>Wesley Hall**</th>
-    <th class="tg-bzr3">Sec 4 Group<br>7.30 - 8.45am<br>Level 4 CCMC<br>Wesley Hall**</th>
-    <th class="tg-bzr3">Pri 6 Group<br>7.30 - 8.45am<br>Level 4 CCMC<br>Wesley Hall**</th>
+    <th class="tg-bzr3">Combined 7.30 - 8.45am <br>
+      If On-site: Level 4 CCMC Wesley Hall**</th>
+    <th class="tg-bzr3">Sec 4 Group 7.30 - 8.45am <br>
+      If On-site: Level 4 CCMC Wesley Hall**</th>
+    <th class="tg-bzr3">Pri 6 Group 7.30 - 8.45am <br>
+      If On-site: Level 4 CCMC Wesley Hall**</th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-uwnk">Term 1</td>
-    <td class="tg-uwnk">10 Jan, 7 Feb, 7 Mar</td>
-    <td class="tg-uwnk">10 Jan, 14 Feb, 7 Mar</td>
-    <td class="tg-uwnk">17 Jan, 21 Feb, 7 Mar</td>
+    <td class="tg-uwnk">11 Jan, 1 Feb (On-site) 1 Mar (Zoom)</td>
+    <td class="tg-uwnk">11 Jan (On-site) <br>
+      8 Feb, 8 Mar (Zoom)</td>
+    <td class="tg-uwnk">11 Jan (On-site) <br>
+      8 Feb, 8 Mar (Zoom)</td>
   </tr>
   <tr>
     <td class="tg-uwnk">Term 2</td>
-    <td class="tg-uwnk">4 Apr, 9 May</td>
-    <td class="tg-uwnk">4 Apr, 9 May</td>
-    <td class="tg-uwnk">18 Apr, 9 May</td>
+    <td class="tg-uwnk">12 Apr (Zoom) <br>
+      3 May (On-site)</td>
+    <td class="tg-uwnk">12 Apr (Zoom) <br>
+      10 May (Zoom)</td>
+    <td class="tg-uwnk">12 Apr (Zoom) <br>
+      10 May (Zoom)</td>
   </tr>
   <tr>
     <td class="tg-uwnk">Term 3</td>
-    <td class="tg-uwnk">18 Jul, 1 Aug</td>
-    <td class="tg-uwnk">18 Jul, 1 Aug</td>
-    <td class="tg-uwnk">18 Jul, 15 Aug</td>
+    <td class="tg-uwnk">5 Jul (Zoom) <br>
+      2 Aug (On-site)</td>
+    <td class="tg-uwnk">5 Jul (Zoom) <br>
+      2 Aug (On-site)</td>
+    <td class="tg-uwnk">5 Jul (Zoom) <br>
+      2 Aug (On-site)</td>
   </tr>
   <tr>
     <td class="tg-uwnk">Term 4</td>
-    <td class="tg-uwnk">12 Sep, 3 Oct</td>
-    <td class="tg-uwnk">12 Sep, 3 Oct</td>
-    <td class="tg-uwnk">19 Sep</td>
+    <td class="tg-uwnk">13 Sep (Zoom) <br>
+      4 Oct (Zoom)</td>
+    <td class="tg-uwnk">13 Sep (Zoom) <br>
+      11 Oct (Zoom)</td>
+    <td class="tg-uwnk">13 Sep (Zoom)</td>
   </tr>
 </tbody>
 </table>
