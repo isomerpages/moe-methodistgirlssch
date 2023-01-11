@@ -25,7 +25,7 @@ ParentLink aims to play a part in our daughters’ learning environment in the f
 All parents in MGS are automatically part of the school’s parent support group. Some parents will come forth as volunteers to help in various activities and administration; a few will offer to be representatives for their daughters’ classes and will be appointed class/level reps. These reps work with a central committee to organise activities and events for the year.  
   
 
-### 2022 ParentLink Committee
+### 2023 ParentLink Committee
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
