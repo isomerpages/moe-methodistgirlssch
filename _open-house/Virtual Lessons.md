@@ -38,7 +38,6 @@ This micro-lesson on World War II and Japanese Occupation is an extension lesson
 <a href="https://app.peardeck.com/student/tcjpncruj"  target="_blank">
 	<img src="/images/Secondary/oh-virt-lessons-math.jpg" align="left" style="width:100%">
 </a>
-
 <br clear="left">
 
 **By Mrs Deborah Ong**
