@@ -38,7 +38,9 @@ All parents in MGS are automatically part of the school’s parent support group
 <thead>
   <tr>
     <th class="tg-bzr3">Ex- officio Advisors:</th>
-    <th class="tg-uwnk">Mrs Valarie Wilson<br>Mrs Diana Goh</th>
+    <th class="tg-uwnk"><p>Mrs Valarie Wilson<br>
+      Mrs Diana Goh <br>
+      Mrs Koh Chern Ee</p></th>
   </tr>
 </thead>
 <tbody>
@@ -48,11 +50,14 @@ All parents in MGS are automatically part of the school’s parent support group
   </tr>
   <tr>
     <td class="tg-bzr3">Vice Chair:</td>
-    <td class="tg-uwnk">Ms Grace Chew<br>Ms Au Huey Ling</td>
+    <td class="tg-uwnk">Ms Grace Chew <br>
+      Mrs Andrea Friedman</td>
   </tr>
   <tr>
     <td class="tg-bzr3">Parent Liaison:</td>
-    <td class="tg-uwnk">Mr Ernest Teo<br>Mrs Andrea Friedman</td>
+    <td class="tg-uwnk">Mr Ernest Teo<br>
+      Mrs Andrea Friedman <br>
+      Ms Doreen Teo</td>
   </tr>
   <tr>
     <td class="tg-bzr3">Alumnae Liaison:</td>
@@ -60,7 +65,13 @@ All parents in MGS are automatically part of the school’s parent support group
   </tr>
   <tr>
     <td class="tg-bzr3">Members:</td>
-    <td class="tg-uwnk">Mr Edward Ong<br>Ms Janelyn Yeo<br>Mr Keira Singh<br>Mr Lionel Lim<br>Mrs Joanne Chee<br>Mrs Bow Yuen</td>
+    <td class="tg-uwnk">Mrs Bow Yuen <br>
+      Ms Janelyn Yeo <br>
+      Mrs Joanne Chee <br>
+      Mr Keira Singh <br>
+      Mr Lionel Lim <br>
+      Ms Melody Lim <br>
+      Ms Ng Lin-Li</td>
   </tr>
 </tbody>
 </table>
