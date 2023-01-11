@@ -42,7 +42,8 @@ In addition, parents can also be involved with career talks and providing work e
 <tbody>
   <tr>
     <td class="tg-uwnk">Term 1</td>
-    <td class="tg-uwnk">11 Jan, 1 Feb (On-site) 1 Mar (Zoom)</td>
+    <td class="tg-uwnk">11 Jan, 1 Feb (On-site) <br>
+			1 Mar (Zoom)</td>
     <td class="tg-uwnk">11 Jan (On-site) <br>
       8 Feb, 8 Mar (Zoom)</td>
     <td class="tg-uwnk">11 Jan (On-site) <br>
