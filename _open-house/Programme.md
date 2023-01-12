@@ -8,7 +8,7 @@ description: ""
 There is no registration required. [The "live" sessions](https://www.youtube.com/watch?v=t_FOOJbh-2U) will be launched here via our MGS YouTube channel on the day itself. See you soon!
 
 
-#### Programme 2022
+#### Programme 
 
 ##### 09:00 - 09:30
 Hear about the MGS Education and what it stands for in this dialogue between our School Leaders and Student Representatives.
