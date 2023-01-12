@@ -20,7 +20,7 @@ Talent Development| [Ms Ann Cheo](ann_cheo@schools.gov.sg)
 
 # Level / Subject Head 
 
-| Department | Head of Department | 
+| Department | Level/Subject Head | 
 | -------- | -------- |
 | Education Technology| [Mr Christopher Wong ](christopher_wong_say_eng@schools.gov.sg)
 English| [Mrs Sophia Koh ](koh_pei_chen_sophia@schools.gov.sg)
