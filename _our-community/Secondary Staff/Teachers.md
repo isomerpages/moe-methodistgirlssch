@@ -129,7 +129,7 @@ third_nav_title: Secondary Staff
 <td width="30%"><a href="mailto:chen_kok_peng@schools.gov.sg" target="">Mrs Chen Kok Peng</a>
 </td>
       
-<td width="30%"><a href="mailto:" target="">Ms Priscilia Tan</a>
+<td width="30%"><a href="mailto:tan_bishi_priscilla@schools.gov.sg" target="">Ms Priscilia Tan</a>
 </td>
       
 <td width="30%">&nbsp;
