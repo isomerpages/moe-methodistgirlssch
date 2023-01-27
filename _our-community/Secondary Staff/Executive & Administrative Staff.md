@@ -6,7 +6,6 @@ third_nav_title: Secondary Staff
 ---
 ### **ADMINISTRATIVE OFFICE**
 
-Manager: [Ms Sharon Yeo](mailto:Sharon_yeo_a@schools.gov.sg)  
 Senior Executive: Ms Ho Wai Fun  
 Senior Executive (Procurement): Ms Ruth Chng  
 Executive (Procurement) : Mdm Sulaigal  
@@ -14,8 +13,8 @@ Senior Officer: Ms Esvary
 
 ### **CORPORATE COMMUNICATIONS & OUTREACH**
 
-Director: [Mrs Joyce Ang](mailto:joyce_ang_a@schools.gov.sg)  
-Senior Manager: [Mrs Sue-Mei Tay](mailto:tay_sue-mei@schools.gov.sg)  
+Director (Student Affairs & Outreach): [Mrs Joyce Ang](mailto:joyce_ang_a@schools.gov.sg)  
+Senior Manager (Strategic Communications & Engagement): [Mrs Sue-Mei Tay](mailto:tay_sue-mei@schools.gov.sg)  
 Senior Executive: Mrs Michelle Lim  
 Executive: Mrs Joanna Kong  
 
