@@ -1,0 +1,31 @@
+collections:
+  our-community:
+    output: true
+    order:
+      - School Leaders.md
+      - Primary Staff/.keep
+      - Primary Staff/Key Personnel.md
+      - Primary Staff/Primary One.md
+      - Primary Staff/Primary Two.md
+      - Primary Staff/Primary Three.md
+      - Primary Staff/Primary Four.md
+      - Primary Staff/Primary Five.md
+      - Primary Staff/Primary Six.md
+      - Primary Staff/Executive & Administrative Staff.md
+      - Secondary Staff/.keep
+      - Secondary Staff/Key Personnel.md
+      - Secondary Staff/Teachers.md
+      - Secondary Staff/Executive & Administrative Staff.md
+      - Parents.md
+      - ParentLink/.keep
+      - ParentLink/About Us.md
+      - ParentLink/Events.md
+      - ParentLink/Join Us.md
+      - ParentLink/Publications.md
+      - Alumnae.md
+      - Covenant Community Methodist Church.md
+      - Careers at MGS/.keep
+      - Careers at MGS/Careers at MGS.md
+      - Careers at MGS/Teaching positions.md
+      - Careers at MGS/Relief teaching & temporary positions.md
+      - Careers at MGS/Non Teaching Positions.md

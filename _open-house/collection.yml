@@ -1,0 +1,11 @@
+collections:
+  open-house:
+    output: true
+    order:
+      - Programme 2022.md
+      - Principal's Welcome Message.md
+      - Student Voices.md
+      - DSA Talent Areas.md
+      - Virtual Lessons.md
+      - FAQs.md
+      - My Query.md

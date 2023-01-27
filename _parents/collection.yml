@@ -1,0 +1,20 @@
+collections:
+  parents:
+    output: true
+    order:
+      - Primary Parents/.keep
+      - Primary Parents/Booklist and Bookshop.md
+      - Primary Parents/Information.md
+      - Primary Parents/Parent Volunteer (PV) Application.md
+      - Primary Parents/Pupil Services.md
+      - Primary Parents/School Bus.md
+      - Secondary Parents/.keep
+      - Secondary Parents/Booklist and Bookshop.md
+      - Secondary Parents/Parents' Briefing.md
+      - Letters to Parents.md
+      - FamilyMatters@Schools.md
+      - MOE Parent Kit.md
+      - POSB Smart Buddy.md
+      - School Lockers.md
+      - School Uniforms.md
+      - Student Learning Space (SLS).md

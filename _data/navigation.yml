@@ -1,15 +1,98 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/Common/logo-mgs.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: About MGS
+    url: /about-us/principals-message/
+    sublinks:
+      - title: Principal's Message
+        url: /about-us/principals-message/
+      - title: Our Board of Management
+        url: /about-us/board-of-management/
+      - title: Our Corporate Video
+        url: /about-us/our-corporate-video/
+      - title: Our Heritage
+        url: /about-us/our-heritage/
+      - title: Our Identity
+        url: /about-us/our-identity/
+      - title: Our MG Houses
+        url: /about-us/our-mg-houses/
+      - title: PDPA Policy
+        url: /about-us/pdpa/
+      - title: School Safety
+        url: /about-us/safety/
+      - title: The MGS Store
+        url: https://form.jotform.com/221370850063448
+      - title: Contact Us
+        url: /contact-us/
+  - title: Our Community
+    url: /community/school-leaders/
+    sublinks:
+      - title: School Leaders
+        url: /community/school-leaders/
+      - title: Primary Staff
+        url: /primary/staff/key-personnel/
+      - title: Secondary Staff
+        url: /secondary/staff/key-personnel/
+      - title: Parents
+        url: /community/parents/letterstoparents/
+      - title: ParentLink
+        url: /parentlink/aboutus/
+      - title: Alumnae
+        url: https://www.mgsalumnae.com/
+      - title: CCMC
+        url: https://www.ccmc.org.sg/
+      - title: Careers at MGS
+        url: /Careers-at-MGS/
+  - title: Primary
+    url: /primary/mg-curriculum/academic/
+    sublinks:
+      - title: Academic
+        url: /primary/mg-curriculum/academic/
+      - title: CCA
+        url: /primary/mg-curriculum/cca/
+      - title: Curriculum
+        url: /primary/mg-curriculum/
+      - title: Key Programmes
+        url: /primary/Key-Programmes/alp/
+      - title: Student Development
+        url: /primary/mg-curriculum/student-development/
+      - title: Useful Links
+        url: /primary/useful-links/for-students/
+  - title: Secondary
+    url: /secondary/education-experience/
+    sublinks:
+      - title: Our Education Experience
+        url: /secondary/education-experience/
+      - title: Academic
+        url: /secondary/academic/aesthetics/
+      - title: Student Development
+        url: /secondary/student-development/
+      - title: CCA
+        url: /secondary/cca/cca/
+      - title: Key Programmes
+        url: /news-and-events/igl/
+      - title: Useful Links
+        url: /secondary/useful-links/for-students/
+  - title: Admissions
+    url: /primary/administration/admissions/mid-stream-admission-for-primary-school/
+    sublinks:
+      - title: Primary Admission
+        url: /primary/administration/admissions/mid-stream-admission-for-primary-school/
+      - title: Secondary Admission
+        url: /secondary/admissions/dsa-sec1/
+      - title: School Fees
+        url: /secondary/admissions/school-fees/primary/
+      - title: Financial Assistance
+        url: /admissions/fas-pri/
+      - title: Scholarships and Awards
+        url: /admissions/Awards-and-Scholarships/
+      - title: Leave of Absence
+        url: /secondary/admissions/leave-of-absence/
+  - title: News & Events
+    url: /news-n-events/calendar-of-events/
+    sublinks:
+      - title: Calendar of Events
+        url: /news-n-events/calendar-of-events/
+      - title: Open House
+        url: /news-and-events/mgsoh/
+      - title: Publications
+        url: /news-n-events/publications/
