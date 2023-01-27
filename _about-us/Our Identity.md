@@ -29,12 +29,12 @@ To Master To Grow To Serve
 
 
 
-## Values ##
+### Values ##
 
 
-### GODLINESS ###
+#### GODLINESS ###
 
-#### Being anchored by a greater purpose that directs one’s beliefs, thoughts and actions.
+##### Being anchored by a greater purpose that directs one’s beliefs, thoughts and actions.
 
   
 **Being Godly requires training and is important for this life and beyond.**
@@ -49,9 +49,9 @@ Jesus replied: "'Love the Lord your God with all your heart and with all your so
 
   
 
-### EXCELLENCE
+#### EXCELLENCE
 
-#### Being resilient and persistent despite challenges. Having an inner strength and positive attitude to give one’s best so that one can learn and grow.
+##### Being resilient and persistent despite challenges. Having an inner strength and positive attitude to give one’s best so that one can learn and grow.
 
   
 **Being excellent means glorifying God, not ourselves.**
@@ -65,9 +65,9 @@ Colossians 3:23-24, GNT: "Whatever you do, work at it with all your heart, as th
 
   
 
-### LOVE
+#### LOVE
 
-#### Being empathetic, compassionate and others-centred, seeking to understand, serve and give.
+##### Being empathetic, compassionate and others-centred, seeking to understand, serve and give.
 
 
 **Being loving is to love God and love others.**  
@@ -85,28 +85,28 @@ Love never fails."
 
 
 
-## Motto
+### Motto
 
 
-### TO MASTER
+#### TO MASTER
 
-#### Going deep
+##### Going deep
 
 To understand and know deeply.  
 To work hard to achieve mastery even when it is challenging.  
   
 
-### TO GROW
+#### TO GROW
 
-#### Moving forward
+##### Moving forward
 
 To step out of one's comfort zone to learn more.  
 To be curious and humble and willing to receive feedback.  
   
 
-### TO SERVE
+#### TO SERVE
 
-#### Moving upwards and outwards
+##### Moving upwards and outwards
 
 To give generously and sacrificially to meet the needs of others.  
 To give of self to God and others out of love.  
