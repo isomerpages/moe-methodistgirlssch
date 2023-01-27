@@ -10,3 +10,5 @@ third_nav_title: Secondary Parents
 1. [Access](https://drive.google.com/drive/folders/198X5hWbdCqpBUIaiiGRgQyvQJLzhCLz-?usp=share_link) our Parents' Briefing notes.
 
 2. [Access](https://drive.google.com/drive/folders/1vQrX3gpRdVtSLPezaa_o0XA5Vgzs1Uoo?usp=share_link) our Parents' Briefing slides.
+
+3. [View](https://www.youtube.com/watch?v=UR07CITaE4E) the Principal's Address
