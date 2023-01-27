@@ -21,23 +21,17 @@ The crest was introduced in 1965, but there is no record of who designed it.
 
 Content is not to be disseminated without prior written consent by MGS. Email:&nbsp;[mgss@mgs.sch.edu.sg](mailto:mgss@mgs.sch.edu.sg)
 	
-Miss Sophia Blackmore founded Methodist Girls’ School on 15 August 1887. Supported by the Women’s Foreign Missionary Society of the Methodist Episcopal Church in America, Miss Blackmore, an Australian missionary, came to Singapore with a mission – to provide girls an education.
-	
-The beginning was modest. In a shophouse in Short Street, she set up school for nine little girls whose fathers wanted them to be formally educated at a time when girls were discouraged from going to school. The fathers, all Tamil businessmen, donated money, furniture and the rent-free shophouse that became the Tamil Girls’ School, forerunner of Methodist Girls’ School. The school soon attracted so many other girls, all eager to learn, that in 1901 it had to relocate to Middle Road while a larger building was constructed in Short Street to house 150 pupils.
+Methodist Girls’ School (MGS) was founded by Miss Sophia Blackmore on 15 August 1887. Supported by the Women’s Foreign Missionary Society of the Methodist Episcopal Church in America, Miss Blackmore, an Australian missionary, came to Singapore with a mission – to provide girls with an education.
 
-Ten years later, the first Senior class of four girls sat for and passed the Cambridge Examination. The enrolment at MGS increased steadily, and by 1925 the school had to move to Mount Sophia where it remained until 1992 when increasing numbers once again dictated another move, this time to Blackmore Drive.
+Miss Blackmore started the school with nine girls in a shophouse along Short Street,  Their fathers who were Tamil businessmen, donated money and furniture which allowed the rent-free shophouse to become the Tamil Girls’ School, forerunner of Methodist Girls’ School. The school soon attracted other girls and in 1891 it temporarily relocated to Middle Road while a larger building was constructed on the Short Street premises to house 150 students.
 
-  
+10 years later, the first Senior class of four girls sat for and passed the Cambridge Examination. The enrolment at MGS continued to increase steadily, and by 1925 the school had to move to Mount Sophia. Due to the continued increase in numbers, the school moved again in 1992 to its present Blackmore Drive campus.
 
-MGS is special because of its spiritual emphasis. The chapel services and the daily devotions at the start of each day remind MGS girls that in the midst of all the hustle and bustle, we always have God to lean on. Every morning, MGS girls and their teachers are inspired to give of their best, and to make the most of the day for the glory of God.
+In 1989, MGS Secondary acquired independent status and thereafter the full school functioned in a single session. In 1997, the Secondary school started the Integrated Programme (IP) leading to the International Baccalaureate Diploma Programme (IBDP) at Anglo-Chinese School (Independent). This added pathway alongside the existing O Level programme, has enriched the MGS learning experience and provided different options to the students.
 
-  
+Today, MGS continues to nurture Godly women of Excellence with a heart of Love so that they can make a difference to the community, to Singapore and the world through their continued journey To Master, To Grow and To Serve.
 
-The love that abounds in the school touches everybody, regardless of nationality, race or religion. At MGS, all feel valued and loved.
 
-A hundred years after its founding, MGS sought greater autonomy from the Ministry of Education (MOE) to provide quality education for its girls; MOE responded with a counter-proposal for independence. Consequently, in January 1989 the Secondary school acquired independent status; thereafter the full school functioned in a single session, for the benefit of all. Independence, and the advantages that came with it, gave fresh impetus to the drive towards excellence.
-
-  
 **Unless the LORD builds the house, they labour in vain who build it; Unless the LORD guards the city, the watchman stays awake in vain. Psalm 127:1**
 
 
