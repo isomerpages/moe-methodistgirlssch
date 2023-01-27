@@ -4,9 +4,6 @@ permalink: /secondary/student-development/cce/
 description: ""
 third_nav_title: Student Development
 ---
-
-
-
 ## Overview
 
 
@@ -331,8 +328,8 @@ The milestone programmes for each level are as follows:
 
 **Secondary/Year 1**
 
-*   ROCs 1 : Adventure Camp
 *   Orientation Programme
+*   ROCs 1 : Adventure Camp
 
 **Secondary/Year 2**
 
@@ -345,10 +342,8 @@ The milestone programmes for each level are as follows:
 **Secondary/Year 4**
 
 *   ROCs 4 : Careers Festival
-*   Longest Day
 *   Baccalaureate Service
-
-  
+*   Longest Day  
 
   
 
@@ -366,7 +361,3 @@ The experiences include:
 *   STEAM programme activities
 *   Friend of Singa Ambassador
 *   House activities
-*   Sec 2 Immersion programme
-*   Sec 3 Overseas VIA trips
-*   Sec 3 Work Experience
-*   Sec 3 Regional Youth Conference (Biennial)
