@@ -83,55 +83,64 @@ Email: [sayguants@yahoo.com.sg](mailto:sayguants@yahoo.com.sg)
   <tbody>
     <tr>
       <td class="tg-kw6s">Up to 2km</td>
-      <td class="tg-kw6s">134.40</td>
-      <td class="tg-kw6s">156.80</td>
-      <td class="tg-kw6s">134.40</td>
-      <td class="tg-kw6s">156.80</td>
+      <td class="tg-kw6s">137.39</td>
+      <td class="tg-kw6s">160.29</td>
+      <td class="tg-kw6s">137.39</td>
+      <td class="tg-kw6s">160.29</td>
       <td class="tg-x1qg"></td>
       <td class="tg-x1qg"></td>
     </tr>
     <tr>
       <td class="tg-kw6s">&gt;2 – 4km</td>
-      <td class="tg-kw6s">162.40</td>
-      <td class="tg-kw6s">179.20</td>
-      <td class="tg-kw6s">162.40</td>
-      <td class="tg-kw6s">179.20</td>
+      <td class="tg-kw6s">166.01</td>
+      <td class="tg-kw6s">183.18</td>
+      <td class="tg-kw6s">166.01</td>
+      <td class="tg-kw6s">183.18</td>
       <td class="tg-x1qg"></td>
       <td class="tg-x1qg"></td>
     </tr>
     <tr>
       <td class="tg-kw6s">&gt;4 – 6km</td>
-      <td class="tg-kw6s">184.80</td>
-      <td class="tg-kw6s">201.60</td>
-      <td class="tg-kw6s">184.80</td>
-      <td class="tg-kw6s">201.60</td>
+      <td class="tg-kw6s">188.91</td>
+      <td class="tg-kw6s">206.08</td>
+      <td class="tg-kw6s">188.91</td>
+      <td class="tg-kw6s">206.08</td>
+      <td class="tg-x1qg"></td>
+      <td class="tg-x1qg"></td>
+    </tr>
+		  <tr>
+      <td class="tg-kw6s">&gt;6 – 8km</td>
+      <td class="tg-kw6s">211.81</td>
+      <td class="tg-kw6s">228.98</td>
+      <td class="tg-kw6s">211.81</td>
+      <td class="tg-kw6s">228.98</td>
       <td class="tg-x1qg"></td>
       <td class="tg-x1qg"></td>
     </tr>
     <tr>
       <td class="tg-kw6s">&gt;8 – 10km</td>
-      <td class="tg-kw6s">207.20</td>
-      <td class="tg-kw6s">224.00</td>
-      <td class="tg-kw6s">207.20</td>
-      <td class="tg-kw6s">224.00</td>
+      <td class="tg-kw6s">234.70</td>
+      <td class="tg-kw6s">251.88</td>
+      <td class="tg-kw6s">234.70</td>
+      <td class="tg-kw6s">251.88</td>
       <td class="tg-x1qg"></td>
       <td class="tg-x1qg"></td>
     </tr>
     <tr>
       <td class="tg-kw6s">&gt;10 – 12km</td>
-      <td class="tg-kw6s">252.00</td>
-      <td class="tg-kw6s">268.80</td>
-      <td class="tg-kw6s">252.00</td>
-      <td class="tg-kw6s">268.80</td>
+      <td class="tg-kw6s">257.60</td>
+      <td class="tg-kw6s">274.78</td>
+      <td class="tg-kw6s">257.60</td>
+      <td class="tg-kw6s">274.78</td>
       <td class="tg-x1qg"></td>
       <td class="tg-x1qg"></td>
     </tr>
     <tr>
       <td class="tg-kw6s">&gt;12 – 14km</td>
-      <td class="tg-kw6s">274.40</td>
-      <td class="tg-kw6s">291.20</td>
-      <td class="tg-kw6s">274.40</td>
-      <td class="tg-kw6s">291.20</td>
+      <td class="tg-kw6s">280.50</td>
+      <td class="tg-kw6s">297.67</td>
+      <td class="tg-kw6s">280.50</td>
+      <td class="tg-kw6s">297.67</td>
       <td class="tg-x1qg"></td>
       <td class="tg-x1qg"></td>
     </tr>
@@ -146,23 +155,23 @@ Email: [sayguants@yahoo.com.sg](mailto:sayguants@yahoo.com.sg)
     </tr>
     <tr>
       <td class="tg-kw6s">&gt;14 – 16km</td>
-      <td class="tg-kw6s">296.80</td>
-      <td class="tg-kw6s">313.60</td>
-      <td class="tg-kw6s">296.80</td>
-      <td class="tg-kw6s">313.60</td>
+      <td class="tg-kw6s">303.40</td>
+      <td class="tg-kw6s">320.57</td>
+      <td class="tg-kw6s">303.40</td>
+      <td class="tg-kw6s">320.57</td>
       <td class="tg-x1qg"></td>
       <td class="tg-x1qg"></td>
     </tr>
     <tr>
       <td class="tg-kw6s">&gt;16 – 18km</td>
-      <td class="tg-kw6s">319.20</td>
-      <td class="tg-kw6s">336.00</td>
-      <td class="tg-kw6s">319.20</td>
-      <td class="tg-kw6s">336.00</td>
+      <td class="tg-kw6s">326.30</td>
+      <td class="tg-kw6s">343.47</td>
+      <td class="tg-kw6s">326.30</td>
+      <td class="tg-kw6s">343.47</td>
       <td class="tg-x1qg"></td>
       <td class="tg-x1qg"></td>
     </tr>
   </tbody>
 </table>
 
-Please note that the indicative rates above reflect the mandated maximum service charge for the respective distances, and are inclusive of 7% GST.
+Please note that the indicative rates above reflect the mandated maximum service charge for the respective distances, and are inclusive of 8% GST.
