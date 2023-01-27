@@ -30,8 +30,7 @@ Miss Blackmore started the school with nine girls in a shophouse along Short Str
 In 1989, MGS Secondary acquired independent status and thereafter the full school functioned in a single session. In 1997, the Secondary school started the Integrated Programme (IP) leading to the International Baccalaureate Diploma Programme (IBDP) at Anglo-Chinese School (Independent). This added pathway alongside the existing O Level programme, has enriched the MGS learning experience and provided different options to the students.
 
 Today, MGS continues to nurture Godly women of Excellence with a heart of Love so that they can make a difference to the community, to Singapore and the world through their continued journey To Master, To Grow and To Serve.
-
-
+  
 **Unless the LORD builds the house, they labour in vain who build it; Unless the LORD guards the city, the watchman stays awake in vain. Psalm 127:1**
 
 
