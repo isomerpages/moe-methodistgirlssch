@@ -3,14 +3,14 @@ title: Curriculum
 permalink: /primary/mg-curriculum/
 description: ""
 ---
-* [2022 P1 Infosheet](https://drive.google.com/file/d/1F0RYNd4mwvT9eBHdxdMds_Qr9AXny0rT/view?usp=sharing)  
+* [2023 P1 Infosheet](https://drive.google.com/file/d/1SyF-J1j5nTUseqeYODkxBmLlTwk-aNZv/view?usp=share_link)  
 
-* [2022 P2 Infosheet](https://drive.google.com/file/d/17nyHLoMau39mye8oETDx81_QUnknmTky/view?usp=sharing)  
+* [2023 P2 Infosheet](https://drive.google.com/file/d/1coVV14IFlOw2pTe-LoFs5C1k_kV-oPSP/view?usp=share_link)  
 
-* [2022 P3 Infosheet](https://drive.google.com/file/d/1Y5O7_0u_gJ_Ki6crDd8J160TcJF_NrK8/view?usp=sharing)  
+* [2023 P3 Infosheet](https://drive.google.com/file/d/1k0d0IQ1hFgO4X2QaR-N4YiSTNxqey-UV/view?usp=share_link)  
 
-* [2022 P4 Infosheet](https://drive.google.com/file/d/1ensELbnXDMdeu8QRfCDYbzN7br0mOfCh/view?usp=sharing)  
+* [2023 P4 Infosheet](https://drive.google.com/file/d/1GQjr6xQC03qwtQxU7g8sms9-LyI9_j5f/view?usp=share_link)  
 
-* [2022 P5 Infosheet](https://drive.google.com/file/d/1SX8iwdH10cDV4ehLjwmW-hwdt53oVYTM/view?usp=sharing)  
+* [2023 P5 Infosheet](https://drive.google.com/file/d/1BXkovPm8CYMEorvBQhnF_d6XMTjDTqvq/view?usp=share_link)  
 
-* [2022 P6 Infosheet](https://drive.google.com/file/d/1ILky4m27C-HSBw7GSdD9rj_hJsiXaWeP/view?usp=sharing)
+* [2023 P6 Infosheet](https://drive.google.com/file/d/1em5jojrKCzbIJXM98jvI9bj_R1tdVwZP/view?usp=share_link)
