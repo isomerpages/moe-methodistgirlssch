@@ -17,7 +17,7 @@ b. **Student-initiated Learning (SIL)**. Dedicated time (at least 2-3 hrs) for s
 In addition to the above, there will be three days of full **Home-based Learning (HBL)** for all Sec 1 to 3 students in Singapore from 25 to 27 July.  During HBL, students will have a blend of both online and offline lessons, according to the timetable for that day. 
 
 
-## ILD and HBL Dates for 2023 
+## ILD Dates for 2023 
 For ease of reference, the dates for ILD and HBL this year are found below. These apply to all levels from Secondary 1 to 4.
 
 
@@ -28,7 +28,3 @@ Term 2: 30 Mar, 13 Apr, 27 April, 11 May, 25 May
 
 
 ### ILD Semester 2 (TBC)
-
-
-### HBL
-Term 3: 25 to 27 July (Sec 1 – 3 only)
