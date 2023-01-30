@@ -28,7 +28,8 @@ The school also promotes Citizenship Education through the commemoration of the 
 
   
 
-### Inclusion of Performance Tasks (for Primary Three to Primary Six) 
+### Inclusion of Performance Tasks 
+### (for Primary Three to Primary Six) 
 
   
 
