@@ -357,12 +357,9 @@ The milestone programmes for each level are as follows:
 
 The MGS girl is presented with a plethora of experiences and opportunities for growth, socialisation and self-discovery. These are offered both at each stage of their schooling years and as the opportunities arise. These are optional and we encourage students to take up some of these offers to fuel an existing interest, learn something new, discover new knowledge, practice planning and leadership, forge friendships and make memories.
 
-  
-
 The experiences include:
-
-*   Self-initiated VIA projects
-*   WoW Space activities
-*   STEAM programme activities
-*   Friend of Singa Ambassador
 *   House activities
+*   Independent Learning Day
+*   Self-initiated VIA projects
+*   STEAM programme activities
+*   WoW Space activities
