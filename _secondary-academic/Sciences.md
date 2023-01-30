@@ -3,10 +3,6 @@ title: Sciences
 permalink: /secondary/academic/sciences/
 description: ""
 ---
-
-
-
-
 ### Vision
 
 Science literate MGS students are logical thinkers who are technologically, scientifically, and mathematically literate and can tackle complex questions, investigate global issues, and develop solutions for real world problems by applying the disciplinary practice of Science.   
@@ -36,9 +32,28 @@ By the end of the 4th year in MGS, all students should have gained sufficient kn
 
 ### Curriculum Structure
 
-Sec/Year 1 & 2: Lower Secondary Science 
+<table style="width: 100%;">
+    <tbody>
+      <tr>
+        <th style="width: 50%;">Sec/Year 1 &amp; 2
+        </th>
+        <th style="width: 50%;">Sec/Year 3 &amp; 4
+        </th>
+      </tr>
+      <tr>
+        <td style="width: 50%;">
+          <div style="text-align: left;">Lower Secondary Science
+          </div>
+        </td>
+        <td style="width: 50%;">
+          1. Biology <BR>
+					2. Chemistry <BR>
+					3. Physics            
+        </td>
+      </tr>
+    </tbody>
+  </table>
 
-Sec/Year 3 & 4: Biology, Chemistry and Physics
 
 
 ### Syllabuses (SEAB/internal)
