@@ -315,16 +315,15 @@ Lessons and activities in the CCE Curriculum are selected and customised for the
 </table>
 <br>
 
+## MGS Growth Journey
+![](/images/Secondary/growth%20journey-01.png)
+
 
 ## MGS Milestone Programmes
 
-Enrichment activities or Milestone Programmes are organized for each cohort. These activities provide authentic contexts for learning as well as opportunities for students to practice the social-emotional skills they have learnt in class. Activities are designed for social mixing and communication where through common tasks and challenges, students take steps forward to interact with those beyond their class and school.
-
-  
+Enrichment activities or Milestone Programmes are organized for each cohort. These activities provide authentic contexts for learning as well as opportunities for students to practice the social-emotional skills they have learnt in class. Activities are designed for social mixing and communication where through common tasks and challenges, students take steps forward to interact with those beyond their class and school.  
 
 The milestone programmes for each level are as follows:
-
-  
 
 **Secondary/Year 1**
 
