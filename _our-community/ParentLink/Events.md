@@ -29,9 +29,13 @@ third_nav_title: ParentLink
     <td class="tg-bzr3">February 11, Saturday</td>
     <td class="tg-uwnk"><span style="color:inherit;background-color:transparent">P1 Picnic</span></td>
   </tr>
-  <tr>
+	<tr>
+    <td class="tg-bzr3">May 13, Saturday</td>
+    <td class="tg-uwnk"><span style="color:inherit;background-color:transparent">Mother-Daughter Bonding</span></td>
+  </tr>
+	<tr>
     <td class="tg-bzr3">July 1, Saturday</td>
-    <td class="tg-uwnk"><span style="color:inherit;background-color:transparent">Carnival</span></td>
+    <td class="tg-uwnk"><span style="color:inherit;background-color:transparent">MGS Carnival</span></td>
   </tr>
   <tr>
     <td class="tg-bzr3">September 18, Monday</td>
