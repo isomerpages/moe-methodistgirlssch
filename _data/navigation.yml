@@ -49,14 +49,14 @@ links:
     sublinks:
       - title: Academic
         url: /primary/mg-curriculum/academic/
-      - title: CCA
-        url: /primary/mg-curriculum/cca/
       - title: Curriculum
         url: /primary/mg-curriculum/
-      - title: Key Programmes
-        url: /primary/Key-Programmes/alp/
       - title: Student Development
         url: /primary/mg-curriculum/student-development/
+      - title: CCA
+        url: /primary/mg-curriculum/cca/
+      - title: Key Programmes
+        url: /primary/Key-Programmes/alp/
       - title: Useful Links
         url: /primary/useful-links/for-students/
   - title: Secondary
