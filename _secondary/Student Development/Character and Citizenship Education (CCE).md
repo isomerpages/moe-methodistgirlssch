@@ -330,6 +330,7 @@ The milestone programmes for each level are as follows:
 
 *   Orientation Week
 *   Adventure Camp
+*   Values in Action
 
 **Secondary/Year 2**
 
@@ -338,7 +339,7 @@ The milestone programmes for each level are as follows:
 
 **Secondary/Year 3**
 
-*   MOE-OBS
+*   MOE-OBS Challenge
 *   Values in Action
 *   NRIC Presentation Ceremony
 
@@ -347,6 +348,7 @@ The milestone programmes for each level are as follows:
 *   Careers Festival
 *   Baccalaureate Service
 *   Longest Day  
+*   Values in Action
 
   
 
