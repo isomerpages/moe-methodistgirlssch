@@ -29,7 +29,7 @@ third_nav_title: Primary Staff
 # Christian Ministry
 |||
 | -------- | -------- |
-|Christian Ministry Staff| [Ms Corrine Chee](mailto:corrine_chee@mgs.sch.edu.sg)
+|Christian Ministry Staff| [Ms Corrine Chee](mailto:corrine_chee@mgs.sch.edu.sg)|
 
 # Information Technology Department
 
