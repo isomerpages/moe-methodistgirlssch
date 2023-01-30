@@ -23,7 +23,7 @@ The learning objectives, outcomes and approaches of the Art programme in MGS are
 
   
 
-###### Assessment
+# Assessment
 
 Portfolio Assessment is conducted once a semester.
 
