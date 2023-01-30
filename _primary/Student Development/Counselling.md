@@ -29,7 +29,7 @@ Students may experience situations that are difficult to cope with.  Having sup
 
 - Problems with grief/loss, anxiety, stress, learning, etc.
 
-###How can I get in touch with our School Counsellor?
+### How can I get in touch with our School Counsellor?
 
 *   Students and parents may request to do so: 
 	*  Through their teachers 
