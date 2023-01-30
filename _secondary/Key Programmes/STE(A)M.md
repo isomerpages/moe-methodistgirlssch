@@ -16,7 +16,7 @@ What makes the STE(A)M educational experience in MGS unique? [Learn](https://dri
 
 ## STEAM Week 
 
-The [organisation of MGS STEM Week](https://drive.google.com/file/d/1IEVrZxpZXXveSXX5XxhgBP2zeIaneRpj/view) was based on MOE’s ALP initiative and MGS’s strategic direction of **Make Space**, **Grow Them** and **Spark Joy**.
+The [organisation of MGS STEAM Week](https://drive.google.com/file/d/1IEVrZxpZXXveSXX5XxhgBP2zeIaneRpj/view) was based on MOE’s ALP initiative and MGS’s strategic direction of **Make Space**, **Grow Them** and **Spark Joy**.
 
 <div style="width:100%; height:400px">
   <iframe class="ive_eobj_center" allowfullscreen="" frameborder="0" title="MGS Heritage Video" src="https://www.youtube.com/embed/7KLOPyL4PVI" height="100%" width="100%">
