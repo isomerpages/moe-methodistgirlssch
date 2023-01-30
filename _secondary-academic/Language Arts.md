@@ -3,6 +3,8 @@ title: Language Arts
 permalink: /secondary/academic/language-arts/
 description: ""
 ---
+<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRh5v2KcM72WbMPPv6dIUE9rr2gworrvK0knM0BwCQSRuh80wFl9cRCCxHJd7twA59qBTb7jw22gi4Z/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+
 ### Vision
 
 Every MGS girl an articulate communicator.
@@ -13,9 +15,9 @@ Every MGS girl an articulate communicator.
 
 The department’s goals for language learning are:
 
-*   To develop in our pupils a high degree of proficiency in EL; achieving mastery in spoken and written English and a lifelong love for Literature
-*   To prepare pupils for the future through developing their communication skills and showing them the inter-connectedness of knowledge
-*   To create a curriculum that develops in students a strong foundation in oral skills, grammar knowledge and literacy skills 
+*   To develop in our pupils a high degree of proficiency in EL; achieving&nbsp;mastery in spoken and written English and a lifelong love for Literature
+*   To prepare pupils for the future through developing their communication skills and showing them the inter-connectedness of&nbsp;knowledge
+*   To create a curriculum that develops in students a strong foundation in&nbsp;oral skills, grammar knowledge and literacy skills&nbsp;
 *   To extend learning of students at increasing levels of complexity
 
   
@@ -49,11 +51,11 @@ Effective assessments give students feedback on how well they have understood th
 
 All students will have opportunities to pursue their interests through the following:  
 
-*   Creative Arts Programme
-*   RCS Commonwealth Essay Writing Competition
-*   YMCA Plain English Speaking Awards
-*   ACJC Orator’s Trophy
-*   Book Fiesta
-*   MGS Dramatic Monologue
-*   Tick Talk      
-*   Future Problem Solving Programme
+* Creative Arts Programme
+* RCS Commonwealth Essay Writing Competition
+* YMCA Plain English Speaking Awards
+* ACJC Orator’s Trophy
+* Book Fiesta
+* MGS Dramatic Monologue
+* Tick Talk
+* Future Problem Solving Programme
