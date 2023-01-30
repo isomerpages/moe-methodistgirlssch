@@ -9,7 +9,7 @@ third_nav_title: ParentLink
 		 
 ### Mission Statement
 
-ParentLink seeks to engage parents in partnership with the school to enrich the school lives of MGS girls.  
+ParentLink (PL) seeks to engage parents in partnership with the school to enrich the school lives of MGS girls.  
 
 ### The Role of MGS ParentLink
 
