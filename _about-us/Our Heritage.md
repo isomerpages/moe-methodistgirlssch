@@ -7,7 +7,7 @@ description: ""
 
 <img src="/images/Common/logo-mgs.png" style="width:30%">
 
-The change in the school crest was initiated by the Principal Miss Lau Meau Eng (1957-1972) as the old badge in enamel could only be made in England.
+The change in the school crest was initiated by Principal Miss Lau Meau Eng (1957-1972) as the old badge in enamel could only be made in England.
 
 The crest was introduced in 1965, but there is no record of who designed it.
 
