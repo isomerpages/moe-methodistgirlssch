@@ -328,20 +328,23 @@ The milestone programmes for each level are as follows:
 
 **Secondary/Year 1**
 
-*   Orientation Programme
-*   ROCs 1 : Adventure Camp
+*   Orientation Week
+*   Adventure Camp
 
 **Secondary/Year 2**
 
-*   ROCs 2 : Road Less Travelled Learning Journeys
+*   Learning Journey to National Museum
+*   Values in Action
 
 **Secondary/Year 3**
 
-*   ROCs 3 : MOE-OBS Challenge Camp
+*   MOE-OBS
+*   Values in Action
+*   NRIC Presentation Ceremony
 
 **Secondary/Year 4**
 
-*   ROCs 4 : Careers Festival
+*   Careers Festival
 *   Baccalaureate Service
 *   Longest Day  
 
