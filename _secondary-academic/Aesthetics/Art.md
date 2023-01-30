@@ -6,12 +6,7 @@ third_nav_title: Aesthetics
 ---
 ## Aims and Objectives
 
-The Art Department in MGS aims to build confident art learners who communicate visually to create meaning and connections with the society and culture. The programme delivers a future-oriented art curriculum to develop art learners’ competencies and appreciation for art as they perceive the world with increased awareness and aesthetic sensitivity.
-
-<div style="width:100%; height:400px">
-  <iframe class="ive_eobj_center" allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/CA77VX-84so" height="100%" width="100%">
-  </iframe>
-</div>
+The [Art Department](https://www.youtube.com/watch?v=CA77VX-84so) in MGS aims to build confident art learners who communicate visually to create meaning and connections with the society and culture. The programme delivers a future-oriented art curriculum to develop art learners’ competencies and appreciation for art as they perceive the world with increased awareness and aesthetic sensitivity.
 
 
 ## Pedagogy
