@@ -13,7 +13,7 @@ Please access the [MOE website](https://www.moe.gov.sg/secondary/s1-posting/res
   
 Note that only successful applicants will be notified.
 
-**VIA old table of activities
+**Student Development - VIA (old table of activities)
 
 <style type="text/css">
 .tg {
