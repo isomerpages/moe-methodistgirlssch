@@ -13,4 +13,4 @@ RYC aims to be the premier platform where students from Singapore and the region
 
 [Here are the themes](https://docs.google.com/document/d/e/2PACX-1vR_9YHNFuR_to6bcA3Eibjrw8y6boN-0eDBUhieSjtkXZtAdeqZU39RjzpiB3QGaLH1Nch-Ur_BKaAA/pub) our Conference has addressed over the past years.
 
-**RYC is suspended for the time being**.
+RYC is suspended for the time being.
