@@ -13,7 +13,7 @@ Education Technology|[Ms Rebekah Foong](mailto:foong_chen_kai_rebekah@schools.go
 English| [Mrs Jamie Chaw](mailto:lo_hwee_ling_jamie@schools.gov.sg)
 Mathematics|[Ms Adene Chua ](mailto:chua_yuen_yee@schools.gov.sg)
 Mother Tongue|[Ms Linda Chan ](mailto:chan_pei_chui@schools.gov.sg)
-Science|[Mrs Brenda Ow](mailto:koh_li_ying_brenda@schools.gov.sg)
+School Staff Developer|[Mrs Brenda Ow](mailto:koh_li_ying_brenda@schools.gov.sg)
 Science|[Mrs Velicia Lim](mailto:foo_wei_tint_velicia@schools.gov.sg)
 Talent Development| [Ms Ann Cheo](mailto:ann_cheo@schools.gov.sg)
 
