@@ -27,12 +27,8 @@ Term 1: 12 Jan, 26 Jan, 9 Feb, 23 Feb, 9 Mar
 Term 2: 30 Mar, 13 Apr, 27 April, 11 May, 25 May
 
 
-### ILD Semester 2 
-Term 3: 13 July, 24 Aug
-
-Term 4: 14 Sep, 28 Sep (Sec 1 – 3 only)
+### ILD Semester 2 (TBC)
 
 
 ### HBL
 Term 3: 25 to 27 July (Sec 1 – 3 only)
-
