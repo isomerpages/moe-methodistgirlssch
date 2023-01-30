@@ -4,7 +4,7 @@ permalink: /primary/staff/executive-n-administrative-staff/
 description: ""
 third_nav_title: Primary Staff
 ---
-##### Allied Educator
+# Allied Educator
 
 |||
 | -------- | -------- |
@@ -14,7 +14,7 @@ third_nav_title: Primary Staff
 |Allied Educator (Teaching and Learning)| [Ms Lam Yueh Hwa Jessica](mailto:lam_yueh_hwa_jessica@schools.gov.sg)|
 
 
-##### Administration Office
+# Administration Office
 
 |||
 | -------- | -------- |
@@ -26,12 +26,12 @@ third_nav_title: Primary Staff
 |Operations Support Officer|Mdm Tang Lai Mui
 
 
-##### Christian Ministry
+# Christian Ministry
 |||
 | -------- | -------- |
 |Christian Ministry Staff| [Ms Corrine Chee](mailto:corrine_chee@mgs.sch.edu.sg)
 
-##### Information Technology Department
+# Information Technology Department
 
 
 |||
@@ -40,13 +40,13 @@ third_nav_title: Primary Staff
 |Desktop Engineer|Mr Francisco
 |Desktop Engineer|Miss Nur Izzati
 
-##### Library
+# Library
 
 |||
 | -------- | -------- |
 |Librarian| Mdm Rozana Zainal
 
-##### Operations Office
+# Operations Office
 
 |||
 | -------- | -------- |
@@ -57,7 +57,7 @@ third_nav_title: Primary Staff
 |Operations Support Officer|Mdm Kee Geok Wah
 |Operations Support Officer|Mdm Subramaniam Meenal
 
-##### Teachers' Support
+# Teachers' Support
 
 |||
 | -------- | -------- |
