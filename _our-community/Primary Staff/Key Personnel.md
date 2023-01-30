@@ -39,11 +39,11 @@ Science|[Mrs Mun Poh Hoon](mailto:chua_poh_hoon@schools.gov.sg)
 
 | Department | Level  Head|
 | -------- | -------- |
-|English| [Ms Shamini Menon](mailto:shamini_menon@schools.gov.sg)
-|English| [Mrs Gina Low](mailto:gina_chia@schools.gov.sg)
-|Mathematics| [Dr Soh Karen Jasmine](mailto:soh_karen_jasmine@schools.gov.sg)
-|Mathematics| [Ms Belinda Goh](mailto:goh_gek_kheng_belinda@schools.gov.sg)
-|Mother Tongue| [Mrs Michelle Sin](mailto:michelle_sin@schools.gov.sg)
-|Science| [Mdm Li Huixing](mailto:loi_huey_shing@schools.gov.sg)
-|Education Support| [Mrs May Yeo](mailto:nam_mei_lin_may@schools.gov.sg)
-|Lower Primary Learners| [Mdm Basheera Begum](mailto:basheera_begum_syed_sult@schools.gov.sg)
+|English| [Ms Shamini Menon](mailto:shamini_menon@schools.gov.sg)| 
+|English| [Mrs Gina Low](mailto:gina_chia@schools.gov.sg)| 
+|Mathematics|[Dr Soh Karen Jasmine](mailto:soh_karen_jasmine@schools.gov.sg)| 
+|Mathematics| [Ms Belinda Goh](mailto:goh_gek_kheng_belinda@schools.gov.sg)| 
+|Mother Tongue| [Mrs Michelle Sin](mailto:michelle_sin@schools.gov.sg)| 
+|Science| [Mdm Li Huixing](mailto:loi_huey_shing@schools.gov.sg)| 
+|Education Support| [Mrs May Yeo](mailto:nam_mei_lin_may@schools.gov.sg)| 
+|Lower Primary Learners| [Mdm Basheera Begum](mailto:basheera_begum_syed_sult@schools.gov.sg)| 
