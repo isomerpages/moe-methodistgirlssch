@@ -4,7 +4,7 @@ permalink: /primary/mg-curriculum/student-development/cce/sexuality-education/
 description: ""
 third_nav_title: Student Development
 ---
-**Moe Sexuality Education in Schools** 
+# Moe Sexuality Education in Schools
 
 Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.
 
@@ -29,8 +29,7 @@ The key messages of Sexuality Education are: 
 (iv)         Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones. 
 
 You may click [here](https://www.moe.gov.sg/programmes/sexuality-education) for more information on MOE Sexuality Education.
-
-**Overview of METHODIST GIRLS’ SCHOOL (PRIMARY) Sexuality Education Programme for 2023**
+### Overview of METHODIST GIRLS’ SCHOOL (PRIMARY) Sexuality Education Programme for 2023
 
 Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law.
 
@@ -44,7 +43,7 @@ b.                       Form Teacher Guidance Period (FTGP)
 
 c.                       Character and Citizenship Education (CCE)
 
-**Sexuality Education:**
+### Sexuality Education:
 
 “Curious Minds (2nd Edition)” (Primary 5 & 6) Teaching & Learning resource package
 
@@ -54,7 +53,7 @@ The Primary 5 & 6 Sexuality Education Teaching and Learning resource package, �
 
   
 
-###### Information for Parents  
+### Information for Parents  
 
 Parents may opt their children out of Sexuality Education lessons, and/or supplementary sexuality education programmes by MOE-approved external providers.
 
