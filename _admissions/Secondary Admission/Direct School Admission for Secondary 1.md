@@ -17,7 +17,7 @@ Thank you for your patience and all the best for your PSLE!
 
 ## Direct School Admission Into MGS Secondary 1 In 2023
 
-MGS invites Primary 6 students to participate in this year’s DSA exercise. As MGS is a dual track school with both O-level track and IP track, our DSA talent areas are applicable for both IP and 'O' Level Programme.
+MGS invites Primary 6 students to participate in this year’s DSA exercise. As MGS is a dual track school with both O-level track and IP track, our DSA talent areas are applicable for both Integrated Programme and O-Level Programme.
 
 ### MGS DSA TALENT AREAS:
 
