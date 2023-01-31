@@ -70,10 +70,9 @@ Please refer to [this link](https://www.moe.gov.sg/secondary/courses/express/el
     </tr>
     <tr>
       <td class="tg-5hwe">Years 3 and 4</td>
-      <td class="tg-5hwe"><p>20th Century World History: <br>
+      <td class="tg-5hwe">20th Century World History: <br>
         - World Wars <br>
-        - 
-Cold War: Europe, Asia, and South-East Asia </p></td>
+        - Cold War: Europe, Asia, and South-East Asia </p></td>
     </tr>
   </tbody>
 </table>
