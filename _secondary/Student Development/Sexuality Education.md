@@ -120,7 +120,7 @@ b. [Character and Citizenship Education](https://www.moe.gov.sg/education-in-sg
   </tbody>
 </table>
 
-<p>
+<p></p>
 	
 <table width="100%" class="tg">
 <thead>
@@ -148,7 +148,8 @@ b. [Character and Citizenship Education](https://www.moe.gov.sg/education-in-sg
 </tbody>
 </table>
 
-<p>
+<p></p>
+
 
 <table width="100%" class="tg">
   <thead>
@@ -177,7 +178,8 @@ b. [Character and Citizenship Education](https://www.moe.gov.sg/education-in-sg
   </tbody>
 </table>
 
-<p>
+<p></p>
+
 	
 <table width="100%" class="tg">
   <thead>
