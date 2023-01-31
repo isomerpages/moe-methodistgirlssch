@@ -99,27 +99,29 @@ b. [Character and Citizenship Education](https://www.moe.gov.sg/education-in-sg
   </thead>
   <tbody>
     <tr>
-      <td class="tg-auhb">Lesson</span></td>
-      <td class="tg-auhb">Learning Objectives </span></td>
+      <td class="tg-auhb">Lesson</td>
+      <td class="tg-auhb">Learning Objectives</td>
     </tr>
     <tr>
-      <td class="tg-2w19">Steady or Not?</span></td>
-      <td class="tg-2w19">Recognise the importance of cultivating friendships with members of the same and opposite sex</span><br>
-        Recognise what constitutes healthy and unhealthy relationships</span><br>
-        Distinguish between love and infatuation</span></td>
+      <td class="tg-2w19">Steady or Not?</td>
+      <td class="tg-2w19">Recognise the importance of cultivating friendships with members of the same and opposite sex<br>
+        Recognise what constitutes healthy and unhealthy relationships<br>
+        Distinguish between love and infatuation</td>
     </tr>
     <tr>
-      <td class="tg-2w19">Being Aware, Being Safe</span></td>
-      <td class="tg-2w19">Be aware of the dangers of interacting online, including grooming by predators.</span></td>
+      <td class="tg-2w19">Being Aware, Being Safe</td>
+      <td class="tg-2w19">Be aware of the dangers of interacting online, including grooming by predators.</td>
     </tr>
     <tr>
-      <td class="tg-2w19">More Than Meets the Eye</span></td>
-      <td class="tg-2w19">Public displays of affection</span><br>
-        Impact of consuming pornography</span></td>
+      <td class="tg-2w19">More Than Meets the Eye</td>
+      <td class="tg-2w19">Public displays of affection<br>
+        Impact of consuming pornography</td>
     </tr>
   </tbody>
 </table>
 
+<p>
+	
 <table width="100%" class="tg">
 <thead>
   <tr>
@@ -146,7 +148,7 @@ b. [Character and Citizenship Education](https://www.moe.gov.sg/education-in-sg
 </tbody>
 </table>
 
-
+<p>
 
 <table width="100%" class="tg">
   <thead>
@@ -174,7 +176,9 @@ b. [Character and Citizenship Education](https://www.moe.gov.sg/education-in-sg
     </tr>
   </tbody>
 </table>
-<p>&nbsp;</p>
+
+<p>
+	
 <table width="100%" class="tg">
   <thead>
   <tr>
