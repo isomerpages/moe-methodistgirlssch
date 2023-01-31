@@ -27,7 +27,3 @@ third_nav_title: Useful Links
 
 * [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)
  
-
-### MGS Passport
-
-[Download MGS passport (versions from 2020)](https://drive.google.com/open?id=1WjoGlZg5ql7ETc8qLLEh6SeW3jESWxHb)
