@@ -23,5 +23,4 @@ Creative Inquirers who explore and evaluate real-world issues and different pers
     
 *   MOE Early Intervention Programmes - Learning Support Programme (LSP), School-based Dyslexic Remediation (SDR) and Reading Remediation Programme (RRP)
 
-Refer to MOE syllabus here. 
-https://www.moe.gov.sg/primary/curriculum/syllabus
+Refer to MOE syllabus [here](https://www.moe.gov.sg/primary/curriculum/syllabus). 
