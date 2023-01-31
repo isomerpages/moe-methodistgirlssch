@@ -23,7 +23,7 @@ Executive: Mrs Joanna Kong
 Education and Career Guidance (ECG) Counsellor: [Ms Sylvia Ng](mailto:sylvia_ng_pik_san@schools.gov.sg)  
 Education and Career Guidance (ECG) Counsellor: [Dr Tan Lay Theng](mailto:tan_lay_theng@schools.gov.sg)  
 Learning and Behavioural Support: [Ms Nimala Rau](mailto:Nimala_Mokhna_Rau@schools.gov.sg)  
-School Counselor: [Ms Goh Chor Siang](mailto:goh_chor_siang@schools.gov.sg)  
+School Counsellor: [Ms Goh Chor Siang](mailto:goh_chor_siang@schools.gov.sg)  
 
 ### **CHRISTIAN MINISTRY**
 
