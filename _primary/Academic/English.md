@@ -22,3 +22,6 @@ Creative Inquirers who explore and evaluate real-world issues and different pers
 *   MOE STELLAR 1.0 and 2.0 Curriculum
     
 *   MOE Early Intervention Programmes - Learning Support Programme (LSP), School-based Dyslexic Remediation (SDR) and Reading Remediation Programme (RRP)
+
+Refer to MOE syllabus here. 
+https://www.moe.gov.sg/primary/curriculum/syllabus
