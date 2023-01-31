@@ -12,9 +12,7 @@ ILDs will comprise:
 a. **Curriculum coverage**. 2-4 hours of largely asynchronous learning. Students can plan and manage their learning at a suitable pace for themselves.
 
 b. **Student-initiated Learning (SIL)**. Dedicated time (at least 2-3 hrs) for students to explore interests and learn outside the curriculum. These learning activities can be fully student-initiated or selected from a list of school-curated learning activities. Students are encouraged to explore the three areas of ICT, Well-being and Academia, and to document their growth journey in their MGS Passport.  
- 
 
-In addition to the above, there will be three days of full **Home-based Learning (HBL)** for all Sec 1 to 3 students in Singapore from 25 to 27 July.  During HBL, students will have a blend of both online and offline lessons, according to the timetable for that day. 
 
 
 ## ILD Dates for 2023 
