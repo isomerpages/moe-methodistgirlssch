@@ -14,7 +14,7 @@ Please refer to [this link](https://www.moe.gov.sg/secondary/courses/express/el
 
  
 
-#### Integrated Programme
+### Integrated Programme
 
 <style type="text/css">
 .tg {
@@ -102,7 +102,7 @@ Please refer to [this link](https://www.moe.gov.sg/secondary/courses/express/el
 </table>
 
 
-## Curriculum
+### Curriculum
 
 The broad goals of the subject were to develop both the cognitive and affective domains. The curriculum provides students with spatial perspective to physical and human phenomena and to equip them with a critical and analytical mind to make connections to the real world.  
   
@@ -144,7 +144,7 @@ Therefore, the Geography curriculum draws on UbD as a design framework such that
 This curriculum is taught using **Inquiry-based Learning** which promotes student-centred learning where students are actively engaged in constructing geographical knowledge.  
   
 
-## Assessment
+### Assessment
 
 
 #### Assessment Objectives
