@@ -4,10 +4,10 @@ permalink: /secondary/academic/humanities/history/
 description: ""
 third_nav_title: Humanities
 ---
-(‘O’ Level and Integrated Programme)
+History is offered as a subject in the 'O’ Level and Integrated Programme.
   
 
-## Aims
+### Aims
 
 #### Content
 
@@ -39,11 +39,12 @@ Students should be able to:
 *   instil a sense of respect for evidence, and tolerance for a range of opinions.   
 
 
-## Syllabus
+### Syllabuses
+
 Please refer to [this link](https://www.moe.gov.sg/secondary/courses/express/electives#subjects).
   
 
-## Curriculum
+### Curriculum
 
 > “History is the witness that testifies to the passing of time; it  illuminates reality, vitalizes memory, provides guidance in daily life, and brings us tidings of antiquity."  <br><br>
 Cicero
@@ -52,7 +53,7 @@ The History curriculum aims to provide an opportunity for reinforcing and extend
 
   
 
-## Syllabuses   
+### Syllabuses   
 
 #### ‘O’ Level Programme
 
@@ -74,7 +75,7 @@ Year 4: History of Southeast Asia  (c.1870-1967)
 
   
 
-## Pedagogy
+### Pedagogy
 
 The syllabus will provide students with a balance of local, regional and international history spanning from the 13th to the 20th centuries. They will be interested to learn how the interplay of events and the people who shaped and implemented policies could have such a great impact on and changed the world to what it is today.  
 
@@ -86,6 +87,6 @@ Through an inquiry approach, the course requires students to think critically, a
 
   
 
-## Assessment
+### Assessment
 
 Through the course, students will be required to do a historical investigation (Lower Secondary), complete written assignments, authentic task including a self directed piece of coursework,  and oral presentation. These will require them to gather, organise, present information in a coherent manner, drawing similarities and differences, develop creative and critical thinking, evaluate and draw conclusions from the evidence that they gather.
