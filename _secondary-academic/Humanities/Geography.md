@@ -61,7 +61,6 @@ Please refer to [this link](https://www.moe.gov.sg/secondary/courses/express/el
 <table class="tg">
   <thead>
     <tr>
-      <th class="tg-feqv"><span style="color:#666;background-color:#DDD">Concepts</span></th>
       <th class="tg-feqv"><span style="color:#666;background-color:#DDD">Year 1</span></th>
       <th class="tg-feqv"><span style="color:#666;background-color:#DDD">Year 2</span></th>
       <th class="tg-feqv"><span style="color:#666;background-color:#DDD">Year 3</span></th>
@@ -70,32 +69,28 @@ Please refer to [this link](https://www.moe.gov.sg/secondary/courses/express/el
   </thead>
   <tbody>
     <tr>
-      <td class="tg-5hwe">Change</td>
+      <td class="tg-5hwe">Resources and the Environment</td>
+      <td class="tg-5hwe">Climate Change</td>
+      <td class="tg-5hwe">Oceans and Coasts</td>
+      <td class="tg-5hwe">Tourism</td>
+    </tr>
+    <tr>
       <td class="tg-5hwe">Plate Tectonics</td>
-      <td class="tg-5hwe">Population Studies</td>
-      <td class="tg-5hwe">Tectonic Hazards</td>
-      <td class="tg-5hwe">Globalization</td>
+      <td class="tg-5hwe">Settlements</td>
+      <td class="tg-5hwe">Global Climate</td>
+      <td class="tg-5hwe">Population and Development</td>
     </tr>
     <tr>
-      <td class="tg-iuf2">Interdependence</td>
-      <td class="tg-5hwe">-</td>
-      <td class="tg-iuf2">Resources and the Environment </td>
-      <td class="tg-5hwe">-</td>
-      <td class="tg-iuf2">Development, Global Tourism</td>
-    </tr>
-    <tr>
-      <td class="tg-iuf2">Patterns </td>
-      <td class="tg-iuf2">Weather and Climate </td>
-      <td class="tg-iuf2">Urban Studies </td>
-      <td class="tg-iuf2"> Weather and Climate </td>
+      <td class="tg-iuf2">Climate and Natural Vegetation </td>
+      <td class="tg-iuf2">Population Studies </td>
+      <td class="tg-iuf2"> Geophysical Hazards </td>
       <td class="tg-5hwe">Food Resources<br>
         Health and Diseases</td>
     </tr>
     <tr>
-      <td class="tg-5hwe">Systems</td>
+      <td class="tg-5hwe">Weather Studies</td>
       <td class="tg-5hwe">-</td>
-      <td class="tg-5hwe">River Studies</td>
-      <td class="tg-5hwe">River Studies</td>
+      <td class="tg-5hwe">-</td>
       <td class="tg-5hwe">-</td>
     </tr>
   </tbody>
@@ -131,17 +126,20 @@ Specifically, the goals of the curriculum are:
 *   Imbibes in students appropriate attitudes and values that ensures the sustainability of our resources, people and planet.
 
   
+#### Geographical Inquiry Process
 
-#### The theories that underpin our Curriculum Design
+This curriculum is taught using the Geographical Inquiry Process which promotes student-centred learning where students are actively engaged in constructing geographical knowledge and engaged in learning experiences that centre around geographical phenomena and issues. 
 
-The **Understanding by Design (UbD)** framework aims to develop and deepen students’ understanding through design of clear learning goals, and assessments that provide complex, authentic platforms for students to explain, interpret, apply, shift perspective, empathize, and self-assess.
+There are 4 elements of the Geographical Inquiry Process that provide guidance to the design of meaningful learning experiences for students:
 
-  
-The **Parallel Curriculum Model** is a concept-based approach that helps to develop learner potential and challenge advanced learners.  
-  
-Therefore, the Geography curriculum draws on UbD as a design framework such that a “backward design” to craft the learning goals, assessment, content and skills first, before the design of lesson activities. The Parallel Curriculum Model’s concept-based approach is employed to in articulating the principles and the concepts to help students make meaningful connections within disciplines and/or across disciplines, times and topics.  
-  
-This curriculum is taught using **Inquiry-based Learning** which promotes student-centred learning where students are actively engaged in constructing geographical knowledge.  
+a) Inquiry is question-driven: Inquiry questions create a need to know and the process of seeking for answers is a means of constructing knowledge.
+
+b) Inquiry is evidence-based: Students are equipped with skills to collect data from primary and secondary sources, make sense of the data collected and presenting them as evidence to support conclusions made
+
+c) Inquiry involves sense-making: students develop conceptual understanding in the subject matter and exercise sound reasoning to make sense of the data they have gathered. Students think, perceive, and understand the world through geographical concepts and lenses.
+
+d) Inquiry involves reflective thinking: Students reflect on the conclusions, judgements, viewpoints, and even actions they make when they address the inquiry questions. Students can reflect on their choice of data sources, methods of investigation, the extent to which the inquiry questions have been answered by the students, and whether their conclusions have been sufficiently supported by evidence.
+
   
 
 ### Assessment
