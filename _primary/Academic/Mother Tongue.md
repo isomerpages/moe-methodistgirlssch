@@ -25,3 +25,5 @@ The Mother Tongue Support Programme (MTSP) is implemented at Primary 3-4 to prov
   
 
 Academic Support for P3 to P6 students are targeted sessions where their MT teacher works with students (small group<10 pax) to close specific learning gaps.
+
+Refer to MOE syllabus [here](https://www.moe.gov.sg/primary/curriculum/syllabus). 

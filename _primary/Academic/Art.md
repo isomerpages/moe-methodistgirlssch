@@ -27,3 +27,5 @@ The learning objectives, outcomes and approaches of the Art programme in MGS are
 Portfolio Assessment is conducted once a semester.
 
 Final grade is derived from the mean grade of all art pieces completed during each semester.
+
+Refer to MOE syllabus [here](https://www.moe.gov.sg/primary/curriculum/syllabus). 

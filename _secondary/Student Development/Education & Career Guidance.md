@@ -16,4 +16,4 @@ Our MGS ECG site is regularly updated with upcoming events, and development of t
 
 [Check out our ECG Site!](https://sites.google.com/mgs.sch.edu.sg/mgsecg/) (Sign into your MGS account to access website)
 
-The MGS ECG Team comprises of our ECG Subject Head, Ms Kek Lay Yan ([kek_lay_yan@mgs.sch.edu.sg](mailto:kek_lay_yan@mgs.sch.edu.sg)), and our ECG Counsellors, Ms Sylvia Ng ([sylvia_ng@mgs.sch.edu.sg](mailto:sylvia_ng@mgs.sch.edu.sg)) and Dr Tan Lay Theng ([tan_lay_theng@mgs.sch.edu.sg](mailto:tan_lay_theng@mgs.sch.edu.sg)).
+The MGS ECG Team comprises our ECG Subject Head, Ms Kek Lay Yan ([kek_lay_yan@mgs.sch.edu.sg](mailto:kek_lay_yan@mgs.sch.edu.sg)), and our ECG Counsellors, Ms Sylvia Ng ([sylvia_ng@mgs.sch.edu.sg](mailto:sylvia_ng@mgs.sch.edu.sg)) and Dr Tan Lay Theng ([tan_lay_theng@mgs.sch.edu.sg](mailto:tan_lay_theng@mgs.sch.edu.sg)).

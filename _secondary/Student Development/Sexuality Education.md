@@ -262,7 +262,7 @@ b. [Character and Citizenship Education](https://www.moe.gov.sg/education-in-sg
 
 11. Parents who wish to opt their children out of the MGS Sexuality Education Programme (incorporating the Growing Years (GY) programme) need to complete an opt-out form.  [This form is downloadable here](https://drive.google.com/file/d/1Cq53Zugl346YPJG9Tr2tBruzoh9V2Xeg/view). Parents who wish to opt out for the eTeens programme ONLY, need to complete this [opt out form](https://drive.google.com/file/d/1qwTU3LefD9NCkEsyTjdgBbLwy6Ezwyh4/view).  Please open the forms in a new tab in order to view the forms.  A hardcopy of the form/s, duly completed and signed, is to be submitted to your daughter’s / ward’s Form Teacher.
 
-12. The deadline for submission of the forms is 16 May 2022.
+12. The deadline for submission of the forms will be communicated via PG.
 
 13. Parents may wish to attend the school sexuality education programmes with their children. Parents should contact the school to make the necessary arrangements.
 

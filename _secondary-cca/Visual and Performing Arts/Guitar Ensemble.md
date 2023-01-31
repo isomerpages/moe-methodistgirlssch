@@ -4,12 +4,7 @@ permalink: /secondary/curriculum/cca/visual-and-performing-arts/guitar-ensemble/
 description: ""
 third_nav_title: Visual and Performing Arts
 ---
-<div style="width:100%; height:400px">
-  <iframe class="ive_eobj_center" allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/Myft1jnWgXM" height="100%" width="100%">
-  </iframe>
-</div>
-
-The Guitar Ensemble aims to enhance the MGS education for its members by providing fulfilling and enriching experiences through CCA. Guitar Ensemble was established in 2007 to instil passion in young musicians inclined towards playing the guitar.
+The [Guitar Ensemble](https://www.youtube.com/watch?v=Myft1jnWgXM) aims to enhance the MGS education for its members by providing fulfilling and enriching experiences through CCA. Guitar Ensemble was established in 2007 to instil passion in young musicians inclined towards playing the guitar.
 
 The CCA grows its members to showcase the MGS values of Godliness, Excellence and Love. Through practice sessions, members learn new techniques and hone their skills, as well as strengthen the camaraderie among themselves. The character of the MGS girl is also honed as she develops meaningful working relationships and establishes enduring rapport with her fellow CCA members.
 

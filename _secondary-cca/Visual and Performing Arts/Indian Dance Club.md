@@ -4,12 +4,7 @@ permalink: /secondary/curriculum/cca/visual-and-performing-arts/indian-dance-clu
 description: ""
 third_nav_title: Visual and Performing Arts
 ---
-<div style="width:100%; height:400px">
-  <iframe class="ive_eobj_center" allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/cduDwVRoIKo" height="100%" width="100%">
-  </iframe>
-</div>
-
-Indian Dance Club is a group of passionate dancers who seek to preserve and promote classical and folk Indian dance. From the colourful and enthralling Bharatanatyam and Kathak classical dance forms to the popular Bollywood genre, MGS Indian dancers’ high energy and sophisticated performances have always captivated their audience. Poised to share a love for culture and heritage through the mastery of body movements, facial expressions and teamwork, MG Indian dancers cultivate values of discipline and perseverance and build strong friendships.
+[Indian Dance Club](https://youtu.be/DQJEc-emvvs) is a group of passionate dancers who seek to preserve and promote classical and folk Indian dance. From the colourful and enthralling Bharatanatyam and Kathak classical dance forms to the popular Bollywood genre, MGS Indian dancers’ high energy and sophisticated performances have always captivated their audience. Poised to share a love for culture and heritage through the mastery of body movements, facial expressions and teamwork, MG Indian dancers cultivate values of discipline and perseverance and build strong friendships.
 
 ![](/images/Sec_cca/indian-dance.jpg)
 
