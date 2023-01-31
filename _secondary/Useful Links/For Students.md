@@ -30,4 +30,4 @@ third_nav_title: Useful Links
 
 ### MGS Passport
 
-[Download MGS passport (versions from 2018)](https://drive.google.com/open?id=1WjoGlZg5ql7ETc8qLLEh6SeW3jESWxHb)
+[Download MGS passport (versions from 2020)](https://drive.google.com/open?id=1WjoGlZg5ql7ETc8qLLEh6SeW3jESWxHb)
