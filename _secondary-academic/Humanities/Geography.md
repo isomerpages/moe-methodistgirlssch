@@ -4,7 +4,7 @@ permalink: /secondary/academic/humanities/geography/
 description: ""
 third_nav_title: Humanities
 ---
-(‘O’ Level and Integrated Programme)
+Geography is offered as a subject in the ‘O’ Level and Integrated Programme.
 
   
 
