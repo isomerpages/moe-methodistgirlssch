@@ -16,7 +16,7 @@ b. **Student-initiated Learning (SIL)**. Dedicated time (at least 2-3 hrs) for s
 
 
 ## ILD Dates for 2023 
-For ease of reference, the dates for ILD and HBL this year are found below. These apply to all levels from Secondary 1 to 4.
+For ease of reference, the dates for ILD this year are found below. These apply to all levels from Secondary 1 to 4.
 
 
 ### ILD Semester 1
