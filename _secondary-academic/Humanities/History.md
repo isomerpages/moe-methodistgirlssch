@@ -51,9 +51,9 @@ The History curriculum aims to provide an opportunity for reinforcing and extend
 
 ## Syllabuses   
 
-#### ‘O’ Level track
+#### ‘O’ Level Programme
 
-[Click here for more information.](https://www.seab.gov.sg/home/examinations/gce-o-level/o-level-syllabuses-examined-for-school-candidates-2022)  
+[Click here for more information.](https://www.moe.gov.sg/-/media/files/secondary/syllabuses/humanities/2021-history-lower-secondary-syllabus.pdf)  
 
   
 
