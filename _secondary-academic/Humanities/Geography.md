@@ -4,10 +4,6 @@ permalink: /secondary/academic/humanities/geography/
 description: ""
 third_nav_title: Humanities
 ---
-Geography is offered as a subject in the ‘O’ Level and Integrated Programme.
-
-  
-
 ### National Syllabuses
 
 Please refer to [this link](https://www.moe.gov.sg/secondary/courses/express/electives#subjects).
@@ -104,14 +100,14 @@ The broad goals of the subject were to develop both the cognitive and affective 
 Specifically, the goals of the curriculum are:  
   
 
-#### Content
+**Content**
 
 *   Develop knowledge and understanding of Earth’s physical features and processes and human phenomena. 
 *   Appreciate the interaction between people and environment at local, regional, and global scales.
 
   
 
-#### Skills and Processes
+**Skills and Processes**
 
 *   Develop skills in acquiring, communicating and applying geographical knowledge;
 *   Develop multiple perspectives and global awareness through the study and management of current issues.
@@ -119,14 +115,14 @@ Specifically, the goals of the curriculum are:
 
   
 
-#### Values and Attitudes
+**Values and Attitudes**
 
 *   Develop respect and sensitivity towards the attitudes, values, and beliefs of people in different human environments;
 *   Become self-directed learners who think critically and are discerning in judgement.
 *   Imbibes in students appropriate attitudes and values that ensures the sustainability of our resources, people and planet.
 
   
-#### Geographical Inquiry Process
+### Geographical Inquiry Process
 
 This curriculum is taught using the Geographical Inquiry Process which promotes student-centred learning where students are actively engaged in constructing geographical knowledge and engaged in learning experiences that centre around geographical phenomena and issues. 
 
