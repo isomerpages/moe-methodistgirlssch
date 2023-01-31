@@ -56,16 +56,8 @@ By the end of the 4th year in MGS, all students should have gained sufficient kn
 
 
 
-### Syllabuses (SEAB/internal)
-
-**O Level Syllabus**
-
-[Biololgy](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2023syllabus/6093_y23_sy.pdf)
-
-[Chemistry](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2023syllabus/6092_y23_sy.pdf)
-
-[Physics](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2023syllabus/6091_y23_sy.pdf)
-
+### Syllabuses 
+Please refer to the [this link](https://www.moe.gov.sg/secondary/courses/express/electives#subjects).
   
 
 ### Curriculum

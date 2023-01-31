@@ -4,19 +4,16 @@ permalink: /secondary/academic/aesthetics/lower-secondary-music/
 description: ""
 third_nav_title: Aesthetics
 ---
-
-
-
-
-
-
-
 ### Aims and Objectives
 
 *   To develop students’ appreciation of music of different cultures and the awareness of the role of music in daily life
 *   To develop students’ ability to create expression through music making
 
-  
+
+### Syllabus
+Please refer to the [this link](https://www.moe.gov.sg/secondary/courses/express/electives#subjects).
+
+ 
 
 ### Curriculum
 

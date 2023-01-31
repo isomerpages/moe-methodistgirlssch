@@ -334,6 +334,7 @@ The milestone programmes for each level are as follows:
 **Secondary/Year 2**
 
 *   Learning Journey to National Museum
+*   Learning Unboxed 
 *   Values in Action
 
 **Secondary/Year 3**

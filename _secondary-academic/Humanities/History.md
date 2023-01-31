@@ -38,6 +38,9 @@ Students should be able to:
 *   appreciate the difference in beliefs, values and attitudes of different  societies at different times;
 *   instil a sense of respect for evidence, and tolerance for a range of opinions.   
 
+
+## Syllabus
+Please refer to the [this link](https://www.moe.gov.sg/secondary/courses/express/electives#subjects).
   
 
 ## Curriculum
@@ -51,9 +54,9 @@ The History curriculum aims to provide an opportunity for reinforcing and extend
 
 ## Syllabuses   
 
-#### ‘O’ Level track
+#### ‘O’ Level Programme
 
-[Click here for more information.](https://www.seab.gov.sg/home/examinations/gce-o-level/o-level-syllabuses-examined-for-school-candidates-2022)  
+[Click here for more information.](https://www.moe.gov.sg/-/media/files/secondary/syllabuses/humanities/2021-history-lower-secondary-syllabus.pdf)  
 
   
 

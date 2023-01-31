@@ -22,9 +22,8 @@ The department’s goals for language learning are:
 
   
 
-### Syllabuses (SEAB/internal)
-
-Please refer to the [SEAB website](https://www.seab.gov.sg/home/) for the latest updates.
+### National Syllabuses
+Please refer to the [this link](https://www.moe.gov.sg/secondary/courses/express/electives#subjects).
 
 
 

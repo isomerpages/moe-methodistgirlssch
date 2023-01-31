@@ -3,12 +3,6 @@ title: Mother Tongue
 permalink: /secondary/academic/mother-tongue/
 description: ""
 ---
-
-
-
-
-
-
 ### Vision
 
 To inspire and cultivate each MGS girl to love and appreciate their own mother tongue language and culture.
@@ -57,9 +51,9 @@ Subjects offered:
 
   
 
-### Syllabuses 
+### Syllabus
 
-[SEAB](https://www.seab.gov.sg/home/examinations/gce-o-level/o-level-syllabuses-examined-for-school-candidates-2023)
+Please refer to the [this link](https://www.moe.gov.sg/secondary/courses/express/electives#subjects).
 
 [Approved Dictionaries](https://www.seab.gov.sg/home/examinations/approved-dictionaries)
 
