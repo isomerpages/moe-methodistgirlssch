@@ -3,7 +3,10 @@ title: Language Arts
 permalink: /secondary/academic/language-arts/
 description: ""
 ---
-<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRh5v2KcM72WbMPPv6dIUE9rr2gworrvK0knM0BwCQSRuh80wFl9cRCCxHJd7twA59qBTb7jw22gi4Z/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<div style="width:100%; height:470px">
+<iframe allowfullscreen="true" height="100%" width="100%" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRh5v2KcM72WbMPPv6dIUE9rr2gworrvK0knM0BwCQSRuh80wFl9cRCCxHJd7twA59qBTb7jw22gi4Z/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
+
 
 ### Vision
 
