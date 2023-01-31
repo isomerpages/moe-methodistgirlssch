@@ -17,7 +17,7 @@ The [Art Department](https://www.youtube.com/watch?v=CA77VX-84so) in MGS aims to
 
 
 ## Syllabus
-Please refer to the [this link](https://www.moe.gov.sg/secondary/courses/express/electives#subjects).
+Please refer to [this link](https://www.moe.gov.sg/secondary/courses/express/electives#subjects).
 
 
 ## Curriculum
