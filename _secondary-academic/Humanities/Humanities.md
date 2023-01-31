@@ -4,13 +4,6 @@ permalink: /secondary/academic/humanities/
 description: ""
 third_nav_title: Humanities
 ---
-
-
-
-
-
-
-
 ### Vision
 
 Women with Global perspectives anchored on Godly values.
@@ -31,15 +24,14 @@ The Humanities Department aims to :
 *   engage students actively through the study of the Humanities so as to develop them into confident, self-directed, critical and reflective thinkers. 
 *   equip students with the necessary knowledge, skills and perspectives in the humanities so as to make sense of a complex and dynamically changing world and to contribute actively and responsibly as global citizens.
 
-  
-
-  
+    
 
 ### Pedagogical Approach in the Humanities
 
 
-*   Parallel Curriculum Model
+*   Parallel Curriculum
 *   Inquiry Based Learning
 *   Concept Mapping
 *   Socratic Questioning
 *   Paul’s Wheel of Reasoning
+
