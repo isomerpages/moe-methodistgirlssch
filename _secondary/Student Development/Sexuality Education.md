@@ -209,6 +209,7 @@ b. [Character and Citizenship Education](https://www.moe.gov.sg/education-in-sg
 </tbody>
 </table>
 
+<p></p>
 
 ### eTeens Programme
 
@@ -249,6 +250,8 @@ b. [Character and Citizenship Education](https://www.moe.gov.sg/education-in-sg
 </tbody>
 </table>
 
+<p></p>
+	
 ### INFORMATION FOR PARENTS
 
 10. Parents may opt their children out of the MGS Sexuality Education Programme (incorporating the Growing Years programme) and/or the eTeens programme.
