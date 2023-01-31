@@ -23,8 +23,7 @@ The department’s goals for language learning are:
   
 
 ### National Syllabuses
-
-Please refer to the [this link](https://www.moe.gov.sg/-/media/files/secondary/syllabuses/eng/sec_exp-na_els-2020_syllabus-(1).pdf%EF%BB%BF).
+Please refer to the [this link](https://www.moe.gov.sg/secondary/courses/express/electives#subjects).
 
 
 
