@@ -40,7 +40,7 @@ Students should be able to:
 
 
 ## Syllabus
-Please refer to the [this link](https://www.moe.gov.sg/secondary/courses/express/electives#subjects).
+Please refer to [this link](https://www.moe.gov.sg/secondary/courses/express/electives#subjects).
   
 
 ## Curriculum
