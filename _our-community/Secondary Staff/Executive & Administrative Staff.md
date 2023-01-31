@@ -36,7 +36,7 @@ Manager:  [Ms Teoh Ling Hui](mailto:teoh_ling_hui@schools.gov.sg)
 Senior Executive: Ms Charyl Lee  
 Senior Executive: Ms Janice Teo  
 
-### HUMAN RESOURCE OFFICE
+### **HUMAN RESOURCE OFFICE**
 
 Senior Manager: [Ms Yong Sheue Horng](mailto:yong_sheue_horng@schools.gov.sg)  
 Senior Executive: Ms Hazel Yeow  
