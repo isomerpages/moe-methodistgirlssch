@@ -214,7 +214,7 @@ b. [Character and Citizenship Education](https://www.moe.gov.sg/education-in-sg
 <p></p>
 
 
-**eTeens Programme**
+### eTeens Programme
 
 
 8. eTeens  is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, for Secondary 3 students. The programme was introduced to secondary schools in 2007 as the Breaking Down Barriers (BDB) programme, to provide students with accurate information on STIs, HIV and protection from a health perspective. eTeens is conducted in two segments – a mass talk segment and a classroom-based programme.
@@ -256,7 +256,7 @@ b. [Character and Citizenship Education](https://www.moe.gov.sg/education-in-sg
 
 <p></p>
 	
-**INFORMATION FOR PARENTS**
+### INFORMATION FOR PARENTS
 
 10. Parents may opt their children out of the MGS Sexuality Education Programme (incorporating the Growing Years programme) and/or the eTeens programme.
 
