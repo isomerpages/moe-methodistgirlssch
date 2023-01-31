@@ -31,15 +31,15 @@ Science|[Mrs Mun Poh Hoon](mailto:chua_poh_hoon@schools.gov.sg)
 # Year Heads & Assistant Year Heads
 
 
-| **Level** | **Year Head** |**Assistance Year Head** |
+| **Level** | **Year Head** |**Assistant Year Head** |
 | -------- | -------- |-------- |
 | **P1<br>P2<br>P3**|[Mdm Nasuha Ghaffar](mailto:nasuha_ghaffar@schools.gov.sg)|[Ms Evelyn Huang](mailto:huang_yulin_evelyn@schools.gov.sg)<br>[Mrs Hwee Ching Tan](mailto:tan_sian_huang@schools.gov.sg)<br>[Mrs Amy Ng](mailto:fang_yingying_amy@schools.gov.sg)| 
 | **P4<br>P5<br>P6**|[Mrs Sim Lee Hong](mailto:chua_lee_hong@schools.gov.sg)|[Miss Suhaily Mohamed Moktar](mailto:suhaily_md_moktar@schools.gov.sg)<br>[Mrs Rita James](mailto:rita_james@schools.gov.sg)<br>[Mrs Sim Lee Hong](mailto:chua_lee_hong@schools.gov.sg)| 
 
 
-# Lead/Senior Teachers 
+# Teacher Leaders
 
-| Department | Level  Head|
+| Department | Lead/Senior Teachers |
 | -------- | -------- |
 |English| [Ms Shamini Menon](mailto:shamini_menon@schools.gov.sg)| 
 |English| [Mrs Gina Low](mailto:gina_chia@schools.gov.sg)| 
@@ -49,7 +49,3 @@ Science|[Mrs Mun Poh Hoon](mailto:chua_poh_hoon@schools.gov.sg)
 |Science| [Mdm Li Huixing](mailto:loi_huey_shing@schools.gov.sg)| 
 |Education Support| [Mrs May Yeo](mailto:nam_mei_lin_may@schools.gov.sg)| 
 |Lower Primary Learners| [Mdm Basheera Begum](mailto:basheera_begum_syed_sult@schools.gov.sg)|
-
-
-	
-	
