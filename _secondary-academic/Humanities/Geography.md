@@ -8,7 +8,8 @@ third_nav_title: Humanities
 
   
 
-## Syllabuses
+### Syllabuses
+
 Please refer to [this link](https://www.moe.gov.sg/secondary/courses/express/electives#subjects).
 
  
