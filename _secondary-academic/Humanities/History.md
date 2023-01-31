@@ -38,6 +38,9 @@ Students should be able to:
 *   appreciate the difference in beliefs, values and attitudes of different  societies at different times;
 *   instil a sense of respect for evidence, and tolerance for a range of opinions.   
 
+
+## Syllabus
+Please refer to the [this link](https://www.moe.gov.sg/secondary/courses/express/electives#subjects).
   
 
 ## Curriculum
