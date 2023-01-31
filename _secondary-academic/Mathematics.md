@@ -98,8 +98,8 @@ The learning of mathematics involves exploration, analysis and presentation of m
 </table>
 
 
-### Syllabus
-Please refer to the [this link](https://www.moe.gov.sg/secondary/courses/express/electives#subjects).
+### National Syllabuses
+Please refer to [this link](https://www.moe.gov.sg/secondary/courses/express/electives#subjects).
 
 
 ### Curriculum  
