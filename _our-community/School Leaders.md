@@ -53,7 +53,7 @@ description: ""
   <tbody>
     <tr>
       <td width="20%" valign="bottom">&nbsp;</td>
-      <td width="25%" valign="bottom"><p style="text-align:center;"><img src="/images/Common/sl-dyip.jpg" width="150" height="190" alt=""/><br>
+      <td width="25%" valign="bottom"><p style="text-align:center;"><img src="/images/Common/sl-dyip1.jpg" width="150" height="190" alt=""/><br>
         <a href="mailto:yip_wai_choong@schools.gov.sg">Mr Desmond Yip</a><br>
         <strong>Vice-Principal <br>
       (Administration)</strong></p></td>
