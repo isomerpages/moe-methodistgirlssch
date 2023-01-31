@@ -39,7 +39,7 @@ Students should be able to:
 *   instil a sense of respect for evidence, and tolerance for a range of opinions.   
 
 
-### Syllabuses
+### National Syllabuses
 
 Please refer to [this link](https://www.moe.gov.sg/secondary/courses/express/electives#subjects).
   
