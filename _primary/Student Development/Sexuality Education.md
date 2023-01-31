@@ -78,4 +78,4 @@ Please Note:<br>
 
 9.         Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form which will be given by your child’s/ward’s form teacher.
 
-10.       Parents can contact the school at [quah\_hue\_bin\_cecilia@schools.gov.sg](mailto:quah_hue_bin_cecilia@schools.gov.sg) for discussion or to seek clarification about the school’s Sexuality Education programme.
+10.       Parents can contact the school at [mgps@moe.edu.sg](mailto:mgps@moe.edu.sg) for discussion or to seek clarification about the school’s Sexuality Education programme.
