@@ -4,7 +4,7 @@ permalink: /secondary/student-development/cce/ild/
 description: ""
 third_nav_title: Student Development
 ---
-Regular **Independent Learning Days (ILDs)** will be integrated into the schooling experience of Secondary school students in 2023. ILD aims to develop students' ability to be self-directed, passionate and lifelong learners. To achieve these intended outcomes, ILD days in MGS are held once every fortnight, on even week Thursdays in Semester 1 and odd week Thursdays in Semester 2 for all Secondary students.  
+Regular Independent Learning Days (ILDs) is integrated into the schooling experience of Secondary school students. ILD aims to develop students’ ability to be self-directed, passionate and lifelong learners. To achieve these intended outcomes, ILD days in MGS are held once every fortnight.
  
 
 ILDs will comprise:
