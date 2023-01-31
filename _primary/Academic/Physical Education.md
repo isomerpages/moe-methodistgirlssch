@@ -39,3 +39,5 @@ It is the goal of the Health & Physical Education department to inspire our girl
 *   Application of Games/Sports knowledge
 *   Demonstration of values and attitudes
 *   Participation level
+
+Refer to MOE syllabus [here](https://www.moe.gov.sg/primary/curriculum/syllabus). 
