@@ -16,10 +16,7 @@ Click [here](https://staging.dt6ildc2mnegy.amplifyapp.com/secondary/admissions/
 
 For further clarification, please contact:  
 
-**Head of Department (Integrated Programme)**
+**Head of Department (Integrated Programme)**: [Mrs Grace Tang](tang_lyn_lyn@schools.gov.sg)
 
-[Mrs Grace Tang](tang_lyn_lyn@schools.gov.sg)
+**Subject Head  (Integrated Programme)**: [Mrs Grace Poh](mailto:grace_poh@schools.gov.sg)
 
-
-**Subject Head  (Integrated Programme)**  
-[Mrs Grace Poh](mailto:grace_poh@schools.gov.sg)
