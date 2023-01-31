@@ -362,4 +362,3 @@ The experiences include:
 *   Independent Learning Day
 *   Self-initiated VIA projects
 *   STEAM programme activities
-*   WoW Space activities
