@@ -4,24 +4,14 @@ permalink: /secondary/academic/humanities/geography/
 description: ""
 third_nav_title: Humanities
 ---
-
-
-
-
-
-
 (‘O’ Level and Integrated Programme)
 
   
 
 ## Syllabuses
+Please refer to the [this link](https://www.moe.gov.sg/secondary/courses/express/electives#subjects).
 
-
-#### SEAB/internal
-
-[Click here for more information.](https://www.seab.gov.sg/home/examinations/gce-o-level/o-level-syllabuses-examined-for-school-candidates-2022)  
-
-  
+ 
 
 #### Integrated Programme
 
