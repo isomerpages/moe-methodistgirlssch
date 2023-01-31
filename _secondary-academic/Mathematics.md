@@ -98,6 +98,10 @@ The learning of mathematics involves exploration, analysis and presentation of m
 </table>
 
 
+### Syllabus
+Please refer to the [this link](https://www.moe.gov.sg/secondary/courses/express/electives#subjects).
+
+
 ### Curriculum  
 
 Our curriculum enables our girls to acquire problem solving skills and engages them through a variety of learning experiences to appreciate the relevance, usefulness and connectedness of the subject to both real-world context and other disciplines.
