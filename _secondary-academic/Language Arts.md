@@ -24,11 +24,7 @@ The department’s goals for language learning are:
 
 ### Syllabuses (SEAB/internal)
 
-[English Language](http://www.seab.gov.sg/oLevel/2015Syllabus/1128_2015.pdf) 
-
-[Literature in English](http://www.seab.gov.sg/oLevel/2015Syllabus/2065_2015.pdf)  
-
-[Literature in English Elective](http://www.seab.gov.sg/oLevel/2015Syllabus/2204_2015.pdf)
+Please refer to the [SEAB website](https://www.seab.gov.sg/home/) for the latest updates.
 
 
 
