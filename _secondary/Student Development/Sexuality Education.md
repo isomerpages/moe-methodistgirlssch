@@ -222,25 +222,25 @@ b. [Character and Citizenship Education](https://www.moe.gov.sg/education-in-sg
 <table width="100%" class="tg">
 <thead>
   <tr>
-    <th class="tg-auhb">Topics/Lessons</th>
+    <th class="tg-auhb" width="30%">Topics/Lessons</th>
     <th class="tg-auhb">Lesson Objectives<br>At the end of the lesson, pupils will be able to:</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-2w19">Mass Talk by HPB appointed vendor</td>
+    <td class="tg-2w19" width="30%">Mass Talk by HPB appointed vendor</td>
     <td class="tg-2w19">Awareness of the different STIs and HIV/AIDS<br></td>
   </tr>
   <tr>
-    <td class="tg-2w19">Classroom-based Lesson 1: Decision-Making</td>
+    <td class="tg-2w19" width="30%">Classroom-based Lesson 1: Decision-Making</td>
     <td class="tg-2w19">Understand there are consequences in any decision one makes regarding sexual intercourse</td>
   </tr>
   <tr>
-    <td class="tg-2w19">Classroom-based Lesson 2: Assertiveness</td>
+    <td class="tg-2w19" width="30%">Classroom-based Lesson 2: Assertiveness</td>
     <td class="tg-2w19">Understand what assertive behaviour is</td>
   </tr>
   <tr>
-    <td class="tg-2w19">Classroom-based Lesson 3: Negotiation</td>
+    <td class="tg-2w19" width="30%">Classroom-based Lesson 3: Negotiation</td>
     <td class="tg-2w19">Practise negotiating one's way out of a negative situation by applying skills learnt from Lesson 2</td>
   </tr>
 </tbody>
