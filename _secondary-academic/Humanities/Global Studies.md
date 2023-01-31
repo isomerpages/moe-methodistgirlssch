@@ -4,13 +4,7 @@ permalink: /secondary/academic/humanities/global-studies/
 description: ""
 third_nav_title: Humanities
 ---
-
-
-
-
-
-
-(IP Track)  
+Global Studies is offered as a subject in the IP Programme.
   
 
 ## Aim
