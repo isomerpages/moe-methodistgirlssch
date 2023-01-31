@@ -2,8 +2,8 @@
 title: Food and Consumer Education
 permalink: /secondary/academic/aesthetics/food-consumer-education/
 description: ""
-third_nav_title: Aesthetics
 ---
+
 <style type="text/css">
 .tg {
 	border-color: black;
