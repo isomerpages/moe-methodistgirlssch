@@ -6,14 +6,13 @@ third_nav_title: Academic
 ---
 The Art programme in MGS aims to develop in every girl a lifelong enjoyment and appreciation for the visual arts through exposure to a variety of art media, artists and artworks. Every girl acquires knowledge, skills and values that equip her to:
 
-1. Observe, analyse and reflect on her visual experiences
+1)Observe, analyse and reflect on her visual experiences
 
-1. Express, create and communicate confidently to meet her artistic intentions 
-    
-1. Connect and respond to the environment and cultures around her
-    
-1. Understand and appreciate the value of art in her life and in society
-    
+2)Express, create and communicate confidently to meet her artistic intentions
+
+3)Connect and respond to the environment and cultures around her
+
+4)Understand and appreciate the value of art in her life and in society
 
 The learning objectives, outcomes and approaches of the Art programme in MGS are closely aligned with that of the MOE Art Syllabus. More details can be found at the following [website](https://www.moe.gov.sg/-/media/files/primary/2018_primary_art_syllabus.pdf?la=en&hash=C72D3E37FFEAF6B06D48780194B5CC020DB457B0).
 
@@ -23,7 +22,7 @@ The learning objectives, outcomes and approaches of the Art programme in MGS are
 
   
 
-###### Assessment
+###  Assessment
 
 Portfolio Assessment is conducted once a semester.
 

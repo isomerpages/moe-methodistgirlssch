@@ -18,12 +18,12 @@ Senior Manager (Strategic Communications & Engagement): [Mrs Sue-Mei Tay](mailt
 Senior Executive: Mrs Michelle Lim  
 Executive: Mrs Joanna Kong  
 
-### **COUNSELLING**
+### **ALLIED EDUCATORS AND COUNSELLORS**
 
 Education and Career Guidance (ECG) Counsellor: [Ms Sylvia Ng](mailto:sylvia_ng_pik_san@schools.gov.sg)  
 Education and Career Guidance (ECG) Counsellor: [Dr Tan Lay Theng](mailto:tan_lay_theng@schools.gov.sg)  
-Learning and Behavioural Support: [Ms Nimala](mailto:Nimala_Mokhna_Rau@schools.gov.sg)  
-School Counselor: [Ms Goh Chor Siang](mailto:goh_chor_siang@schools.gov.sg)  
+Learning and Behavioural Support: [Ms Nimala Rau](mailto:Nimala_Mokhna_Rau@schools.gov.sg)  
+School Counsellor: [Ms Goh Chor Siang](mailto:goh_chor_siang@schools.gov.sg)  
 
 ### **CHRISTIAN MINISTRY**
 
@@ -36,7 +36,7 @@ Manager:  [Ms Teoh Ling Hui](mailto:teoh_ling_hui@schools.gov.sg)
 Senior Executive: Ms Charyl Lee  
 Senior Executive: Ms Janice Teo  
 
-### HUMAN RESOURCE OFFICE
+### **HUMAN RESOURCE OFFICE**
 
 Senior Manager: [Ms Yong Sheue Horng](mailto:yong_sheue_horng@schools.gov.sg)  
 Senior Executive: Ms Hazel Yeow  
@@ -54,7 +54,6 @@ Librarian: Ms Zainap Bte Abdul Majid
 
 ### **MAINTENANCE AND TECHNICAL DEPARTMENT**
 
-Manager: [Mr Lawrence Jeremiah](mailto:Lawrence_Jeremiah@schools.gov.sg)  
 Senior Executive: Mr Henry Liow  
 Assistant Executive: Mr Khairulanwar Bin Mahad  
 Operations Support Officer: Mr Chan Keng Seng

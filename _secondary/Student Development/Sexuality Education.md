@@ -99,27 +99,29 @@ b. [Character and Citizenship Education](https://www.moe.gov.sg/education-in-sg
   </thead>
   <tbody>
     <tr>
-      <td class="tg-auhb">Lesson</span></td>
-      <td class="tg-auhb">Learning Objectives </span></td>
+      <td class="tg-auhb" width="30%">Lesson</td>
+      <td class="tg-auhb">Learning Objectives</td>
     </tr>
     <tr>
-      <td class="tg-2w19">Steady or Not?</span></td>
-      <td class="tg-2w19">Recognise the importance of cultivating friendships with members of the same and opposite sex</span><br>
-        Recognise what constitutes healthy and unhealthy relationships</span><br>
-        Distinguish between love and infatuation</span></td>
+      <td class="tg-2w19" width="30%">Steady or Not?</td>
+      <td class="tg-2w19">Recognise the importance of cultivating friendships with members of the same and opposite sex<br>
+        Recognise what constitutes healthy and unhealthy relationships<br>
+        Distinguish between love and infatuation</td>
     </tr>
     <tr>
-      <td class="tg-2w19">Being Aware, Being Safe</span></td>
-      <td class="tg-2w19">Be aware of the dangers of interacting online, including grooming by predators.</span></td>
+      <td class="tg-2w19" width="30%">Being Aware, Being Safe</td>
+      <td class="tg-2w19">Be aware of the dangers of interacting online, including grooming by predators.</td>
     </tr>
     <tr>
-      <td class="tg-2w19">More Than Meets the Eye</span></td>
-      <td class="tg-2w19">Public displays of affection</span><br>
-        Impact of consuming pornography</span></td>
+      <td class="tg-2w19" width="30%">More Than Meets the Eye</td>
+      <td class="tg-2w19">Public displays of affection<br>
+        Impact of consuming pornography</td>
     </tr>
   </tbody>
 </table>
 
+<p></p>
+	
 <table width="100%" class="tg">
 <thead>
   <tr>
@@ -128,24 +130,25 @@ b. [Character and Citizenship Education](https://www.moe.gov.sg/education-in-sg
 </thead>
 <tbody>
   <tr>
-    <td class="tg-auhb">Lesson</td>
+    <td class="tg-auhb" width="30%" >Lesson</td>
     <td class="tg-auhb">Learning Objectives  </td>
   </tr>
   <tr>
-    <td class="tg-2w19">A role for Everyone</td>
+    <td class="tg-2w19" width="30%">A role for Everyone</td>
     <td class="tg-2w19">Know/define what gender role, gender identity and sexual orientation are<br>Recognise gender stereotypes and take steps to avoid stereotyping people.</td>
   </tr>
   <tr>
-    <td class="tg-2w19">Online Safety Challenge</td>
+    <td class="tg-2w19" width="30%">Online Safety Challenge</td>
     <td class="tg-2w19">Be aware of the dangers of interacting online, including sexting, cyberflashing and  grooming by predators.</td>
   </tr>
   <tr>
-    <td class="tg-s5yd">Do I or Don’t I?</td>
+    <td class="tg-s5yd" width="30%">Do I or Don’t I?</td>
     <td class="tg-2w19">Explore the consequences of premarital sex<br>Be aware of the impact this might have on the couple as well as their friends and family.</td>
   </tr>
 </tbody>
 </table>
 
+<p></p>
 
 
 <table width="100%" class="tg">
@@ -156,25 +159,28 @@ b. [Character and Citizenship Education](https://www.moe.gov.sg/education-in-sg
   </thead>
   <tbody>
     <tr>
-      <td class="tg-auhb">Lesson</td>
+      <td class="tg-auhb" width="30%">Lesson</td>
       <td class="tg-auhb">Learning Objectives </td>
     </tr>
     <tr>
-      <td class="tg-2w19">Love Yourself, Love Others</td>
+      <td class="tg-2w19" width="30%">Love Yourself, Love Others</td>
       <td class="tg-2w19">Handling challenges that arise in a relationship</td>
     </tr>
     <tr>
-      <td class="tg-2w19">Mending a Broken Heart</td>
+      <td class="tg-2w19" width="30%">Mending a Broken Heart</td>
       <td class="tg-2w19">Understand the stages of grieving (for a failed relationship)<br>
       Healthy ways to cope with the break up of a relationship</td>
     </tr>
     <tr>
-      <td class="tg-2w19">When Respect Takes Centre Stage</td>
+      <td class="tg-2w19" width="30%">When Respect Takes Centre Stage</td>
       <td class="tg-2w19">Understand and make informed decisions on  sexting</td>
     </tr>
   </tbody>
 </table>
-<p>&nbsp;</p>
+
+<p></p>
+
+	
 <table width="100%" class="tg">
   <thead>
   <tr>
@@ -183,65 +189,73 @@ b. [Character and Citizenship Education](https://www.moe.gov.sg/education-in-sg
 </thead>
 <tbody>
   <tr>
-    <td class="tg-auhb">Lesson</td>
+    <td class="tg-auhb" width="30%">Lesson</td>
     <td class="tg-auhb">Learning Objectives  </td>
   </tr>
   <tr>
-    <td class="tg-2w19">Levelling the Ground<br></td>
+    <td class="tg-2w19" width="30%">Levelling the Ground<br></td>
     <td class="tg-2w19">Exploring why there are gender stereotypes and the impact they have on a person’s self esteem<br></td>
   </tr>
   <tr>
-    <td class="tg-2w19">When Love Hurts</td>
+    <td class="tg-2w19" width="30%">When Love Hurts</td>
     <td class="tg-2w19">Recognising the signs of violence and abuse in a relationship<br>Discuss avenues of help and how to leave an abusive relationship.</td>
   </tr>
   <tr>
-    <td class="tg-2w19">For Better or Worse</td>
+    <td class="tg-2w19" width="30%">For Better or Worse</td>
     <td class="tg-2w19">Understand that marriage takes commitment and<br>communication  by both parties during difficulties and disagreements.</td>
   </tr>
   <tr>
-    <td class="tg-2w19">There’s Always More to a story</td>
+    <td class="tg-2w19" width="30%">There’s Always More to a story</td>
     <td class="tg-2w19">Revisiting the impact of consuming pornography.<br>How to seek help if one is a victim of revenge pornograhy</td>
   </tr>
 </tbody>
 </table>
 
+<p></p>
 
 
 ### eTeens Programme
 
+
 8. eTeens  is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, for Secondary 3 students. The programme was introduced to secondary schools in 2007 as the Breaking Down Barriers (BDB) programme, to provide students with accurate information on STIs, HIV and protection from a health perspective. eTeens is conducted in two segments – a mass talk segment and a classroom-based programme.
+
 
 9. Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions
 
+
 **At Methodist Girls' School, the eTeens programme will be implemented for Sec 3’s as follows in 2022:**
+
+
 
 <table width="100%" class="tg">
 <thead>
   <tr>
-    <th class="tg-auhb">Topics/Lessons</th>
+    <th class="tg-auhb" width="30%">Topics/Lessons</th>
     <th class="tg-auhb">Lesson Objectives<br>At the end of the lesson, pupils will be able to:</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-2w19">Mass Talk by HPB appointed vendor</td>
+    <td class="tg-2w19" width="30%">Mass Talk by HPB appointed vendor</td>
     <td class="tg-2w19">Awareness of the different STIs and HIV/AIDS<br></td>
   </tr>
   <tr>
-    <td class="tg-2w19">Classroom-based Lesson 1: Decision-Making</td>
+    <td class="tg-2w19" width="30%">Classroom-based Lesson 1: Decision-Making</td>
     <td class="tg-2w19">Understand there are consequences in any decision one makes regarding sexual intercourse</td>
   </tr>
   <tr>
-    <td class="tg-2w19">Classroom-based Lesson 2: Assertiveness</td>
+    <td class="tg-2w19" width="30%">Classroom-based Lesson 2: Assertiveness</td>
     <td class="tg-2w19">Understand what assertive behaviour is</td>
   </tr>
   <tr>
-    <td class="tg-2w19">Classroom-based Lesson 3: Negotiation</td>
+    <td class="tg-2w19" width="30%">Classroom-based Lesson 3: Negotiation</td>
     <td class="tg-2w19">Practise negotiating one's way out of a negative situation by applying skills learnt from Lesson 2</td>
   </tr>
 </tbody>
 </table>
 
+<p></p>
+	
 ### INFORMATION FOR PARENTS
 
 10. Parents may opt their children out of the MGS Sexuality Education Programme (incorporating the Growing Years programme) and/or the eTeens programme.

@@ -17,7 +17,7 @@ Counselling is an opportunity for students to:
 
 School Counsellors are trained to help students with their difficulties. There are also trained Teacher-Counsellors to support students who may feel more comfortable speaking to a teacher.
 
-**Why see a School Counsellor?**
+### Why see a School Counsellor?
 
 Students may experience situations that are difficult to cope with.  Having support can be helpful. These could be:
 
@@ -29,7 +29,7 @@ Students may experience situations that are difficult to cope with.  Having sup
 
 - Problems with grief/loss, anxiety, stress, learning, etc.
 
-**How can I get in touch with our School Counsellor?**
+### How can I get in touch with our School Counsellor?
 
 *   Students and parents may request to do so: 
 	*  Through their teachers 

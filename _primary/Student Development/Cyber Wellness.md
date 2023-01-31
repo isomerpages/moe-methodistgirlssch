@@ -6,7 +6,7 @@ third_nav_title: Student Development
 ---
 Cyber Wellness (CW) is becoming increasingly pervasive in our world. While creating instant connectivity and access to vast repositories of information, knowledge, and opinions, the open nature of the Internet can expose our students to undesirable content and influences. CW in MGS focuses on the well-being of our students as they navigate cyberspace, equipping them with the knowledge and skills to harness the power of ICT for positive purposes, maintain a positive presence in cyberspace, and be safe and responsible users of ICT.
 
-**3 principles of Cyber Wellness**
+### 3 principles of Cyber Wellness
 
 In MGS, our CW programmes are based on these 3 main principles. 
 

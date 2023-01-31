@@ -3,13 +3,6 @@ title: Computer Studies
 permalink: /secondary/academic/computer-studies/
 description: ""
 ---
-
-
-
-
-
-
-
 ### Vision
 
 The MGS Computer Studies Curriculum is to help students to develop 3 important skills that are critical as they navigate the ever-changing landscape:  
@@ -26,10 +19,10 @@ Our students will be learning coding which is an essential skill in the future b
 
 By the end of the 2nd year in MGS, all students should have the following outcomes:  
 
-1.  Secondary/Year 1 students shall be able to use LEGO Mindstorms EV3 and BBC Micro:Bit as toolsets for building robots with functional purposes.  
-2.  Secondary/Year 2 students shall be be able to use Python programming language to create programmes and Generative Art
+1.  Robotics Secondary/Year 1 students shall be able to use Scratch to create programmes and BBC Micro:Bit for building robots with functional purposes.  
+2.  Code4Life Secondary/Year 2 students shall be be able to use Python programming language to create programmes and Generative Art
 
-Lessons for each class is once every fortnight for 1.5 hr.
+Lessons for each class is once every fortnight for 1 hour 50 min.
 
   
 

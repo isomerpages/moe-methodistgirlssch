@@ -13,8 +13,8 @@ links:
         url: /about-us/our-heritage/
       - title: Our Identity
         url: /about-us/our-identity/
-      - title: Our MG Houses
-        url: /about-us/our-mg-houses/
+      - title: Our MGS Houses
+        url: /about-us/our-mgs-houses/
       - title: PDPA Policy
         url: /about-us/pdpa/
       - title: School Safety
@@ -36,25 +36,27 @@ links:
         url: /community/parents/letterstoparents/
       - title: ParentLink
         url: /parentlink/aboutus/
-      - title: Alumnae
+      - title: MGS Alumnae Association
         url: https://www.mgsalumnae.com/
       - title: CCMC
         url: https://www.ccmc.org.sg/
       - title: Careers at MGS
         url: /Careers-at-MGS/
+      - title: Canteen Stall Application Form
+        url: https://drive.google.com/file/d/1OM6bKKufzRub1fA3YZrpQI07E9a9BI2x/view?usp=share_link
   - title: Primary
     url: /primary/mg-curriculum/academic/
     sublinks:
       - title: Academic
         url: /primary/mg-curriculum/academic/
-      - title: CCA
-        url: /primary/mg-curriculum/cca/
       - title: Curriculum
         url: /primary/mg-curriculum/
-      - title: Key Programmes
-        url: /primary/Key-Programmes/alp/
       - title: Student Development
         url: /primary/mg-curriculum/student-development/
+      - title: CCA
+        url: /primary/mg-curriculum/cca/
+      - title: Key Programmes
+        url: /primary/Key-Programmes/alp/
       - title: Useful Links
         url: /primary/useful-links/for-students/
   - title: Secondary
@@ -83,7 +85,7 @@ links:
         url: /secondary/admissions/school-fees/primary/
       - title: Financial Assistance
         url: /admissions/fas-pri/
-      - title: Scholarships and Awards
+      - title: Awards and Scholarships
         url: /admissions/Awards-and-Scholarships/
       - title: Leave of Absence
         url: /secondary/admissions/leave-of-absence/

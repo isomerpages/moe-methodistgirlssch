@@ -8,7 +8,7 @@ third_nav_title: Academic
 
 In alignment with the MOE ICT Masterplan 4 and the school’s vision, the Education Technology (EdTech) Department aims to nurture future-ready and responsible digital learners, well equipped with 21st century and digital baseline competencies. 
 
-**EdTech-enriched School Curriculum** 
+### EdTech-enriched School Curriculum
 
 Components of the Student Learning Space Pedagogical Scaffold (SLS PS) are integrated in the school curriculum to ensure that EdTech is used purposefully for quality learning. Teachers are equipped with relevant E-Pedagogy knowledge and skills to design EdTech-enriched learning experiences. 
 
@@ -20,13 +20,13 @@ Figure 1: Student Learning Space Pedagogical Scaffold (SLS PS)
 
   
 
-**Digital Baseline Competencies**
+### Digital Baseline Competencies
 
 The digital baseline competencies are weaved into the total curriculum to enable quality learning empowered by EdTech. These competencies are designed in line with the [MOE New Media Literacies Framework](https://sites.google.com/moe.edu.sg/baseline-ict/home). By the end of their primary education, students are equipped with the skills to create, connect and curate in a digitally networked environment.   
 
   
 
-**Digital Literacy Programme and Infocomm Club Curriculum** 
+### Digital Literacy Programme and Infocomm Club Curriculum
 
 As Singapore gears up to be a Smart Nation, it is integral for our students to be digitally literate. As such, the school has a 6-year Digital Literacy Programme in place to expose all students to coding and computational thinking. Through the programme, students develop problem-solving skills and creative thinking skills. 
 

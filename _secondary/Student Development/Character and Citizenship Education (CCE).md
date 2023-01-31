@@ -315,35 +315,39 @@ Lessons and activities in the CCE Curriculum are selected and customised for the
 </table>
 <br>
 
+## MGS Growth Journey
+![](/images/Secondary/growth%20journey-01.png)
+
 
 ## MGS Milestone Programmes
 
-Enrichment activities or Milestone Programmes are organized for each cohort. These activities provide authentic contexts for learning as well as opportunities for students to practice the social-emotional skills they have learnt in class. Activities are designed for social mixing and communication where through common tasks and challenges, students take steps forward to interact with those beyond their class and school.
-
-  
+Enrichment activities or Milestone Programmes are organized for each cohort. These activities provide authentic contexts for learning as well as opportunities for students to practice the social-emotional skills they have learnt in class. Activities are designed for social mixing and communication where through common tasks and challenges, students take steps forward to interact with those beyond their class and school.  
 
 The milestone programmes for each level are as follows:
 
-  
-
 **Secondary/Year 1**
 
-*   Orientation Programme
-*   ROCs 1 : Adventure Camp
+*   Orientation Week
+*   Adventure Camp
+*   Values in Action
 
 **Secondary/Year 2**
 
-*   ROCs 2 : Road Less Travelled Learning Journeys
+*   Learning Journey to National Museum
+*   Values in Action
 
 **Secondary/Year 3**
 
-*   ROCs 3 : MOE-OBS Challenge Camp
+*   MOE-OBS Challenge
+*   Values in Action
+*   NRIC Presentation Ceremony
 
 **Secondary/Year 4**
 
-*   ROCs 4 : Careers Festival
+*   Careers Festival
 *   Baccalaureate Service
 *   Longest Day  
+*   Values in Action
 
   
 
@@ -352,12 +356,9 @@ The milestone programmes for each level are as follows:
 
 The MGS girl is presented with a plethora of experiences and opportunities for growth, socialisation and self-discovery. These are offered both at each stage of their schooling years and as the opportunities arise. These are optional and we encourage students to take up some of these offers to fuel an existing interest, learn something new, discover new knowledge, practice planning and leadership, forge friendships and make memories.
 
-  
-
 The experiences include:
-
-*   Self-initiated VIA projects
-*   WoW Space activities
-*   STEAM programme activities
-*   Friend of Singa Ambassador
 *   House activities
+*   Independent Learning Day
+*   Self-initiated VIA projects
+*   STEAM programme activities
+*   WoW Space activities
