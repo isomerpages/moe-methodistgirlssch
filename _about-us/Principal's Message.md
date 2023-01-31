@@ -3,7 +3,7 @@ title: Principal's Message
 permalink: /about-us/principals-message/
 description: ""
 ---
-<img style="width:40%" align="right" src="/images/Common/sl-vwilson2.jpg">
+<img style="width:30%" align="right" src="/images/Common/sl-vwilson2.jpg">
 
 The MGS education is a special one that equips our girls of today to be empowered learners and leaders of tomorrow. As an institution that values joyful and purposeful learning and serving, MGS inspires our girls to discover their purpose,  pursue their passions, build enduring relationships and stretch their potential so as to impact and make a difference to the world beyond themselves. Founded in 1887, we are proud to be a school with a long history and heritage of serving and blessing the community. Since 1887, by the grace of God and many other fellow workers who have also sown into the school, MGS has grown and is now a very established school in Singapore.  However, we do not want to forget our humble beginnings or the spirit in which MGS was set up.  
  
