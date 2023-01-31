@@ -2,6 +2,7 @@ collections:
   secondary-academic:
     output: true
     order:
+      - Food and Consumer Education.md
       - Aesthetics/.keep
       - Aesthetics/Aesthetics.md
       - Aesthetics/Art.md
