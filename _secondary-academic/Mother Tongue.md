@@ -51,9 +51,10 @@ Subjects offered:
 
   
 
-### Syllabus
 
-Please refer to the [this link](https://www.moe.gov.sg/secondary/courses/express/electives#subjects).
+### National Syllabuses
+
+Please refer to [this link](https://www.moe.gov.sg/secondary/courses/express/electives#subjects).
 
 [Approved Dictionaries](https://www.seab.gov.sg/home/examinations/approved-dictionaries)
 

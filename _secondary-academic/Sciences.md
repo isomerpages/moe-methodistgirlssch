@@ -55,9 +55,8 @@ By the end of the 4th year in MGS, all students should have gained sufficient kn
   </table>
 
 
-
-### Syllabuses 
-Please refer to the [this link](https://www.moe.gov.sg/secondary/courses/express/electives#subjects).
+### National Syllabuses
+Please refer to [this link](https://www.moe.gov.sg/secondary/courses/express/electives#subjects).
   
 
 ### Curriculum

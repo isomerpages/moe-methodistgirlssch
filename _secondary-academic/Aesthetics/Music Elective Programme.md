@@ -4,12 +4,6 @@ permalink: /secondary/academic/aesthetics/mep/
 description: ""
 third_nav_title: Aesthetics
 ---
-
-
-
-
-
-
 ### Aims and Objectives
 
 The MOE Music Elective Programme (MEP) enables musically inclined students the opportunity to deepen their knowledge in music and hone their abilities in listening, creating, performing and research. The enriching curriculum provides hands-on music-making and access to specialised facilities and learning opportunities with professionals in the creative industries.
@@ -47,9 +41,9 @@ Registration link: 2023 MGS Secondary 1 registration package (to be provided at 
 DSA-MEP students will not be required to attend the Selection Test.
 
 
-### Syllabuses
-
+### National Syllabuses
 [Higher Music Syllabus 6086](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2021syllabus/6086_y21_sy.pdf)
+
 
 ### Areas of Study
 

@@ -10,10 +10,9 @@ third_nav_title: Aesthetics
 *   To develop students’ ability to create expression through music making
 
 
-### Syllabus
-Please refer to the [this link](https://www.moe.gov.sg/secondary/courses/express/electives#subjects).
+### National Syllabuses
+Please refer to [this link](https://www.moe.gov.sg/secondary/courses/express/electives#subjects).
 
- 
 
 ### Curriculum
 

@@ -4,23 +4,24 @@ permalink: /secondary/academic/aesthetics/art/
 description: ""
 third_nav_title: Aesthetics
 ---
-## Aims and Objectives
+### Aims and Objectives
 
 The [Art Department](https://www.youtube.com/watch?v=CA77VX-84so) in MGS aims to build confident art learners who communicate visually to create meaning and connections with the society and culture. The programme delivers a future-oriented art curriculum to develop art learners’ competencies and appreciation for art as they perceive the world with increased awareness and aesthetic sensitivity.
 
 
-## Pedagogy
+### Pedagogy
 
 * Studio Thinking 
 * Design Thinking
 * Inquiry-based Learning
 
 
-## Syllabus
-Please refer to the [this link](https://www.moe.gov.sg/secondary/courses/express/electives#subjects).
+
+### National Syllabuses
+Please refer to [this link](https://www.moe.gov.sg/secondary/courses/express/electives#subjects).
 
 
-## Curriculum
+### Curriculum
 
 **Big Ideas**
 
@@ -29,7 +30,7 @@ Art tells stories about our world  <br>
 Art influences how we live  
   
 
-### Secondary 1 / Year 1
+#### Secondary 1 / Year 1
 
 **Self and the Environment**
 
@@ -48,7 +49,7 @@ Art influences how we live
 * 3D Design 
   
 
-### Secondary 3 / Year 3
+#### Secondary 3 / Year 3
 
 * Art Research & Inquiry  
 * Studio Practice  
@@ -59,7 +60,7 @@ Art influences how we live
 ![](/images/Secondary/art2.jpg)
 
 
-### Secondary 4 / Year 4
+#### Secondary 4 / Year 4
 
 * Art Research & Inquiry  
 * Art Synectics  
@@ -69,7 +70,7 @@ Art influences how we live
 * Personal Responses
 
 
-## Assessment
+### Assessment
 
 Comprises individual and group term projects and time-based examinations
 
