@@ -15,9 +15,8 @@ Click [here](https://staging.dt6ildc2mnegy.amplifyapp.com/secondary/admissions/
 ## Enquiries
 
 For further clarification, please contact:  
-  
-**Dean of Academic Studies**  
-[Ms Choo Siew Bee](mailto:choo_siew_bee@schools.gov.sg)  
-  
-**Integrated Programme Assistant Year Head**  
-[Mrs Grace Poh](mailto:grace_poh@schools.gov.sg)
+
+**Head of Department (Integrated Programme)**: [Mrs Grace Tang](tang_lyn_lyn@schools.gov.sg)
+
+**Subject Head  (Integrated Programme)**: [Mrs Grace Poh](mailto:grace_poh@schools.gov.sg)
+

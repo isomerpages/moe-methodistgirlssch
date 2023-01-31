@@ -143,11 +143,9 @@ Provide a short paragraph about yourself, your interests or what is important to
 
 For further clarification, please contact:  
   
-**Dean of Academic Studies**  
-[Ms Choo Siew Bee](mailto:choo_siew_bee@schools.gov.sg)  
-  
-**Integrated Programme Assistant Year Head**  
-[Mrs Grace Poh](mailto:grace_poh@schools.gov.sg)
+**Head of Department (Integrated Programme)**: [Mrs Grace Tang](tang_lyn_lyn@schools.gov.sg)
+
+**Subject Head  (Integrated Programme)**: [Mrs Grace Poh](mailto:grace_poh@schools.gov.sg)
 
 
 ## IMPORTANT NOTE FOR CURRENT SEC 2 MGS STUDENTS/PARENTS
