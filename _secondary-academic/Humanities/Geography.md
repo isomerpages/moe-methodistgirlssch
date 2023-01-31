@@ -8,7 +8,7 @@ Geography is offered as a subject in the ‘O’ Level and Integrated Programme.
 
   
 
-### Syllabuses
+### National Syllabuses
 
 Please refer to [this link](https://www.moe.gov.sg/secondary/courses/express/electives#subjects).
 
