@@ -143,13 +143,9 @@ Provide a short paragraph about yourself, your interests or what is important to
 
 For further clarification, please contact:  
   
-**Head of Department (Integrated Programme)**
+**Head of Department (Integrated Programme)**: [Mrs Grace Tang](tang_lyn_lyn@schools.gov.sg)
 
-[Mrs Grace Tang](tang_lyn_lyn@schools.gov.sg)
-
-
-**Subject Head  (Integrated Programme)**  
-[Mrs Grace Poh](mailto:grace_poh@schools.gov.sg)
+**Subject Head  (Integrated Programme)**: [Mrs Grace Poh](mailto:grace_poh@schools.gov.sg)
 
 
 ## IMPORTANT NOTE FOR CURRENT SEC 2 MGS STUDENTS/PARENTS
