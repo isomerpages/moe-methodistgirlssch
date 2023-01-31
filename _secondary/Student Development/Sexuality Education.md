@@ -99,21 +99,21 @@ b. [Character and Citizenship Education](https://www.moe.gov.sg/education-in-sg
   </thead>
   <tbody>
     <tr>
-      <td class="tg-auhb">Lesson</td>
+      <td class="tg-auhb" width="30%">Lesson</td>
       <td class="tg-auhb">Learning Objectives</td>
     </tr>
     <tr>
-      <td class="tg-2w19">Steady or Not?</td>
+      <td class="tg-2w19" width="30%">Steady or Not?</td>
       <td class="tg-2w19">Recognise the importance of cultivating friendships with members of the same and opposite sex<br>
         Recognise what constitutes healthy and unhealthy relationships<br>
         Distinguish between love and infatuation</td>
     </tr>
     <tr>
-      <td class="tg-2w19">Being Aware, Being Safe</td>
+      <td class="tg-2w19" width="30%">Being Aware, Being Safe</td>
       <td class="tg-2w19">Be aware of the dangers of interacting online, including grooming by predators.</td>
     </tr>
     <tr>
-      <td class="tg-2w19">More Than Meets the Eye</td>
+      <td class="tg-2w19" width="30%">More Than Meets the Eye</td>
       <td class="tg-2w19">Public displays of affection<br>
         Impact of consuming pornography</td>
     </tr>
@@ -130,19 +130,19 @@ b. [Character and Citizenship Education](https://www.moe.gov.sg/education-in-sg
 </thead>
 <tbody>
   <tr>
-    <td class="tg-auhb">Lesson</td>
+    <td class="tg-auhb" width="30%" >Lesson</td>
     <td class="tg-auhb">Learning Objectives  </td>
   </tr>
   <tr>
-    <td class="tg-2w19">A role for Everyone</td>
+    <td class="tg-2w19" width="30%">A role for Everyone</td>
     <td class="tg-2w19">Know/define what gender role, gender identity and sexual orientation are<br>Recognise gender stereotypes and take steps to avoid stereotyping people.</td>
   </tr>
   <tr>
-    <td class="tg-2w19">Online Safety Challenge</td>
+    <td class="tg-2w19" width="30%">Online Safety Challenge</td>
     <td class="tg-2w19">Be aware of the dangers of interacting online, including sexting, cyberflashing and  grooming by predators.</td>
   </tr>
   <tr>
-    <td class="tg-s5yd">Do I or Don’t I?</td>
+    <td class="tg-s5yd" width="30%">Do I or Don’t I?</td>
     <td class="tg-2w19">Explore the consequences of premarital sex<br>Be aware of the impact this might have on the couple as well as their friends and family.</td>
   </tr>
 </tbody>
@@ -158,20 +158,20 @@ b. [Character and Citizenship Education](https://www.moe.gov.sg/education-in-sg
   </thead>
   <tbody>
     <tr>
-      <td class="tg-auhb">Lesson</td>
+      <td class="tg-auhb" width="30%">Lesson</td>
       <td class="tg-auhb">Learning Objectives </td>
     </tr>
     <tr>
-      <td class="tg-2w19">Love Yourself, Love Others</td>
+      <td class="tg-2w19" width="30%">Love Yourself, Love Others</td>
       <td class="tg-2w19">Handling challenges that arise in a relationship</td>
     </tr>
     <tr>
-      <td class="tg-2w19">Mending a Broken Heart</td>
+      <td class="tg-2w19" width="30%">Mending a Broken Heart</td>
       <td class="tg-2w19">Understand the stages of grieving (for a failed relationship)<br>
       Healthy ways to cope with the break up of a relationship</td>
     </tr>
     <tr>
-      <td class="tg-2w19">When Respect Takes Centre Stage</td>
+      <td class="tg-2w19" width="30%">When Respect Takes Centre Stage</td>
       <td class="tg-2w19">Understand and make informed decisions on  sexting</td>
     </tr>
   </tbody>
@@ -187,23 +187,23 @@ b. [Character and Citizenship Education](https://www.moe.gov.sg/education-in-sg
 </thead>
 <tbody>
   <tr>
-    <td class="tg-auhb">Lesson</td>
+    <td class="tg-auhb" width="30%">Lesson</td>
     <td class="tg-auhb">Learning Objectives  </td>
   </tr>
   <tr>
-    <td class="tg-2w19">Levelling the Ground<br></td>
+    <td class="tg-2w19" width="30%">Levelling the Ground<br></td>
     <td class="tg-2w19">Exploring why there are gender stereotypes and the impact they have on a person’s self esteem<br></td>
   </tr>
   <tr>
-    <td class="tg-2w19">When Love Hurts</td>
+    <td class="tg-2w19" width="30%">When Love Hurts</td>
     <td class="tg-2w19">Recognising the signs of violence and abuse in a relationship<br>Discuss avenues of help and how to leave an abusive relationship.</td>
   </tr>
   <tr>
-    <td class="tg-2w19">For Better or Worse</td>
+    <td class="tg-2w19" width="30%">For Better or Worse</td>
     <td class="tg-2w19">Understand that marriage takes commitment and<br>communication  by both parties during difficulties and disagreements.</td>
   </tr>
   <tr>
-    <td class="tg-2w19">There’s Always More to a story</td>
+    <td class="tg-2w19" width="30%">There’s Always More to a story</td>
     <td class="tg-2w19">Revisiting the impact of consuming pornography.<br>How to seek help if one is a victim of revenge pornograhy</td>
   </tr>
 </tbody>
