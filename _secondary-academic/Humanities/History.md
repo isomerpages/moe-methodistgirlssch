@@ -61,18 +61,16 @@ Please refer to [this link](https://www.moe.gov.sg/secondary/courses/express/el
   </thead>
   <tbody>
     <tr>
-      <td class="tg-5hwe">Year 1 <br></td>
-      <td class="tg-5hwe">Singapore: A Journey Through Time, 1299-1942 </td>
-    </tr>
-    <tr>
-      <td class="tg-5hwe">Year 2 </td>
-      <td class="tg-5hwe">Singapore: A Journey Through Time, 1942-1970s </td>
+      <td class="tg-5hwe">Year 1 <br> 
+			Year 2</td>
+      <td class="tg-5hwe">Singapore: A Journey Through Time, 1299-1942 <br>
+			Singapore: A Journey Through Time, 1942-1970s </td>
     </tr>
     <tr>
       <td class="tg-5hwe">Years 3 and 4</td>
       <td class="tg-5hwe">20th Century World History: <br>
         - World Wars <br>
-        - Cold War: Europe, Asia, and South-East Asia </p></td>
+        - Cold War: Europe, Asia, and South-East Asia</td>
     </tr>
   </tbody>
 </table>
