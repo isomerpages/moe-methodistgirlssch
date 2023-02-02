@@ -124,7 +124,7 @@ third_nav_title: Secondary Staff
     <tr>
       <th width="10%" scope="row"><b>2G</b> </th>
       <td width="30%"><a href="mailto:nicole_phua@schools.gov.sg">Mrs Nicole Phua</a></td>
-      <td width="30%"><a href="mailto:salinah_sawipi@schools.gov.sg">Mdm Salinah</a></td>
+      <td width="30%"><a href="mailto:salinah_sawipi@schools.gov.sg">Ms Salinah</a></td>
       <td width="30%"></td>
     </tr>
     <tr>
@@ -323,7 +323,7 @@ third_nav_title: Secondary Staff
     <tr>
       <td width="29%"><a href="mailto:beatrice_leong@schools.gov.sg" target=""></a> <a href="mailto:ong_chen_moi@schools.gov.sg" target="">Mdm Ong Chen Moi</a></td>
       <td width="29%"><a href="mailto:neo_chin_ee@schools.gov.sg" target="">Mdm Neo Chin Ee </a></td>
-      <td width="29%"><a href="mailto:lim_soh_cheng@schools.gov.sg" target="">Mrs Lim Soh Cheng</a></td>
+      <td width="29%"><a href="mailto:lim_soh_cheng@schools.gov.sg" target="">Ms Lim Soh Cheng</a></td>
     </tr>
     <tr>
       <td width="29%"><a href="mailto:leong_wai_lup@schools.gov.sg" target="">Mr Leong  Wai Lup</a></td>
