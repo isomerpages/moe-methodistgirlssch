@@ -100,9 +100,10 @@ The CCA experience for members have included:
   <tbody>
     <tr>
       <th class="tr-header">CCA Schedule</th>
-      <td class="tr-norm">Days: Wednesday and Friday<br>
-        Time: 3.00pm – 6.00pm<br>
-      Venue: MEP 2</td>
+      <td class="tr-norm">Venue: MEP 2<br>
+				Wednesday: 3.15pm – 6.15pm <br>
+         Friday: 3pm – 6pm<br>
+      </td>
     </tr>
   </tbody>
 </table>
