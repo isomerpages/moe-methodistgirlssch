@@ -4,48 +4,106 @@ permalink: /secondary/student-development/cce/sexuality-education/
 description: ""
 third_nav_title: Student Development
 ---
-### MOE Sexuality Education in Schools
+## MOE Sexuality Education in Schools
 
-1. Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.
+### Overview
 
-2. The goals of Sexuality Education are to:  
+Sexuality Education is a process of gaining knowledge and forming attitudes, beliefs and values regarding human sexuality.
 
-*   To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate knowledge on human sexuality and the consequences of sexual activity;
-*   To help students know themselves and build healthy and rewarding relationships through the acquisition of social and emotional skills of self-awareness, management of their thoughts, feelings and behaviours, development of empathy for others, possession of effective communication, problem-solving and decision-making skills; and
-*   To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the heterosexual married couple forming a nuclear family as the basic unit of society, through the inculcation of positive mainstream values and attitudes about sexuality.
+MOE Sexuality Education covers the following areas:
 
-*   To help students make wise, informed and responsible decisions on sexuality matters.
+*   Physical: Physical changes during sexual maturity.
+    
+*   Emotional: Sexual attitudes and feelings towards self and others.
+    
+*   Social: Sexual norms and behaviour, and the legal, cultural and societal implications.
+    
+*   Ethical: Values and moral systems related to sexuality.
+    
 
-3. The key messages of Sexuality Education are:
+The MOE Sexuality Education curriculum is holistic and secular. It is taught through:
 
-(i) Love and respect yourself as you love and respect others;
+*   Science lessons.
+    
+*   Character and Citizenship Education lessons in primary schools, secondary schools, junior colleges and Millennia Institute.
+    
+*   eTeens programme in secondary schools, junior colleges and Millennia Institute.
+    
 
-(ii) Build positive relationships based on love and respect (which are the foundation for strong families);
+It is taught in the context of mainstream national values, according to students' developmental needs. Our Sexuality Education curriculum is anchored on Singapore’s prevailing family values and social norms, which the majority of Singaporeans want to uphold. Marriage is defined as being a union between a man and a woman.
 
-(iii) Make responsible decisions for yourself, your family and society; and
+Sexuality Education emphasises the importance of respect for self and others, both online and offline, and respecting personal boundaries for healthy relationships and safety. It aims to help students develop positive self-identities and healthy relationships, and make responsible decisions on sexuality matters.
 
-(iv) Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
+Sexuality Education in schools promotes abstinence before marriage, and teaches facts about contraception, consequences of casual sex, prevention of diseases, and how to say “no” to sexual advances. This also helps to reduce the incidence of sexually transmitted diseases or teenage pregnancies.
 
-You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education) for more information on MOE Sexuality Education. (Link works better if opened in a new tab)
-
-### OVERVIEW OF METHODIST GIRLS' SCHOOL'S SEXUALITY EDUCATION PROGRAMME FOR 2022
+Sexuality Education teaches students what homosexuality is and the importance of mutual understanding, respect and empathy for everyone.
 
 
-4. Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Behaviour, and, Culture, Society and Law.
 
-5. The subjects that incorporate topics on sexuality include:
+### Why have Sexuality Education?
 
-a. [Science](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education/scope-and-teaching-approach)
+Our children are growing up with a wide range of influences through the media and the internet. Sexuality Education aims to:
 
-b. [Character and Citizenship Education](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education/scope-and-teaching-approach)
+*   Support students in managing their physiological, social and emotional changes as they grow up and develop safe and healthy relationships.
+    
+*   Guide students to make wise, informed and responsible decisions on sexuality matters.
+    
+*   Help students develop a moral compass and respect for themselves and others by having positive mainstream values and attitudes about sexuality that are premised on the family as the basic unit of society.
 
-**Revised Character and Citizenship Education (CCE) Programme 2021 for Upper and Lower Secondary**
 
-6. The values and attitudes of our youth towards sexuality are increasingly shaped by their peers, exposure to the media, popular culture and the internet. Adolescence is a complex stage in life as the adolescent attempts to find his/her own identity and often struggles with new social relationships. The period of middle adolescence (generally from 15 – 17 years old) can be a turbulent period for adolescents. The gap between physical and emotional/cognitive maturity may result in a tendency to act on impulse, experiment with various activities (including sexual activities), sometimes without understanding the unpleasant consequences that may arise from such experimentation. The need for peer acceptance can be overwhelmingly strong, and hinder one’s ability to act responsibly. Given the pressures faced by the middle adolescent from within themselves and from peers, it is important to build a strong sense of self-worth, personal conviction and an understanding of the possible consequences of sexual behaviour.
+### How is Sexuality Education delivered?
 
-7. Through the revised CCE programme, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.
+Sexuality Education is a combined effort which begins at home with parents, continues in schools with teachers, and is supplemented by community efforts.
 
-**At Methodist Girls' School, the following lessons from the Revised Character and Citizenship Education Programme will be taught in 2022:**
+The 6 guiding principles of MOE's Sexuality Education are:
+
+*   Parents play the primary role in educating their children and are responsible for teaching and transmitting values on sex and sexuality.
+    
+*   Our educators will impart knowledge, skills and values that reflect Singapore's mainstream society so that students will make informed and responsible decisions on sexuality matters.
+    
+*   Aligned with our national values of encouraging heterosexual married couples to have healthy relationships with each other, and to build stable nuclear family units with extended family support.
+    
+*   Only specially selected and trained teachers will teach Sexuality Education in our schools.
+    
+*   Students and teachers are to respect the different attitudes, values and beliefs that different communities may have.
+    
+*   Relevant community resources that are aligned and approved by MOE may be used to supplement schools' programmes.
+    
+
+### Key themes
+
+The MOE Sexuality Education curriculum is organised around 5 themes:
+
+1.  Human development: the onset of puberty and its psychological and emotional impact.
+    
+2.  Interpersonal relationships: the skills and values for healthy and rewarding relationships with friends and family, including the opposite sex.
+    
+3.  Sexual health: information and attitudes to promote sexual health and avoid unwanted consequences of sexual behaviour.
+    
+4.  Sexual behaviour: expressions of sexuality and their effects.
+    
+5.  Culture, society and law: societal, cultural and legal influences on sexual identity and sexual expressions.
+      
+You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education) for more information on MOE Sexuality Education. 
+
+### OVERVIEW OF METHODIST GIRLS' SCHOOL'S SEXUALITY EDUCATION PROGRAMME FOR 2023
+
+Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education/scope-and-teaching-approach) for more information on the scope of Sexuality Education in the school curriculum. 
+
+The subjects that incorporate topics on sexuality include:
+
+a.  Science   
+
+b.  Character and Citizenship Education
+
+
+#### Sexuality Education Lessons:
+
+The values and attitudes of our youth towards sexuality are increasingly shaped by their peers, exposure to the media, popular culture and the internet. Adolescence is a complex stage in life as the adolescent attempts to find his/her own identity and often struggles with new social relationships. The period of middle adolescence (generally from 15 – 17 years old) can be a turbulent period for adolescents. The gap between physical and emotional/cognitive maturity may result in a tendency to act on impulse, experiment with various activities (including sexual activities), sometimes without understanding the unpleasant consequences that may arise from such experimentation. The need for peer acceptance can be overwhelmingly strong, and hinder one’s ability to act responsibly. Given the pressures faced by the middle adolescent from within themselves and from peers, it is important to build a strong sense of self-worth, personal conviction and an understanding of the possible consequences of sexual behaviour.
+  
+Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.
+
+**At Methodist Girls' School, the following Sexuality Education lessons will be taught in 2023:**
 
 <style type="text/css">
 .tg {
@@ -217,10 +275,10 @@ b. [Character and Citizenship Education](https://www.moe.gov.sg/education-in-sg
 ### eTeens Programme
 
 
-8. eTeens  is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, for Secondary 3 students. The programme was introduced to secondary schools in 2007 as the Breaking Down Barriers (BDB) programme, to provide students with accurate information on STIs, HIV and protection from a health perspective. eTeens is conducted in two segments – a mass talk segment and a classroom-based programme.
+eTeens  is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. eTeens is conducted in two segments – a mass talk segment and a classroom-based programme.
 
+Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions.
 
-9. Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions
 
 
 **At Methodist Girls' School, the eTeens programme will be implemented for Sec 3’s as follows in 2022:**
@@ -258,12 +316,12 @@ b. [Character and Citizenship Education](https://www.moe.gov.sg/education-in-sg
 	
 ### INFORMATION FOR PARENTS
 
-10. Parents may opt their children out of the MGS Sexuality Education Programme (incorporating the Growing Years programme) and/or the eTeens programme.
+Parents may opt their children out of the MGS Sexuality Education Programme (incorporating the Growing Years programme) and/or the eTeens programme.
 
-11. Parents who wish to opt their children out of the MGS Sexuality Education Programme (incorporating the Growing Years (GY) programme) need to complete an opt-out form.  [This form is downloadable here](https://drive.google.com/file/d/1Cq53Zugl346YPJG9Tr2tBruzoh9V2Xeg/view). Parents who wish to opt out for the eTeens programme ONLY, need to complete this [opt out form](https://drive.google.com/file/d/1qwTU3LefD9NCkEsyTjdgBbLwy6Ezwyh4/view).  Please open the forms in a new tab in order to view the forms.  A hardcopy of the form/s, duly completed and signed, is to be submitted to your daughter’s / ward’s Form Teacher.
+Parents who wish to opt their children out of the MGS Sexuality Education Programme (incorporating the Growing Years (GY) programme) need to complete an opt-out form.  [This form is downloadable here](https://drive.google.com/file/d/1Cq53Zugl346YPJG9Tr2tBruzoh9V2Xeg/view). Parents who wish to opt out for the eTeens programme **ONLY**, need to complete this [opt out form](https://drive.google.com/file/d/1qwTU3LefD9NCkEsyTjdgBbLwy6Ezwyh4/view).  Please open the forms in a new tab in order to view the forms.  A hardcopy of the form/s, duly completed and signed, is to be submitted to your daughter’s / ward’s Form Teacher.
 
-12. The deadline for submission of the forms will be communicated via PG.
+The deadline for submission of the forms will be communicated via PG.
 
-13. Parents may wish to attend the school sexuality education programmes with their children. Parents should contact the school to make the necessary arrangements.
+Parents may wish to attend the school sexuality education programmes with their children. Parents should contact the school to make the necessary arrangements.
 
-14. Parents can contact the school at mgss@moe.edu.sg or 6469 4800 for discussion or to seek clarification about the MGS Sexuality Education Programme.
+Parents can contact the school at [mgss@moe.edu.sg](mailto:mgss@moe.edu.sg) or 6469 4800 for discussion or to seek clarification about the MGS Sexuality Education Programme.
