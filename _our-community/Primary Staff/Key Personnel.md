@@ -8,6 +8,7 @@ third_nav_title: Primary Staff
 
 | Department | Head of Department | 
 | -------- | -------- |
+|Character and Citizenship Education| [Mrs Jayanthi Rajaratnam ](jayanthi_kadiresan@schools.gov.sg)
 |Physical Education & CCA| [Mrs Choy Yen Nee  ](mailto:tan_yen_nee@schools.gov.sg)
 Education Technology|[Ms Rebekah Foong](mailto:foong_chen_kai_rebekah@schools.gov.sg)
 English| [Mrs Jamie Chaw](mailto:lo_hwee_ling_jamie@schools.gov.sg)
