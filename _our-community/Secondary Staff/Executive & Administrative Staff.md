@@ -54,9 +54,11 @@ Librarian: Ms Zainap Bte Abdul Majid
 
 ### **MAINTENANCE AND TECHNICAL DEPARTMENT**
 
+Manager: [Mr Mohamad Nassir Bin Osman](mohd_nassir_osman@schools.gov.sg))  
 Senior Executive: Mr Henry Liow  
 Assistant Executive: Mr Khairulanwar Bin Mahad  
 Operations Support Officer: Mr Chan Keng Seng
+
 
 ### **OPERATIONS OFFICE**
 
