@@ -3,7 +3,10 @@ title: "1: 1 Learning Programme"
 permalink: /secondary/academic/1-1-learning-programme/
 description: ""
 ---
-[1:1 Fast Forward 2023 Parents Briefing](https://drive.google.com/file/d/1brrmoigef50FSQrPbO_mCJUgvYg6IscR/view?usp=share_link)
+<div style="width:100%; height:470px">
+	<iframe allowfullscreen="true" height="100%" width="100%" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTUuu_5bIfsDeG0vPlOIL_cKPTuA2-ob1Y80G3ozXKRhDmixew1Mwt8ks4hNZwBvWSBd1VFRkTZSvJs/embed?start=false&loop=false&delayms=3000"></iframe>
+	</div>
+	
 
 ### Frequently Asked Questions
 
