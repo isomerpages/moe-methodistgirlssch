@@ -4,11 +4,13 @@ permalink: /parentlink/join-us/
 description: ""
 third_nav_title: ParentLink
 ---
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSwr6ksR7xPMpLrWjmP92xUYvLnRA2fU-xRvC23BZPWjapIzO3Y_oxNRX4aio-eA3rM2TTO9pEpfrVO/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+
 ### How you can help:
 
 Class reps form an important network through which PL functions. They are appointed based on indications of interest and recommendations from level reps, PL committee and/or teachers. Class reps are encouraged to participate and engage other class parents to support PL events, offer/channel feedback and suggestions relevant to PL, assist teachers/the school when requested and initiate informal activities at class levels.  
 
-Should you be interested in helping in any of the events organized by ParentLink, please [email us](mailto:mgss@moe.edu.sg) .
+Should you be interested in helping in any of the events organized by ParentLink, please&nbsp;[email us](mailto:mgss@moe.edu.sg)&nbsp;.
 
 ### Parents may also help in other areas:
 
@@ -80,9 +82,9 @@ In addition, parents can also be involved with career talks and providing work e
 
 **Remarks:**
 
-*   **Combined meetings** denote prayer sessions for Parents with child(ren) in different levels. Hence ALL parents are welcomed!
-*   **Sec 4 Group** denote prayer sessions for Parents with child(ren) in Sec 4/Year 4 (taking O Levels, or EOY IP exams)
-*   **P6 Group** denote prayer sessions for Parents with child(ren) in Primary 6 (taking PSLE)
+*   **Combined meetings**&nbsp;denote prayer sessions for Parents with child(ren) in different levels. Hence ALL parents are welcomed!
+*   **Sec 4 Group**&nbsp;denote prayer sessions for Parents with child(ren) in Sec 4/Year 4 (taking O Levels, or EOY IP exams)
+*   **P6 Group**&nbsp;denote prayer sessions for Parents with child(ren) in Primary 6 (taking PSLE)
 
   
 
