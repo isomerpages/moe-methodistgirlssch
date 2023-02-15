@@ -4,7 +4,9 @@ permalink: /parentlink/join-us/
 description: ""
 third_nav_title: ParentLink
 ---
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSwr6ksR7xPMpLrWjmP92xUYvLnRA2fU-xRvC23BZPWjapIzO3Y_oxNRX4aio-eA3rM2TTO9pEpfrVO/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<div style="width:100%; height:470px">
+	<iframe allowfullscreen="true" height="100%" width="100%" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSwr6ksR7xPMpLrWjmP92xUYvLnRA2fU-xRvC23BZPWjapIzO3Y_oxNRX4aio-eA3rM2TTO9pEpfrVO/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+	</div>
 
 ### How you can help:
 
