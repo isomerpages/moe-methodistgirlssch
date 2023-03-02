@@ -96,7 +96,7 @@ Refer to [ANNEX A: INFORMATION ABOUT UNIFORM ONE](#annexa)
 
 ## Loan of MGS Uniform One
   
-Please [use this LINK](https://docs.google.com/forms/d/1VrOy1RXlpQiHtkapMRE57EvLIEjSt8Y1_nfzgr2zBDY/edit) for the loan of MGS Uniform One.  
+Please [use this LINK](https://docs.google.com/forms/d/e/1FAIpQLScu6bQdz1x6gAo8xruDzLvMOLrFg-Nq_Ws3eYHdJhVAWzZ7XA/viewform) for the loan of MGS Uniform One.  
   
 To pick up the items, kindly go to the P/ VP’s office on Level 3 and ring the doorbell for assistance.  
   

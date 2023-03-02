@@ -19,7 +19,6 @@ third_nav_title: Primary Staff
 |||
 | -------- | -------- |
 |Administration Manager| [Ms Criscelia Lim](mailto:criscelia_lim@schools.gov.sg)|
-|Corporate Support Officer|Mr Goh Eng Han
 |Corporate Support Officer|Ms Jasmine Chua
 |Corporate Support Officer|Miss Nur Hibriyah
 |Corporate Support Officer|Mdm Rasidah Bte Salimin
