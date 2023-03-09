@@ -34,7 +34,7 @@ Join our house captains, Poorva, Emma, Krystal and Kay as they present to you a 
 
 
 ## Student Testimonials
-<div style="width:100%; height:400px">
+<div style="width:100%; height:340px">
 <iframe width="600" height="338" src="https://www.youtube.com/embed/LZT0I1SWSvs" title="Student Testimonials" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
