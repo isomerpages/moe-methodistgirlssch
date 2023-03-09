@@ -3,47 +3,26 @@ title: Programme 2023
 permalink: /news-and-events/mgsoh/
 description: ""
 ---
-
 ### Programme 
 Event is broadcast simultaneously To M. E. Lau hall
 
-#### 0900 AM
+#### 0900 AM | Concourse
 Student Performances I: Handbell, International & Indian Dance & Drama
 
-**Concourse**
-
-
-#### 0925 AM 
+#### 0925 AM | Quadrangle
 Drill Performances I: Girls’ brigade
 
-**Quadrangle**
-
-
-#### 0930 AM
+#### 0930 AM | Auditorium
 Student Performances II: Choir, String, Guitar Ensemble & Drama 
 
-**Auditorium**
-
-
-#### 1000 AM
+#### 1000 AM | Auditorium
 Sharing Session: MGS Secondary School Experience*
 
-**Auditorium**
-
-
-#### 1100 AM
+#### 1100 AM | Auditorium
 Student Performances III: Choir, String, Guitar Ensemble & Drama 
 
-**Auditorium**
-
-
-#### 1105 AM
+#### 1105 AM | Quadrangle
 Drill Performances II: Girls’ Brigade
 
-**Quadrangle**
-
-
-#### 1130 AM
+#### 1130 AM | Auditorium
 Sharing Session: Direct School Admission* 
-
-**Auditorium**
