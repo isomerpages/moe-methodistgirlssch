@@ -15,6 +15,8 @@ Join us on **April 29**, between **9 AM to 1 PM**, for an informative and enjoya
 
 **We look forward to welcoming you and your family to our community.**
 
+
+
 **Message Two:**
 
 Welcome to MGS, a place where education and character-building go hand in hand.
