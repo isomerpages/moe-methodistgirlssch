@@ -22,7 +22,7 @@ Her experiences in MG have shaped her into the individual she is today, and taug
 
 ## Vlog of an MGS Student
 
-<div style="width:100%; height:400px">
+<div style="width:100%; height:340px">
 	<iframe width="600" height="338" src="https://www.youtube.com/embed/jgc13GkUqbY" title="Vlog of an MGS Student" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
