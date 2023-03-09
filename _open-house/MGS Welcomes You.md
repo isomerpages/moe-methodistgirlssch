@@ -19,6 +19,6 @@ Join us on **April 29**, between **9 AM to 1 PM**, for an informative and enjoya
 
 Welcome to MGS, a place where education and character-building go hand in hand.
 
-Experience our school for yourself, meet our awesome faculty, and learn more about what makes our community so special. Explore our campus, tour our facilities, and learn about our programs. You'll have the opportunity to ask questions, connect with our faculty, and get a taste of what life is like here.
+On April 29, between 9 AM to 1PM, come and experience our school for yourself. Meet our awesome faculty, and learn more about what makes our community so special. Explore our campus, tour our facilities, and learn about our programs. You'll have the opportunity to ask questions, connect with our faculty, and get a taste of what life is like here.
 
 **Let us show you why MGS is such an incredible place to be.**
