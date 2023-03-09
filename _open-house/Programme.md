@@ -3,7 +3,7 @@ title: Programme
 permalink: /open-house/permalink/
 description: ""
 ---
-### Programme 
+### Programme 2023
 *Event is broadcast simultaneously To M. E. Lau hall
 
 #### 0900 AM | Concourse
