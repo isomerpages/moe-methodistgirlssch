@@ -9,7 +9,7 @@ description: ""
 
 Welcome to MGS, a place where education and character-building go hand in hand.
 
-Experience firsthand what makes MGS such a special place. Our Open House will give you the opportunity to explore our campus, learn about our programs, meet our faculty, and interact with our students.
+Come and experience firsthand what makes MGS such a special place. Our Open House will give you the opportunity to explore our campus, learn about our programs, meet our faculty, and interact with our students.
 
 Join us on **April 29**, between **9 AM to 1 PM**, for an informative and enjoyable tour of our campus. 
 
@@ -21,6 +21,6 @@ Join us on **April 29**, between **9 AM to 1 PM**, for an informative and enjoya
 
 Welcome to MGS, a place where education and character-building go hand in hand.
 
-On April 29, between 9 AM to 1PM, come and experience our school for yourself. Meet our awesome faculty, and learn more about what makes our community so special. Explore our campus, tour our facilities, and learn about our programs. You'll have the opportunity to ask questions, connect with our faculty, and get a taste of what life is like here.
+Come and experience our school for yourself. Meet our awesome faculty, and learn more about what makes our community so special. Explore our campus, tour our facilities, and learn about our programs. You'll have the opportunity to ask questions, connect with our faculty, and get a taste of what life is like here.
 
-**Let us show you why MGS is such an incredible place to be.**
+Join us on **April 29**, between **9 AM to 1 PM**, let us show you why MGS is such an incredible place to be.
