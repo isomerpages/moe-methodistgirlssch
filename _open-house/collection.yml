@@ -2,7 +2,7 @@ collections:
   open-house:
     output: true
     order:
-      - Programme 2023.md
+      - welcome.md
       - Student Voices.md
       - DSA Talent Areas.md
       - FAQs.md
