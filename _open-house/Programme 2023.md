@@ -4,7 +4,7 @@ permalink: /news-and-events/mgsoh/
 description: ""
 ---
 ### Programme 
-Event is broadcast simultaneously To M. E. Lau hall
+*Event is broadcast simultaneously To M. E. Lau hall
 
 #### 0900 AM | Concourse
 Student Performances I: Handbell, International & Indian Dance & Drama
@@ -25,4 +25,4 @@ Student Performances III: Choir, String, Guitar Ensemble & Drama
 Drill Performances II: Girls’ Brigade
 
 #### 1130 AM | Auditorium
-Sharing Session: Direct School Admission* 
+Sharing Session: Direct School Admission*
