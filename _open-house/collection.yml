@@ -2,7 +2,7 @@ collections:
   open-house:
     output: true
     order:
-      - welcome.md
+      - MGS Welcomes You.md
       - Student Voices.md
       - DSA Talent Areas.md
       - FAQs.md
