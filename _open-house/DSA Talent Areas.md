@@ -3,7 +3,7 @@ title: DSA Talent Areas
 permalink: /openhouse/dsa-talent-areas/
 description: ""
 ---
-<div style="width:100%; height:400px">
+<div style="width:100%; height:340px">
 	<iframe width="600" height="338" src="https://www.youtube.com/embed/jUfBPDKm2z4" title="MGS DSA Talent Areas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 

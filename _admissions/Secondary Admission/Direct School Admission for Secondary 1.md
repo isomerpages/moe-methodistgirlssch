@@ -5,15 +5,9 @@ description: ""
 third_nav_title: Secondary Admission
 ---
 ![](/images/Highlights/pic-dsa.jpg)
-## Outcome of DSA Application to MGS
 
-Dear Applicants,
+DSA Application for Primary 6 students will begin in early May 2023. Please refer to this page for full details nearing the date.
 
-A notification has been sent to your email accounts on Thursday, 8 September 2022, on the outcome of your DSA Application (Confirmed/Waitlist/Unsuccessful).
-
-Please check your inbox/spam/junk folders.
-
-Thank you for your patience and all the best for your PSLE!
 
 ## Direct School Admission Into MGS Secondary 1 In 2023
 
