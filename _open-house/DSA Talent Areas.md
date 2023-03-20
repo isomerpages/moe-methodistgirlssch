@@ -18,4 +18,4 @@ Find out more about MGS DSA Talent Areas, our criteria for admissions and the ap
 
 **MEP**: For academically able applicants with an aptitude for music to pursue a deeper study in music-listening and music-making.
 
-**SPORTS**: For applicants who have outstanding sports achievements at recognised competitions or exhibit potential to excel in the sports to join our TEAM MGS - Artistic Swimming, Bowling, Cross-Country, Netball, Squash, Softball, Swimming and Tennis.
+**SPORTS**: For applicants who have outstanding sports achievements at recognised competitions or exhibit potential to excel in the sports to join our TEAM MGS - Artistic Swimming, Bowling, Netball, Squash, Softball, Swimming and Tennis.
