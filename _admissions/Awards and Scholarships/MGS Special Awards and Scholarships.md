@@ -4,7 +4,6 @@ permalink: /about-us/school-information/awards-n-scholarships/mgs-special-awards
 description: ""
 third_nav_title: Awards and Scholarships
 ---
-
 ## MGS Scholarship 
 
 The MGS Scholarship is awarded to the best all-rounder in the PSLE cohort continuing her studies in MGS. The MGS Scholar is of exemplary character and excels in both academic and non-academic domains. The Scholarship is renewed every year until the scholar completes her secondary education in MGS, provided she maintains her grades and continues to be of exemplary conduct.
@@ -69,9 +68,7 @@ The scholarships are awarded to students from the following categories:
 
 ## Jumabhoy Award
   
-Given to an outstanding current Secondary/Year Four student in recognition of her academic progress, sterling performance in CCA and service to the community.   
-  
-*The Jumabhoy family is a dedicated supporter of education-centric philanthropic initiatives and believes strongly in giving back to the community.*  
+The Jumabhoy Award is presented to an outstanding current Secondary/Year Four student in recognition of her academic progress, sterling performance in CCA and service to the community. 
 
 
 ## Outstanding Sportsgirl Award 
@@ -97,11 +94,11 @@ Given to a Primary or Secondary MGS student who displays either exemplary courag
 
 **(A) GCE O-Level**
 
-Given to the second best performing student in the GCE O-Level cohort.
+Presented to the second best performing student in the GCE O-Level cohort.
 
 **(B) Integrated Programme**
 
-Given to the second best performing student in the Year Four Integrated Programme cohort.
+Presented to the second best performing student in the Year Four Integrated Programme cohort.
 
 
 ## Mary Nind Bursary Award
