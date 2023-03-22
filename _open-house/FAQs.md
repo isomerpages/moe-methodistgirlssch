@@ -95,49 +95,44 @@ All applicants will be informed if they have been shortlisted for e-conferencing
 Shortlisted applicants will be informed of selection date, time and tasks via email by late June/early July.
 
 
-### 5. When will I know if I have been offered a place?
-
-All shortlisted applicants will be notified of the outcome of their applications by 2nd week of September.
-
-
-### 6. I received more than one DSA offer. When must I decide which to accept?
+### 5. I received more than one DSA offer. When must I decide which to accept?
 
 You will have to indicate your preferences in ranked order for up to three schools during the Exercise School Preference Stage in late October after PSLE.
 
 
-### 7. What is the minimum score needed to be shortlisted for DSA trial / audition?
+### 6. What is the minimum score needed to be shortlisted for DSA trial / audition?
 
 The DSA scheme provides students to gain admission to a DSA school via talent area(s). All applicants will be assessed on their talents and ability to cope with the school curriculum.
 
 
-### 8. Must my child’s PSLE Score fall within a specific range even if she receives a Confirmed Offer from your school?
+### 7. Must my child’s PSLE Score fall within a specific range even if she receives a Confirmed Offer from your school?
 
 For MGS, your child must qualify for the Express stream.
 
 
-### 9. Where can I find the list of CCAs for DSA? Will the list be the same as the previous year?
+### 8. Where can I find the list of CCAs for DSA? Will the list be the same as the previous year?
 
 The new list of DSA Talent Areas for MGS will be put up after MOE’s release of DSA information.
 
 
-### 10. Is there a DSA quota for each CCA or on the whole?
+### 9. Is there a DSA quota for each CCA or on the whole?
 
 There is no fixed quota. The objective of DSA is to identify talent, taking into consideration the student’s interest and long term development potential.
 
 
-### 11. Are there CCAs which are more popular and see a higher number of DSA applicants?
+### 10. Are there CCAs which are more popular and see a higher number of DSA applicants?
 
 No, there is no discernible trend.
 
 
-### 12. If my child gets in through DSA, must my child join the CCA for 4 years? What if her interest changes?"
+### 11. If my child gets in through DSA, must my child join the CCA for 4 years? What if her interest changes?"
 
 Yes, your child is obliged to contribute in that DSA CCA and hence must remain in the same CCA so that we can develop her full potential over four years.
 
 If choice of CCA is important, then your child should avoid applying for entry via DSA Sports or Music as the above conditions apply.
 
 
-### 13. Would my daughter be at a disadvantage during the DSA exercise if she is not a Singaporean?
+### 12. Would my daughter be at a disadvantage during the DSA exercise if she is not a Singaporean?
 
 Your child’s nationality does not matter in the DSA exercise. Our assessment is based on talents and ability to cope with the rigour of the school curriculum.
 
