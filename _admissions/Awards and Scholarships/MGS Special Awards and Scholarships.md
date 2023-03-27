@@ -60,9 +60,9 @@ The Puan Sri Helene Tan Chin Tuan Scholarships are presented to students with a 
  
 The scholarships are awarded to students from the following categories:
 
-(i) Secondary/ Year Four O-Level/ IP graduates
-(ii) Current Secondary Four/ Year Four students 
-(iii) Current Secondary One/ Year One students who continue their studies in MGS from Primary Six
+(i) Secondary/ Year Four O-Level/ IP graduates <br>
+(ii) Current Secondary Four/ Year Four students <br>
+(iii) Current Secondary One/ Year One students who continue their studies in MGS from Primary Six <br>
   
 *Puan Sri Helene Tan Chin Tuan served as President of the MGS Alumnae Association in 1951, spearheading fundraising efforts to build the Mary Nind Wing at the Mount Sophia campus. She was a firm believer in helping the less fortunate in society and is recognised today for her significant contributions to public service and charity work.*  
     
