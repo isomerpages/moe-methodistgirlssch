@@ -3,6 +3,19 @@ title: Student Voices
 permalink: /openhouse/student-voices/
 description: ""
 ---
+## Vlog of an MGS Student
+
+<div style="width:100%; height:340px">
+	<iframe width="600" height="338" src="https://www.youtube.com/embed/jgc13GkUqbY" title="Vlog of an MGS Student" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+Join our house captains, Poorva, Emma, Krystal and Kay as they present to you a day in the life of an MGS student. <br><br>
+
+> Down through the years our memories will keep a loving place.  
+> 
+> For friendships made and pleasures shared, and lessons learned apace.
+
+
 <div style="width:100%; height:340px">
 	<iframe width="600" height="338" src="https://www.youtube.com/embed/QvQ53lOmk4M" title="Nicole Sim (MGS, Class of 2021)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 	
@@ -18,19 +31,6 @@ The nurturing environment in MGS — especially in the Netball School Team and P
 Hear from **Tan Yun Xuan, Class of 2021**, as she talks about her inspiring journey as a leader and the challenges that she encountered. 
 
 Her experiences in MG have shaped her into the individual she is today, and taught her what it truly means to Master, to Grow and to Serve.
-
-
-## Vlog of an MGS Student
-
-<div style="width:100%; height:340px">
-	<iframe width="600" height="338" src="https://www.youtube.com/embed/jgc13GkUqbY" title="Vlog of an MGS Student" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-Join our house captains, Poorva, Emma, Krystal and Kay as they present to you a day in the life of an MGS student. <br><br>
-
-> Down through the years our memories will keep a loving place.  
-> 
-> For friendships made and pleasures shared, and lessons learned apace.
 
 
 ## Student Testimonials
