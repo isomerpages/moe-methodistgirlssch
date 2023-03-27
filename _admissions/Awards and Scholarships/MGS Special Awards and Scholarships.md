@@ -109,13 +109,13 @@ To recognise self-directed academic achievements for high ability students who c
 
 ## Mrs Anna Tham Book Prize
 
-Given to the top three scorers in Mathematics in Primary Five and Six, in the lower secondary levels (both the IP and O-Level track) as well as in Mathematics and Additional Mathematics in the upper secondary levels (both the IP and O-Level track).
-
+Mrs Anna Tham Book Prizes are presented to the top three scorers in Mathematics in Primary Five and Six, in the lower secondary levels (both the IP and O-Level track) as well as in Mathematics and Additional Mathematics in the upper secondary levels (both the IP and O-Level track).
+ 
 *Mrs Anna Tham is a former student and later, a Mathematics teacher at her alma mater at MGS. She is the longest-serving Principal of MGS (1977 to 1994). A pioneering Guider, Mrs Tham continues to dedicate her energies to imparting the life skills and values of the Guiding Movement to the next generation.*
 
 
 ## Professor Miranda Yap Book Prize
 
-Given to the top three scorers in Science in Primary 5 and Primary 6 Science, Science in the lower secondary levels (both the IP and O-Level track), as well as the top three scorers in each of the sciences – Biology, Chemistry and Physics – in the upper secondary levels (both the IP and O-Level track). 
-
-*Professor Miranda Yap (Class of 1965) was one of Singapore's most eminent female scientists. A pioneer of biomedical sciences in Singapore, Prof Yap was the founding executive director of the Bioprocessing Technology Institute (BTI) and the executive director of the A\STAR Graduate Academy. She guided the development of specialised scientific institutions, and laid the foundations for Singapore’s thriving biologics industry. At the Methodist Girls’ School, she was vice-head prefect, netball captain and a star athlete who was looked up to by her peers and juniors.*
+Professor Miranda Yap Book Prizes are presented to the top three scorers in Science in Primary 5 and Primary 6 Science, Science in the lower secondary levels (both the IP and O-Level track), as well as the top three scorers in each of the sciences – Biology, Chemistry and Physics – in the upper secondary levels (both the IP and O-Level track). 
+ 
+*Professor Miranda Yap (Class of 1965) was one of Singapore's most eminent female scientists. A pioneer of biomedical sciences in Singapore, Prof Yap was the founding executive director of the Bioprocessing Technology Institute (BTI) and the executive director of the ASTAR Graduate Academy. She guided the development of specialised scientific institutions, and laid the foundations for Singapore’s thriving biologics industry. At the Methodist Girls’ School, she was vice-head prefect, netball captain and a star athlete who was looked up to by her peers and juniors. *
