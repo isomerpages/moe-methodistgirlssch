@@ -11,7 +11,7 @@ These awards are given to girls in recognition of their achievements in co-curri
 
 The Sports Awards are presented to talented and deserving athletes to help them realise their full potential. These athletes have represented Singapore National Teams in international competitions.
 
-### Colours/Merit Award
+### Colours/Merit (Sports) Award
 The Colours/Merit Award for Sports is presented in recognition of a pupil’s high
 standard of performance in sports and games approved by the school.
 
@@ -30,4 +30,4 @@ The Distinction/Merit Award for Student Leadership is presented in recognition o
 
 ## Other School based Awards
 1. Class Character Awards
-2. Subject Prizes 
+2. Subject Prizes
