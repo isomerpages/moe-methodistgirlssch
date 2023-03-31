@@ -4,7 +4,7 @@ permalink: /parents/Primary-Parents/parent-volunteer/
 description: ""
 third_nav_title: Primary Parents
 ---
- The Parent Volunteer (PV) Scheme is applicable to parents whose children are Singapore Citizens or Singapore Permanent Residents.
+The Parent Volunteer (PV) Scheme is applicable to parents whose children are Singapore Citizens or Singapore Permanent Residents.
 
 MGS will only start taking in application one year before the student is due for P1 registration. For example, if your daughter is born in 2018, therefore going to P1 in 2025. The dates for P1 registration for children born in 2018 will be in 2024. We will take in PV application for that cohort in April 2023. 
 
