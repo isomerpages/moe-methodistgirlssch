@@ -14,4 +14,4 @@ The successful PV will start the service from July that year to June the followi
 
 You may also want to note that MGS, as with other Methodist Schools in Singapore, has a large body of Methodist member affiliates who are also eligible for priority registration under Phase 2B. Balloting will be conducted when the number of applicants exceeds the number of vacancies under Phase 2B. As such, being a PV will not guarantee a place for your daughter in MGS.
 
-Please click [here](https://form.gov.sg/624247c1a22b0c0014c83ff3) to access the PV application form (available from 1 Apr).
+Please click [here](https://form.gov.sg/641befa8ea94760012ad5d3c) to access the PV application form (available from 1 Apr).
