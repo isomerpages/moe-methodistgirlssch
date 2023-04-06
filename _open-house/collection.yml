@@ -2,8 +2,8 @@ collections:
   open-house:
     output: true
     order:
-      - Programme.md
       - MGS Welcomes You.md
+      - Programme.md
       - Student Voices.md
       - DSA Talent Areas.md
       - FAQs.md
