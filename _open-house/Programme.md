@@ -3,25 +3,22 @@ title: Programme
 permalink: /open-house/programme/
 description: ""
 ---
-## The MGS Experience
-
-### CCA BOOTHS
-#### Visual &amp; Performing Arts booths at the Trellis
-#### Societies/ Clubs &amp; Uniformed Groups Booths at the Bamboo Courtyard
-#### Sports Booths at the Indoor Sports Hall
-
-
-
-### DISCOVERY BOOTHS at the M. E. Lau Hall and Library on Level 3
+## DISCOVERY BOOTHS 
+### M. E. Lau Hall and Library on Level 3
 #### Academic Departments
 #### Student Development Programmes
-#### integrated programme
+#### Integrated Programme
 
 
+## CCA BOOTHS
+#### Visual &amp; Performing Arts: Trellis
+#### Societies/ Clubs &amp; Uniformed Groups: Bamboo Courtyard
+#### Sports: Indoor Sports Hall
 
-## Guided School Tours
-Available from 9 AM to 1 PM <br>
-Starts at the **Concourse**
+
+## GUIDED SCHOOL TOURS 
+### Starts at the Concourse
+Available from 9 AM to 1 PM
 
 
 
