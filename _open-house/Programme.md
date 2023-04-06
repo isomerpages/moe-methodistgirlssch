@@ -3,6 +3,18 @@ title: Programme
 permalink: /open-house/programme/
 description: ""
 ---
+## Guided School Tours
+Available from 9 AM to 1 PM
+Starts at the **Concourse**
+
+## MGS Heritage Centre
+Opening hours from 9 AM to 1 PM
+
+## CCA Booths
+Trellis: Visual &amp; Performing Arts
+Bamboo Courtyard: Societies/ Clubs &amp; Uniformed Groups
+Indoor Sports Hall: Sports
+
 ## Programme 
 
 ### 09:00 AM
@@ -36,15 +48,3 @@ Sharing Session II: Direct School Admission * <br>
 ### 12:10 pm
 Student Performances IV: Handbell, International &amp; Indian Dance <br>
 **{ CONCOURSE }**
-
-## Guided School Tours
-Available from 9 AM to 1 PM
-Starts at the **Concourse**
-
-## MGS Heritage Centre
-Opening hours from 9 AM to 1 PM
-
-## CCA Booths
-Trellis: Visual &amp; Performing Arts
-Bamboo Courtyard: Societies/ Clubs &amp; Uniformed Groups
-Indoor Sports Hall: Sports
