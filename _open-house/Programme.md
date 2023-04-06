@@ -32,15 +32,16 @@ Starts at the **Concourse**
 Opening hours from 9 AM to 1 PM
 
 
-## Sharing Session
+## Sharing Session *
+*Event is broadcast simultaneously  To M. E. Lau hall 
 
-### 10:00 AM
-MGS Secondary School Experience * <br>
-**{AUDITORIUM}**
+10:00 AM  <br>
+### MGS Secondary School Experience
 
-### 11:30 AM
-Direct School Admission * <br>
-**{AUDITORIUM}**
+11:30 AM <br>
+### Direct School Admission
+
+### AUDITORIUM
 
 
 ## Performances
