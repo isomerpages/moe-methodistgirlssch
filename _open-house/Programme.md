@@ -21,32 +21,22 @@ description: ""
 Available from 9 AM to 1 PM
 
 
-
-## MGS Heritage Centre
+## MGS HERITAGE CENTRE
 Opening hours from 9 AM to 1 PM
 
 
-
-## Sharing Session
+## SHARING SESSION
 Sharing session is held in the **Kwa Geok Choo Auditorium** and is broadcast simultaneously to the M. E. Lau Hall  
-
-### MGS Secondary School Experience 
-10.00 AM
-
-### Direct School Admission
-11.30 AM
+### 10 AM: MGS Secondary School Experience 
+### 11.30 AM: Direct School Admission
 
 
-
-## Performances
+## PERFORMANCES
 ### Girls’ Brigade - Drill Performances at the Quadrangle
-9.20 AM
-11.10 AM
+9.20 AM & 11.10 AM
 
 ### Handbell, International &amp; Indian Dance - Student Performances at the Concourse
-9.00 AM
-12.10 PM
- 
+9.00 AM & 12.10 PM
+
 ### String Ensemble, Guitar Ensemble, Drama &amp; Choir  - Student Performances in the Auditorium
-9.30 AM
-11.00 AM
+9.30 AM & 11.00 AM
