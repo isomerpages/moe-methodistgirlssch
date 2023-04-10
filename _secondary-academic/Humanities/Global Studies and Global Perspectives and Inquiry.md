@@ -1,10 +1,10 @@
 ---
-title: Global Studies
+title: Global Studies and Global Perspectives and Inquiry
 permalink: /secondary/academic/humanities/global-studies/
 description: ""
 third_nav_title: Humanities
 ---
-Global Studies is offered as a subject in the IP Programme.
+Global Studies and Global Perspectives and Inquiry is offered as a subject in the IP Programme.
   
 
 ## Aim
