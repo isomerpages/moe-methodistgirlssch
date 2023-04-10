@@ -12,7 +12,7 @@ Women with Global perspectives anchored on Godly values.
 
 ### Philosophy
 
-The Humanities Department offers History, Geography, Social Studies and Global Studies.  
+The Humanities Department offers History, Geography, Social Studies, Global Studies and Global Perspectives and Inquiry.  
 
 All students on the ‘O’ level track are required to take History and Geography at Lower Secondary and a compulsory Combined Humanities (Social Studies + History/Geography/ Literature Elective) at Upper Secondary.
 
@@ -34,4 +34,3 @@ The Humanities Department aims to :
 *   Concept Mapping
 *   Socratic Questioning
 *   Paul’s Wheel of Reasoning
-
