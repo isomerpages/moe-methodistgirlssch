@@ -117,7 +117,7 @@ You will need the following information and supporting documents (in softcopy) f
 * Include a passport photo of applicant; JPEG format; not exceeding 2MB in size
     
 **b) Education Background**
-* PSLE results, Sec 1 Overall Examinations (Sec 2 EOY results to be emailed to [tang\_lyn\_lyn@schools.gov.sg](mailto:tang_lyn_lyn@schools.gov.sg) and [grace\_poh@schools.gov.sg](mailto:grace_poh@schools.gov.sg)) by 23 Oct 2023)
+* PSLE results, Sec 1 Overall Examinations (Sec 2 EOY results to be emailed to [tang\_lyn\_lyn@schools.gov.sg](mailto:tang_lyn_lyn@schools.gov.sg) and [grace\_poh@schools.gov.sg](mailto:grace_poh@schools.gov.sg) by 23 Oct 2023)
     
 **c) Parent’s/Guardian’s Particulars**
 
@@ -130,20 +130,18 @@ You will need the following information and supporting documents (in softcopy) f
 
 ### For further clarifications, please contact:
 
-**Ms Grace Tang (Head, Integrated Programme)**&nbsp;
- 
+**Ms Grace Tang (Head, Integrated Programme)** <br>
 [tang\_lyn\_lyn@schools.gov.sg](mailto:tang_lyn_lyn@schools.gov.sg)
 
 
-**Mrs Grace Poh (Subject head, Integrated Programme)**
-
+**Mrs Grace Poh (Subject head, Integrated Programme)** <br>
 [grace\_poh@schools.gov.sg](mailto:grace_poh@schools.gov.sg)
 
 
 
 ### IMPORTANT NOTE FOR CURRENT SEC 2 MGS STUDENTS/PARENTS
 * You still need to sign up for a Y3IP application account, as it is different from your current MGS ntrix account.
-* DO NOT USE your current MGS ntrix account login details/password for Y3IP application account.
+* DO **NOT** USE your current MGS ntrix account login details/password for Y3IP application account.
 
 
 **Application starts via this online portal after Saturday, 20 May 2023, 9 am.**
