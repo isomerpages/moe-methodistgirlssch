@@ -9,8 +9,7 @@ The application for admission into Year 3 of the MGS Integrated Programme is ope
 The MGS Integrated Programme (IP) is a through-train programme that leads to the International Baccalaureate Diploma Programme at Anglo-Chinese School (Independent) in Years 5 &amp; 6.
 
 
-### Please note the following dates for the application process:
-### 
+### Please note the following dates for the application process: ### 
 
 
 <style type="text/css">
@@ -128,7 +127,7 @@ You will need the following information and supporting documents (in softcopy) f
 * Provide a short paragraph about yourself, your interests, or what is important to you. How do these make you suitable for the MGS IP?
 
 
-### For further clarifications, please contact:
+### For further clarifications, please contact: ###
 
 **Ms Grace Tang (Head, Integrated Programme)** <br>
 [tang\_lyn\_lyn@schools.gov.sg](mailto:tang_lyn_lyn@schools.gov.sg)
@@ -139,7 +138,8 @@ You will need the following information and supporting documents (in softcopy) f
 
 
 
-### IMPORTANT NOTE FOR CURRENT SEC 2 MGS STUDENTS/PARENTS
+### IMPORTANT NOTE FOR CURRENT SEC 2 MGS STUDENTS/PARENTS ###
+
 * You still need to sign up for a Y3IP application account, as it is different from your current MGS ntrix account.
 * DO **NOT** USE your current MGS ntrix account login details/password for Y3IP application account.
 
