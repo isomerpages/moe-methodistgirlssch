@@ -4,11 +4,14 @@ permalink: /secondary/admissions/mgs-ip-for-year-3-intake/
 description: ""
 third_nav_title: Secondary Admission
 ---
-The application for admission into Year 3 of the MGS Integrated Programme is open to students who are currently in 2022 Secondary 2 or its equivalent.
+The application for admission into Year 3 of the MGS Integrated Programme is open to students who are currently in 2023 Secondary 2 or its equivalent.
 
-The MGS IP is a through-train programme that leads to the International Baccalaureate Diploma Programme at Anglo-Chinese School (Independent) in Years 5 & 6.
+The MGS Integrated Programme (IP) is a through-train programme that leads to the International Baccalaureate Diploma Programme at Anglo-Chinese School (Independent) in Years 5 &amp; 6.
 
-**Please note the following dates for the application process:**
+
+### Please note the following dates for the application process:
+### 
+
 
 <style type="text/css">
 .tg {
@@ -61,21 +64,19 @@ The MGS IP is a through-train programme that leads to the International Baccalau
   </thead>
   <tbody>
     <tr>
-      <td class="tg-bzr3">23 April 2022<br>
-        Saturday<br>
-        9 am - 10.30 am</td>
-      <td class="tg-lc1c">Information Session: Years 3 &amp; 4 and the IB Curriculum Structure</td>
-      <td class="tg-lc1c">By Zoom<br>
-        Register <a href="https://go.gov.sg/mgyear3ip">HERE</a><a href="https://go.gov.sg/mgyear3ip"> </a>to obtain the link.<br>
-        Alternatively, you may access using the QR code below: <br>
-        <img src="/images/Secondary/Admissions/dsa-yr3ip-2022-qrcode.png" alt="Secondary/Admissions/dsa-yr3ip-2022-qrcode.png" style="width:50%" ></td>
+      <td class="tg-bzr3"><p>Saturday <br>
+        20 May 2023 <br>
+      9 am - 10.30 am </p></td>
+      <td class="tg-lc1c">Information Session: Years 3 &amp; 4 and the IP Curriculum Structure</td>
+      <td class="tg-lc1c">By Zoom Register at https://go.gov.sg/mgsy3ip2023 to obtain the link. Alternatively, you may access using the QR code below:<br>
+        <img src="/images/Secondary/Admissions/dsa-yr3ip-qrcode.png" alt="Secondary/Admissions/dsa-yr3ip-2022-qrcode.png" style="width:50%"></td>
     </tr>
     <tr>
-      <td class="tg-bzr3">25 April 2022<br>
-        Monday<br>
-        9 am</td>
+      <td class="tg-bzr3">Saturday <br>
+      20 May 2023  <br>
+      9 am </td>
       <td class="tg-lc1c">Year 3 IP Intake Application opens</td>
-      <td class="tg-lc1c">Registration via an online portal will be enabled after Monday 25 April 9am<br></td>
+      <td class="tg-lc1c">Registration via an online portal will be enabled after Saturday 20 May 9 am</td>
     </tr>
     <tr>
       <td class="tg-bzr3">1 July 2022<br>
@@ -85,74 +86,64 @@ The MGS IP is a through-train programme that leads to the International Baccalau
       <td class="tg-lc1c"> -</td>
     </tr>
     <tr>
-      <td class="tg-bzr3">18 August 2022<br>
-        Thursday<br></td>
+      <td class="tg-bzr3">Thursday 17 Aug 2023 </td>
       <td class="tg-lc1c">Selection Test (Written)</td>
-      <td class="tg-lc1c">For all Y3 IP applicants<br>
-        (Details on school website)<br></td>
+      <td class="tg-lc1c">For <strong>all</strong> Y3 IP applicants Applicants will be informed via email </td>
     </tr>
     <tr>
-      <td class="tg-bzr3">After End of Year exams</td>
+      <td class="tg-bzr3">By Monday 23 Oct 2023</td>
+      <td class="tg-lc1c">Shortlisting phase</td>
+      <td class="tg-bzr3">Non-MGS Applicants are to send in their EOY report slips to  tang_lyn_lyn@schools.gov.sg and grace_poh@schools.gov.sg </td>
+    </tr>
+    <tr>
+      <td class="tg-bzr3">End Oct 2023</td>
       <td class="tg-lc1c">Interviews</td>
-      <td class="tg-bzr3">Shortlisted applicants will be informed via email<br></td>
+      <td class="tg-bzr3">Applicants who are shortlisted for interview will be informed via email</td>
     </tr>
     <tr>
-      <td class="tg-bzr3">End October 2022<br>
-        (after release of EOY results)</td>
-      <td class="tg-lc1c">Confirm offers<br></td>
-      <td class="tg-bzr3">Successful candidates will attend Y3 subject options briefing.</td>
+      <td class="tg-bzr3">End Oct 2023 </td>
+      <td class="tg-lc1c">Outcome of application<br></td>
+      <td class="tg-bzr3">Applicants who are offered an confirmed Y3 IP place will be invited to attend Y3 subject options briefing.</td>
     </tr>
   </tbody>
 </table>
 
+### How to Apply ### 
 
-## How to Apply
+1. You will need the following information and supporting documents (in softcopy) for upload during the application: 
 
-
-You will need the following information and supporting documents (in softcopy) for **upload during the application**:
-
-  
-
-**A) Personal Particulars** <br>
-Include a passport photo of applicant; JPEG format; not exceeding 2MB in size
-
-  
-
-**B) Education Background** <br>
-PSLE results, Sec 1 Overall Examinations and current Sec 2 results if available (or any equivalent)
-
-  
-
-**C) Parent’s/Guardian’s Particulars**
-
-  
-
-**D) Personal Portfolio** <br>
-Supporting documents of academic and non-academic awards including Leadership, Values in Action programme, other special talents and contributions to school and community if any.
-
-  
-
-**E) Personal Statement** <br>
-Provide a short paragraph about yourself, your interests or what is important to you. How do these make you suitable for the MGS IP you are applying for?
-
- 
-**F) Print out your application form after submission for your own reference.**
-
-
-## Enquiries
-
-For further clarification, please contact:  
-  
-**Head of Department (Integrated Programme)**: [Mrs Grace Tang](tang_lyn_lyn@schools.gov.sg)
-
-**Subject Head  (Integrated Programme)**: [Mrs Grace Poh](mailto:grace_poh@schools.gov.sg)
-
-
-## IMPORTANT NOTE FOR CURRENT SEC 2 MGS STUDENTS/PARENTS
-
-
-1.  You still need to sign up for a Y3IP application account, as it is different from your current MGS ntrix account.
-2.  DO NOT USE your current MGS ntrix account login details/password for Y3IP application account.  
+a) Personal Particulars
+* Include a passport photo of applicant; JPEG format; not exceeding 2MB in size
     
+b) Education Background
+* PSLE results, Sec 1 Overall Examinations (Sec 2 EOY results to be emailed to [tang\_lyn\_lyn@schools.gov.sg](mailto:tang_lyn_lyn@schools.gov.sg) and [grace\_poh@schools.gov.sg](mailto:grace_poh@schools.gov.sg)) by 23 Oct 2023)
+    
+c) Parent’s/Guardian’s Particulars
 
-Application starts via [this online portal](https://mgs.ntrix.sg/schooladmission/index_applicant.aspx) after Monday, 25 April 2022, 9 am.
+d) Personal Portfolio
+* Supporting documents of academic and non-academic awards including Leadership, Values in Action programme, other special talents and contributions to school and community if any.
+
+e) Personal Statement
+*   Provide a short paragraph about yourself, your interests, or what is important to you. How do these make you suitable for the MGS IP?
+
+
+### For further clarifications, please contact:
+
+**Ms Grace Tang (Head, Integrated Programme)**&nbsp;
+ 
+[tang\_lyn\_lyn@schools.gov.sg](mailto:tang_lyn_lyn@schools.gov.sg)
+
+
+**Mrs Grace Poh (Subject head, Integrated Programme)**
+
+[grace\_poh@schools.gov.sg](mailto:grace_poh@schools.gov.sg)
+
+
+
+### IMPORTANT NOTE FOR CURRENT SEC 2 MGS STUDENTS/PARENTS
+* You still need to sign up for a Y3IP application account, as it is different from your current MGS ntrix account.
+* DO NOT USE your current MGS ntrix account login details/password for Y3IP application account.
+
+
+**Application starts via this online portal after Saturday, 20 May 2023, 9 am.**
+Note: During the online application, please be reminded to save each completed section before proceeding to the next.
