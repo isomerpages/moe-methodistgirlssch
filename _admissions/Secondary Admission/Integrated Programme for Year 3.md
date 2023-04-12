@@ -111,21 +111,21 @@ The MGS Integrated Programme (IP) is a through-train programme that leads to the
 
 ### How to Apply ### 
 
-1. You will need the following information and supporting documents (in softcopy) for upload during the application: 
+You will need the following information and supporting documents (in softcopy) for upload during the application: 
 
-a) Personal Particulars
+**a) Personal Particulars**
 * Include a passport photo of applicant; JPEG format; not exceeding 2MB in size
     
-b) Education Background
+**b) Education Background**
 * PSLE results, Sec 1 Overall Examinations (Sec 2 EOY results to be emailed to [tang\_lyn\_lyn@schools.gov.sg](mailto:tang_lyn_lyn@schools.gov.sg) and [grace\_poh@schools.gov.sg](mailto:grace_poh@schools.gov.sg)) by 23 Oct 2023)
     
-c) Parent’s/Guardian’s Particulars
+**c) Parent’s/Guardian’s Particulars**
 
-d) Personal Portfolio
+**d) Personal Portfolio**
 * Supporting documents of academic and non-academic awards including Leadership, Values in Action programme, other special talents and contributions to school and community if any.
 
-e) Personal Statement
-*   Provide a short paragraph about yourself, your interests, or what is important to you. How do these make you suitable for the MGS IP?
+**e) Personal Statement**
+* Provide a short paragraph about yourself, your interests, or what is important to you. How do these make you suitable for the MGS IP?
 
 
 ### For further clarifications, please contact:
