@@ -68,8 +68,9 @@ The MGS Integrated Programme (IP) is a through-train programme that leads to the
         20 May 2023 <br>
       9 am - 10.30 am </p></td>
       <td class="tg-lc1c">Information Session: Years 3 &amp; 4 and the IP Curriculum Structure</td>
-      <td class="tg-lc1c">By Zoom Register at https://go.gov.sg/mgsy3ip2023 to obtain the link. Alternatively, you may access using the QR code below:<br>
-        <img src="/images/Secondary/Admissions/dsa-yr3ip-qrcode.png" alt="Secondary/Admissions/dsa-yr3ip-2022-qrcode.png" style="width:50%"></td>
+      <td class="tg-lc1c"><p>By Zoom<br>
+        Register <a href="https://go.gov.sg/mgsy3ip2023">here</a> to obtain the link. Alternatively, you may access using the QR code below:<br>
+        <img src="/images/Secondary/Admissions/dsa-yr3ip-qrcode.png" alt="Secondary/Admissions/dsa-yr3ip-2022-qrcode.png" style="width:50%"></p></td>
     </tr>
     <tr>
       <td class="tg-bzr3">Saturday <br>
