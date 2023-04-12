@@ -144,5 +144,5 @@ You will need the following information and supporting documents (in softcopy) f
 * DO **NOT** USE your current MGS ntrix account login details/password for Y3IP application account.
 
 
-**Application starts via this online portal after Saturday, 20 May 2023, 9 am.**
+Application starts via&nbsp;[this online portal](https://mgs.ntrix.sg/schooladmission/index_applicant.aspx)&nbsp;after Saturday, 20 May 2023, 9 am.
 Note: During the online application, please be reminded to save each completed section before proceeding to the next.
