@@ -64,9 +64,9 @@ The MGS Integrated Programme (IP) is a through-train programme that leads to the
   </thead>
   <tbody>
     <tr>
-      <td class="tg-bzr3"><p>Saturday <br>
+      <td class="tg-bzr3">Saturday <br>
         20 May 2023 <br>
-      9 am - 10.30 am </p></td>
+      9 am - 10.30 am</td>
       <td class="tg-lc1c">Information Session: Years 3 &amp; 4 and the IP Curriculum Structure</td>
       <td class="tg-lc1c"><p>By Zoom<br>
         Register <a href="https://go.gov.sg/mgsy3ip2023">here</a> to obtain the link. Alternatively, you may access using the QR code below:<br>
@@ -94,17 +94,17 @@ The MGS Integrated Programme (IP) is a through-train programme that leads to the
     <tr>
       <td class="tg-bzr3">By Monday 23 Oct 2023</td>
       <td class="tg-lc1c">Shortlisting phase</td>
-      <td class="tg-bzr3">Non-MGS Applicants are to send in their EOY report slips to  tang_lyn_lyn@schools.gov.sg and grace_poh@schools.gov.sg </td>
+      <td class="tg-lc1c">Non-MGS Applicants are to send in their EOY report slips to  tang_lyn_lyn@schools.gov.sg and grace_poh@schools.gov.sg </td>
     </tr>
     <tr>
       <td class="tg-bzr3">End Oct 2023</td>
       <td class="tg-lc1c">Interviews</td>
-      <td class="tg-bzr3">Applicants who are shortlisted for interview will be informed via email</td>
+      <td class="tg-lc1c">Applicants who are shortlisted for interview will be informed via email</td>
     </tr>
     <tr>
       <td class="tg-bzr3">End Oct 2023 </td>
       <td class="tg-lc1c">Outcome of application<br></td>
-      <td class="tg-bzr3">Applicants who are offered an confirmed Y3 IP place will be invited to attend Y3 subject options briefing.</td>
+      <td class="tg-lc1c">Applicants who are offered an confirmed Y3 IP place will be invited to attend Y3 subject options briefing.</td>
     </tr>
   </tbody>
 </table>
