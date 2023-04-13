@@ -88,7 +88,8 @@ The MGS Integrated Programme (IP) is a through-train programme that leads to the
     <tr>
       <td class="tg-bzr3">Thursday 17 Aug 2023 </td>
       <td class="tg-lc1c">Selection Test (Written)</td>
-      <td class="tg-lc1c">For <strong>all</strong> Y3 IP applicants Applicants will be informed via email </td>
+      <td class="tg-lc1c">For <strong>all</strong> Y3IP applicants <br> 
+				Applicants will be informed via email </td>
     </tr>
     <tr>
       <td class="tg-bzr3">By Monday 23 Oct 2023</td>
