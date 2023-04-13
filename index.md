@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Common/landing-oh2023.png
+      background: /images/Common/pic-landing.jpg
   - resources:
       title: Highlights
       subtitle: Stay up to date with us
