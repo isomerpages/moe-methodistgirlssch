@@ -6,6 +6,4 @@ layout: post
 description: ""
 image: ""
 ---
-Please click on the links to download the slides:
-
-[Engaging your Teenager about Education & Career Guidance](https://drive.google.com/file/d/1IKK5cMdBcgC1wSqi1dnAnHJGRdQgfVwG/view?usp=share_link)
+[ECG Session: Engaging your Teenager about Education & Career Guidance](https://drive.google.com/file/d/1IKK5cMdBcgC1wSqi1dnAnHJGRdQgfVwG/view?usp=share_link)
