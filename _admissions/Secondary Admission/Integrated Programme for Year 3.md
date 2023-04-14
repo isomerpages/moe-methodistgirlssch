@@ -88,7 +88,8 @@ The MGS Integrated Programme (IP) is a through-train programme that leads to the
     <tr>
       <td class="tg-bzr3">Thursday 17 Aug 2023 </td>
       <td class="tg-lc1c">Selection Test (Written)</td>
-      <td class="tg-lc1c">For <strong>all</strong> Y3 IP applicants Applicants will be informed via email </td>
+      <td class="tg-lc1c">For <strong>all</strong> Y3IP applicants <br> 
+				Applicants will be informed via email </td>
     </tr>
     <tr>
       <td class="tg-bzr3">By Monday 23 Oct 2023</td>
@@ -108,7 +109,7 @@ The MGS Integrated Programme (IP) is a through-train programme that leads to the
   </tbody>
 </table>
 
-### How to Apply ### 
+### How to apply ### 
 
 You will need the following information and supporting documents (in softcopy) for upload during the application: 
 
@@ -138,13 +139,13 @@ You will need the following information and supporting documents (in softcopy) f
 
 
 
-### IMPORTANT NOTE FOR CURRENT SEC 2 MGS STUDENTS/PARENTS ###
+### Important note for current Secondary 2 MGS students/parents ###
 
 * You still need to sign up for a Y3IP application account, as it is different from your current MGS ntrix account.
 * DO **NOT** USE your current MGS ntrix account login details/password for Y3IP application account.
 
 
-### Online Application Portal ###
+### Online application portal ###
 
 The online application portal will be open for access only after Saturday, 20 May 2023, 9am. 
 
