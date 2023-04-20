@@ -141,7 +141,7 @@ You will need the following information and supporting documents (in softcopy) f
 
 ### Important note for current Secondary 2 MGS students/parents ###
 
-* You still need to sign up for a Y3IP application account, as it is different from your current MGS ntrix account.
+* You still need to sign up for a Y3IP application account (link available after 20 May), as it is different from your current MGS ntrix account.
 * DO **NOT** USE your current MGS ntrix account login details/password for Y3IP application account.
 
 
