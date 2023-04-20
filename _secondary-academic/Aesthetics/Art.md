@@ -18,7 +18,7 @@ The [Art Department](https://www.youtube.com/watch?v=CA77VX-84so) in MGS aims to
 
 
 ### National Syllabuses
-Please refer to [this link](https://www.moe.gov.sg/secondary/courses/express/electives#subjects).
+Please refer to&nbsp;[this link](https://www.moe.gov.sg/secondary/courses/express/electives#subjects).
 
 
 ### Curriculum
@@ -44,14 +44,14 @@ Art influences how we live
 
 **People and the Community**
 * Art Writing  
-* 2D Design  
+* Animation
 * Painting  
 * 3D Design 
   
 
 #### Secondary 3 / Year 3
 
-* Art Research & Inquiry  
+* Art Research &amp; Inquiry  
 * Studio Practice  
 * Art Writing  
 * Art Synectics  
@@ -62,11 +62,11 @@ Art influences how we live
 
 #### Secondary 4 / Year 4
 
-* Art Research & Inquiry  
+* Art Research &amp; Inquiry  
 * Art Synectics  
 * Creative Thinking  
 * Technical Processes  
-* Composition & Layout  
+* Composition &amp; Layout  
 * Personal Responses
 
 
