@@ -79,14 +79,14 @@ The MGS Integrated Programme (IP) is a through-train programme that leads to the
       <td class="tg-lc1c">Registration via an online portal will be enabled after Saturday 20 May 9 am</td>
     </tr>
     <tr>
-      <td class="tg-bzr3">1 July 2022<br>
-        Friday<br>
+      <td class="tg-bzr3">Friday<br>
+				31 July 2023<br>        
         5 pm</td>
       <td class="tg-lc1c">Application closes</td>
       <td class="tg-lc1c"> -</td>
     </tr>
     <tr>
-      <td class="tg-bzr3">Thursday 17 Aug 2023 </td>
+      <td class="tg-bzr3">Thursday <br> 17 Aug 2023 </td>
       <td class="tg-lc1c">Selection Test (Written)</td>
       <td class="tg-lc1c">For <strong>all</strong> Y3IP applicants <br> 
 				Applicants will be informed via email </td>
