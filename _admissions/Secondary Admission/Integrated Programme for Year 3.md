@@ -94,7 +94,7 @@ The MGS Integrated Programme (IP) is a through-train programme that leads to the
     <tr>
       <td class="tg-bzr3">By Monday 23 Oct 2023</td>
       <td class="tg-lc1c">Shortlisting phase</td>
-      <td class="tg-lc1c">Non-MGS Applicants are to send in their EOY report slips to  tang_lyn_lyn@schools.gov.sg and grace_poh@schools.gov.sg </td>
+      <td class="tg-lc1c">Non-MGS Applicants are to send in their EOY report slips to tang_lyn_lyn@schools.gov.sg and grace_poh@schools.gov.sg </td>
     </tr>
     <tr>
       <td class="tg-bzr3">End Oct 2023</td>
@@ -117,7 +117,7 @@ You will need the following information and supporting documents (in softcopy) f
 * Include a passport photo of applicant; JPEG format; not exceeding 2MB in size.
     
 **b) Education Background**
-* PSLE results, Sec 1 Overall Examinations (Sec 2 EOY results to be emailed to [Ms Grace Tang (HOD, IP)](mailto:tang_lyn_lyn@schools.gov.sg) and [Mrs Grace Poh (SH, IP)](mailto:grace_poh@schools.gov.sg) by 23 Oct 2023)
+* PSLE results, Sec 1 Overall Examinations (Sec 2 EOY results to be emailed to [Ms Grace Tang](mailto:tang_lyn_lyn@schools.gov.sg) (HOD, IP) and [Mrs Grace Poh](mailto:grace_poh@schools.gov.sg)  (SH, IP) by 23 Oct 2023)
     
 **c) Parent’s/Guardian’s Particulars**
 
