@@ -79,14 +79,14 @@ The MGS Integrated Programme (IP) is a through-train programme that leads to the
       <td class="tg-lc1c">Registration via an online portal will be enabled after Saturday 20 May 9 am</td>
     </tr>
     <tr>
-      <td class="tg-bzr3">1 July 2022<br>
-        Friday<br>
+      <td class="tg-bzr3">Friday<br>
+				31 July 2023<br>        
         5 pm</td>
       <td class="tg-lc1c">Application closes</td>
       <td class="tg-lc1c"> -</td>
     </tr>
     <tr>
-      <td class="tg-bzr3">Thursday 17 Aug 2023 </td>
+      <td class="tg-bzr3">Thursday <br> 17 Aug 2023 </td>
       <td class="tg-lc1c">Selection Test (Written)</td>
       <td class="tg-lc1c">For <strong>all</strong> Y3IP applicants <br> 
 				Applicants will be informed via email </td>
@@ -94,7 +94,7 @@ The MGS Integrated Programme (IP) is a through-train programme that leads to the
     <tr>
       <td class="tg-bzr3">By Monday 23 Oct 2023</td>
       <td class="tg-lc1c">Shortlisting phase</td>
-      <td class="tg-lc1c">Non-MGS Applicants are to send in their EOY report slips to  tang_lyn_lyn@schools.gov.sg and grace_poh@schools.gov.sg </td>
+      <td class="tg-lc1c">Non-MGS Applicants are to send in their EOY report slips to tang_lyn_lyn@schools.gov.sg and grace_poh@schools.gov.sg </td>
     </tr>
     <tr>
       <td class="tg-bzr3">End Oct 2023</td>
@@ -117,7 +117,7 @@ You will need the following information and supporting documents (in softcopy) f
 * Include a passport photo of applicant; JPEG format; not exceeding 2MB in size.
     
 **b) Education Background**
-* PSLE results, Sec 1 Overall Examinations (Sec 2 EOY results to be emailed to [Ms Grace Tang (HOD, IP)](mailto:tang_lyn_lyn@schools.gov.sg) and [Mrs Grace Poh (SH, IP)](mailto:grace_poh@schools.gov.sg) by 23 Oct 2023)
+* PSLE results, Sec 1 Overall Examinations (Sec 2 EOY results to be emailed to [Ms Grace Tang](mailto:tang_lyn_lyn@schools.gov.sg) (HOD, IP) and [Mrs Grace Poh](mailto:grace_poh@schools.gov.sg)  (SH, IP) by 23 Oct 2023)
     
 **c) Parent’s/Guardian’s Particulars**
 
