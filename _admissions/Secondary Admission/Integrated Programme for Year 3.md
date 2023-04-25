@@ -79,7 +79,7 @@ The MGS Integrated Programme (IP) is a through-train programme that leads to the
       <td class="tg-lc1c">Registration via an online portal will be enabled after Saturday 20 May 9 am</td>
     </tr>
     <tr>
-      <td class="tg-bzr3">Friday<br>
+      <td class="tg-bzr3">Monday<br>
 				31 July 2023<br>        
         5 pm</td>
       <td class="tg-lc1c">Application closes</td>
