@@ -62,7 +62,7 @@ Dismissal for Lower Secondary classes is at 2.15pm or 2.30pm daily. Enrichment/r
 
 
 [back to the top](#top)
-<hr/>
+<hr>
 
 <a name="dsa"></a>
 ## Direct School Admissions
@@ -139,7 +139,7 @@ Your child’s nationality does not matter in the DSA exercise. Our assessment i
 
 
 [back to the top](#top)
-<hr/>
+<hr>
 
 <a name="ip"></a>
 ## Integrated Programme
@@ -195,7 +195,7 @@ All students who experience difficulties will have support. The school will disc
 
 ### 10. Will my child be left with only a PSLE certificate if she is unable to finish the 6-year programme?
 
-All students will receive 4 termly reports in each academic year in MGS & ACSI. She can look forward to being awarded her IB Diploma when she completes her IB exams at the end of Year 6.
+All students will receive 4 termly reports in each academic year in MGS &amp; ACSI. She can look forward to being awarded her IB Diploma when she completes her IB exams at the end of Year 6.
 
 
 ### 11. Is there any promotion criteria from Sec 1 to Y5?
@@ -205,7 +205,7 @@ Yes, promotion criteria applies for students to be considered for promotion to t
 
 
 [back to the top](#top)
-<hr/>
+<hr>
 
 <a name="mep"></a>
 ## Music Elective Programme
@@ -214,7 +214,7 @@ Yes, promotion criteria applies for students to be considered for promotion to t
 
 Pupils who wish to take up MEP must first meet the entry requirement of the Express courses in the selected school.
 
-All interested applicants (apart from DSA-MEP students) will sit for a Selection exercise on **6 Jan 2023 (Friday)**. The Selection exercise comprises:
+All interested applicants (apart from DSA-MEP students) will sit for a Selection exercise on **beginning of January**. The Selection exercise comprises:
 
 1. A listening test 
 2. An aural test 
@@ -229,7 +229,7 @@ The Music Elective Programme (MEP) aims to nurture the academically able student
 
 ### 3. What is expected of a MEP student?
 
-MEP Music replaces the Food & Consumer Education subject in Lower Sec. At Upper Sec, MEP Music is taken as an exam subject (at O-levels). 
+MEP Music replaces the Food &amp; Consumer Education subject in Lower Sec. At Upper Sec, MEP Music is taken as an exam subject (at O-levels). 
 
 Beyond MEP lessons, MEP students will be involved in concert attendance, workshops, masterclasses, and MOE-MEP events. 
 
@@ -247,7 +247,7 @@ Withdrawal is only allowed with valid reasons e.g., consistently failing MEP or 
 
 
 [back to the top](#top)
-<hr/>
+<hr>
 
 <a name="cca"></a>
 ## Core Curriculum Activities
@@ -289,4 +289,4 @@ Under the guidance of our experienced instructors, they also get to take part in
 
 
 [back to the top](#top)
-<hr/>
+<hr>
