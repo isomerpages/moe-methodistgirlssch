@@ -6,7 +6,7 @@ third_nav_title: Integrated Programme
 ---
 The MGS Integrated Programme is designed to develop principled and confident future-ready citizens who use their talents to serve society.
 
-
+![](/images/Secondary/ip-framework1.png)
 
 ## Future-ready competencies
 The MGS IP student possesses the global competencies of 
