@@ -24,6 +24,7 @@ She is adaptable and able to see and take opportunities. She sees patterns and c
 
 ## Features of the IP Curriculum
 
+![](/images/Secondary/ip-features.png)
 
 ### Values-based Education
 
