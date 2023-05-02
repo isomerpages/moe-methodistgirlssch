@@ -115,4 +115,3 @@ The objectives of PEAK are to encourage students to explore their passion and ga
 
 
 ![Distinctive IP Learning Experience](/images/Secondary/ip-distinctivelearningexperience.png)
-
