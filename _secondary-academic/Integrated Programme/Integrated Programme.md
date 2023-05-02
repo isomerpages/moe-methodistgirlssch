@@ -6,6 +6,7 @@ third_nav_title: Integrated Programme
 ---
 The MGS Integrated Programme is designed to develop principled and confident future-ready citizens who use their talents to serve society.
 
+![MGS Integrated Programme Framework](/images/Secondary/ip-framework.png)
 
 ## Future-ready competencies
 The MGS IP student possesses the global competencies of 
@@ -73,6 +74,10 @@ This student-centered approach values the process of learning and discovery, fos
 
 ## Distinctive IP learning experience
 
+<div style="width:100%; height:470px">
+<iframe allowfullscreen="true" height="100%" width="100%" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vScZdQ4Oq3rbqBaNDg1bHH4qTIbuH1_gHG5NawZ1DPgkLfViOppNLEAKe0G1GukrXLntDbwN3m5WapE/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
+
 
 ### Sophia Blackmore TD Academy
 
@@ -109,7 +114,5 @@ The EEE aims to help students develop intercultural understanding and a regional
 The objectives of PEAK are to encourage students to explore their passion and gain knowledge in fields they aspire toward through independently organised external attachments. Through real-world experiences, they deepen their understanding and forge meaningful connections between theory and practice. The programme equips students with greater self-awareness, and confidence to take on complex new challenges.
 
 
+![Distinctive IP Learning Experience](/images/Secondary/ip-distinctivelearningexperience.png)
 
-<div style="width:100%; height:470px">
-<iframe allowfullscreen="true" height="100%" width="100%" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vScZdQ4Oq3rbqBaNDg1bHH4qTIbuH1_gHG5NawZ1DPgkLfViOppNLEAKe0G1GukrXLntDbwN3m5WapE/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-</div>
