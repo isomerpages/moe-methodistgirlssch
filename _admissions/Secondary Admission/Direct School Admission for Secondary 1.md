@@ -4,8 +4,6 @@ permalink: /secondary/admissions/dsa-sec1/
 description: ""
 third_nav_title: Secondary Admission
 ---
-![](/images/Highlights/pic-dsa.jpg)
-
 MGS invites Primary 6 students to participate in the 2023 DSA exercise. As MGS is a dual track school with both the Integrated Programme and Singapore-Cambridge Secondary Education Certificate Programme, our DSA talent areas are applicable for both tracks. 
 
 
@@ -23,4 +21,6 @@ MGS invites Primary 6 students to participate in the 2023 DSA exercise. As MGS i
 10. Swimming
 11. Tennis
 
-DSA Application for Primary 6 students will begin in early May 2023. Please refer to this page for full details nearing the date.
+[Download MGS DSA Application 2023.](/files/Secondary/mgs%20dsa%20application%202023.pdf)
+
+![](/images/Highlights/pic-dsa.jpg)
