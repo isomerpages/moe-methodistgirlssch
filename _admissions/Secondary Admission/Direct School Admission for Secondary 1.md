@@ -23,4 +23,4 @@ MGS invites Primary 6 students to participate in the 2023 DSA exercise. As MGS i
 10. Swimming
 11. Tennis
 
-DSA Application for Primary 6 students will begin in early May 2023. Please refer to this page for full details nearing the date.
+Download MGS DSA Application 2023.
