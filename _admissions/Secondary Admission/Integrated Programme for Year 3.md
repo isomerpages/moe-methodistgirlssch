@@ -147,6 +147,8 @@ You will need the following information and supporting documents (in softcopy) f
 
 ### Online application portal ###
 
-The online application portal will be open for access only after Saturday, 20 May 2023, 9am. 
+The online application portal will be open for access only after **Saturday, 20 May 2023, 9am.**
 
 Note: During the online application, please be reminded to save each completed section before proceeding to the next.
+
+Access the online application portal [here](https://mgs.ntrix.sg/schooladmission/).
