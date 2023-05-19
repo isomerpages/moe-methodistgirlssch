@@ -5,11 +5,11 @@ description: ""
 ---
 ## Co-Curricular Activities
 
-![](/images/Secondary/pic-cca.jpg)
+![](/images/Secondary/pic-cca-23.jpg)
 
-The School offers a CCA programme designed to encourage pupils’ all-round development, to build a sense of responsibility and independence, to cultivate correct values and desirable social attitudes, to provide for healthy recreational activity, to identify & nurture special qualities (e.g. leadership), to provide enrichment, to give scope for creativity and to cultivate esprit de corps.
+The School offers a CCA programme designed to encourage pupils’ all-round development, to build a sense of responsibility and independence, to cultivate correct values and desirable social attitudes, to provide for healthy recreational activity, to identify &amp; nurture special qualities (e.g. leadership), to provide enrichment, to give scope for creativity and to cultivate esprit de corps.
 
-**Download:** 
+**Download:**&nbsp;
 
 1.  [CCA schedule](https://drive.google.com/file/d/1rl2VORy_Dg_IDTtD9w7K14ZyfOl8FEO7/view?usp=sharing)
 2.  [LEAPS 2.0 Grading system](https://drive.google.com/file/d/1K8IRrZvsWIV_e86-XfkR7wTYEO8zDD61/view?usp=sharing)
