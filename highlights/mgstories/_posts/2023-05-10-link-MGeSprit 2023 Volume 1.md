@@ -1,5 +1,5 @@
 ---
-title: MGeSprit 2023 (Volume 1)
+title: MGeSprit 2023 Volume 1
 date: 2023-05-10
 layout: link
 description: ""
