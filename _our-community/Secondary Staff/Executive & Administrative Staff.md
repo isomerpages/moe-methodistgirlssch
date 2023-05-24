@@ -15,7 +15,7 @@ Executive (Procurement) : Mdm Sulaigal
 Director (Student Affairs & Outreach): [Mrs Joyce Ang](mailto:joyce_ang_a@schools.gov.sg)  
 Senior Manager (Strategic Communications & Engagement): [Mrs Sue-Mei Tay](mailto:tay_sue-mei@schools.gov.sg)  
 Senior Executive: Mrs Michelle Lim  
-Executive: Mrs Joanna Kong  
+Senior Executive: Mrs Joanna Kong  
 Executive (Community Partnerships): Mr Wang Zekun
 
 ### **ALLIED EDUCATORS AND COUNSELLORS**
