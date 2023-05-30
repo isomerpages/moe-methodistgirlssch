@@ -8,7 +8,7 @@ third_nav_title: Primary Admission
 
 Application window is from **1st Jun to 30th Sep**.  
 
-Interested applicants should complete the online application between 1 Jun to 30 Sep (click [here](https://form.gov.sg/62901bee6c8b460015882888)) and submit supporting documents via the attachment section provided in the form (i.e past year results, Semester 1 HDP report book slip, if any).  
+Interested applicants should complete the online application between 1 Jun to 30 Sep (click [here](https://form.gov.sg/6475923ede54e50012ba8fad)) and submit supporting documents via the attachment section provided in the form (i.e past year results, Semester 1 HDP report book slip, if any).  
 
 Please be informed that the school will only notify the successful applicants by early of November.  In addition, students who are offered P3 and P4 HMTL in their previous school
 
