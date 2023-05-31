@@ -57,7 +57,7 @@ Uniform One is the formal attire worn by MGS students on formal occasions or whe
 **(1) The borrower is expected to take good care of the Uniform.**
 
 
-**(2) Machine Wash: White long-sleeved blouse**
+**(2) Machine Wash: White shirt**
 <br>  a) Gentle wash cycle (30 deg), no bleach, do not dry clean, no hot iron, do not tumble dry
 <br>  b) Preferably hand wash according to instructions on care label.
 
@@ -65,7 +65,8 @@ Uniform One is the formal attire worn by MGS students on formal occasions or whe
 **(3) Dry Clean: MGS blazer and blue skirt.**
 <br>  a) **DO NOT pack** the soiled uniform in the MGS uniform bag for dry cleaning.
 <br>  b) Keep the uniform bag clean for your returns later.
-<br>  c) Remove all plastic packaging and **CHECK that the items are collected from the dry cleaner are correct**.
+<br>  c) After collecting items from the dry cleaners, remove all plastic packaging.
+<br>  d) **CHECK that the collected items are correct**.
 
 
 **(4) Hang the cleaned uniform set on the original hanger.**
@@ -100,23 +101,23 @@ Uniform One is the formal attire worn by MGS students on formal occasions or whe
 </thead>
 <tbody>
   <tr>
-    <td class="tg-5hwe">Blazer</td>
+    <td class="tg-5hwe">MGS Blazer</td>
     <td class="tg-5hwe">$75</td>
   </tr>
   <tr>
-    <td class="tg-5hwe">Shirt</td>
+    <td class="tg-5hwe">White Shirt</td>
     <td class="tg-5hwe">$20</td>
   </tr>
   <tr>
-    <td class="tg-5hwe">Skirt</td>
+    <td class="tg-5hwe">Blue Skirt</td>
     <td class="tg-5hwe">$30</td>
   </tr>
   <tr>
-    <td class="tg-5hwe">Tie</td>
+    <td class="tg-5hwe">MGS Tie</td>
     <td class="tg-5hwe">$15</td>
   </tr>
   <tr>
-    <td class="tg-5hwe">Uniform Bag</td>
+    <td class="tg-5hwe">Black Uniform Bag</td>
     <td class="tg-5hwe">$10</td>
   </tr>
 </tbody>
