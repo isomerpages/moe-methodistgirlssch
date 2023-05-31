@@ -61,7 +61,7 @@ Uniform One is the formal attire worn by MGS students on formal occasions or whe
 (3) **Dry Clean**: MGS blazer and blue skirt.
 <br>  a) **DO NOT pack** the soiled uniform in the MGS uniform bag for dry cleaning.
 <br>  b) Keep the uniform bag clean for your returns later.
-<br>  c) After collecting the cleaned items from the dry cleaner, **remove all the plastic packaging to check**. 
+<br>  c) Remove the dry cleaner's plastic packaging and check that the correct items are collected.
 
 
 (4) Hang the cleaned uniform set on the original hanger and and keep it inside the MGS uniform bag. 
