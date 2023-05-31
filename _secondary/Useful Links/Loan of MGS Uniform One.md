@@ -18,30 +18,30 @@ Uniform One is the formal attire worn by MGS students on formal occasions or whe
 
 <img src="/images/Secondary/uniform-one.jpg" style="width:30%" align="right">
 
-1.  **Blazer**: 
+**1) Blazer**
 <br>- When on official duty, you are to wear the blazer at all times.
 <br>- The blazer must be fully buttoned when wearing it. 
 <br>- When you are travelling or not on official duty, you may take the blazer off.  
 
 
-2.  **Shirt**
+**2) Shirt**
 <br>- The shirt must be tucked into the skirt at all times.
 <br>- The shirt sleeves must be worn at full length.
 <br>- You may not roll or fold up the sleeves.  
 
 
-3.  **Skirt**&nbsp;: The skirt must be worn as it is without a belt.  
+**3) Skirt**&nbsp;: The skirt must be worn as it is without a belt.  
       
     
-4.  **Tie**&nbsp;: The tie must be worn at all times.  
+**4) Tie**&nbsp;: The tie must be worn at all times.  
       
     
-5.  **Stockings (optional/ not provided)**
+**5) Stockings (optional/ not provided)**
 <br>- Stockings must be worn with the uniform.
 <br>- Stockings must be in skin colour.  
     
 
-6.  **Shoes (not provided)**
+**6) Shoes (not provided)**
 <br>- Type: Court shoes (No sandals, wedges or platform shoes)
 <br>- Design: Plain, without motifs
 <br>- Colour: Matte black
@@ -50,27 +50,30 @@ Uniform One is the formal attire worn by MGS students on formal occasions or whe
 
 ## Instructions for Care and Return
 
-1. The borrower is expected to take good care of the Uniform.  
+(1) The borrower is expected to take good care of the Uniform.  
 
 
-2. **Machine Wash**: White long-sleeved blouse
-<br>- Gentle wash cycle (30 deg), no bleach, do not dry clean, no hot iron, do not tumble dry
-<br>- Preferably hand wash according to instructions on care label.
+(2) **Machine Wash**: White long-sleeved blouse
+<br>  a) Gentle wash cycle (30 deg), no bleach, do not dry clean, no hot iron, do not tumble dry
+<br>  b) Preferably hand wash according to instructions on care label.
 
 
-3. **Dry Clean**: MGS blazer and blue skirt.
-<br>- **DO NOT pack**&nbsp;the soiled uniform in the MGS uniform bag for dry cleaning.&nbsp;
-<br>- Keep the uniform bag clean for your returns later.
-<br>- After collecting the cleaned items from the dry cleaner, **remove all the plastic packaging to check**. 
+(3) **Dry Clean**: MGS blazer and blue skirt.
+<br>  a) **DO NOT pack** the soiled uniform in the MGS uniform bag for dry cleaning.
+<br>  b) Keep the uniform bag clean for your returns later.
+<br>  c) After collecting the cleaned items from the dry cleaner, **remove all the plastic packaging to check**. 
 
 
-4. Hang and keep the cleaned Uniform set in the original hanger and MGS uniform bag. 
-<br>- For any extra hangers from the dry cleaner, do consider donating them to the Outreach Office.
-<br>- Write your name on the front side of the laundry receipt. 
-<br>- **Tape the laundry receipt to the uniform bag before returning it** to the General Office.
+(4) Hang the cleaned uniform set on the original hanger and and keep it inside the MGS uniform bag. 
+<br>  a) For any extra hangers from the dry cleaner, do consider donating them to the Outreach Office.
+<br>  b) Write your name on the front side of the laundry receipt. 
+<br>  c) **Tape the laundry receipt to the uniform bag before returning it** to the General Office.
 
 
-5. Return the uniform to the General Office during school terms or school holidays. Returns are available from 9 AM to 4 PM only. The General Office is closed during public holidays.
+(5) Return the uniform to the General Office 
+<br>  a) During school terms or school holidays.
+<br>  b) From 9 AM to 4 PM only. 
+<br>  c) The General Office is closed during public holidays.
 
 
 6. If any part of the Uniform is lost, damaged or badly stained, **you will need to replace the item at the following cost**:
