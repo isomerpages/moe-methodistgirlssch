@@ -41,11 +41,13 @@ Refer to&nbsp;[ANNEX A: INFORMATION ABOUT UNIFORM ONE](#annexa)
     * After collection from the dry cleaner, **remove all plastic packaging**. 
     
 4. Hang and keep the cleaned Uniform set in the original hanger and MGS uniform bag.   
-    * For any extra hangers from the dry cleaners, do consider donating them to the Outreach Office.
+    * For any extra hangers from the dry cleaner, do consider donating them to the Outreach Office.
     * Write your name on the front side of the laundry receipt. 
-    * **Tape the receipt to the uniform bag before returning it**. 
+    * **Tape the laundry receipt to the uniform bag before returning it** to the General Office.
    
-5.  If any part of the Uniform is lost, damaged or badly stained, **you will need to replace** the item at the following cost:
+5. Return the uniform to the General Office during school terms or school holidays. Returns are available from 9 AM to 4 PM only. The General Office is closed during public holidays.
+
+**6. If any part of the Uniform is lost, damaged or badly stained, you will need to replace the item at the following cost:**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -96,21 +98,19 @@ Refer to&nbsp;[ANNEX A: INFORMATION ABOUT UNIFORM ONE](#annexa)
   
 Uniform One is the formal attire worn by MGS students on formal occasions or when representing the school in competitions or official functions. As such, it must be worn with pride and decorum. The wearer must treat Uniform One with respect and wear it in a manner that represents the school well.
 
-
-### Uniform One must be worn or used in the following manner:  
-  
+**Uniform One must be worn or used in the following manner:  **
 
 1.  **Blazer**
 	* When on official duty, you are to wear the blazer at all times.
 	* The blazer must be fully buttoned when wearing it.
 	* When you are travelling or not on official duty, you may take the blazer off.  
-      
+
 
 2.  **Shirt**
 	* The shirt must be tucked into the skirt at all times.
 	* The shirt sleeves must be worn at full length.
 	* You may not roll or fold up the sleeves.  
-      
+
 
 3.  **Skirt**&nbsp;: The skirt must be worn as it is without a belt.  
       
@@ -119,14 +119,11 @@ Uniform One is the formal attire worn by MGS students on formal occasions or whe
       
     
 5.  **Stockings (optional/ not provided)**
-
 	* Stockings must be worn with the uniform.
 	* Stockings must be in skin colour.  
-      
     
 
 6.  **Shoes (not provided)**
-
 	* Shoe type: Court shoes (No sandals, wedges or platform shoes)
 	* Shoe design: Plain, without motifs
 	* Shoe colour: Matte black
@@ -135,10 +132,6 @@ Uniform One is the formal attire worn by MGS students on formal occasions or whe
 
 ## Loan of MGS Uniform One
   
-Please&nbsp;[use this LINK](https://docs.google.com/forms/d/e/1FAIpQLScu6bQdz1x6gAo8xruDzLvMOLrFg-Nq_Ws3eYHdJhVAWzZ7XA/viewform)&nbsp;for the loan of MGS Uniform One.  
+Please [use this LINK](https://docs.google.com/forms/d/e/1FAIpQLScu6bQdz1x6gAo8xruDzLvMOLrFg-Nq_Ws3eYHdJhVAWzZ7XA/viewform) for the loan of MGS Uniform One.  
   
-To pick up the items, kindly go to the P/ VP’s office on Level 3 and ring the doorbell for assistance.  
-  
-To return the items, kindly pass them to the staff at the General Office counter.  
-  
-  
+Uniform One can be collected at our Outreach Office at the P/VP’s office on Level 3. Be punctual. Ring the doorbell or knock the door for assistance.
