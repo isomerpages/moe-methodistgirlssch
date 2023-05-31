@@ -19,34 +19,34 @@ Uniform One is the formal attire worn by MGS students on formal occasions or whe
 <img src="/images/Secondary/uniform-one.jpg" style="width:30%" align="right">
 
 **Item 1: Blazer**
-<br>  - When on official duty, you are to wear the blazer at all times.
-<br>  - The blazer must be fully buttoned when wearing it. 
-<br>  - When you are travelling or not on official duty, you may take the blazer off.  
+<br> - When on official duty, you are to wear the blazer at all times.
+<br> - The blazer must be fully buttoned when wearing it. 
+<br> - When you are travelling or not on official duty, you may take the blazer off.  
 
 
 **Item 2: Shirt**
-<br>  - The shirt must be tucked into the skirt at all times.
-<br>  - The shirt sleeves must be worn at full length.
-<br>  - You may not roll or fold up the sleeves.  
+<br> - The shirt must be tucked into the skirt at all times.
+<br> - The shirt sleeves must be worn at full length.
+<br> - You may not roll or fold up the sleeves.  
 
 
 **Item 3: Skirt**
-<br>  - The skirt must be worn as it is without a belt.  
+<br> - The skirt must be worn as it is without a belt.  
       
     
 **Item 4: Tie** 
-<br>  - The tie must be worn at all times.  
+<br> - The tie must be worn at all times.  
     
 **Item 5: Stockings (optional/ not provided)**
-<br>  - Stockings must be worn with the uniform.
-<br>  - Stockings must be in skin colour.  
+<br> - Stockings must be worn with the uniform.
+<br> - Stockings must be in skin colour.  
     
 
 **Item 6: Shoes (not provided)**
-<br>  - Type: Court shoes (No sandals, wedges or platform shoes)
-<br>  - Design: Plain, without motifs
-<br>  - Colour: Matte black
-<br>  - Heel height: At least 1.5 inches but no more than 2 inches high
+<br> - Type: Court shoes (No sandals, wedges or platform shoes)
+<br> - Design: Plain, without motifs
+<br> - Colour: Matte black
+<br> - Heel height: At least 1.5 inches but no more than 2 inches high
 
 
 ## Instructions for Care and Return
