@@ -80,7 +80,8 @@ Uniform One is the formal attire worn by MGS students on formal occasions or whe
 <br>  b) The office is closed on public holidays.
 
 
-6. If any part of the Uniform is lost, damaged or badly stained, **you will need to replace the item at the following cost**:
+**(6). If any part of the Uniform is lost, damaged or badly stained, you will replace the item at the following cost:**
+
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
