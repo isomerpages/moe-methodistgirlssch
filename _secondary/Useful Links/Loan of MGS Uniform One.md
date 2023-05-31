@@ -54,7 +54,7 @@ Uniform One is the formal attire worn by MGS students on formal occasions or whe
 
 ## Instructions for Care and Return
 
-(1) The borrower is expected to take good care of the Uniform.  
+**(1) The borrower is expected to take good care of the Uniform.**
 
 
 **(2) Machine Wash: White long-sleeved blouse**
@@ -75,7 +75,7 @@ Uniform One is the formal attire worn by MGS students on formal occasions or whe
 <br>  d) **Tape the laundry receipt to the uniform bag before returning it** to the General Office.
 
 
-**(5) Return the uniform to the General Office**
+**(5) Return the uniform to the General Office (ground floor)**
 <br>  a) During school terms or holidays, from 9 AM to 4 PM only, 
 <br>  b) The office is closed on public holidays.
 
