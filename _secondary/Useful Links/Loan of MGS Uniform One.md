@@ -13,7 +13,7 @@ third_nav_title: Useful Links
 
 
 ## How should Uniform One be worn?
-Uniform One is the formal attire worn by MGS students on formal occasions or when representing the school in competitions or official functions. As such, it must be worn with pride and decorum. The wearer must treat Uniform One with respect and wear it in a manner that represents the school well.
+Uniform One is the formal attire worn by MGS students on formal occasions or when representing the school in competitions or official functions. As such, it must be worn with pride and decorum. **The wearer must treat Uniform One with respect and wear it in a manner that represents the school well**.
 
 **Uniform One must be worn or used in the following manner:**
 
