@@ -134,6 +134,6 @@ Uniform One is the formal attire worn by MGS students on formal occasions or whe
 
 ## Loan of MGS Uniform One
   
-Please [use this LINK](https://docs.google.com/forms/d/e/1FAIpQLScu6bQdz1x6gAo8xruDzLvMOLrFg-Nq_Ws3eYHdJhVAWzZ7XA/viewform) for the loan of MGS Uniform One.  
+[Use this LINK](https://docs.google.com/forms/d/e/1FAIpQLScu6bQdz1x6gAo8xruDzLvMOLrFg-Nq_Ws3eYHdJhVAWzZ7XA/viewform) to book a slot for loaning the MGS Uniform One.  
   
-Uniform One can be collected at our Outreach Office at the P/VP’s office on Level 3. Be punctual. Ring the doorbell or knock the door for assistance.
+Uniform One can be collected from the Outreach Office at the P/VP’s office on Level 3. Be punctual. Ring the doorbell or knock the door for assistance.
