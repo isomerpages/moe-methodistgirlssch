@@ -53,24 +53,25 @@ Uniform One is the formal attire worn by MGS students on formal occasions or whe
 (1) The borrower is expected to take good care of the Uniform.  
 
 
-(2) **Machine Wash**: White long-sleeved blouse
+**(2) Machine Wash: White long-sleeved blouse**
 <br>  a) Gentle wash cycle (30 deg), no bleach, do not dry clean, no hot iron, do not tumble dry
 <br>  b) Preferably hand wash according to instructions on care label.
 
 
-(3) **Dry Clean**: MGS blazer and blue skirt.
+**(3) Dry Clean: MGS blazer and blue skirt.**
 <br>  a) **DO NOT pack** the soiled uniform in the MGS uniform bag for dry cleaning.
 <br>  b) Keep the uniform bag clean for your returns later.
 <br>  c) Remove the dry cleaner's plastic packaging and check that the correct items are collected.
 
 
-(4) Hang the cleaned uniform set on the original hanger and and keep it inside the MGS uniform bag. 
-<br>  a) For any extra hangers from the dry cleaner, do consider donating them to the Outreach Office.
-<br>  b) Write your name on the front side of the laundry receipt. 
-<br>  c) **Tape the laundry receipt to the uniform bag before returning it** to the General Office.
+**(4) Hang the cleaned uniform set on the original hanger.**
+<br>  a) Keep it inside the MGS uniform bag.
+<br>  b) Consider donating the extra hangers from the dry cleaner to the Outreach Office.
+<br>  c) Write your name on the front side of the laundry receipt. 
+<br>  d) **Tape the laundry receipt to the uniform bag before returning it** to the General Office.
 
 
-(5) Return the uniform to the General Office 
+**(5) Return the uniform to the General Office** 
 <br>  a) During school terms or school holidays.
 <br>  b) From 9 AM to 4 PM only. 
 <br>  c) The General Office is closed during public holidays.
