@@ -21,22 +21,22 @@ Uniform One is the formal attire worn by MGS students on formal occasions or whe
 
 **Item 1: Blazer**
 <br> - Wear the blazer at all times when you are on official duty.
-<br> - The blazer must be fully buttoned when wearing it. 
+<br> - Fully buttoned the blazer when wearing it. 
 <br> - Take the blazer off when you are travelling or not on official duty.  
 
 
 **Item 2: Shirt**
 <br> - The shirt must be tucked into the skirt at all times.
-<br> - The shirt sleeves must be worn at full length.
+<br> - Wear the shirt sleeves at full length.
 <br> - Do not roll or fold up the sleeves.  
 
 
 **Item 3: Skirt**
-<br> - The skirt must be worn as it is without a belt.  
+<br> - Wear the skirt as it is without a belt.  
       
     
 **Item 4: Tie** 
-<br> - The tie must be worn at all times.  
+<br> - Wear the tie at all times.  
     
 		
 **Item 5: Stockings (optional/ not provided)**
