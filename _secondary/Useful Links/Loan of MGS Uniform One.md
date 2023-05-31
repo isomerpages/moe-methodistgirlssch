@@ -76,7 +76,7 @@ Uniform One is the formal attire worn by MGS students on formal occasions or whe
 
 
 **(5) Return the uniform to the General Office**
-<br>  a) From 9 AM to 4 PM, during school terms or holidays. 
+<br>  a) During school terms or holidays, from 9 AM to 4 PM only, 
 <br>  b) The office is closed on public holidays.
 
 
