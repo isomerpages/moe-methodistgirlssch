@@ -73,11 +73,11 @@ Uniform One is the formal attire worn by MGS students on formal occasions or whe
 <br>  a) Keep it inside the MGS uniform bag.
 <br>  b) Consider donating the extra hangers from the dry cleaner to the Outreach Office.
 <br>  c) Write your **name on the front side of the laundry receipt**. 
-<br>  d) **Tape the laundry receipt to the uniform bag before returning it** to the General Office.
+<br>  d) **Tape the laundry receipt on the uniform bag**.
 
 
 **(5) Return the uniform to the General Office (ground floor)**
-<br>  a) During school terms or holidays, **from 9 AM to 4 PM only**, 
+<br>  a) During school terms or school holidays, **from 9 AM to 4 PM only**, 
 <br>  b) The office is closed on public holidays.
 
 
