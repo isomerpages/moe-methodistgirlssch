@@ -15,6 +15,7 @@ third_nav_title: Useful Links
 Uniform One is the formal attire worn by MGS students on formal occasions or when representing the school in competitions or official functions. As such, it must be worn with pride and decorum. The wearer must treat Uniform One with respect and wear it in a manner that represents the school well.
 
 **Uniform One must be worn or used in the following manner:  **
+<img src="/images/Secondary/uniform-one.jpg" style="width:30%" align="right">
 
 1.  **Blazer**
 	* When on official duty, you are to wear the blazer at all times.
@@ -47,8 +48,6 @@ Uniform One is the formal attire worn by MGS students on formal occasions or whe
 
 
 ## How should Uniform One be worn?
-
-<img src="/images/Common/loan-uniform1.jpg" style="width:60%" align="right">
 
 **Items loaned to the students:**
 1.  White long-sleeved blouse with front pocket
