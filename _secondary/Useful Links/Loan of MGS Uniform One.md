@@ -19,23 +19,23 @@ Uniform One is the formal attire worn by MGS students on formal occasions or whe
 
 <img src="/images/Secondary/uniform-one.jpg" style="width:30%" align="right">
 
-**Item 1: Blazer**
+**Item 1: MGS Blazer**
 <br> - Wear the blazer at all times when you are on official duty.
 <br> - Fully buttoned the blazer when wearing it. 
 <br> - Take the blazer off when you are travelling or not on official duty.  
 
 
-**Item 2: Shirt**
+**Item 2: White Shirt**
 <br> - The shirt must be tucked into the skirt at all times.
 <br> - Wear the shirt sleeves at full length.
 <br> - Do not roll or fold up the sleeves.  
 
 
-**Item 3: Skirt**
+**Item 3: Blue Skirt**
 <br> - Wear the skirt as it is without a belt.  
       
     
-**Item 4: Tie** 
+**Item 4: MGS Tie** 
 <br> - Wear the tie at all times.  
     
 		
@@ -65,7 +65,7 @@ Uniform One is the formal attire worn by MGS students on formal occasions or whe
 **(3) Dry Clean: MGS blazer and blue skirt.**
 <br>  a) **DO NOT pack** the soiled uniform in the MGS uniform bag for dry cleaning.
 <br>  b) Keep the uniform bag clean for your returns later.
-<br>  c) Remove the dry cleaner's plastic packaging and check that the correct items are collected.
+<br>  c) Remove all plastic packaging and **check that the correct items are collected from the dry cleaner**.
 
 
 **(4) Hang the cleaned uniform set on the original hanger.**
