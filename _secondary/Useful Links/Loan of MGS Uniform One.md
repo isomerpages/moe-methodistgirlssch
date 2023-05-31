@@ -11,6 +11,7 @@ third_nav_title: Useful Links
 *   Students who are required to participate, interact and network with peers at various local and overseas conferences/events
 
 
+
 ## How should Uniform One be worn?
 Uniform One is the formal attire worn by MGS students on formal occasions or when representing the school in competitions or official functions. As such, it must be worn with pride and decorum. The wearer must treat Uniform One with respect and wear it in a manner that represents the school well.
 
@@ -19,15 +20,15 @@ Uniform One is the formal attire worn by MGS students on formal occasions or whe
 <img src="/images/Secondary/uniform-one.jpg" style="width:30%" align="right">
 
 **Item 1: Blazer**
-<br> - When on official duty, you are to wear the blazer at all times.
+<br> - Wear the blazer at all times when you are on official duty.
 <br> - The blazer must be fully buttoned when wearing it. 
-<br> - When you are travelling or not on official duty, you may take the blazer off.  
+<br> - Take the blazer off when you are travelling or not on official duty.  
 
 
 **Item 2: Shirt**
 <br> - The shirt must be tucked into the skirt at all times.
 <br> - The shirt sleeves must be worn at full length.
-<br> - You may not roll or fold up the sleeves.  
+<br> - Do not roll or fold up the sleeves.  
 
 
 **Item 3: Skirt**
@@ -37,6 +38,7 @@ Uniform One is the formal attire worn by MGS students on formal occasions or whe
 **Item 4: Tie** 
 <br> - The tie must be worn at all times.  
     
+		
 **Item 5: Stockings (optional/ not provided)**
 <br> - Stockings must be worn with the uniform.
 <br> - Stockings must be in skin colour.  
@@ -47,6 +49,7 @@ Uniform One is the formal attire worn by MGS students on formal occasions or whe
 <br> - Design: Plain, without motifs
 <br> - Colour: Matte black
 <br> - Heel height: At least 1.5 inches but no more than 2 inches high
+
 
 
 ## Instructions for Care and Return
@@ -120,6 +123,7 @@ Uniform One is the formal attire worn by MGS students on formal occasions or whe
 
 *The Outreach Office reserves the right to assess the stains on the Uniform and determine if you will need to replace it.  <br>
 ** You may not buy or use your own item to replace any part of the Uniform.
+
 
 
 ## Loan of MGS Uniform One
