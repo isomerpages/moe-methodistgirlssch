@@ -33,17 +33,17 @@ Refer to&nbsp;[ANNEX A: INFORMATION ABOUT UNIFORM ONE](#annexa)
 
 1. The borrower is expected to take good care of the Uniform.  
 
-2. Machine Wash:&nbsp;White long-sleeved blouse
+2. **Machine Wash**: White long-sleeved blouse
 <br> Gentle wash cycle (30 deg), no bleach, do not dry clean, no hot iron, do not tumble dry; preferably hand wash according to instructions on care label.
 
-3. Dry Clean:&nbsp;MGS&nbsp;blazer and&nbsp;blue skirt.  
-    - **DO NOT pack**&nbsp;the soiled uniform in the MGS uniform bag for dry cleaning.&nbsp;Keep the uniform bag clean for your returns later.
-    - After collection from the dry cleaner, **remove all plastic packaging**. 
+3. **Dry Clean**: MGS blazer and blue skirt.  
+    * **DO NOT pack**&nbsp;the soiled uniform in the MGS uniform bag for dry cleaning.&nbsp;Keep the uniform bag clean for your returns later.
+    * After collection from the dry cleaner, **remove all plastic packaging**. 
     
 4. Hang and keep the cleaned Uniform set in the original hanger and MGS uniform bag.   
-    - For the extra hangers from the dry cleaners, do consider donating them to the Outreach Office.
-    - Write your name on the front side of the laundry receipt. 
-    - Tape the receipt to the uniform bag before returning it.
+    * For any extra hangers from the dry cleaners, do consider donating them to the Outreach Office.
+    * Write your name on the front side of the laundry receipt. 
+    * **Tape the receipt to the uniform bag before returning it**. 
    
 5.  If any part of the Uniform is lost, damaged or badly stained, **you will need to replace** the item at the following cost:
 
@@ -91,18 +91,8 @@ Refer to&nbsp;[ANNEX A: INFORMATION ABOUT UNIFORM ONE](#annexa)
 ** You may not buy or use your own item to replace any part of the Uniform.
 
 
-## Loan of MGS Uniform One
-  
-Please&nbsp;[use this LINK](https://docs.google.com/forms/d/e/1FAIpQLScu6bQdz1x6gAo8xruDzLvMOLrFg-Nq_Ws3eYHdJhVAWzZ7XA/viewform)&nbsp;for the loan of MGS Uniform One.  
-  
-To pick up the items, kindly go to the P/ VP’s office on Level 3 and ring the doorbell for assistance.  
-  
-To return the items, kindly pass them to the staff at the General Office counter.  
-  
-  
 <a name="annexa"></a>
 ## ANNEX A: INFORMATION ABOUT UNIFORM ONE
-
   
 Uniform One is the formal attire worn by MGS students on formal occasions or when representing the school in competitions or official functions. As such, it must be worn with pride and decorum. The wearer must treat Uniform One with respect and wear it in a manner that represents the school well.
 
@@ -111,20 +101,16 @@ Uniform One is the formal attire worn by MGS students on formal occasions or whe
   
 
 1.  **Blazer**
-
 	* When on official duty, you are to wear the blazer at all times.
 	* The blazer must be fully buttoned when wearing it.
 	* When you are travelling or not on official duty, you may take the blazer off.  
       
-    
 
 2.  **Shirt**
-
 	* The shirt must be tucked into the skirt at all times.
 	* The shirt sleeves must be worn at full length.
 	* You may not roll or fold up the sleeves.  
       
-    
 
 3.  **Skirt**&nbsp;: The skirt must be worn as it is without a belt.  
       
@@ -145,3 +131,14 @@ Uniform One is the formal attire worn by MGS students on formal occasions or whe
 	* Shoe design: Plain, without motifs
 	* Shoe colour: Matte black
 	* Heel height: At least 1.5 inches but no more than 2 inches high
+
+
+## Loan of MGS Uniform One
+  
+Please&nbsp;[use this LINK](https://docs.google.com/forms/d/e/1FAIpQLScu6bQdz1x6gAo8xruDzLvMOLrFg-Nq_Ws3eYHdJhVAWzZ7XA/viewform)&nbsp;for the loan of MGS Uniform One.  
+  
+To pick up the items, kindly go to the P/ VP’s office on Level 3 and ring the doorbell for assistance.  
+  
+To return the items, kindly pass them to the staff at the General Office counter.  
+  
+  
