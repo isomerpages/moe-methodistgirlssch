@@ -18,34 +18,34 @@ Uniform One is the formal attire worn by MGS students on formal occasions or whe
 
 <img src="/images/Secondary/uniform-one.jpg" style="width:30%" align="right">
 
-**1) Blazer**
-<br>- When on official duty, you are to wear the blazer at all times.
-<br>- The blazer must be fully buttoned when wearing it. 
-<br>- When you are travelling or not on official duty, you may take the blazer off.  
+**Item 1: Blazer**
+<br>  - When on official duty, you are to wear the blazer at all times.
+<br>  - The blazer must be fully buttoned when wearing it. 
+<br>  - When you are travelling or not on official duty, you may take the blazer off.  
 
 
-**2) Shirt**
-<br>- The shirt must be tucked into the skirt at all times.
-<br>- The shirt sleeves must be worn at full length.
-<br>- You may not roll or fold up the sleeves.  
+**Item 2: Shirt**
+<br>  - The shirt must be tucked into the skirt at all times.
+<br>  - The shirt sleeves must be worn at full length.
+<br>  - You may not roll or fold up the sleeves.  
 
 
-**3) Skirt**&nbsp;: The skirt must be worn as it is without a belt.  
+**Item 3: Skirt**: The skirt must be worn as it is without a belt.  
       
     
-**4) Tie**&nbsp;: The tie must be worn at all times.  
+**Item 4: Tie**: The tie must be worn at all times.  
       
     
-**5) Stockings (optional/ not provided)**
-<br>- Stockings must be worn with the uniform.
-<br>- Stockings must be in skin colour.  
+**Item 5: Stockings (optional/ not provided)**
+<br>  - Stockings must be worn with the uniform.
+<br>  - Stockings must be in skin colour.  
     
 
-**6) Shoes (not provided)**
-<br>- Type: Court shoes (No sandals, wedges or platform shoes)
-<br>- Design: Plain, without motifs
-<br>- Colour: Matte black
-<br>- Heel height: At least 1.5 inches but no more than 2 inches high
+**Item 6: Shoes (not provided)**
+<br>  - Type: Court shoes (No sandals, wedges or platform shoes)
+<br>  - Design: Plain, without motifs
+<br>  - Colour: Matte black
+<br>  - Heel height: At least 1.5 inches but no more than 2 inches high
 
 
 ## Instructions for Care and Return
