@@ -65,7 +65,7 @@ Uniform One is the formal attire worn by MGS students on formal occasions or whe
 **(3) Dry Clean: MGS blazer and blue skirt.**
 <br>  a) **DO NOT pack** the soiled uniform in the MGS uniform bag for dry cleaning.
 <br>  b) Keep the uniform bag clean for your returns later.
-<br>  c) Remove all plastic packaging and **check that the correct items are collected from the dry cleaner**.
+<br>  c) Remove all plastic packaging and **CHECK that the items are collected from the dry cleaner are correct**.
 
 
 **(4) Hang the cleaned uniform set on the original hanger.**
@@ -76,11 +76,11 @@ Uniform One is the formal attire worn by MGS students on formal occasions or whe
 
 
 **(5) Return the uniform to the General Office (ground floor)**
-<br>  a) During school terms or holidays, from 9 AM to 4 PM only, 
+<br>  a) During school terms or holidays, **from 9 AM to 4 PM only**, 
 <br>  b) The office is closed on public holidays.
 
 
-**(6). If any part of the Uniform is lost, damaged or badly stained, you will replace the item at the following cost:**
+**(6) If any part of the Uniform is lost, damaged or badly stained, you will replace the item at the following cost:**
 
 
 <style type="text/css">
