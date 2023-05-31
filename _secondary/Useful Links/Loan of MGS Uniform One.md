@@ -11,22 +11,23 @@ third_nav_title: Useful Links
 *   Students who are required to participate, interact and network with peers at various local and overseas conferences/events
 
 
-## About Uniform One
+## How should Uniform One be worn?
 Uniform One is the formal attire worn by MGS students on formal occasions or when representing the school in competitions or official functions. As such, it must be worn with pride and decorum. The wearer must treat Uniform One with respect and wear it in a manner that represents the school well.
 
-**Uniform One must be worn or used in the following manner:  **
+**Uniform One must be worn or used in the following manner:**
+
 <img src="/images/Secondary/uniform-one.jpg" style="width:30%" align="right">
 
-1.  **Blazer**
-	* When on official duty, you are to wear the blazer at all times.
-	* The blazer must be fully buttoned when wearing it.
-	* When you are travelling or not on official duty, you may take the blazer off.  
+1.  **Blazer**: 
+<br>- When on official duty, you are to wear the blazer at all times.
+<br>- The blazer must be fully buttoned when wearing it. 
+<br>- When you are travelling or not on official duty, you may take the blazer off.  
 
 
 2.  **Shirt**
-	* The shirt must be tucked into the skirt at all times.
-	* The shirt sleeves must be worn at full length.
-	* You may not roll or fold up the sleeves.  
+<br>- The shirt must be tucked into the skirt at all times.
+<br>- The shirt sleeves must be worn at full length.
+<br>- You may not roll or fold up the sleeves.  
 
 
 3.  **Skirt**&nbsp;: The skirt must be worn as it is without a belt.  
@@ -36,29 +37,15 @@ Uniform One is the formal attire worn by MGS students on formal occasions or whe
       
     
 5.  **Stockings (optional/ not provided)**
-	* Stockings must be worn with the uniform.
-	* Stockings must be in skin colour.  
+<br>- Stockings must be worn with the uniform.
+<br>- Stockings must be in skin colour.  
     
 
 6.  **Shoes (not provided)**
-	* Shoe type: Court shoes (No sandals, wedges or platform shoes)
-	* Shoe design: Plain, without motifs
-	* Shoe colour: Matte black
-	* Heel height: At least 1.5 inches but no more than 2 inches high
-
-
-## How should Uniform One be worn?
-
-**Items loaned to the students:**
-1.  White long-sleeved blouse with front pocket
-2.  MGS tie
-3.  MGS blazer  
-4.  Blue skirt  
-5.  Black uniform bag for keeping the above items
-
-**Items prepared by the student:**
-1.  Skin-coloured stockings (optional)
-2.  Black court shoes: 1-1.5 inch court shoes as seen in the picture. No sandals, wedges or platform shoes
+<br>- Type: Court shoes (No sandals, wedges or platform shoes)
+<br>- Design: Plain, without motifs
+<br>- Colour: Matte black
+<br>- Heel height: At least 1.5 inches but no more than 2 inches high
 
 
 ## Instructions for Care and Return
