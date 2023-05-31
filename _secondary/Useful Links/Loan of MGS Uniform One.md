@@ -10,44 +10,41 @@ third_nav_title: Useful Links
 *   Students who are required to make presentations at formal platforms such as Science Fairs, VIA platforms
 *   Students who are required to participate, interact and network with peers at various local and overseas conferences/events
 
-Refer to [ANNEX A: INFORMATION ABOUT UNIFORM ONE](#annexa)
+Refer to&nbsp;[ANNEX A: INFORMATION ABOUT UNIFORM ONE](#annexa)
 
 
 ## What is loaned to students?
 
-<img src="/images/Common/loan-uniform1.jpg" 
-     style="width:60%" align="right">
+<img src="/images/Common/loan-uniform1.jpg" style="width:60%" align="right">
 		 
-**MGS No. 1 Uniform includes the following:**
-		 
-1.  White long-sleeved blouse 
-2.  MGS Tie  
-3.  MGS Blazer  
-4.  Navy Blue Skirt  
+**MGS Uniform One includes the following:**
+1.  White long-sleeved blouse with front pocket
+2.  MGS tie
+3.  MGS blazer  
+4.  Blue skirt  
+5.  Black uniform bag for keeping the above items
 
-**The following items are to be prepared by the student themselves to complete the uniform:**
-
+**Items prepared by the student to complete the look of Uniform One:**
 1.  Skin-coloured stockings (optional)
 2.  Black court shoes: 1-1.5 inch court shoes as seen in the picture. No sandals, wedges or platform shoes
 
-## Instructions for Care
 
+## Instructions for Care and Return
 
-1.  The Uniform will be loaned out in a full set of blazer, shirt, skirt and tie, together with a Uniform bag.  
-      
-    
-2.  The borrower is expected to take good care of the Uniform.  
-      
-    
-3.  The Uniform must be **dry-cleaned** after use. Do **NOT** wash the Uniform using your washing machine at home.
+1. The borrower is expected to take good care of the Uniform.  
 
-	* For White long-sleeved blouse (Item 1): Gentle wash cycle (30 deg), no bleach, do not dry clean, no hot iron, do not tumble dry; preferably hand wash according to instructions on care label.
-	* For MGS Blazer (Item 3) and Navy Blue Skirt (Item 4): Dry Cleaning Only.  
-      
+2. Machine Wash:&nbsp;White long-sleeved blouse
+<br> Gentle wash cycle (30 deg), no bleach, do not dry clean, no hot iron, do not tumble dry; preferably hand wash according to instructions on care label.
+
+3. Dry Clean:&nbsp;MGS&nbsp;blazer and&nbsp;blue skirt.  
+    - **DO NOT pack**&nbsp;the soiled uniform in the MGS uniform bag for dry cleaning.&nbsp;Keep the uniform bag clean for your returns later.
+    - After collection from the dry cleaner, **remove all plastic packaging**. 
     
-4.  Return the Uniform in its laundry plastic bag/ packaging after dry-cleaning it, **with the laundry receipt attached** . Put the whole plastic bag/ packaging into the Uniform Bag that was issued to you together with the hanger provided.  
-      
-    
+4. Hang and keep the cleaned Uniform set in the original hanger and MGS uniform bag.   
+    - For the extra hangers from the dry cleaners, do consider donating them to the Outreach Office.
+    - Write your name on the front side of the laundry receipt. 
+    - Tape the receipt to the uniform bag before returning it.
+   
 5.  If any part of the Uniform is lost, damaged or badly stained, **you will need to replace** the item at the following cost:
 
 <style type="text/css">
@@ -96,7 +93,7 @@ Refer to [ANNEX A: INFORMATION ABOUT UNIFORM ONE](#annexa)
 
 ## Loan of MGS Uniform One
   
-Please [use this LINK](https://docs.google.com/forms/d/e/1FAIpQLScu6bQdz1x6gAo8xruDzLvMOLrFg-Nq_Ws3eYHdJhVAWzZ7XA/viewform) for the loan of MGS Uniform One.  
+Please&nbsp;[use this LINK](https://docs.google.com/forms/d/e/1FAIpQLScu6bQdz1x6gAo8xruDzLvMOLrFg-Nq_Ws3eYHdJhVAWzZ7XA/viewform)&nbsp;for the loan of MGS Uniform One.  
   
 To pick up the items, kindly go to the P/ VP’s office on Level 3 and ring the doorbell for assistance.  
   
@@ -129,10 +126,10 @@ Uniform One is the formal attire worn by MGS students on formal occasions or whe
       
     
 
-3.  **Skirt** : The skirt must be worn as it is without a belt.  
+3.  **Skirt**&nbsp;: The skirt must be worn as it is without a belt.  
       
     
-4.  **Tie** : The tie must be worn at all times.  
+4.  **Tie**&nbsp;: The tie must be worn at all times.  
       
     
 5.  **Stockings (optional/ not provided)**
