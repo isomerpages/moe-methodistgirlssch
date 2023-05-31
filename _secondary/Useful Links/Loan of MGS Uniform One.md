@@ -30,11 +30,12 @@ Uniform One is the formal attire worn by MGS students on formal occasions or whe
 <br>  - You may not roll or fold up the sleeves.  
 
 
-**Item 3: Skirt**: The skirt must be worn as it is without a belt.  
+**Item 3: Skirt**
+<br>  - The skirt must be worn as it is without a belt.  
       
     
-**Item 4: Tie**: The tie must be worn at all times.  
-      
+**Item 4: Tie** 
+<br>  - The tie must be worn at all times.  
     
 **Item 5: Stockings (optional/ not provided)**
 <br>  - Stockings must be worn with the uniform.
