@@ -11,7 +11,7 @@ sections:
   - infopic:
       title: Here, For a Purpose
       subtitle: Theme 2023
-      image: /images/Common/theme-verse-2023-622.png
+      image: /images/Common/theme-verse-2023-622-trans.png
       alt: Image alt text
   - resources:
       title: Highlights
