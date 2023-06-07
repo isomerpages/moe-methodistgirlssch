@@ -62,7 +62,6 @@ Operations Support Officer: Mr Chan Keng Seng
 
 ### **OPERATIONS OFFICE**
 
-Manager: [Mr Muhammad Asdy Bin Rusdy](mailto:muhammad_asdy_rusdi@schools.gov.sg)  
 Manager: [Mr George Arriola](mailto:George_Ulric_Arriola@schools.gov.sg)  
 Assistant and Security Officer: Mdm Vimala  
 
