@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Secondary Staff
 ---
 ### **ADMINISTRATIVE OFFICE**
-Senior Manager: Anthony Phua  
+Senior Manager: [Anthony Phua](mailto:Anthony_Phua@schools.gov.sg)  
 Senior Executive: Ms Ho Wai Fun  
 Senior Executive (Procurement): Ms Ruth Chng  
 Executive (Procurement) : Mdm Sulaigal  
