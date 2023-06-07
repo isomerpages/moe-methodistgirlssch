@@ -53,7 +53,6 @@ third_nav_title: Primary Staff
 
 |||
 | -------- | -------- |
-|Operations Manager| [Mr Muhammad Asdy Bin Rusdi](mailto:muhammad_asdy_rusdi@schools.gov.sg)|
 |Operations Manager|[Mr George Ulric Arriola](mailto:George_Ulric_Arriola@schools.gov.sg)
 |Operations Assistant/Security Officer|Mdm Vimala d/o Krishnan
 |Operations Support Officer|Mdm Gunampushnam w/o Nagapan Ganesan

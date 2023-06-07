@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Secondary Staff
 ---
 ### **ADMINISTRATIVE OFFICE**
-
+Senior Manager: [Anthony Phua](mailto:Anthony_Phua@schools.gov.sg)  
 Senior Executive: Ms Ho Wai Fun  
 Senior Executive (Procurement): Ms Ruth Chng  
 Executive (Procurement) : Mdm Sulaigal  
@@ -62,7 +62,6 @@ Operations Support Officer: Mr Chan Keng Seng
 
 ### **OPERATIONS OFFICE**
 
-Manager: [Mr Muhammad Asdy Bin Rusdy](mailto:muhammad_asdy_rusdi@schools.gov.sg)  
 Manager: [Mr George Arriola](mailto:George_Ulric_Arriola@schools.gov.sg)  
 Assistant and Security Officer: Mdm Vimala  
 

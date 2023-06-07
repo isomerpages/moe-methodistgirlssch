@@ -272,20 +272,15 @@ third_nav_title: Secondary Staff
 <table width="100%" border="0" cellspacing="5" cellpadding="5" class="iveo_table ives_tab_simple">
   <tbody>
     <tr>
-      <th width="13%" rowspan="3" scope="row" style="text-align: left;"> SEC/YR 1 </th>
+      <th width="13%" rowspan="2" scope="row" style="text-align: left;"> SEC/YR 1 </th>
       <td width="29%"><a href="mailto:natalie_chew@schools.gov.sg" target="">Mrs Natalie Lim</a></td>
       <td width="29%"><a href="mailto:siew_seok_hwa@schools.gov.sg" target="">Mrs Chen Seok Hwa </a></td>
       <td width="29%"><a href="mailto:lim_hui_hsin_jeanne@schools.gov.sg" target="">Ms Jeanne Lim </a></td>
     </tr>
     <tr>
-      <td width="29%"><a href="mailto:elaine_koh_sok_hoong@schools.gov.sg" target="">Ms Elaine Koh</a></td>
-      <td width="29%"><a href="mailto:dan_ho@schools.gov.sg" target="">Mr Dan Ho</a></td>
-      <td width="29%"><a href="mailto:fiona_ngiam@schools.gov.sg" target="">Mrs Fiona Ngiam</a></td>
-    </tr>
-    <tr>
+      <td><a href="mailto:dan_ho@schools.gov.sg" target="">Mr Dan Ho</a></td>
+      <td><a href="mailto:fiona_ngiam@schools.gov.sg" target="">Mrs Fiona Ngiam</a></td>
       <td width="29%"><a href="mailto:kay_ren_tat@schools.gov.sg" target="">Mr Kay  Ren Tat </a></td>
-      <td width="29%">Ms Natania Leow</td>
-      <td width="29%"></td>
     </tr>
     <tr>
       <th width="13%" rowspan="3" scope="row" style="text-align: left;"> SEC/YR 2 </th>

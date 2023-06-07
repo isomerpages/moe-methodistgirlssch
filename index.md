@@ -8,6 +8,11 @@ notification: ""
 sections:
   - hero:
       background: /images/Common/pic-landing-2023.jpg
+  - infopic:
+      title: Here, For A Purpose
+      subtitle: Theme 2023
+      image: /images/Common/theme-verse-2023-trans.png
+      alt: Image alt text
   - resources:
       title: Highlights
       subtitle: Stay up to date with us
