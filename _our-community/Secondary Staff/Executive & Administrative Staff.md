@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Secondary Staff
 ---
 ### **ADMINISTRATIVE OFFICE**
-
+Senior Manager: Anthony Phua  
 Senior Executive: Ms Ho Wai Fun  
 Senior Executive (Procurement): Ms Ruth Chng  
 Executive (Procurement) : Mdm Sulaigal  
