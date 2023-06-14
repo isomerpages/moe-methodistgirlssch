@@ -2,7 +2,7 @@ collections:
   news-and-events:
     output: true
     order:
-      - Founder's Day.md
       - Calendar of Events.md
+      - Founder's Day.md
       - Open House.md
       - Publications.md
