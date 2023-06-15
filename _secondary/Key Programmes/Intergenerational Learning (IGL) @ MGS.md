@@ -13,7 +13,11 @@ MGS aims to strengthen social empathy and civic consciousness through intergener
 
 Seniors and students from all parts of Singapore can choose to volunteer with- and collaborate-with each other to learn and to initiate projects together. We will also want to invite seniors and youths to initiate IGL courses. 
 
-These are a list of&nbsp;[possible IGL courses](https://docs.google.com/document/d/e/2PACX-1vQ3h3jLvOtyPbQQPTEO6oJwhkOzd_9YnLixluOIfUCB6diQQ6TGiwDAL5d-JdaEsggtOY_KNu6dEGNs/pub)&nbsp;that you can initiate. Please write to&nbsp;[IGL@mgs.sch.edu.sg](mailto:IGL@mgs.sch.edu.sg)&nbsp;for course initiation or IGL queries. Thank you.
+IGL at MGS aims to promote lifelong learning and intergenerational understanding. These are some areas of possible IGL learning for seniors and youths. 
+
+
+
+If you would like to share or teach a skill, knowledge or personal experience, please write to us at [IGL@mgs.sch.edu.sg](mailto:IGL@mgs.sch.edu.sg)
 
 
 ### Course Registration
