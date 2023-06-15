@@ -15,7 +15,7 @@ Seniors and students from all parts of Singapore can choose to volunteer with- a
 
 IGL at MGS aims to promote lifelong learning and intergenerational understanding. These are some areas of possible IGL learning for seniors and youths. 
 
-
+![](/images/Secondary/igl-courses.png)
 
 If you would like to share or teach a skill, knowledge or personal experience, please write to us at [IGL@mgs.sch.edu.sg](mailto:IGL@mgs.sch.edu.sg)
 
