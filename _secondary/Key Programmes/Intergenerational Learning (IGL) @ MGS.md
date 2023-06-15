@@ -22,10 +22,8 @@ If you would like to share or teach a skill, knowledge or personal experience, p
 
 ### Course Registration
 
-**Seniors**
-
+**Seniors**: 
 [www.tinyurl.com/MGLearns](https://forms.gle/RpwpMRnmcNqVzsDv5)
  
-**Students/Youths**
-
+**Students/Youths**: 
 [www.tinyurl.com/MGServes](https://forms.gle/Y3eErseV5dVsEsFd9)
