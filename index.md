@@ -11,12 +11,20 @@ sections:
   - infopic:
       title: Here, For A Purpose
       subtitle: Theme 2023
-      image: /images/Common/theme-verse-2023-trans.png
+      image: /images/Common/theme verse 2023.png
       alt: Image alt text
   - resources:
       title: Highlights
       subtitle: Stay up to date with us
       button: more
+  - infopic:
+      title: 136th Founder's Day
+      subtitle: Methodist Girls' School
+      description: Service & Graduation Ceremony
+      button: More Information
+      url: /news-and-events/founders-day/
+      image: /images/Common/fd136web.jpg
+      alt: MGS 136th Founder's Day
   - infopic:
       title: Letters to Parents
       button: More Information
