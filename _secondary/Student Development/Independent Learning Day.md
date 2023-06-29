@@ -22,7 +22,10 @@ For ease of reference, the dates for ILD this year are found below. These apply 
 ### ILD Semester 1
 Term 1: 12 Jan, 26 Jan, 9 Feb, 23 Feb, 9 Mar
 
-Term 2: 30 Mar, 13 Apr, 27 April, 11 May, 25 May
+Term 2: 30 Mar, 13 Apr, 27 Apr, 11 May, 25 May
 
 
-### ILD Semester 2 (TBC)
+### ILD Semester 2
+Term 3: 13 Jul, 26 Jul (Wed), 24 Aug
+
+Term 4: 14 Sep, 28 Sep
