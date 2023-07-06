@@ -4,7 +4,7 @@ permalink: /about-us/school-information/awards-n-scholarships/mgs-special-awards
 description: ""
 third_nav_title: Awards and Scholarships
 ---
-## MGS Scholarship 
+## MGS Scholarship&nbsp;
 
 The MGS Scholarship is presented to the best all-rounder in the PSLE cohort continuing her studies in MGS. The MGS Scholar is of exemplary character and excels in both academic and non-academic domains. The Scholarship is renewed every year until the scholar completes her secondary education in MGS, provided she maintains her grades and continues to be of exemplary conduct. 
 
@@ -16,12 +16,12 @@ The Ruth Wong Award is presented to the top student in the Primary Six PSLE coho
 *A visionary and pioneering educator, Dr Ruth Wong Hie King graduated from MGS in 1934 and went on to become the first woman principal of the Teachers’ Training College and the founding director of the Institute of Education in Singapore. She was inducted into the Singapore Women’s Hall of Fame in 2014 and is one of eight pioneers featured on the Singapore Bicentennial commemorative currency note issued in 2019.*
 
 
-## Lydia Huang Award 
+## Lydia Huang Award&nbsp;
 
 The Lydia Huang Award is presented to the student with outstanding CCA (Sports) achievements in the PSLE cohort and shows strong school spirit. She is a current Secondary One student continuing her studies in MGS. 
 
 
-## Model Student Award 
+## Model Student Award&nbsp;
 
 The Model Student Award is presented to a Primary 6 pupil who shows exemplary behaviour and excels in her academic achievements. She is ever ready to extend a helping hand to others and inspires acts of kindness among her peers. 
 
@@ -33,7 +33,7 @@ The Tan Ley Chee Award is presented  to the best all-rounder in the graduating c
 *The Tan Ley Chee Award originated from the Best All Round Student Award created in 1976. The award is named after the former Ngui Ley Chee, an old girl, and president of the MGS Alumnae Association for a number of years.*  
   
 
-## Ellice Handy Award 
+## Ellice Handy Award&nbsp;
   
 *Mrs Ellice Handy was an old girl, and later a teacher at MGS where she taught English, History and Bible Knowledge. She was the first Asian principal of MGS and wrote the first Singaporean cookbook, My Favourite Recipes.*
 
@@ -56,7 +56,7 @@ The Wong Hee Hua Award is presented to a music student from the graduating class
   
 ## Puan Sri Helene Tan Chin Tuan Scholarships
 
-The Puan Sri Helene Tan Chin Tuan Scholarships are presented to students with a heart of excellence in serving others and contributing to the community. They have good academic & CCA records.
+The Puan Sri Helene Tan Chin Tuan Scholarships are presented to students with a heart of excellence in serving others and contributing to the community. They have good academic &amp; CCA records.
  
 The scholarships are awarded to students from the following categories:
 
@@ -71,8 +71,10 @@ The scholarships are awarded to students from the following categories:
   
 The Jumabhoy Award is presented to a self-directed current Secondary/Year Four student in recognition of her academic progress, sterling performance in CCA and service to the community. 
 
+*The Jumabhoy family is a dedicated supporter of education-centric philanthropic initiatives and believes strongly in giving back to&nbsp;the&nbsp;community.*
 
-## Outstanding Sportsgirl Award 
+
+## Outstanding Sportsgirl Award&nbsp;
 
 The Outstanding Sportsgirl Award is presented to a Colours recipient who has performed consistently and exceptionally in national and international sports competitions.
 
