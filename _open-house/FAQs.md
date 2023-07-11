@@ -49,7 +49,7 @@ O-Level track: ~190 students
 
 ### 5. What are the monthly school fees?
 
-Please refer to the [school fees page](https://staging.dt6ildc2mnegy.amplifyapp.com/secondary/admissions/school-fees/secondary/) for more information.
+Please refer to the [school fees page](https://www.mgs.moe.edu.sg/secondary/admissions/school-fees/secondary/) for more information.
 
 
 
@@ -186,7 +186,7 @@ Those are not successful in getting an IP place can apply for a place at Y3 IP w
 Yes, IP students can apply to do MEP. IP students will sit for the Higher Music paper in the GCE 'O' level examinations.
 
 
-### 9. If my child is not able to cope with the MGS IP after the 1st year, what other options are there for my child? What is the drop-out rate?"
+### 9. If my child is not able to cope with the MGS IP after the 1st year, what other options are there for my child? What is the drop-out rate?
 
 As a school, we provide our fullest support to our students. This environment comprises the form teachers, subject teachers and Year Heads, and they monitor students' progress and decide on a remediation programme to help students when necessary. Coupled with strong home-school partnership, we are confident of helping our students to do well in the MGS IP and thereafter in the IBDP. 
 
