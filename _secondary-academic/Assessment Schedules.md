@@ -10,7 +10,7 @@ Please click on the links below to access the latest schedule for each level:
 
 **2023 Preliminary/End-of-Year Examination Timetable**
 
-*   Sec/Year 1, 2 and 3: Examination Schedule<sup>^</sup>
+*   [Sec/Year 1, 2 and 3: Examination Schedule](https://docs.google.com/spreadsheets/d/e/2PACX-1vRvmu3BQJBgizgZa-hlB0YISOBxHnnUyJd8VCmmoWQqOpnyb2-Up9N8JJ52Xiw5y0xzy8NiQpRTpcqT/pubhtml)
 
 *   [Year 4: EOY Examination Schedule](https://docs.google.com/spreadsheets/d/e/2PACX-1vSlTgX1dwF0LdBPtNh2FXjrVjJPSJN3s1FyNT3W_FK-fwLDcKY1f786t8Khv-lq7HhEV5RtIBqaBlxS/pubhtml)
 
