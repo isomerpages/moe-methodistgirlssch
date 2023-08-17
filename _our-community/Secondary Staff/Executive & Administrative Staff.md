@@ -23,8 +23,8 @@ Christian Ministry Staff: [Ms Jenny Koh](mailto:jenny_koh@mgs.sch.edu.sg)
 
 ### **FACILITIES MANAGEMENT**
 
-Manager (Facilities): [Mr Mohamad Nassir Bin Osman](mohd_nassir_osman@schools.gov.sg)  
-Manager (Operations): [Ms Farah Nabilah Binte Muzafar](Farah_Nabilah@schools.gov.sg)  
+Manager (Facilities): [Mr Mohamad Nassir Bin Osman](mailto:mohd_nassir_osman@schools.gov.sg)  
+Manager (Operations): [Ms Farah Nabilah Binte Muzafar](mailto:Farah_Nabilah@schools.gov.sg)  
 Senior Executive: Mr Henry Liow  
 Assistant Executive: Mr Khairulanwar Bin Mahad  
 Operations Support Officer: Mr Chan Keng Seng
