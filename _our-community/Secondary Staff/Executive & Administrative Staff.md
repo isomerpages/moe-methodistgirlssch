@@ -4,11 +4,16 @@ permalink: /secondary/staff/executive-n-administrative-staff/
 description: ""
 third_nav_title: Secondary Staff
 ---
-### **ADMINISTRATIVE OFFICE**
+### **ADMINISTRATION**
 Senior Manager: [Mr Anthony Phua](mailto:Anthony_Phua@schools.gov.sg)  
 Senior Executive: Ms Ho Wai Fun  
 Senior Executive (Procurement): Ms Ruth Chng  
 Executive (Procurement) : Mdm Sulaigal  
+
+### **ADMINISTRATION, HUMAN RESOURCES**
+
+Senior Manager: [Ms Yong Sheue Horng](mailto:yong_sheue_horng@schools.gov.sg)  
+Senior Executive: Ms Hazel Yeow  
 
 ### **ALLIED EDUCATORS AND COUNSELLORS**
 
@@ -34,11 +39,6 @@ Operations Support Officer: Mr Chan Keng Seng
 Director: [Ms Cheryl Chan](mailto:cheryl_chan_hp@schools.gov.sg)  
 Manager:  [Ms Teoh Ling Hui](mailto:teoh_ling_hui@schools.gov.sg)  
 Senior Executive: Ms Charyl Lee  
-
-### **HUMAN RESOURCE**
-
-Senior Manager: [Ms Yong Sheue Horng](mailto:yong_sheue_horng@schools.gov.sg)  
-Senior Executive: Ms Hazel Yeow  
 
 ### **INFORMATION TECHNOLOGY**
 
