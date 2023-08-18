@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - CCA.md
-      - Commendation Awards Ceremony/.keep
       - Achievements.md
       - Clubs & Societies/.keep
       - Clubs & Societies/Art Club.md
