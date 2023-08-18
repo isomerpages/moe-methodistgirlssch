@@ -2,7 +2,6 @@ collections:
   primary-cca:
     output: true
     order:
-      - Commendation Awards Ceremony/CCA.md
       - Commendation Awards Ceremony/.keep
       - Achievements.md
       - Clubs & Societies/.keep
