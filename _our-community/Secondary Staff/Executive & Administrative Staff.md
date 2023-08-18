@@ -51,17 +51,17 @@ Desktop Engineer: Mr Zakery Lee 
 
 Librarian: Ms Zainap Bte Abdul Majid  
 
+### **OPERATIONS**
+
+Manager: [Mr George Arriola](mailto:George_Ulric_Arriola@schools.gov.sg)  
+Assistant and Security Officer: Mdm Vimala  
+
 ### **SCIENCE LABORATORY**
 
 Senior Executive: Mdm Loh Yen Nee  
 Executive: Ms Caren Ng  
 Assistant Executive: Ms Sally Lee  
 Senior Officer: Mr Chong Tze Yuen  
-
-### **OPERATIONS**
-
-Manager: [Mr George Arriola](mailto:George_Ulric_Arriola@schools.gov.sg)  
-Assistant and Security Officer: Mdm Vimala  
 
 ### **STRATEGIC COMMUNICATIONS & OUTREACH**
 
