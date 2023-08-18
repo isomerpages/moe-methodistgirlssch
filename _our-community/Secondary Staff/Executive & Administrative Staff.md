@@ -10,11 +10,6 @@ Senior Executive: Ms Ho Wai Fun
 Senior Executive (Procurement): Ms Ruth Chng  
 Executive (Procurement) : Mdm Sulaigal  
 
-### **ADMINISTRATION, HUMAN RESOURCES**
-
-Senior Manager: [Ms Yong Sheue Horng](mailto:yong_sheue_horng@schools.gov.sg)  
-Senior Executive: Ms Hazel Yeow  
-
 ### **ALLIED EDUCATORS AND COUNSELLORS**
 
 Education and Career Guidance (ECG) Counsellor: [Ms Sylvia Ng](mailto:sylvia_ng_pik_san@schools.gov.sg)  
@@ -39,6 +34,11 @@ Operations Support Officer: Mr Chan Keng Seng
 Director: [Ms Cheryl Chan](mailto:cheryl_chan_hp@schools.gov.sg)  
 Manager:  [Ms Teoh Ling Hui](mailto:teoh_ling_hui@schools.gov.sg)  
 Senior Executive: Ms Charyl Lee  
+
+### **HUMAN RESOURCES**
+
+Senior Manager: [Ms Yong Sheue Horng](mailto:yong_sheue_horng@schools.gov.sg)  
+Senior Executive: Ms Hazel Yeow  
 
 ### **INFORMATION TECHNOLOGY**
 
