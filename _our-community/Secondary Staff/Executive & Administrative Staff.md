@@ -58,7 +58,7 @@ Executive: Ms Caren Ng
 Assistant Executive: Ms Sally Lee  
 Senior Officer: Mr Chong Tze Yuen  
 
-### **OPERATIONS OFFICE**
+### **OPERATIONS**
 
 Manager: [Mr George Arriola](mailto:George_Ulric_Arriola@schools.gov.sg)  
 Assistant and Security Officer: Mdm Vimala  
