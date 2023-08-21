@@ -10,11 +10,6 @@ Senior Executive: Ms Ho Wai Fun
 Senior Executive (Procurement): Ms Ruth Chng  
 Executive (Procurement) : Mdm Sulaigal  
 
-### **ADMINISTRATION, HUMAN RESOURCES**
-
-Senior Manager: [Ms Yong Sheue Horng](mailto:yong_sheue_horng@schools.gov.sg)  
-Senior Executive: Ms Hazel Yeow  
-
 ### **ALLIED EDUCATORS AND COUNSELLORS**
 
 Education and Career Guidance (ECG) Counsellor: [Ms Sylvia Ng](mailto:sylvia_ng_pik_san@schools.gov.sg)  
@@ -40,6 +35,11 @@ Director: [Ms Cheryl Chan](mailto:cheryl_chan_hp@schools.gov.sg)
 Manager:  [Ms Teoh Ling Hui](mailto:teoh_ling_hui@schools.gov.sg)  
 Senior Executive: Ms Charyl Lee  
 
+### **HUMAN RESOURCES**
+
+Senior Manager: [Ms Yong Sheue Horng](mailto:yong_sheue_horng@schools.gov.sg)  
+Senior Executive: Ms Hazel Yeow  
+
 ### **INFORMATION TECHNOLOGY**
 
 Manager: [Mr Edmund Wong](mailto:edmund_wong@schools.gov.sg)  
@@ -51,17 +51,17 @@ Desktop Engineer: Mr Zakery Lee 
 
 Librarian: Ms Zainap Bte Abdul Majid  
 
+### **OPERATIONS**
+
+Manager: [Mr George Arriola](mailto:George_Ulric_Arriola@schools.gov.sg)  
+Assistant and Security Officer: Mdm Vimala  
+
 ### **SCIENCE LABORATORY**
 
 Senior Executive: Mdm Loh Yen Nee  
 Executive: Ms Caren Ng  
 Assistant Executive: Ms Sally Lee  
 Senior Officer: Mr Chong Tze Yuen  
-
-### **OPERATIONS OFFICE**
-
-Manager: [Mr George Arriola](mailto:George_Ulric_Arriola@schools.gov.sg)  
-Assistant and Security Officer: Mdm Vimala  
 
 ### **STRATEGIC COMMUNICATIONS & OUTREACH**
 
