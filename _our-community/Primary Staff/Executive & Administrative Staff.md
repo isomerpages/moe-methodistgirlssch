@@ -14,11 +14,12 @@ third_nav_title: Primary Staff
 |Allied Educator (Teaching and Learning)| [Ms Lam Yueh Hwa Jessica](mailto:lam_yueh_hwa_jessica@schools.gov.sg)|
 
 
-# Administration Office
+# Administration
 
 |||
 | -------- | -------- |
-|Administration Manager| [Ms Criscelia Lim](mailto:criscelia_lim@schools.gov.sg)|
+|Administration Manager| [Ms Criscelia Lim](mailto:criscelia_lim@schools.gov.sg)
+|Corporate Support Officer|Mr Brian Bing Xuan
 |Corporate Support Officer|Ms Jasmine Chua
 |Corporate Support Officer|Miss Nur Hibriyah
 |Corporate Support Officer|Mdm Rasidah Bte Salimin
@@ -49,7 +50,7 @@ third_nav_title: Primary Staff
 | -------- | -------- |
 |Librarian| Mdm Rozana Zainal
 
-# Operations Office
+# Operations
 
 |||
 | -------- | -------- |
