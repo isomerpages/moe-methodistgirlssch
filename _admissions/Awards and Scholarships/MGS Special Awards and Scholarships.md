@@ -4,7 +4,7 @@ permalink: /about-us/school-information/awards-n-scholarships/mgs-special-awards
 description: ""
 third_nav_title: Awards and Scholarships
 ---
-## MGS Scholarship&nbsp;
+## MGS Scholarship
 
 The MGS Scholarship is presented to the best all-rounder in the PSLE cohort continuing her studies in MGS. The MGS Scholar is of exemplary character and excels in both academic and non-academic domains. The Scholarship is renewed every year until the scholar completes her secondary education in MGS, provided she maintains her grades and continues to be of exemplary conduct. 
 
@@ -16,14 +16,14 @@ The Ruth Wong Award is presented to the top student in the Primary Six PSLE coho
 *A visionary and pioneering educator, Dr Ruth Wong Hie King graduated from MGS in 1934 and went on to become the first woman principal of the Teachers’ Training College and the founding director of the Institute of Education in Singapore. She was inducted into the Singapore Women’s Hall of Fame in 2014 and is one of eight pioneers featured on the Singapore Bicentennial commemorative currency note issued in 2019.*
 
 
-## Lydia Huang Award&nbsp;
+## Lydia Huang Award
 
 The Lydia Huang Award is presented to the student with outstanding CCA (Sports) achievements in the PSLE cohort and shows strong school spirit. She is a current Secondary One student continuing her studies in MGS. 
 
 
-## Model Student Award&nbsp;
+## Model Student Award
 
-The Model Student Award is presented to a Primary 6 pupil who shows exemplary behaviour and excels in her academic achievements. She is ever ready to extend a helping hand to others and inspires acts of kindness among her peers. 
+The Model Student Award is presented to a Primary 6 pupil who shows exemplary behaviour and demonstrates a commitment to achieving excellence in academic pursuits and in co-curricular activities. She is ever ready to extend a helping hand to others and inspires acts of kindness among&nbsp;her&nbsp;peers.
 
 
 ## Tan Ley Chee Award
@@ -74,7 +74,7 @@ The Jumabhoy Award is presented to a self-directed current Secondary/Year Four s
 *The Jumabhoy family is a dedicated supporter of education-centric philanthropic initiatives and believes strongly in giving back to&nbsp;the&nbsp;community.*
 
 
-## Outstanding Sportsgirl Award&nbsp;
+## Outstanding Sportsgirl Award
 
 The Outstanding Sportsgirl Award is presented to a Colours recipient who has performed consistently and exceptionally in national and international sports competitions.
 
