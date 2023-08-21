@@ -23,7 +23,7 @@ The Lydia Huang Award is presented to the student with outstanding CCA (Sports) 
 
 ## Model Student Award&nbsp;
 
-The Model Student Award is presented to a Primary 6 pupil who shows exemplary behaviour and excels in her academic achievements. She is ever ready to extend a helping hand to others and inspires acts of kindness among her peers. 
+The Model Student Award is presented to a Primary 6 pupil who shows exemplary behaviour and demonstrates a commitment to achieving excellence in academic pursuits and in co-curricular activities. She is ever ready to extend a helping hand to others and inspires acts of kindness among&nbsp;her&nbsp;peers.
 
 
 ## Tan Ley Chee Award
