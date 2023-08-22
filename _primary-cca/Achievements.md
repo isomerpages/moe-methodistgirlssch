@@ -834,5 +834,3 @@ description: ""
   none">5 recipients&nbsp;</span><span style="font-size:12.0pt;font-family:
   &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-font-kerning:
   0pt;mso-ligatures:none"></span></p></td></tr></tbody></table>
-	
-	
