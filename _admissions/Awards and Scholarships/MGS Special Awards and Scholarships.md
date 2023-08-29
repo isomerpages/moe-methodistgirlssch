@@ -81,7 +81,7 @@ The Outstanding Sportsgirl Award is presented to a Colours recipient who has per
 
 ## Wee Kim Wee Award
 
-The Wee Kim Wee Award is presented to a Secondary Three pupil who has consistently displayed exemplary conduct since she was in Secondary One. She must also have demonstrated a commitment to achieving excellence in academic pursuits and in co-curricular activities. More importantly, she possesses a strong MGS spirit.
+The Wee Kim Wee Award is presented to a Secondary Three pupil who has consistently displayed exemplary conduct and embodies our school values and motto since she was in Secondary One. She must also have demonstrated a commitment to academic pursuits and in co-curricular&nbsp;activities.
 
 
 ## Sophia Blackmore Award
