@@ -1,6 +1,6 @@
 ---
-title: Direct School Admission for Secondary 1
-date: 2023-04-19
+title: Outcome for Direct School Admission for Secondary One
+date: 2023-08-29
 layout: link
 description: ""
 image: ""

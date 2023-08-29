@@ -4,6 +4,19 @@ permalink: /secondary/admissions/dsa-sec1/
 description: ""
 third_nav_title: Secondary Admission
 ---
+## Outcome of DSA Application to MGS
+
+Dear Applicants,
+
+A notification has been sent to your main contact email address on Tuesday, 29 August 2023, on the outcome of your DSA Application (Confirmed/Waitlist/Unsuccessful).
+
+Please check your inbox/spam/junk folders.
+
+Thank you for your patience and all the best for your PSLE!
+
+
+## 2023 Direct School Admission Exercise
+
 MGS invites Primary 6 students to participate in the 2023 DSA exercise. As MGS is a dual track school with both the Integrated Programme and Singapore-Cambridge Secondary Education Certificate Programme, our DSA talent areas are applicable for both tracks. 
 
 
