@@ -76,7 +76,9 @@ The Jumabhoy Award is presented to a self-directed current Secondary/Year Four s
 
 ## Outstanding Sportsgirl Award
 
-The Outstanding Sportsgirl Award is presented to a Colours recipient who has performed consistently and exceptionally in national and international sports competitions.
+The MGS Outstanding Sports Girl Award is presented to a Colours recipient with a track record of exceptional performance in national and international sports competitions. 
+
+She is an exemplary sports girl who displays good character befitting of school values and the school motto, To Master, To&nbsp;Grow,&nbsp;To&nbsp;Serve.
 
 
 ## Wee Kim Wee Award
