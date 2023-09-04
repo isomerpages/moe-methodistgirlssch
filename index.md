@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Methodist Girls' School
-description: An Isomer site of the Singapore Government
+description: Being and Becoming Godly women of Excellence with a heart of Love
 image: /images/Common/logo-mgs.png
 permalink: /
 notification: ""
