@@ -1,7 +1,11 @@
 ---
 layout: homepage
 title: Methodist Girls' School
-description: An Isomer site of the Singapore Government
+description: Methodist Girls’ School (MGS) was founded by Miss Sophia Blackmore
+  on 15 August 1887. Supported by the Women’s Foreign Missionary Society of the
+  Methodist Episcopal Church in America, Miss Blackmore, an Australian
+  missionary, came to Singapore with a mission – to provide girls with an
+  education.
 image: /images/Common/logo-mgs.png
 permalink: /
 notification: ""
