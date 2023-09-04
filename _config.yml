@@ -15,7 +15,7 @@ colors:
       color: "#656565"
     - title: media-color-five
       color: "#6f5b34"
-description: ""
+description: Being and Becoming Godly women of Excellence with a heart of Love
 permalink: none
 baseurl: ""
 exclude:
@@ -57,3 +57,4 @@ facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
 resources_name: highlights
+google_analytics_ga4: ""
