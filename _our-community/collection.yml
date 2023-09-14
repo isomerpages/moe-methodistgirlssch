@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - School Leaders.md
+      - Primary Staff/Allied Educator.md
       - Primary Staff/.keep
       - Primary Staff/Key Personnel.md
       - Primary Staff/Primary One.md
