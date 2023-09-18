@@ -53,7 +53,7 @@ third_nav_title: Secondary Staff
     </tr>
     <tr>
       <th class="tr-header">Character and Citizenship Education</th>
-      <td class="tr-norm"><a href="mailto:lau_li-lin_marilyn@schools.gov.sg">Mrs Marilyn Ng</a></td>
+      <td class="tr-norm"><a href="mailto:lau_lilin_marilyn@schools.gov.sg">Mrs Marilyn Ng</a></td>
     </tr>
     <tr>
       <th class="tr-header">Educational Technology</th>
@@ -204,7 +204,7 @@ third_nav_title: Secondary Staff
     </tr>
     <tr>
       <th class="tr-header">Secondary 2 YH</th>
-      <td class="tr-norm"><a href="mailto:pang_sally@schools.gov.sg">Mrs Sally E</a> </td>
+      <td class="tr-norm"><a href="mailto:pang_sally@schools.gov.sg">Mrs Sally E</a>&nbsp;</td>
     </tr>
     <tr>
       <th class="tr-header">Secondary 2 AYH</th>
@@ -212,7 +212,7 @@ third_nav_title: Secondary Staff
     </tr>
     <tr>
       <th class="tr-header">Secondary 3 YH</th>
-      <td class="tr-norm"><a href="mailto:wong_khai_shin@schools.gov.sg">Ms Wong Khai Shin</a> </td>
+      <td class="tr-norm"><a href="mailto:wong_khai_shin@schools.gov.sg">Ms Wong Khai Shin</a>&nbsp;</td>
     </tr>
     <tr>
       <th class="tr-header">Secondary 3 AYH</th>
@@ -220,7 +220,7 @@ third_nav_title: Secondary Staff
     </tr>
     <tr>
       <th class="tr-header">Secondary 4 YH</th>
-      <td class="tr-norm"><a href="mailto:carol_tay_dan_guey@schools.gov.sg">Ms Carol Tay</a> </td>
+      <td class="tr-norm"><a href="mailto:carol_tay_dan_guey@schools.gov.sg">Ms Carol Tay</a>&nbsp;</td>
     </tr>
     <tr>
       <th class="tr-header">Secondary 4 AYH</th>
