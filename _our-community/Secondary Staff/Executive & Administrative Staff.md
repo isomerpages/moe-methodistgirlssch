@@ -34,7 +34,7 @@ Operations Support Officer: Mr Chan Keng Seng
 Director: [Ms Cheryl Chan](mailto:cheryl_chan_hp@schools.gov.sg)  
 Manager:  [Ms Teoh Ling Hui](mailto:teoh_ling_hui@schools.gov.sg)  
 Senior Executive: Ms Charyl Lee  
-Senior Executive: Debbie Cheng
+Senior Executive: Ms Debbie Cheng
 
 ### **HUMAN RESOURCES**
 
