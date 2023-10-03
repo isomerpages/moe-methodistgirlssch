@@ -85,7 +85,7 @@ third_nav_title: Secondary Staff
     </tr>
     <tr>
       <th class="tr-header">School Staff Developer</th>
-      <td class="tr-norm"><a href="mailto:tan_sin_yee_ivay@schools.gov.sg">Mrs Ivay Lim</a></td>
+      <td class="tr-norm"><a href="mailto:tan_sin_yee_ivay@schools.gov.sg">Ms Ivay Tan</a></td>
     </tr>
     <tr>
       <th class="tr-header">Science</th>

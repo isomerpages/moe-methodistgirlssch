@@ -22,14 +22,6 @@ sections:
       subtitle: Stay up to date with us
       button: more
   - infopic:
-      title: 136th Founder's Day
-      subtitle: Methodist Girls' School
-      description: Service & Graduation Ceremony
-      button: More Information
-      url: /news-and-events/founders-day/
-      image: /images/Common/fd136web.jpg
-      alt: MGS 136th Founder's Day
-  - infopic:
       title: Letters to Parents
       button: More Information
       url: /community/parents/letterstoparents/
