@@ -16,4 +16,4 @@ For more information, please click on the links below:
 
   
 
-We would like to assure parents that no student will be deprived of an MGS education because of financial difficulties. The school has in place [a comprehensive financial assistance scheme](https://staging.dt6ildc2mnegy.amplifyapp.com/admissions/fas-sec/) to help students in need.
+We would like to assure parents that no student will be deprived of an MGS education because of financial difficulties. The school has in place [a comprehensive financial assistance scheme](https://www.mgs.moe.edu.sg/admissions/fas-sec/) to help students in need.
