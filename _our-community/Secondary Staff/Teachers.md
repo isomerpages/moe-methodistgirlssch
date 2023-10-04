@@ -40,12 +40,11 @@ third_nav_title: Secondary Staff
     <tr>
       <th width="10%" scope="row"><b>1D</b> </th>
       <td width="30%"><a href="mailto:thory_chew@schools.gov.sg" target="">Mrs Thory Chew</a></td>
-      <td width="30%">&nbsp;</td>
-      <td width="30%">&nbsp;</td>
     </tr>
     <tr>
       <th width="10%" scope="row"><b>1I</b> </th>
       <td width="30%"><a href="mailto:chue_kwai_fong@schools.gov.sg" target="">Ms Jennifer  Chue </a></td>
+			   <td width="30%"><a href="mailto:nurliyana_mohd_rifhan@schools.gov.sg" target="">Ms Nurliyana</a></td>
       <td width="30%">&nbsp;</td>
       <td width="30%">&nbsp;</td>
     </tr>
@@ -76,6 +75,7 @@ third_nav_title: Secondary Staff
     <tr>
       <th width="10%" scope="row"><b>2M</b> </th>
       <td width="30%"><a href="mailto:chang_shian_feng_gerald@schools.gov.sg" target="">Mr Gerald Chang</a></td>
+			<td width="30%"><a href="mailto:ng_shu_fen_clarice@schools.gov.sg" target="">Ms Clarice Wu</a></td>
       <td width="30%">&nbsp;</td>
       <td width="30%">&nbsp;</td>
     </tr>
@@ -184,6 +184,7 @@ third_nav_title: Secondary Staff
     <tr>
       <th width="10%" scope="row"><b>3S</b> </th>
       <td width="30%"><a href="mailto:ruth_tan@schools.gov.sg" target="">Mrs Ruth  Tan</a></td>
+			  <td width="30%"><a href="mailto:lau_lilin_marilyn@schools.gov.sg" target="">Mrs Marilyn Ng</a></td>
       <td width="30%"></td>
       <td width="30%">&nbsp;</td>
     </tr>
