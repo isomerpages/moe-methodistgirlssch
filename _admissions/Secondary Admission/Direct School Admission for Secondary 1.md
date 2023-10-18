@@ -4,6 +4,11 @@ permalink: /secondary/admissions/dsa-sec1/
 description: ""
 third_nav_title: Secondary Admission
 ---
+## DSA Interaction Tea Session
+
+Please download the slides [here](https://drive.google.com/file/d/1A1Own9GQOdIgFgORoe5NixPiFhJ_7lzZ/view?usp=drive_link).
+
+
 ## Outcome of DSA Application to MGS
 
 Dear Applicants,
