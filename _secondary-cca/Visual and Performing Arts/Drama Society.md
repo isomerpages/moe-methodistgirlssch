@@ -10,7 +10,7 @@ third_nav_title: Visual and Performing Arts
 </div>
 
 
-In Physical Theatre and Film Production, the senior members learn the elements of physical theatre and how to write a production play script. The sessions help develop an area of expertise based on students’ own interests and teach them to apply the skills they have learnt.  
+In Physical Theatre and Film Production, the senior members learn the elements of physical theatre and how to write a production play script. The sessions help develop an area of expertise based on students’ own interests and teach them to apply the skills they have learnt.&nbsp;&nbsp;
 
   
 
@@ -107,10 +107,9 @@ The students will sit for and attain one of the following certifications:
     <tr>
       <th class="tr-header">CCA Schedule</th>
       <td class="tr-norm">Day and Time<br>
-        Monday: 4.00 to 6:00pm<br>
-        Friday: 3:00 to 5:00pm<br>
-        Wednesday: 3:00 to 5:00pm (Additional Training for Sec 2/3 Drama Production Team)<br>
-      Venue: Kwa Geok Choo Auditorium / Conference Room</td>
+        Training for Sec 1 to 4 Drama Production Team<br>
+				Wednesday and Friday : 3:00 to 6:00 pm<br>
+				Venue: Kwa Geok Choo Auditorium / Conference Room / Primary Music Room 1</td>
     </tr>
   </tbody>
 </table>
