@@ -9,9 +9,10 @@ variant: markdown
 
 Please check the [schedule](https://drive.google.com/file/d/1uEzaMRmmkK8PNjpaEm59ohSTvR2Zp05B/view?usp=drive_link) of our book sale dates before coming in person to make the purchase. 
 
-Click [here](https://drive.google.com/drive/folders/1BdsqFy7exfWyFm5t2vvbFDhKCjxowbZc?usp=share_link) to access the MGS Secondary booklist for 2024. 
+Do note that the booklist for **Secondary 1** and **IP Year 1** will be uploaded at a later date.
 
-Do note that the booklist for Secondary 1 and IP Year 1 will be released at a later date.
+You may click [here](https://drive.google.com/drive/folders/1BdsqFy7exfWyFm5t2vvbFDhKCjxowbZc?usp=share_link) to access the **MGS Secondary booklist for 2024**. 
+
 
 
 ### Pacific Bookstores
