@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Visual and Performing Arts
 variant: markdown
 ---
-# Innovation.Design.Entrepreneurship.Art for Society
+## Innovation.Design.Entrepreneurship.Art for Society
 
 <img src="/images/Sec_cca/ideas-logo.png" align="right" style="width:40%">
 
