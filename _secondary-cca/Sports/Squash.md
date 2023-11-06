@@ -3,6 +3,7 @@ title: Squash
 permalink: /secondary/curriculum/cca/sports/squash/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
 <div style="width:100%; height:400px">
   <iframe class="ive_eobj_center" allowfullscreen="" frameborder="0" title="" src="https://www.youtube.com/embed/fE5MRShEUVc" height="100%" width="100%">
@@ -24,55 +25,14 @@ In squash, members strive for continual improvement as a cohesive unit. The spor
 
 As a shelter sport, members are able to carry out training sessions in indoor complexes unaffected by weather. The CCA has top awards and championships in the National School Games, and performed well in the annual Salver competition as well as the R league.
 
-<style type="text/css">
-.tg {
-    border-color: black;
-    border-style: solid;
-    border-width: 1px;
-    color: #3D3D3D;
-    padding: 10px 5px;
-}
-.tg td {
-    overflow: hidden;
-    word-break: normal;
-}
-.tg th {
-    background-color: #DDD;
-    border-color: black;
-    border-style: solid;
-    border-width: 1px;
-    color: #3D3D3D;
-    font-weight: bold;
-}
-.tg .tr-norm {
-    border-color: black;
-    border-style: solid;
-    border-width: 1px;
-    vertical-align: top;
-}
-.tg .tr-header {
-    border-color: black;
-    border-style: solid;
-    border-width: 1px;
-    color: #3D3D3D;
-    font-weight: bold;
-    vertical-align: top
-}
-</style>
-<table class="tg">
-  <thead>
-    <tr>
-      <th class="tr-header">Leadership Opportunities</th>
-      <td class="tr-norm">C Division: Captain, Vice Captain<br>
-        B Division: Captain, Vice Captain </td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th class="tr-header">CCA Schedule</th>
-      <td class="tr-norm">Days: Monday, Wednesday, Friday<br>
-          Time: 3.00pm to 6.00pm<br>
-          Venue: Squash Court</td>
-    </tr>
-  </tbody>
-</table>
+## Leadership Opportunities
+
+* C Division: Captain, Vice Captain
+* B Division: Captain, Vice Captain
+
+
+## CCA Schedule
+
+Days: Monday, Wednesday, Friday <br> 
+Time: 3.00pm to 6.00pm <br>
+Venue: Squash Court
