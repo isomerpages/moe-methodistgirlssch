@@ -3,6 +3,7 @@ title: Sophia Society
 permalink: /secondary/curriculum/cca/clubs-and-societies/sophia-society/
 description: ""
 third_nav_title: Clubs and Societies
+variant: markdown
 ---
 <div style="width:100%; height:400px">
   <iframe class="ive_eobj_center" allowfullscreen="" frameborder="0" title="MGS Heritage Video" src="https://www.youtube.com/embed/kI89ShJsP44" height="100%" width="100%">
@@ -36,59 +37,16 @@ Members can look forward to the following experiences at Sophia Society.
 *   Singapore Youth Festival Emcee Training (MOE Arts Education Branch)
 *   MGS May Oh Debate Challenge
 
-<style type="text/css">
-.tg {
-    border-color: black;
-    border-style: solid;
-    border-width: 1px;
-    color: #3D3D3D;
-    padding: 10px 5px;
-}
-.tg td {
-    overflow: hidden;
-    word-break: normal;
-}
-.tg th {
-    background-color: #DDD;
-    border-color: black;
-    border-style: solid;
-    border-width: 1px;
-    color: #3D3D3D;
-    font-weight: bold;
-}
-.tg .tr-norm {
-    border-color: black;
-    border-style: solid;
-    border-width: 1px;
-    vertical-align: top;
-}
-.tg .tr-header {
-    border-color: black;
-    border-style: solid;
-    border-width: 1px;
-    color: #3D3D3D;
-    font-weight: bold;
-    vertical-align: top
-}
-</style>
 
-<table class="tg">
-  <thead>
-    <tr>
-      <th class="tr-header">Leadership Opportunities</th>
-      <td class="tr-norm">President<br>
-        Vice-President<br>
-        Treasurer<br>
-        Secretary 
-				</td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th class="tr-header">CCA Schedule</th>
-      <td class="tr-norm">Days: Wednesdays (Mondays &amp; Fridays – during selected seasons)<br>
-        Time: 2.30pm-5.30pm<br>
-        Venue: Conference Room </td>
-    </tr>
-  </tbody>
-</table>
+## Leadership Opportunities
+
+* President
+* Vice-President
+* Treasurer
+* Secretary
+
+
+## CCA Schedule
+Days: Wednesdays (Mondays &amp; Fridays – during selected seasons) <br>
+Time: 2.30pm-5.30pm <br>
+Venue: Conference Room <br>

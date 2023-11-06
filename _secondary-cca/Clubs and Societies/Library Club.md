@@ -3,6 +3,7 @@ title: Library Club
 permalink: /secondary/curriculum/cca/clubs-and-societies/library-club/
 description: ""
 third_nav_title: Clubs and Societies
+variant: markdown
 ---
 <div style="width:100%; height:400px">
   <iframe class="ive_eobj_center" allowfullscreen="" frameborder="0" title="MGS Heritage Video" src="https://www.youtube.com/embed/EC9-QFa5AQU" height="100%" width="100%">
@@ -14,68 +15,27 @@ The MGS Library Club aims to develop student librarians to lead and to spark the
 
 ![](/images/Sec_cca/library.jpg)
 
-Through the Library Club activities, student librarians conceptualise, plan and organise reading-related activities and competitions in school.  Besides the cultivation of the love for reading both the fiction and non-fiction, the Library Club provides many opportunities for students to develop leadership, teamwork, creativity and communication skills so that they become caring and confident individuals. A yearly event that the Library Club organises is the selection of teams from both MGS Primary and Secondary students to participate in the POSB-NLB Kids’ Lit Quiz. MGS teams have always been placed in the top 10 positions, with the 2016 MGS Secondary School team representing Singapore in the World Final in Auckland, New Zealand.
+Through the Library Club activities, student librarians conceptualise, plan and organise reading-related activities and competitions in school.&nbsp; Besides the cultivation of the love for reading both the fiction and non-fiction, the Library Club provides many opportunities for students to develop leadership, teamwork, creativity and communication skills so that they become caring and confident individuals. A yearly event that the Library Club organises is the selection of teams from both MGS Primary and Secondary students to participate in the POSB-NLB Kids’ Lit Quiz. MGS teams have always been placed in the top 10 positions, with the 2016 MGS Secondary School team representing Singapore in the World Final in Auckland, New Zealand.
 
-<style type="text/css">
-.tg {
-    border-color: black;
-    border-style: solid;
-    border-width: 1px;
-    color: #3D3D3D;
-    padding: 10px 5px;
-}
-.tg td {
-    overflow: hidden;
-    word-break: normal;
-}
-.tg th {
-    background-color: #DDD;
-    border-color: black;
-    border-style: solid;
-    border-width: 1px;
-    color: #3D3D3D;
-    font-weight: bold;
-}
-.tg .tr-norm {
-    border-color: black;
-    border-style: solid;
-    border-width: 1px;
-    vertical-align: top;
-}
-.tg .tr-header {
-    border-color: black;
-    border-style: solid;
-    border-width: 1px;
-    color: #3D3D3D;
-    font-weight: bold;
-    vertical-align: top
-}
-</style>
 
-<table class="tg">
-  <thead>
-    <tr>
-      <th class="tr-header">Leadership Opportunities</th>
-      <td class="tr-norm">President <br>
-        Vice-President(s) <br>
-        Head of Publicity <br>
-        Assistant Head of Publicity <br>
-        Head of Welfare <br>
-        Assistant Head of Welfare <br>
-        Head of Administration <br>
-        Assistant Head of Administration <br>
-        Head of Logistics <br>
-        Assistant Head of Logistics 
-				</td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th class="tr-header">CCA Schedule</th>
-      <td class="tr-norm">Day and Time: <br>
-        Friday (Official Club Meeting Day), 3pm to 4.30pm <br>
-        Monday to Friday (Student librarians will be rostered to perform Library duties after school.) <br>
-        Venue: MGS Library</td>
-    </tr>
-  </tbody>
-</table>
+## Leadership Opportunities
+
+* President
+* Vice-President(s)
+* Head of Publicity
+* Assistant Head of Publicity
+* Head of Welfare
+* Assistant Head of Welfare
+* Head of Administration
+* Assistant Head of Administration
+* Head of Logistics
+* Assistant Head of Logistics
+
+
+## CCA Schedule
+
+Day and Time: <br>
+- Friday (Official Club Meeting Day), 3pm to 4.30pm <br>
+- Monday to Friday (Student librarians will be rostered to perform Library duties after school.) <br>
+
+Venue: MGS Library <br>

@@ -3,6 +3,7 @@ title: Football
 permalink: /secondary/curriculum/cca/sports/football/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
 [Football](https://youtu.be/RuS6JeCgk7w) was started by a group of like-minded girls and teachers in 2013. As interest and commitment in the sport grew, Football became a full CCA in 2016.  
 
@@ -38,61 +39,20 @@ Team A - Plate competition - 1st Position
 
   
 
-**Whitley Football Carnival:** 1st Position
+**Whitley Football Carnival:**&nbsp;1st Position
 
-<style type="text/css">
-.tg {
-    border-color: black;
-    border-style: solid;
-    border-width: 1px;
-    color: #3D3D3D;
-    padding: 10px 5px;
-}
-.tg td {
-    overflow: hidden;
-}
-.tg th {
-    background-color: #DDD;
-    border-color: black;
-    border-style: solid;
-    border-width: 1px;
-    color: #3D3D3D;
-    font-weight: bold;
-}
-.tg .tr-norm {
-    border-color: black;
-    border-style: solid;
-    border-width: 1px;
-    vertical-align: top;
-}
-.tg .tr-header {
-    border-color: black;
-    border-style: solid;
-    border-width: 1px;
-    color: #3D3D3D;
-    font-weight: bold;
-    vertical-align: top
-}
-</style>
+## Leadership Opportunities
 
-<table class="tg">
-  <thead>
-    <tr>
-      <th class="tr-header">Leadership Opportunities</th>
-      <td class="tr-norm">C Div Exco – Captain and 2 Vice-Captains<br>
-        B Div Exco – Captain and 2 Vice-Captains
-			</td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th class="tr-header">CCA Schedule</th>
-      <td class="tr-norm">Days: Tuesdays and Thursdays<br>
-          <br>
-          Time &amp; Venue:<br>
-          4.00pm to 6.00pm (MGS School Field)<br>
-    3.00pm to 5.00pm (Turf City)
-			</td>
-		</tr>
-  </tbody>
-</table>
+* C Div Exco – Captain and 2 Vice-Captains
+* B Div Exco – Captain and 2 Vice-Captains
+
+
+## CCA Schedule
+
+Days: Tuesdays and Thursdays
+
+Time:
+* 4.00pm to 6.00pm (MGS School Field)
+* 3.00pm to 5.00pm (Turf City)
+
+Venue: Temasek Club

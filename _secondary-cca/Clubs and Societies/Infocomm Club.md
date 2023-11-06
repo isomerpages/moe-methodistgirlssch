@@ -3,6 +3,7 @@ title: Infocomm Club
 permalink: /secondary/curriculum/cca/clubs-and-societies/infocomm-club/
 description: ""
 third_nav_title: Clubs and Societies
+variant: markdown
 ---
 <div style="width:100%; height:400px">
   <iframe class="ive_eobj_center" allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/IGFUwdtZD_0" height="100%" width="100%">
@@ -27,72 +28,27 @@ Members will take part in various coding and imaging competitions organised by e
 
 Our members have won awards in various competitions over the years.
 
-<style type="text/css">
-.tg {
-    border-color: black;
-    border-style: solid;
-    border-width: 1px;
-    color: #3D3D3D;
-    padding: 10px 5px;
-}
-.tg td {
-    overflow: hidden;
-    word-break: normal;
-}
-.tg th {
-    background-color: #DDD;
-    border-color: black;
-    border-style: solid;
-    border-width: 1px;
-    color: #3D3D3D;
-    font-weight: bold;
-}
-.tg .tr-norm {
-    border-color: black;
-    border-style: solid;
-    border-width: 1px;
-    vertical-align: top;
-}
-.tg .tr-header {
-    border-color: black;
-    border-style: solid;
-    border-width: 1px;
-    color: #3D3D3D;
-    font-weight: bold;
-    vertical-align: top
-}
-</style>
 
-<table class="tg">
-  <thead>
-    <tr>
-      <th class="tr-header">Leadership Opportunities</th>
-      <td class="tr-norm">
-				Coding Section: <br>
-					- President<br>
-					- Vice-President<br>
-					- Secretary<br>
-					- Special Projects<br>
-					- Level Representatives<br>
-					- VIA Coordinators<br>
-				<br>				
-				Image and Sound Section: <br>
-					- President<br>
-					- Vice-President (Still Images)<br>
-					- Vice-President (Moving Images &amp; Sound)<br>
-					- Secretary<br>
-					- Events Manager<br>
-					- Level Representatives<br>				
-			</td>
-		</tr>
-	</thead>
-	<tbody>
-    <tr>
-      <th class="tr-header">CCA Schedule</th>
-      <td class="tr-norm">Day : Friday <br>
-        Time &amp; Duration : 3.00 pm to 5.00 pm / 2 hours (approximate)<br>
-        Venue : IT Lab 2.0, IT Lab 3.1, Teaching Lab, Think Tank
-			</td>
-    </tr>
-  </tbody>
-</table>
+## Leadership Opportunities
+
+Coding Section:
+- President
+- Vice-President
+- Secretary
+- Special Projects
+- Level Representatives
+- VIA Coordinators
+
+Image and Sound Section:
+- President
+- Vice-President (Still Images)
+- Vice-President (Moving Images &amp; Sound)
+- Secretary
+- Events Manager
+- Level Representatives
+
+
+## CCA Schedule
+Day : Friday <br>
+Time &amp; Duration : 3.00 pm to 5.00 pm / 2 hours (approximate) <br>
+Venue : IT Lab 2.0, IT Lab 3.1, Teaching Lab, Think Tank <br>

@@ -3,6 +3,7 @@ title: String Ensemble
 permalink: /secondary/curriculum/cca/visual-and-performing-arts/string-ensemble/
 description: ""
 third_nav_title: Visual and Performing Arts
+variant: markdown
 ---
 [MG Strings on WIX](https://mgstringsofficial.wixsite.com/website-2)
 
@@ -40,70 +41,26 @@ The CCA experience for members have included:
 
 **2020 Performances and Activities**
 
-*   Violin masterclass by alumnae Mathea Goh 
+*   Violin masterclass by alumnae Mathea Goh&nbsp;
 *   String workshop by re:SOUND artist Pavlo Beznosiuk
-*   Online Mentoring – Dazhong Primary Junior Orchestra, MGS Primary String Ensemble 
+*   Online Mentoring – Dazhong Primary Junior Orchestra, MGS Primary String Ensemble&nbsp;
 *   VIA - Virtual ensemble ‘In God we Trust’, Christmas Carolling virtual ensemble with Choir
 
-<style type="text/css">
-.tg {
-    border-color: black;
-    border-style: solid;
-    border-width: 1px;
-    color: #3D3D3D;
-    padding: 10px 5px;
-}
-.tg td {
-    overflow: hidden;
-    word-break: normal;
-}
-.tg th {
-    background-color: #DDD;
-    border-color: black;
-    border-style: solid;
-    border-width: 1px;
-    color: #3D3D3D;
-    font-weight: bold;
-}
-.tg .tr-norm {
-    border-color: black;
-    border-style: solid;
-    border-width: 1px;
-    vertical-align: top;
-}
-.tg .tr-header {
-    border-color: black;
-    border-style: solid;
-    border-width: 1px;
-    color: #3D3D3D;
-    font-weight: bold;
-    vertical-align: top
-}
-</style>
 
-<table class="tg">
-  <thead>
-    <tr>
-      <th class="tr-header">Leadership Opportunities</th>
-      <td class="tr-norm">Administrative Committee:<br>
-        - President<br>
-        - Vice-Presidents<br>
-        - Chief and Assistant Librarian<br>
-        - Chief and Assistant Welfare<br>
-        - Quartermistress<br>
-        <br>
-        Music Committee:<br>
-        - Concert mistress<br>
-				- Section and Assistant Section Leaders</td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th class="tr-header">CCA Schedule</th>
-      <td class="tr-norm">Venue: MEP 2<br>
-				Wednesday: 3.15pm – 6.15pm <br>
-         Friday: 3pm – 6pm<br>
-      </td>
-    </tr>
-  </tbody>
-</table>
+## Leadership Opportunities
+
+Administrative Committee:
+- President
+- Vice-Presidents
+- Chief and Assistant Librarian
+- Chief and Assistant Welfare
+- Quartermistress
+
+Music Committee:
+- Concert mistress
+- Section and Assistant Section Leaders
+
+## CCA Schedule
+Venue: MEP 2 <br>
+Wednesday: 3.15pm – 6.15pm <br>
+Friday: 3pm – 6pm <br>

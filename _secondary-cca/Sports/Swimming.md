@@ -3,9 +3,10 @@ title: Swimming
 permalink: /secondary/curriculum/cca/sports/swimming/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
 <div style="width:100%; height:400px">
-  <iframe class="ive_eobj_center" allowfullscreen="" frameborder="0" title="MGS Heritage Video" src="https://www.youtube.com/embed/5vyG-tuJXuA" height="100%" width="100%">
+  <iframe class="ive_eobj_center" allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/5vyG-tuJXuA" height="100%" width="100%">
   </iframe>
 </div>
 
@@ -28,59 +29,16 @@ The Club programme aims to motivate, inspire and develop students’ passion in 
 
 In furthering the MGS swimming legacy, each member is given the opportunity to achieve her full potential in leadership, competitive experience and service to the community.
 
-<style type="text/css">
-.tg {
-    border-color: black;
-    border-style: solid;
-    border-width: 1px;
-    color: #3D3D3D;
-    padding: 10px 5px;
-}
-.tg td {
-    overflow: hidden;
-    word-break: normal;
-}
-.tg th {
-    background-color: #DDD;
-    border-color: black;
-    border-style: solid;
-    border-width: 1px;
-    color: #3D3D3D;
-    font-weight: bold;
-}
-.tg .tr-norm {
-    border-color: black;
-    border-style: solid;
-    border-width: 1px;
-    vertical-align: top;
-}
-.tg .tr-header {
-    border-color: black;
-    border-style: solid;
-    border-width: 1px;
-    color: #3D3D3D;
-    font-weight: bold;
-    vertical-align: top
-}
-</style>
+## Leadership Opportunities
 
-<table class="tg">
-  <thead>
-    <tr>
-      <th class="tr-header">Leadership Opportunities</th>
-      <td class="tr-norm">Captains (School Team / Club)<br>
-        Vice-captains (School Team / Club)<br>
-        Treasurer (School Team)<br>
-    Lower Secondary Representative (School Team)
-			</td></tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th class="tr-header">CCA Schedule</th>
-      <td class="tr-norm">School Team: Wednesday (2.45pm – 3.45pm)<br>
-        CCA Club: Monday &amp; Wednesday (2.45pm – 4.45pm)<br>
-    Venue: MGS Swimming Complex
-		</td>
-		</tr>
-  </tbody>
-</table>
+* Captains (School Team / Club)
+* Vice-captains (School Team / Club)
+* Treasurer (School Team)
+* Lower Secondary Representative (School Team)
+
+
+## CCA Schedule
+
+School Team: Wednesday (2.45pm – 3.45pm) <br> 
+CCA Club: Monday &amp; Wednesday (2.45pm – 4.45pm) <br>
+Venue: MGS Swimming Complex
