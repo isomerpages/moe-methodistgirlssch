@@ -3,6 +3,7 @@ title: Netball
 permalink: /secondary/curriculum/cca/sports/netball/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
 <div style="width:100%; height:400px">
   <iframe width="100%" height="100%" src="https://www.youtube.com/embed/vgYv_w-VamY" title="MGS Heritage Video" frameborder="0" allowfullscreen="" class="ive_eobj_center">
@@ -31,71 +32,31 @@ Other than the competitive school team, the school also offers Netball Club as a
 
 The MGS netball experience is one that will definitely bring about many incredible experiences and unforgettable memories. Through this journey, members forge lifelong friendships, and emerge as better players at the end of their 4 years.
 
-<style type="text/css">
-.tg {
-    border-color: black;
-    border-style: solid;
-    border-width: 1px;
-    color: #3D3D3D;
-    padding: 10px 5px;
-}
-.tg td {
-    overflow: hidden;
-    word-break: normal;
-}
-.tg th {
-    background-color: #DDD;
-    border-color: black;
-    border-style: solid;
-    border-width: 1px;
-    color: #3D3D3D;
-    font-weight: bold;
-}
-.tg .tr-norm {
-    border-color: black;
-    border-style: solid;
-    border-width: 1px;
-    vertical-align: top;
-}
-.tg .tr-header {
-    border-color: black;
-    border-style: solid;
-    border-width: 1px;
-    color: #3D3D3D;
-    font-weight: bold;
-    vertical-align: top
-}
-</style>
+## Competitions
 
-<table class="tg">
-  <thead>
-    <tr>
-      <th class="tr-header">Competitions</th>
-      <td class="tr-norm">National School Games<br>
-        Competitive Netball Carnival<br>
-        Intra-CCA Competitions<br>
-        Friendly Games with Other Schools<br>
-        CCA Fair for Sec 1s<br>
-        Sec 1 CCA Selections<br>
-        DSA Selections<br>
-        Open House<br>
-        Netball Camp + Sec 4 Farewell Party<br>
-        Alumnae Day<br>
-        Bonding Games </td>
-    </tr>
-    <tr>
-      <th class="tr-header">Leadership Opportunities</th>
-      <td class="tr-norm">Captain<br>
-        Vice-Captains<br>
-        Lower/Upper Sec CCA committee </td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th class="tr-header">CCA Schedule</th>
-      <td class="tr-norm">Days: Monday, Wednesday and Friday<br>
-          Time: 3.00pm – 5.30pm<br>
-          Venue: Indoor Sports Hall (ISH)</td>
-    </tr>
-  </tbody>
-</table>
+* National School Games
+* Competitive Netball Carnival
+* Intra-CCA Competitions
+* Friendly Games with Other Schools
+* CCA Fair for Sec 1s
+* Sec 1 CCA Selections
+* DSA Selections
+* Open House
+* Netball Camp + Sec 4 Farewell Party
+* Alumnae Day
+* Bonding Games
+
+## Leadership Opportunities
+
+* Captain
+* Vice-Captains
+* Lower/Upper Sec CCA committee
+
+
+## CCA Schedule
+
+Days: Monday, Wednesday and Friday <br>
+Time: 3.00pm – 5.30pm <br>
+Venue: Indoor Sports Hall (ISH)
+ 
+<br>
