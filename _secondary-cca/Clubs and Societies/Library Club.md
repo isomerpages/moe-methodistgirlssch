@@ -20,16 +20,16 @@ Through the Library Club activities, student librarians conceptualise, plan and 
 
 ## Leadership Opportunities
 
-President
-Vice-President(s)
-Head of Publicity
-Assistant Head of Publicity
-Head of Welfare
-Assistant Head of Welfare
-Head of Administration
-Assistant Head of Administration
-Head of Logistics
-Assistant Head of Logistics
+* President
+* Vice-President(s)
+* Head of Publicity
+* Assistant Head of Publicity
+* Head of Welfare
+* Assistant Head of Welfare
+* Head of Administration
+* Assistant Head of Administration
+* Head of Logistics
+* Assistant Head of Logistics
 
 
 ## CCA Schedule
