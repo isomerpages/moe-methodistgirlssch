@@ -3,6 +3,7 @@ title: SALT
 permalink: /secondary/curriculum/cca/clubs-and-societies/salt/
 description: ""
 third_nav_title: Clubs and Societies
+variant: markdown
 ---
 <div style="width:100%; height:400px">
   <iframe class="ive_eobj_center" allowfullscreen="" frameborder="0" title="MGS Heritage Video" src="https://www.youtube.com/embed/ueZR3-75_gY" height="100%" width="100%">
@@ -23,71 +24,26 @@ The CCA emphasizes the importance of self-directedness and the manifestation of 
 
   
 
-**CCA activities:** Bible Study, Worship, Supporting Discover Jesus Week, Love MG and VIA activities
+**CCA activities:**&nbsp;Bible Study, Worship, Supporting Discover Jesus Week, Love MG and VIA activities
 
   
 
-**Community:** VIA activities with Yew Tee Christian Home
+**Community:**&nbsp;VIA activities with Yew Tee Christian Home
 
 Through bible study sessions, members learn God's word and make applications of God’s word in their daily lives. Through leading worship, members develop confidence in standing in front of a group.
 
 Each year, the CCA visits the Methodist Welfare Services Nursing Home at Yew Tee to bring Chinese New Year cheer and joy to the residents. Members put up performances and have meaningful interactions with the residents at least twice in a year. The CCA also serves at the annual LoveMG event. Through these, SALTies are able to bond and nurture their spiritual and leadership growth.
 
-<style type="text/css">
-.tg {
-    border-color: black;
-    border-style: solid;
-    border-width: 1px;
-    color: #3D3D3D;
-    padding: 10px 5px;
-}
-.tg td {
-    overflow: hidden;
-    word-break: normal;
-}
-.tg th {
-    background-color: #DDD;
-    border-color: black;
-    border-style: solid;
-    border-width: 1px;
-    color: #3D3D3D;
-    font-weight: bold;
-}
-.tg .tr-norm {
-    border-color: black;
-    border-style: solid;
-    border-width: 1px;
-    vertical-align: top;
-}
-.tg .tr-header {
-    border-color: black;
-    border-style: solid;
-    border-width: 1px;
-    color: #3D3D3D;
-    font-weight: bold;
-    vertical-align: top
-}
-</style>
+## Leadership Opportunities
 
-<table class="tg">
-  <thead>
-    <tr>
-      <th class="tr-header">Leadership Opportunities</th>
-      <td class="tr-norm">Chairman
-          <br>President
-          <br>Vice President
-          <br>Head of Praise and Worship Committee
-          <br>Head of Publicity Committee
-          <br>Head of Programme Committee
-				</td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th class="tr-header">CCA Schedule</th>
-      <td class="tr-norm">Day: Wednesday<br>
-        Time: 3.00pm to 5.30pm<br>
-        Venue: Teaching Lab (L1 Sports Complex)</td>
-    </tr>
-  </tbody>
-</table>
+- Chairman
+- President
+- Vice President
+- Head of Praise and Worship Committee
+- Head of Publicity Committee
+- Head of Programme Committee
+
+## CCA Schedule
+Day: Wednesday <br>
+Time: 3.00pm to 5.30pm <br>
+Venue: Teaching Lab (L1 Sports Complex) <br>
