@@ -3,6 +3,7 @@ title: Choir
 permalink: /secondary/curriculum/cca/visual-and-performing-arts/choir/
 description: ""
 third_nav_title: Visual and Performing Arts
+variant: markdown
 ---
 <div style="width:100%; height:400px">
   <iframe class="ive_eobj_center" allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/qEwmGVCNneo" height="100%" width="100%">
@@ -46,77 +47,35 @@ The MGS Choir has a shared sense of passion and love for singing. The Choir’s 
 
 * Recording choir for South East Asian (SEA) Games and National Day Parade.
 
-  
 
 The Choir has benefited from yearly masterclasses from the likes of Professor Gerald Wirth, President/Artistic Director of The Vienna Boys Choir, and Ms Jennifer Tham, former MGS Choir Mistress and Cultural Medallion recipient. Through these, we were able to gain deeper insights, understanding, and a greater appreciation for singing.
 
-<style type="text/css">
-.tg {
-    border-color: black;
-    border-style: solid;
-    border-width: 1px;
-    color: #3D3D3D;
-    padding: 10px 5px;
-}
-.tg td {
-    overflow: hidden;
-    word-break: normal;
-}
-.tg th {
-    background-color: #DDD;
-    border-color: black;
-    border-style: solid;
-    border-width: 1px;
-    color: #3D3D3D;
-    font-weight: bold;
-}
-.tg .tr-norm {
-    border-color: black;
-    border-style: solid;
-    border-width: 1px;
-    vertical-align: top;
-}
-.tg .tr-header {
-    border-color: black;
-    border-style: solid;
-    border-width: 1px;
-    color: #3D3D3D;
-    font-weight: bold;
-    vertical-align: top
-}
-</style>
-<p>&nbsp;</p>
-<table class="tg">
-  <thead>
-    <tr>
-      <th class="tr-header">Leadership Opportunities</th>
-      <td class="tr-norm">Chairperson : Oversees the day to day running of the choir, sets expectations and goals for the choir, and works closely with the teachers and conductor to achieve them.<br>
-        <br>
-        Vice-chairperson 1 and 2 : Works closely with the chairperson<br>
-        <br>
-        Student conductor(s) : Conducts the choir during performances, leads and conducts during student-led sessions<br>
-        <br>
-        Assistant student conductor(s) : Assists the student conductor and conducts during some performances<br>
-        <br>
-        Section leaders (Sop 1, Sop 2, Alto 1, Alto 2) : Leads section in sectionals<br>
-        <br>
-        Assistant section leaders (Sop 1, Sop 2, Alto 1, Alto 2) : Assists the section leader in leading sectionals<br>
-        <br>
-        Choir pianist(s): Plays the piano accompaniment for vocal warmups and performances<br>
-        <br>
-        Events and communication: Updates the school choir noticeboard, Instagram page and other outreach platforms<br>
-        <br>
-        Logistics and AV: Sets up electronic keyboard and relevant AV equipment<br>
-        <br>
-      Scores and resources: Maintains score cupboard, in charge of issuing new scores</td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th class="tr-header">CCA Schedule</th>
-      <td class="tr-norm">Days: Wednesday, Friday<br>
-        Time: 3.00pm - 6.00pm<br>
-      Venue: Chapel (Wed), ISH Band room (Fri)</td>
-    </tr>
-  </tbody>
-</table>
+
+## Leadership Opportunities
+
+Chairperson : Oversees the day to day running of the choir, sets expectations and goals for the choir, and works closely with the teachers and conductor to achieve them.  
+
+Vice-chairperson 1 and 2 : Works closely with the chairperson  
+
+Student conductor(s) : Conducts the choir during performances, leads and conducts during student-led sessions
+
+Assistant student conductor(s) : Assists the student conductor and conducts during some performances
+
+Section leaders (Sop 1, Sop 2, Alto 1, Alto 2) : Leads section in sectionals
+
+Assistant section leaders (Sop 1, Sop 2, Alto 1, Alto 2) : Assists the section leader in leading sectionals
+
+Choir pianist(s): Plays the piano accompaniment for vocal warmups and performances
+
+Events and communication: Updates the school choir noticeboard, Instagram page and other outreach platforms
+
+Logistics and AV: Sets up electronic keyboard and relevant AV equipment  
+
+Scores and resources: Maintains score cupboard, in charge of issuing new scores
+
+
+## CCA Schedule
+
+Days: Wednesday, Friday  
+Time: 3.00pm - 6.00pm  
+Venue: Chapel (Wed), ISH Band room (Fri)
