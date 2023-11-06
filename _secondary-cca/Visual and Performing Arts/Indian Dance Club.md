@@ -33,6 +33,6 @@ LOGISTICS
 
 
 ## CCA Schedule
-Days: Wednesday and Friday
-Time: 3.00-6.00pm
-Venue: PAL Room 1A @ MGS Sports Complex
+Days: Wednesday and Friday <br>
+Time: 3.00-6.00pm <br>
+Venue: PAL Room 1A @ MGS Sports Complex <br>
