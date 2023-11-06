@@ -6,7 +6,7 @@ third_nav_title: Sports
 variant: markdown
 ---
 <div style="width:100%; height:400px">
-  <iframe class="ive_eobj_center" allowfullscreen="" frameborder="0" title="MGS Heritage Video" src="https://www.youtube.com/embed/5vyG-tuJXuA" height="100%" width="100%">
+  <iframe class="ive_eobj_center" allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/5vyG-tuJXuA" height="100%" width="100%">
   </iframe>
 </div>
 
