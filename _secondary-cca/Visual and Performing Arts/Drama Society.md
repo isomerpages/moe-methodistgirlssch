@@ -81,37 +81,6 @@ The students will sit for and attain one of the following certifications:
   </tbody>
 </table>
 <p>&nbsp;</p>
-<table class="tg">
-  <thead>
-    <tr>
-      <th class="tr-header">Leadership Opportunities</th>
-      <td class="tr-norm">President: She provides leadership and direction to the committee. She is responsible for ensuring that the committee fulfils its responsibilities for success.<br>
-        <br>
-        Vice President: She plans, coordinates and manages meetings and programmes. She assists the President in ensuring that the committee fulfils its responsibilities for success.<br>
-        <br>
-        Secretaries: They handle all correspondence of the Society and keep records of meetings.<br>
-        <br>
-        Recruitment Coordinators: They are responsible for enrolment and plan auditions for prospective students.<br>
-        <br>
-        Publicity Coordinators: They publicise club activities through morning assembly announcements, noticeboard posters, email and social media.<br>
-        <br>
-        Logistics Coordinators: They are responsible for sourcing of costumes, make-up, props and sets for production.<br>
-        <br>
-        Sec 1 – 4 Level Reps: They are at the heart of student representation and work in partnership with the teachers to improve the experience of current and future students.<br>
-        <br>
-      All Executive Committee members will be involved in planning and organising drama activities and programmes, including camps.</td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th class="tr-header">CCA Schedule</th>
-      <td class="tr-norm">Day and Time<br>
-        Training for Sec 1 to 4 Drama Production Team<br>
-				Wednesday and Friday : 3:00 to 6:00 pm<br>
-				Venue: Kwa Geok Choo Auditorium / Conference Room / Primary Music Room 1</td>
-    </tr>
-  </tbody>
-</table>
 
 ## Leadership Opportunities
 
