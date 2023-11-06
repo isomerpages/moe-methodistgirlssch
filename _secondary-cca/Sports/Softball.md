@@ -21,58 +21,16 @@ Students can expect fun yet challenging training sessions which incorporate both
 
 Players can also look forward to participating in various events such as the annual National School Games, friendly matches as well as the highly anticipated camps. While the intensity and frequency of training sessions and competitions demand a high level of commitment, they form an integral part of the team’s journey to their podium target in the National School Games, as evidenced by both the ‘B’ and ‘C’ Divisions clinching the championship in 2022 and 2023.
 
-<style type="text/css">
-.tg {
-    border-color: black;
-    border-style: solid;
-    border-width: 1px;
-    color: #3D3D3D;
-    padding: 10px 5px;
-}
-.tg td {
-    overflow: hidden;
-    word-break: normal;
-}
-.tg th {
-    background-color: #DDD;
-    border-color: black;
-    border-style: solid;
-    border-width: 1px;
-    color: #3D3D3D;
-    font-weight: bold;
-}
-.tg .tr-norm {
-    border-color: black;
-    border-style: solid;
-    border-width: 1px;
-    vertical-align: top;
-}
-.tg .tr-header {
-    border-color: black;
-    border-style: solid;
-    border-width: 1px;
-    color: #3D3D3D;
-    font-weight: bold;
-    vertical-align: top
-}
-</style>
 
-<table class="tg">
-  <thead>
-    <tr>
-      <th class="tr-header">Leadership Opportunities</th>
-      <td class="tr-norm">Captains (B &amp; C Division)<br>
-    Vice-Captains (B &amp; C Division)
-			</td>
-		</tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th class="tr-header">CCA Schedule</th>
-      <td class="tr-norm">Days: Mondays, Wednesdays &amp; Fridays<br>
-        Time &amp; Duration: 3.00pm - 6.00pm<br>
-    Venue: School Field
-			</td>
-		</tr>
-  </tbody>
-</table>
+## Leadership Opportunities
+
+* Captains (B &amp; C Division)
+* Vice-Captains (B &amp; C Division)
+
+
+## CCA Schedule
+
+Days: Mondays, Wednesdays &amp; Fridays <br> 
+Time &amp; Duration: 3.00pm - 6.00pm <br>
+Venue: School Field
+ 
