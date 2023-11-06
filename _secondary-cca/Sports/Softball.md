@@ -30,7 +30,6 @@ Players can also look forward to participating in various events such as the ann
 
 ## CCA Schedule
 
-Days: Mondays, Wednesdays &amp; Fridays <br> 
-Time &amp; Duration: 3.00pm - 6.00pm <br>
-Venue: School Field
- 
+* Days: Mondays, Wednesdays &amp; Fridays
+* Time &amp; Duration: 3.00pm - 6.00pm
+* Venue: School Field
