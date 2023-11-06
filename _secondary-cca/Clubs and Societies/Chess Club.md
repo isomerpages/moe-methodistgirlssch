@@ -20,59 +20,19 @@ Members develop social dexterity skills, which are of essential importance in so
 
 During each chess session, members are coached and apply what they are taught via puzzles provided. Members also practise their skills sparring with one another and further hone their competencies during training for competitions.
 
-<style type="text/css">
-.tg {
-    border-color: black;
-    border-style: solid;
-    border-width: 1px;
-    color: #3D3D3D;
-    padding: 10px 5px;
-}
-.tg td {
-    overflow: hidden;
-    word-break: normal;
-}
-.tg th {
-    background-color: #DDD;
-	border-color: black;
-    border-style: solid;
-    border-width: 1px;
-    color: #3D3D3D;    
-    font-weight: bold;
-}
-.tg .tr-norm {
-    border-color: black;
-    border-style: solid;
-    border-width: 1px;
-    vertical-align: top;
-}
-.tg .tr-header {
-    border-color: black;
-    border-style: solid;
-    border-width: 1px;
-    color: #3D3D3D;
-    font-weight: bold;
-    vertical-align: top
-}
-</style>
 
-<table class="tg">
-  <tbody>
-    <tr>
-      <th class="tr-header">Leadership Opportunities</th>
-      <td class="tr-norm">President and Vice President:<br>
-        - Assist teacher-in charge and coach to encourage members to take part in at least one competition per year.<br>
-        - Maintain general discipline during the CCA and assist in attendance<br>
-        - Plan activities to improve bonding within the CCA<br>
-        - Showcase CCA and recruitment during Sec 1 Orientation and Open House<br>
-        <br>
-        Executive Committee: Assist President and Vice President in the running of the club and provide support and feedback to activities within the club</td>
-    </tr>
-    <tr>
-      <th class="tr-header">CCA Schedule</th>
-      <td class="tr-norm">Day: Wednesday<br>
-        Time: 3.00pm – 4.30pm<br>
-        Venue: Skyloft 2 &amp; 3</td>
-    </tr>
-  </tbody>
-</table>
+## Leadership Opportunities
+
+President and Vice President:
+- Assist teacher-in charge and coach to encourage members to take part in at least one competition per year.
+- Maintain general discipline during the CCA and assist in attendance
+- Plan activities to improve bonding within the CCA
+- Showcase CCA and recruitment during Sec 1 Orientation and Open House
+
+Executive Committee: Assist President and Vice President in the running of the club and provide support and feedback to activities within the club
+
+
+## CCA Schedule
+Day: Wednesday <br> 
+Time: 3.00pm – 4.30pm <br>
+Venue: Skyloft 2 &amp; 3 <br>
