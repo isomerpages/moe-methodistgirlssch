@@ -36,16 +36,16 @@ The Choir has benefited from yearly masterclasses from the likes of Professor Ge
 
 ## Leadership Opportunities
 
-* Chairperson : Oversees the day to day running of the choir, sets expectations and goals for the choir, and works closely with the teachers and conductor to achieve them.  
-* Vice-chairperson 1 and 2 : Works closely with the chairperson  
-* Student conductor(s) : Conducts the choir during performances, leads and conducts during student-led sessions
-* Assistant student conductor(s) : Assists the student conductor and conducts during some performances
-* Section leaders (Sop 1, Sop 2, Alto 1, Alto 2) : Leads section in sectionals
-* Assistant section leaders (Sop 1, Sop 2, Alto 1, Alto 2) : Assists the section leader in leading sectionals
-* Choir pianist(s): Plays the piano accompaniment for vocal warmups and performances
-* Events and communication: Updates the school choir noticeboard, Instagram page and other outreach platforms
-* Logistics and AV: Sets up electronic keyboard and relevant AV equipment  
-* Scores and resources: Maintains score cupboard, in charge of issuing new scores
+* **Chairperson** : Oversees the day to day running of the choir, sets expectations and goals for the choir, and works closely with the teachers and conductor to achieve them.  
+* **Vice-chairperson 1 and 2** : Works closely with the chairperson  
+* **Student conductor(s)** : Conducts the choir during performances, leads and conducts during student-led sessions
+* **Assistant student conductor(s)** : Assists the student conductor and conducts during some performances
+* **Section leaders (Sop 1, Sop 2, Alto 1, Alto 2)** : Leads section in sectionals
+* **Assistant section leaders (Sop 1, Sop 2, Alto 1, Alto 2)** : Assists the section leader in leading sectionals
+* **Choir pianist(s)**: Plays the piano accompaniment for vocal warmups and performances
+* **Events and communication**: Updates the school choir noticeboard, Instagram page and other outreach platforms
+* **Logistics and AV**: Sets up electronic keyboard and relevant AV equipment  
+* **Scores and resources**: Maintains score cupboard, in charge of issuing new scores
 
 
 ## CCA Schedule
