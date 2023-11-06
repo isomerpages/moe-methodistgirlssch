@@ -39,5 +39,5 @@ The students will sit for and attain one of the following certifications:
 
 ## CCA Schedule
 Training for Sec 1 to 4 Drama Production Team
-Wednesday and Friday: 3:00 to 6:00 pm  
-Venue: Kwa Geok Choo Auditorium / Conference Room / Primary Music Room 1
+* Wednesday and Friday: 3:00 to 6:00 pm  
+* Venue: Kwa Geok Choo Auditorium / Conference Room / Primary Music Room 1
