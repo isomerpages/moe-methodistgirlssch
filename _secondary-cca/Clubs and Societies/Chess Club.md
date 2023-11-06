@@ -3,6 +3,7 @@ title: Chess Club
 permalink: /secondary/curriculum/cca/clubs-and-societies/chess-club/
 description: ""
 third_nav_title: Clubs and Societies
+variant: markdown
 ---
 <div style="width:100%; height:400px">
   <iframe class="ive_eobj_center" allowfullscreen="" frameborder="0" title="MGS Heritage Video" src="https://www.youtube.com/embed/dlB6ekRzcGQ" height="100%" width="100%">
@@ -11,9 +12,8 @@ third_nav_title: Clubs and Societies
 
 Chess Club aims to develop cognitive abilities - attention span, memory, analysis, and logic for personal growth. Our philosophy is a healthy mind through competitions, and support and encouragement for one another through teamwork. The CCA was established to develop sportsmanship, integrity, honesty, excellence, mentorship and empathy in members of the Chess Club, and to nurture them to be able to play Chess during their leisure with enthusiasm and passion.
 
-![](/images/Sec_cca/chess.jpg)
 
-Members develop social dexterity skills, which are of essential importance in society, through activities such as inter-school competitions and friendly games with other schools.  
+Members develop social dexterity skills, which are of essential importance in society, through activities such as inter-school competitions and friendly games with other schools.&nbsp;&nbsp;
 
 During each chess session, members are coached and apply what they are taught via puzzles provided. Members also practise their skills sparring with one another and further hone their competencies during training for competitions.
 
@@ -69,7 +69,7 @@ During each chess session, members are coached and apply what they are taught vi
       <th class="tr-header">CCA Schedule</th>
       <td class="tr-norm">Day: Wednesday<br>
         Time: 3.00pm – 4.30pm<br>
-        Venue: Skyloft 3</td>
+        Venue: Skyloft 2 &amp; 3</td>
     </tr>
   </tbody>
 </table>
