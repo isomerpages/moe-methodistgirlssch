@@ -21,13 +21,13 @@ School-based training sessions are also included to help build up the bowlers’
 
 ## Leadership Opportunities
 
-Senior Captain: She provides leadership and direction to the team. She is responsible for ensuring that the team fulfils its responsibilities for success.
+**Senior Captain:** She provides leadership and direction to the team. She is responsible for ensuring that the team fulfils its responsibilities for success.
 
-Senior Vice Captain: She plans, coordinates and manages the school-based training sessions with the Captain and Teacher-in-charge as well as organises team meetings. She assists the Captain in ensuring that the team fulfils its responsibilities for success.
+**Senior Vice Captain:** She plans, coordinates and manages the school-based training sessions with the Captain and Teacher-in-charge as well as organises team meetings. She assists the Captain in ensuring that the team fulfils its responsibilities for success.
 
-Junior Captain:  She assists the Senior Captain and Vice-Captain in ensuring that the team fulfils its responsibilities for success.
+**Junior Captain:** She assists the Senior Captain and Vice-Captain in ensuring that the team fulfils its responsibilities for success.
 
-All Captains will be involved in planning and organising bowling activities and programmes, including camps.
+All **Captains** will be involved in planning and organising bowling activities and programmes, including camps.
 
 
 ## CCA Schedule
