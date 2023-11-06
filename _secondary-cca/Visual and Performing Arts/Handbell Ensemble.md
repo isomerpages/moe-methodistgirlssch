@@ -3,6 +3,7 @@ title: Handbell Ensemble
 permalink: /secondary/curriculum/cca/visual-and-performing-arts/handbell-ensemble/
 description: ""
 third_nav_title: Visual and Performing Arts
+variant: markdown
 ---
 <div style="width:100%; height:400px">
   <iframe width="100%" height="100%" src="https://www.youtube.com/embed/rkpS-FviCgM" frameborder="0" allowfullscreen="" class="ive_eobj_center">
@@ -13,7 +14,10 @@ The MGS Secondary Handbell Ensemble was established in 1989 with the vision of p
 
 Through the CCA, members with different musical abilities have the opportunity to create music together. Students gain exposure to music that spans a wide range of genres: sacred hymns, classical pieces, pop songs, Disney or local songs. Through events such as the Singapore Youth Festival (SYF) Arts Presentation, the biennial MGS Performing Arts Night as well as VIA activities, members build teamwork, self-confidence, self-esteem, resilience, respect and leadership while honing their musical skills.
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSw7f8pOfVxd0FHoVCbk-DcIh-MR8jrC31SCQ64aJCtZMiy4207GiA7g3kf2NxYy9XVJNOWLMJ5sM6s/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="600" height="356" allowfullscreen="true"></iframe>
+<div style="width:100%; height:470px">
+	<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSw7f8pOfVxd0FHoVCbk-DcIh-MR8jrC31SCQ64aJCtZMiy4207GiA7g3kf2NxYy9XVJNOWLMJ5sM6s/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="100%" height="100%" allowfullscreen="true"></iframe>
+</div>
+
 
 The Handbell Ensemble&nbsp;participates in the Singapore Youth Festival (SYF) Arts Presentation and MGS Performing Arts Night, a biennial event. The CCA also features in the MGS Festival of Arts, and comes together with other musical groups in the school for combined concerts.
 
