@@ -27,6 +27,6 @@ Captain
 * ‘C’ Div Vice-Captain
 
 ## CCA Schedule
-Days: Wednesday &amp; Friday <br>
-Time: 3.15pm to 5.15pm <br>
-Venue: MGS Swimming Complex <br>
+* Days: Wednesday &amp; Friday
+* Time: 3.15pm to 5.15pm
+* Venue: MGS Swimming Complex
