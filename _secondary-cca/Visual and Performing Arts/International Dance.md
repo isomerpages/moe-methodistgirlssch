@@ -42,8 +42,7 @@ International Dance Club is dedicated to continuously pushing boundaries and gro
 - Communicates with level reps for accountability and attendance taking
 - Collection and distribution of admin matters
 
-**IT Director:**
-- In-charge of all social media, IT matters
+**IT Director:** In-charge of all social media, IT matters
 
 
 ## CCA Schedule
