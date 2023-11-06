@@ -36,14 +36,14 @@ Each year, the CCA visits the Methodist Welfare Services Nursing Home at Yew Tee
 
 ## Leadership Opportunities
 
-- Chairman
-- President
-- Vice President
-- Head of Praise and Worship Committee
-- Head of Publicity Committee
-- Head of Programme Committee
+* Chairman
+* President
+* Vice President
+* Head of Praise and Worship Committee
+* Head of Publicity Committee
+* Head of Programme Committee
 
 ## CCA Schedule
-Day: Wednesday <br>
-Time: 3.00pm to 5.30pm <br>
-Venue: Teaching Lab (L1 Sports Complex) <br>
+* Day: Wednesday 
+* Time: 3.00pm to 5.30pm 
+* Venue: Teaching Lab (L1 Sports Complex) 
