@@ -22,41 +22,41 @@ In addition, there are also overnight camps during the school holidays and maste
 
 ## Leadership Opportunities
 
-All Committee Members:
+**All Committee Members:**
 - Develop a culture where important values are upheld (Respect, Discipline, Punctuality, Enthusiasm, Dedication, Perseverance, Passion)
 - Realize the potential in every committee member
 - To lead with compassion, understanding and confidence
 
-President:
+**President:**
 - Chair committee meetings and sets objectives and deadlines
 - Disseminate information and updates from instructor and teachers
 - Draw up a work plan for the next 12 months
 - Identify areas of concern and solve administrative, logistical and social problems in consultation with teachers and instructors where necessary
 - Prepare event write-ups for school publications
 
-Vice President:
+**Vice President:**
 - Supports President in roles and responsibilities
 - Oversee members’ welfare
 
-Secretary/Treasurer:
+**Secretary/Treasurer:**
 - Monitors the ensemble fund, petty cash and all monetary matters
 - Provide a half-yearly statement of accounts and transactions
 - Take charge of administrative matters including attendance, punctuality records and publicity
 
-Instrument Managers [Senior &amp; Assistant]:
+**Instrument Managers (Senior &amp; Assistant)**:
 - Take charge of the upkeep of Practice Room 7
 - Oversee instruments &amp; other equipment
 
-Student Conductor:
+**Student Conductor:**
 - Assist the instructor and conduct practice whenever the instructor is not around
 - Conduct at performances where the main conductor is not present
 - In charge of the quality of ensemble’s musicality
 - Provide constructive feedback to the ensemble on their playing
 - Discuss practice plan with guitar instructors
 
-Assistant Student Conductor: Supports the Student Conductor
+**Assistant Student Conductor**: Supports the Student Conductor
 
-Section Leaders:
+**Section Leaders**:
 - Oversee section mates during sectionals
 - Work closely with student conductors to improve the ensemble’s playing as a whole
 - Disseminate important information to section mates
@@ -64,6 +64,6 @@ Section Leaders:
 
 ## CCA Schedule
 
-Monday : 4.00 pm - 6.00 pm <br>
-Friday: 3.00pm - 6.00pm <br>
-Venue: Band Room
+* Monday: 4.00pm - 6.00pm
+* Friday: 3.00pm - 6.00pm
+* Venue: Band Room
