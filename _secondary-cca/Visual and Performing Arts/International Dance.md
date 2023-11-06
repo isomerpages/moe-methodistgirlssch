@@ -45,6 +45,6 @@ IT DIRECTOR:
 
 
 ## CCA Schedule
-Days: Monday and Wednesday; Thursday (self-practice)
-Time: 4pm-6pm; 3.00pm-6.00pm and 2.30pm-4.30pm
-Venue: Dance Studio @ MGS Sports Complex
+Days: Monday and Wednesday; Thursday (self-practice) <br>
+Time: 4pm-6pm; 3.00pm-6.00pm and 2.30pm-4.30pm <br>
+Venue: Dance Studio @ MGS Sports Complex <br>
