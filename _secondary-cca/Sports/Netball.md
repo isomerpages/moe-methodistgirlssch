@@ -20,11 +20,7 @@ Netball is a sport where teamwork, respect, resilience are fostered. All members
 
 For members to challenge themselves and hone their skills, the CCA competes in the annual National School Games (NSG) for both the ‘B’ and ‘C’ Divisions. It also takes part in carnivals and tournaments, and organizes friendly games against other schools to acquire exposure and build chemistry between all players.
 
-  
-
 Team bonding sessions are frequently held to allow teammates to develop friendships and a strong sense of belonging within the team for each individual. The annual netball camp cum Sec 4 Farewell Party is always an event members look forward to as they plan their own camp programme with bonding games, dinner/breakfast menus and a time to have fun together before the year closes.
-
-  
 
 Other than the competitive school team, the school also offers Netball Club as a CCA. The Netball Club is a recreational CCA where anyone who is keen to learn the game can join, even those who have never played netball before. Players are taught how to play netball from scratch, including the basic skills, such as footwork, shooting, attacking and defending skills, as well as the rules of a netball game. With the guidance of the coach, the seniors also take an active role to teach the juniors who are new during the sessions. It is a weekly training session that allows students to bond with other schoolmates while enjoying the sport.
 
@@ -46,6 +42,7 @@ The MGS netball experience is one that will definitely bring about many incredib
 * Alumnae Day
 * Bonding Games
 
+
 ## Leadership Opportunities
 
 * Captain
@@ -55,8 +52,6 @@ The MGS netball experience is one that will definitely bring about many incredib
 
 ## CCA Schedule
 
-Days: Monday, Wednesday and Friday <br>
-Time: 3.00pm – 5.30pm <br>
-Venue: Indoor Sports Hall (ISH)
- 
-<br>
+* Days: Monday, Wednesday and Friday
+* Time: 3.00pm – 5.30pm
+* Venue: Indoor Sports Hall (ISH)
