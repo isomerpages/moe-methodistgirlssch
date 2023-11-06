@@ -3,6 +3,7 @@ title: Tennis
 permalink: /secondary/curriculum/cca/sports/tennis/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
 <div style="width:100%; height:400px">
   <iframe width="100%" height="100%" src="https://www.youtube.com/embed/1bCmL656faQ" title="MGS Heritage Video" frameborder="0" allowfullscreen="" class="ive_eobj_center">
