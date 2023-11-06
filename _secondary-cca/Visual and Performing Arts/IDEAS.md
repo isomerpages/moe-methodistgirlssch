@@ -93,5 +93,5 @@ Assistant Media Manager &amp; Rep For Lower Sec:
 
 ## CCA Schedule
 
-Fridays: 3:00pm to 6:00pm
-Venue: Art Rooms / Kitchen
+Fridays: 3:00pm to 6:00pm <br>
+Venue: Art Rooms / Kitchen <br>
