@@ -45,80 +45,34 @@ Every year, the Handbell Ensemble&nbsp;offers an accreditation opportunity to al
 * London College of Music (LCM) Handbell Ensemble Level 5 - Certificate of Distinction  <br>
 * Extraordinary People (EPL) Concert @ National University Singapore Culture Centre
 
+## Leadership Opportunities
+President / Vice-President:  
+- Organise and take charge of self-practice sessions together
+- Coach and develop the juniors in the Handbell committee in their leadership skills  
+- Mentor and guide the various committee i/cs  
+  
+Secretary/ Assistant Secretary:  
+- Oversee administrative duties  
+- Record minutes for Handbell Committee meetings  
+- Prepare articles for school publications  
+  
+Logistics and Assistant Logistics i/c:  
+- Oversee Handbell instruments and scores  
+- Assist teachers to update and maintain the Handbell stock inventory / records.  
+- Plan the layout for every performance  
+  
+Treasurer and Welfare i/c:  
+- Manage finance matters  
+- Organise and plan the New Members Welcome Party  
+- Organise bonding activities / game / self-initiated VIA for Handbell members  
+  
+Training Group Leaders and Assistant Training Group Leader:  
+- Develop the members’ passion for Handbell ringing  
+- Train and lead the self-practice sessions  
+- Do note assignments  
+- Work with the Instructor and teachers on the weekly training program
 
-<style type="text/css">
-.tg {
-    border-color: black;
-    border-style: solid;
-    border-width: 1px;
-    color: #3D3D3D;
-    padding: 10px 5px;
-}
-.tg td {
-    overflow: hidden;
-    word-break: normal;
-}
-.tg th {
-    background-color: #DDD;
-    border-color: black;
-    border-style: solid;
-    border-width: 1px;
-    color: #3D3D3D;
-    font-weight: bold;
-}
-.tg .tr-norm {
-    border-color: black;
-    border-style: solid;
-    border-width: 1px;
-    vertical-align: top;
-}
-.tg .tr-header {
-    border-color: black;
-    border-style: solid;
-    border-width: 1px;
-    color: #3D3D3D;
-    font-weight: bold;
-    vertical-align: top
-}
-</style>
-
-<table class="tg">
-  <thead>
-    <tr>
-      <th class="tr-header">Leadership Opportunities</th>
-      <td class="tr-norm">President / Vice-President:<br>
-        - Organise and take charge of self-practice sessions together<br>
-        -&nbsp;&nbsp;Coach and develop the juniors in the Handbell committee in their leadership skills<br>
-        - Mentor and guide the various committee i/cs<br>
-        <br>
-        Secretary/ Assistant Secretary:<br>
-        - Oversee administrative duties<br>
-        - Record minutes for Handbell Committee meetings<br>
-        - Prepare articles for school publications<br>
-        <br>
-        Logistics and Assistant Logistics i/c:<br>
-        - Oversee Handbell instruments and scores<br>
-        - Assist teachers to update and maintain the Handbell stock inventory / records.<br>
-        - Plan the layout for every performance<br>
-        <br>
-        Treasurer and Welfare i/c:<br>
-        - Manage finance matters<br>
-        - Organise and plan the New Members Welcome Party<br>
-        - Organise bonding activities / game / self-initiated VIA for Handbell members<br>
-        <br>
-        Training Group Leaders and Assistant Training Group Leader:<br>
-        - Develop the members’ passion for Handbell ringing<br>
-        - Train and lead the self-practice sessions<br>
-        - Do note assignments<br>
-      - Work with the Instructor and teachers on the weekly training program</td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th class="tr-header">CCA Schedule</th>
-      <td class="tr-norm">Days: Monday &amp; Wednesday <br>
-        Time: 4.00 - 6.30pm &amp; 3.00 - 6.15pm<br>
-      Venue: Secondary Dance Studio</td>
-    </tr>
-  </tbody>
-</table>
+## CCA Schedule
+Days: Monday &amp; Wednesday  
+Time: 4.00 - 6.30pm &amp; 3.00 - 6.15pm  
+Venue: Secondary Dance Studio
