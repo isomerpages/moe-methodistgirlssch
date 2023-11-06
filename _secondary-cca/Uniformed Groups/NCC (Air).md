@@ -3,6 +3,7 @@ title: NCC (Air)
 permalink: /secondary/curriculum/cca/uniformed-groups/ncc-air/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 <div style="width:100%; height:400px">
   <iframe class="ive_eobj_center" allowfullscreen="" frameborder="0" title="MGS Heritage Video" src="https://www.youtube.com/embed/ENvDOiIMgeo" height="100%" width="100%">
@@ -20,62 +21,19 @@ There is a myriad of activities organised by HQ NCC to enrich the learning exper
 
 Students are also expected to perform unit VIA initiatives to serve the community. HQ NCC organises an annual NCC Air Competition to provide a chance for all Air units to showcase their efforts and compete against each other, and the CCA garnered 2nd place in the Chuck Glider Category in the NCC Air Competition in 2019.
 
-<style type="text/css">
-.tg {
-    border-color: black;
-    border-style: solid;
-    border-width: 1px;
-    color: #3D3D3D;
-    padding: 10px 5px;
-}
-.tg td {
-    overflow: hidden;
-    word-break: normal;
-}
-.tg th {
-    background-color: #DDD;
-    border-color: black;
-    border-style: solid;
-    border-width: 1px;
-    color: #3D3D3D;
-    font-weight: bold;
-}
-.tg .tr-norm {
-    border-color: black;
-    border-style: solid;
-    border-width: 1px;
-    vertical-align: top;
-}
-.tg .tr-header {
-    border-color: black;
-    border-style: solid;
-    border-width: 1px;
-    color: #3D3D3D;
-    font-weight: bold;
-    vertical-align: top
-}
-</style>
 
-<table class="tg">
-  <thead>
-    <tr>
-      <th class="tr-header">Leadership Opportunities</th>
-      <td class="tr-norm">Unit Sergeant Major<br>
-        Assistant Unit Sergeant Major (Administration)<br>
-        Assistant Unit Sergeant Major (Operations)<br>
-        Senior Cadets Platoon Sergeant<br>
-        Junior Cadets Platoon Sergeant<br>
-    Unit Fitness Training Instructor
-			</td>
-		</tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th class="tr-header">CCA Schedule</th>
-      <td class="tr-norm">Day: Friday<br>
-        Time: 3.00pm to 6.00pm<br>
-				Venue: Bamboo Courtyard
-			</td>
-		</tr>
-	</tbody>
-</table>
+## Leadership Opportunities
+
+* Unit Sergeant Major
+* Assistant Unit Sergeant Major (Administration)
+* Assistant Unit Sergeant Major (Operations)
+* Senior Cadets Platoon Sergeant
+* Junior Cadets Platoon Sergeant
+* Unit Fitness Training Instructor
+
+
+## CCA Schedule
+
+Day: Friday <br>
+Time: 3.00pm to 6.00pm <br>
+Venue: Bamboo Courtyard
