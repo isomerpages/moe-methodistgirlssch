@@ -35,7 +35,7 @@ Through the Library Club activities, student librarians conceptualise, plan and 
 ## CCA Schedule
 
 Day and Time: <br>
-- Friday (Official Club Meeting Day), 3pm to 4.30pm <br>
-- Monday to Friday (Student librarians will be rostered to perform Library duties after school.) <br>
+* Friday (Official Club Meeting Day), 3pm to 4.30pm <br>
+* Monday to Friday (Student librarians will be rostered to perform Library duties after school.) <br>
 
 Venue: MGS Library <br>

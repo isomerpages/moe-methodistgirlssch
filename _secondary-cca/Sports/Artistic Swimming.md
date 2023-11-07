@@ -16,9 +16,8 @@ Artistic Swimming aims to create an opportunity for students to acquire artistic
 
 Members participate in water training and non-water training of techniques and this enables them to hone their flexibility and stamina.
 
-  
-
 Each member is dedicated and committed to excellence, and the CCA has strong showing in the annual SSA National School Artistic Swimming Championships competition. Besides triumphing in the Artistic Swimming arena, it has also been featured in special event showcases for the school.
+
 
 ## Leadership Opportunities
 
@@ -26,7 +25,8 @@ Captain
 * ‘B’ Div Vice-Captain
 * ‘C’ Div Vice-Captain
 
+
 ## CCA Schedule
-Days: Wednesday &amp; Friday <br>
-Time: 3.15pm to 5.15pm <br>
-Venue: MGS Swimming Complex <br>
+* Days: Wednesday &amp; Friday
+* Time: 3.15pm to 5.15pm
+* Venue: MGS Swimming Complex

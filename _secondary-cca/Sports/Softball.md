@@ -16,7 +16,6 @@ Students can expect fun yet challenging training sessions which incorporate both
 
 <div style="width:100%; height:470px">
 	<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT814UMxNqQ_xa3f4HOqxW-at7-fi35FMRTirXJSz0FbJ9pG01STEQ5gIjiZzwrrTwaZi1-Q-vwJa9N/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="100%" height="100%" allowfullscreen="true"></iframe>
-	
 </div>
 
 Players can also look forward to participating in various events such as the annual National School Games, friendly matches as well as the highly anticipated camps. While the intensity and frequency of training sessions and competitions demand a high level of commitment, they form an integral part of the team’s journey to their podium target in the National School Games, as evidenced by both the ‘B’ and ‘C’ Divisions clinching the championship in 2022 and 2023.
@@ -30,7 +29,6 @@ Players can also look forward to participating in various events such as the ann
 
 ## CCA Schedule
 
-Days: Mondays, Wednesdays &amp; Fridays <br> 
-Time &amp; Duration: 3.00pm - 6.00pm <br>
-Venue: School Field
- 
+* Days: Mondays, Wednesdays &amp; Fridays
+* Time &amp; Duration: 3.00pm - 6.00pm
+* Venue: School Field

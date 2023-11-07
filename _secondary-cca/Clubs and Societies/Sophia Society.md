@@ -47,6 +47,6 @@ Members can look forward to the following experiences at Sophia Society.
 
 
 ## CCA Schedule
-Days: Wednesdays (Mondays &amp; Fridays – during selected seasons) <br>
-Time: 2.30pm-5.30pm <br>
-Venue: Conference Room <br>
+* Days: Wednesdays (Mondays &amp; Fridays – during selected seasons) 
+* Time: 2.30pm-5.30pm 
+* Venue: Conference Room

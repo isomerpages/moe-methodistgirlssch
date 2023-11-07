@@ -15,7 +15,6 @@ variant: markdown
   </iframe>
 </div>
 
-
 The CCA aims to motivate and inspire members to pursue their passion in tennis and provide them with opportunities to excel in it.
 
 Weekly training and various competitions mould character and inculcate values such as integrity, respect, responsibility, resilience and teamwork in the MGS girl.
@@ -28,83 +27,12 @@ Under the guidance of instructors and teachers, the CCA’s training programmes 
 
 **Accolades and achievements over the years are:**
 
-<style type="text/css">
-.tg {
-    border-color: black;
-    border-style: solid;
-    border-width: 1px;
-    color: #3D3D3D;
-    padding: 10px 5px;
-}
-.tg td {
-    overflow: hidden;
-    word-break: normal;
-}
-.tg th {
-    background-color: #DDD;
-    border-color: black;
-    border-style: solid;
-    border-width: 1px;
-    color: #3D3D3D;
-    font-weight: bold;
-}
-.tg .tr-norm {
-    border-color: black;
-    border-style: solid;
-    border-width: 1px;
-    vertical-align: top;
-}
-.tg .tr-header {
-    border-color: black;
-    border-style: solid;
-    border-width: 1px;
-    color: #3D3D3D;
-    font-weight: bold;
-    vertical-align: top
-}
-</style>
-
-<table class="tg">
-  <tbody>
-    <tr>
-      <th width="20%" class="tr-header">Year </th>
-      <th width="40%" class="tr-header">C Div </th>
-      <th width="40%" class="tr-header">B Div </th>
-    </tr>
-    <tr>
-      <td class="tr-norm" width="20%">2016 </td>
-      <td class="tr-norm" width="40%">1st </td>
-      <td class="tr-norm" width="40%">2nd </td>
-    </tr>
-    <tr>
-      <td class="tr-norm" width="20%">2017 </td>
-      <td class="tr-norm" width="40%">1st </td>
-      <td class="tr-norm" width="40%">2nd </td>
-    </tr>
-    <tr>
-      <td class="tr-norm" width="20%">2018 </td>
-      <td class="tr-norm" width="40%">1st </td>
-      <td class="tr-norm" width="40%">1st&nbsp; </td>
-    </tr>
-    <tr>
-      <td class="tr-norm" width="20%">2019 </td>
-      <td class="tr-norm" width="40%">3rd </td>
-      <td class="tr-norm" width="40%">1st&nbsp; </td>
-    </tr>
-    <tr>
-      <td class="tr-norm" width="20%">2020 </td>
-      <td class="tr-norm" width="40%">-</td>
-      <td class="tr-norm" width="40%">Semi-finals* </td>
-    </tr>
-    <tr>
-      <td class="tr-norm" width="20%">2021 </td>
-      <td class="tr-norm" width="40%">-</td>
-      <td class="tr-norm" width="40%">2nd&nbsp; </td>
-    </tr>
-    <tr>
-      <td class="tr-norm" width="20%">2022 </td>
-      <td class="tr-norm" width="40%">1st </td>
-      <td class="tr-norm" width="40%">&nbsp;Participated </td>
-    </tr>
-  </tbody>
-</table>
+| Year | C Div | B Div |
+| --- | --- | --- |
+| 2016 | 1st | 2nd |
+| 2017 | 1st | 2nd |
+| 2018 | 1st | 1st&nbsp; |
+| 2019 | 3rd | 1st&nbsp; |
+| 2020 | \- | Semi-finals\* |
+| 2021 | \- | 2nd&nbsp; |
+| 2022 | 1st | &nbsp;Participated |

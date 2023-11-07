@@ -10,14 +10,11 @@ variant: markdown
   </iframe>
 </div>
 
-
 MGS NCC (Air) was established with the aim of developing girls with discipline, leadership and a sense of adventure. Being a relatively new unit started in 2019, members are encouraged to push beyond their limits and step out of their comfort zones. NCC (Air) nurtures members to grow in strength, resilience and courage. Through activities such as weapon technical handling, individual field craft and aeromodelling, members are developed to embody the MGS girl with a heart to lead and serve her peers and community at large.
 
 ![](/images/Sec_cca/ncc%20air.jpg)
 
-There is a myriad of activities organised by HQ NCC to enrich the learning experiences of the NCC cadets. The basic activities include orienteering, drill proficiency, individual field craft, weapon technical handling, IMT and live range shooting, as well as Air activities such as aeromodelling, drone flying and computer simulated spot landing etc.
-
-  
+There is a myriad of activities organised by HQ NCC to enrich the learning experiences of the NCC cadets. The basic activities include orienteering, drill proficiency, individual field craft, weapon technical handling, IMT and live range shooting, as well as Air activities such as aeromodelling, drone flying and computer simulated spot landing etc.  
 
 Students are also expected to perform unit VIA initiatives to serve the community. HQ NCC organises an annual NCC Air Competition to provide a chance for all Air units to showcase their efforts and compete against each other, and the CCA garnered 2nd place in the Chuck Glider Category in the NCC Air Competition in 2019.
 
@@ -34,6 +31,6 @@ Students are also expected to perform unit VIA initiatives to serve the communit
 
 ## CCA Schedule
 
-Day: Friday <br>
-Time: 3.00pm to 6.00pm <br>
-Venue: Bamboo Courtyard
+* Day: Friday 
+* Time: 3.00pm to 6.00pm 
+* Venue: Bamboo Courtyard

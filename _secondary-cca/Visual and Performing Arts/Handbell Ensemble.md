@@ -46,33 +46,33 @@ Every year, the Handbell Ensemble&nbsp;offers an accreditation opportunity to al
 * Extraordinary People (EPL) Concert @ National University Singapore Culture Centre
 
 ## Leadership Opportunities
-President / Vice-President:  
+**President / Vice-President: ** 
 - Organise and take charge of self-practice sessions together
 - Coach and develop the juniors in the Handbell committee in their leadership skills  
 - Mentor and guide the various committee i/cs  
   
-Secretary/ Assistant Secretary:  
+**Secretary/ Assistant Secretary:**
 - Oversee administrative duties  
 - Record minutes for Handbell Committee meetings  
 - Prepare articles for school publications  
   
-Logistics and Assistant Logistics i/c:  
+**Logistics and Assistant Logistics i/c:**
 - Oversee Handbell instruments and scores  
 - Assist teachers to update and maintain the Handbell stock inventory / records.  
 - Plan the layout for every performance  
   
-Treasurer and Welfare i/c:  
+**Treasurer and Welfare i/c:**
 - Manage finance matters  
 - Organise and plan the New Members Welcome Party  
 - Organise bonding activities / game / self-initiated VIA for Handbell members  
   
-Training Group Leaders and Assistant Training Group Leader:  
+**Training Group Leaders and Assistant Training Group Leader:**
 - Develop the members’ passion for Handbell ringing  
 - Train and lead the self-practice sessions  
 - Do note assignments  
 - Work with the Instructor and teachers on the weekly training program
 
 ## CCA Schedule
-Days: Monday &amp; Wednesday  
-Time: 4.00 - 6.30pm &amp; 3.00 - 6.15pm  
-Venue: Secondary Dance Studio
+* Days: Monday &amp; Wednesday  
+* Time: 4.00 - 6.30pm &amp; 3.00 - 6.15pm  
+* Venue: Secondary Dance Studio

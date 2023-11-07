@@ -23,16 +23,16 @@ During each chess session, members are coached and apply what they are taught vi
 
 ## Leadership Opportunities
 
-President and Vice President:
+**President and Vice President:**
 - Assist teacher-in charge and coach to encourage members to take part in at least one competition per year.
 - Maintain general discipline during the CCA and assist in attendance
 - Plan activities to improve bonding within the CCA
 - Showcase CCA and recruitment during Sec 1 Orientation and Open House
 
-Executive Committee: Assist President and Vice President in the running of the club and provide support and feedback to activities within the club
+**Executive Committee:** Assist President and Vice President in the running of the club and provide support and feedback to activities within the club
 
 
 ## CCA Schedule
-Day: Wednesday <br> 
-Time: 3.00pm – 4.30pm <br>
-Venue: Skyloft 2 &amp; 3 <br>
+* Day: Wednesday
+* Time: 3.00pm – 4.30pm
+* Venue: Skyloft 2 &amp; 3

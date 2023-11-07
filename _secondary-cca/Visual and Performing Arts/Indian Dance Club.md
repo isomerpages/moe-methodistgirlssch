@@ -18,21 +18,21 @@ Known for its active participation in both internal and external community perfo
 
 ## Leadership Opportunities
 
-PRESIDENT
+**President**
 - Leads Dance towards achieving its goals
 - In consultation with teacher IC and instructor to recommend and implement structures and programmes
 - Works closely with the committee for deployment, communication, practices and performances
 
-VICE PRESIDENT
+**Vice President**
 - Assists the president in leading Dance
 - Works closely with president and committee for deployment, communication, practices and performances
 
-LOGISTICS
+**Logistics**
 - Keeps track of props, accessories and items from Dance
 - Develops and organises Dance in developing good dance studio habits
 
 
 ## CCA Schedule
-Days: Wednesday and Friday <br>
-Time: 3.00-6.00pm <br>
-Venue: PAL Room 1A @ MGS Sports Complex <br>
+* Days: Wednesday and Friday
+* Time: 3.00-6.00pm
+* Venue: PAL Room 1A @ MGS Sports Complex

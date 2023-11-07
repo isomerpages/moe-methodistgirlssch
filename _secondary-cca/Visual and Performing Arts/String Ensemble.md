@@ -49,18 +49,18 @@ The CCA experience for members have included:
 
 ## Leadership Opportunities
 
-Administrative Committee:
+**Administrative Committee:**
 - President
 - Vice-Presidents
 - Chief and Assistant Librarian
 - Chief and Assistant Welfare
 - Quartermistress
 
-Music Committee:
+**Music Committee:**
 - Concert mistress
 - Section and Assistant Section Leaders
 
 ## CCA Schedule
-Venue: MEP 2 <br>
-Wednesday: 3.15pm – 6.15pm <br>
-Friday: 3pm – 6pm <br>
+* Venue: MEP 2
+* Wednesday: 3.15pm – 6.15pm
+* Friday: 3pm – 6pm

@@ -31,7 +31,7 @@ Our members have won awards in various competitions over the years.
 
 ## Leadership Opportunities
 
-Coding Section:
+**Coding Section:**
 - President
 - Vice-President
 - Secretary
@@ -39,7 +39,7 @@ Coding Section:
 - Level Representatives
 - VIA Coordinators
 
-Image and Sound Section:
+**Image and Sound Section:**
 - President
 - Vice-President (Still Images)
 - Vice-President (Moving Images &amp; Sound)
@@ -49,6 +49,6 @@ Image and Sound Section:
 
 
 ## CCA Schedule
-Day : Friday <br>
-Time &amp; Duration : 3.00 pm to 5.00 pm / 2 hours (approximate) <br>
-Venue : IT Lab 2.0, IT Lab 3.1, Teaching Lab, Think Tank <br>
+* Day : Friday
+* Time &amp; Duration : 3.00 pm to 5.00 pm / 2 hours (approximate)
+* Venue : IT Lab 2.0, IT Lab 3.1, Teaching Lab, Think Tank

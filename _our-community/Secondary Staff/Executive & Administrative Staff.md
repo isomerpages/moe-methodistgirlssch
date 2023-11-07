@@ -3,6 +3,7 @@ title: Executive & Administrative Staff
 permalink: /secondary/staff/executive-n-administrative-staff/
 description: ""
 third_nav_title: Secondary Staff
+variant: markdown
 ---
 ### **ADMINISTRATION**
 Senior Manager: [Mr Anthony Phua](mailto:Anthony_Phua@schools.gov.sg)  
@@ -38,7 +39,6 @@ Senior Executive: Ms Debbie Cheng
 ### **HUMAN RESOURCES**
 
 Senior Manager: [Ms Yong Sheue Horng](mailto:yong_sheue_horng@schools.gov.sg)  
-Senior Executive: Ms Hazel Yeow  
 
 ### **INFORMATION TECHNOLOGY**
 

@@ -5,8 +5,6 @@ description: ""
 third_nav_title: Visual and Performing Arts
 variant: markdown
 ---
-# Innovation.Design.Entrepreneurship.Art for Society
-
 <img src="/images/Sec_cca/ideas-logo.png" align="right" style="width:40%">
 
 
@@ -62,36 +60,36 @@ We believe in encouraging all members to embrace creativity and innovation as th
 
 ## Leadership Opportunities
 
-Chairman:
+**Chairman:**
 - Plans for committee meetings to implement programmes and conduct activities for the members to bond well.
 - Helps the teachers-in-charge to carry out administrative matters for the CCA, and maintain discipline and order for the CCA.
 
-Assistant Vice &amp; Vice-Chairman: Works closely with the Chairman and Exco to plan for programmes and conduct activities.
+**Assistant Vice &amp; Vice-Chairman:** Works closely with the Chairman and Exco to plan for programmes and conduct activities.
 
-Treasurer &amp; Rep For Upper Sec:
+**Treasurer &amp; Rep For Upper Sec:**
 - Oversees monetary collections and keeps an account on incomes and expenditures.
 - Takes care of the welfare of Sec 3 &amp; 4 members.
 
-Publicity &amp; Communication:
+**Publicity &amp; Communication:**
 - Publicises CCA activities through morning assembly announcements, noticeboard, email and social media.
 - Keeps the IDEAS noticeboard updated and relevant
 
-Event Manager:
+**Event Manager:**
 - Plans for Sec.1 Orientation Day and Sec/Yr 4 farewell;
 - In charge of bonding activities through games and learning journey.
 
-Logistics Manager: Keeps track of CCA inventory and storage
+**Logistics Manager:** Keeps track of CCA inventory and storage
 
-Assistant Logistics Manager: Assists logistic manager in managing the resources and materials for the CCA
+**Assistant Logistics Manager:** Assists logistic manager in managing the resources and materials for the CCA
 
-Media Manager: Oversees photographs and videos of events
+**Media Manager:** Oversees photographs and videos of events
 
-Assistant Media Manager &amp; Rep For Lower Sec:
+**Assistant Media Manager &amp; Rep For Lower Sec:**
 - Assists media manager in maintaining photograph and video collection.
 - Oversee monetary collection and takes care of the welfare of Sec 1 &amp; 2 members
 
 
 ## CCA Schedule
 
-Fridays: 3:00pm to 6:00pm <br>
-Venue: Art Rooms / Kitchen <br>
+* Fridays: 3:00pm to 6:00pm
+* Venue: Art Rooms / Kitchen

@@ -19,89 +19,25 @@ At the end of every year, Drama Society offers an accreditation opportunity for 
 
 The students will sit for and attain one of the following certifications:
 
-<style type="text/css">
-.tg {
-    border-color: black;
-    border-style: solid;
-    border-width: 1px;
-    color: #3D3D3D;
-    padding: 10px 5px;
-}
-.tg td {
-    overflow: hidden;
-    word-break: normal;
-}
-.tg th {
-    background-color: #DDD;
-    border-color: black;
-    border-style: solid;
-    border-width: 1px;
-    color: #3D3D3D;
-    font-weight: bold;
-}
-.tg .tr-norm {
-    border-color: black;
-    border-style: solid;
-    border-width: 1px;
-    vertical-align: top;
-}
-.tg .tr-header {
-    border-color: black;
-    border-style: solid;
-    border-width: 1px;
-    color: #3D3D3D;
-    font-weight: bold;
-    vertical-align: top
-}
-</style>
-<table class="tg">
-  <thead>
-    <tr>
-      <th class="tr-header">Level</th>
-      <th class="tr-norm">Examination Category</th>
-      <th class="tr-norm">Examination Grade </th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th class="tr-header">Sec 1</th>
-      <td class="tr-norm">Performance Arts</td>
-      <td class="tr-norm">5</td>
-    </tr>
-    <tr>
-      <th class="tr-header">Sec 2</th>
-      <td class="tr-norm">Performance Arts</td>
-      <td class="tr-norm">6</td>
-    </tr>
-    <tr>
-      <th class="tr-header">Sec 3</th>
-      <td class="tr-norm">Group Drama - Scripts</td>
-      <td class="tr-norm">7 </td>
-    </tr>
-  </tbody>
-</table>
-<p>&nbsp;</p>
+| Level | Examination Category | Examination Grade |
+| -------- | -------- | -------- |
+| Sec 1     | Performance Arts     | 5     |
+| Sec 2     | Performance Arts     | 6     |
+| Sec 3     | Group Drama - Scripts     | 7     |
 
 ## Leadership Opportunities
 
-President: She provides leadership and direction to the committee. She is responsible for ensuring that the committee fulfils its responsibilities for success.
-
-Vice President: She plans, coordinates and manages meetings and programmes. She assists the President in ensuring that the committee fulfils its responsibilities for success.
-
-Secretaries: They handle all correspondence of the Society and keep records of meetings.
-
-Recruitment Coordinators: They are responsible for enrolment and plan auditions for prospective students.
-
-Publicity Coordinators: They publicise club activities through morning assembly announcements, noticeboard posters, email and social media.
-
-Logistics Coordinators: They are responsible for sourcing of costumes, make-up, props and sets for production.
-
-Sec 1 – 4 Level Reps: They are at the heart of student representation and work in partnership with the teachers to improve the experience of current and future students.
-
-All Executive Committee members will be involved in planning and organising drama activities and programmes, including camps.
+* **President**: She provides leadership and direction to the committee. She is responsible for ensuring that the committee fulfils its responsibilities for success.
+* **Vice President**: She plans, coordinates and manages meetings and programmes. She assists the President in ensuring that the committee fulfils its responsibilities for success.
+* **Secretaries**: They handle all correspondence of the Society and keep records of meetings.
+* **Recruitment Coordinators**: They are responsible for enrolment and plan auditions for prospective students.
+* **Publicity Coordinators**: They publicise club activities through morning assembly announcements, noticeboard posters, email and social media.
+*** Logistics Coordinators**: They are responsible for sourcing of costumes, make-up, props and sets for production.
+* **Sec 1 – 4 Level Reps**: They are at the heart of student representation and work in partnership with the teachers to improve the experience of current and future students.
+* All **Executive Committee** members will be involved in planning and organising drama activities and programmes, including camps.
 
 
 ## CCA Schedule
 Training for Sec 1 to 4 Drama Production Team
-Wednesday and Friday: 3:00 to 6:00 pm  
-Venue: Kwa Geok Choo Auditorium / Conference Room / Primary Music Room 1
+* Wednesday and Friday: 3:00 to 6:00 pm  
+* Venue: Kwa Geok Choo Auditorium / Conference Room / Primary Music Room 1
