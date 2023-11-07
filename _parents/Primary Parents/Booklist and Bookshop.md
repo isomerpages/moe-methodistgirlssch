@@ -8,7 +8,7 @@ variant: markdown
 ### Booklist
 
   
-**Primary 2023**  
+**Primary 2024**  
 [P1 Booklist](https://drive.google.com/file/d/1zmtZ2RO7EdA8lmodXJq5ZpkjzLiHxYni/view?usp=drive_link) 
 
 *P2 to P6 Booklists will be updated at a later date*
