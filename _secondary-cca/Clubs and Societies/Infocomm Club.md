@@ -14,7 +14,7 @@ The CCA develops (1) computer language coding, (2) still and moving image captur
 
 While learning skills and competencies for themselves, our members exercise and hone these in service to the community by assisting in various school events throughout the year.
 
-![](/images/Sec_cca/infocomm.jpg)
+![](/images/Sec_cca/infocomm-2020.jpg)
 
 Members who choose to specialise in coding will learn coding skills for various purposes such as aiding people with daily tasks, as well as, designing and coding various types of computer games. The graduation project for the members as part of the four year programme will require them to plan and conduct a workshop for their juniors in the school.
 
