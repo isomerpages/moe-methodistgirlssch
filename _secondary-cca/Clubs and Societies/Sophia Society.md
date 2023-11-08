@@ -14,11 +14,9 @@ Sophia Society aims to nurture creative and confident communicators. Our philoso
 
 The CCA was established to provide girls with opportunities to be a blessing to the community through service as emcees, hosts, deejays and moderators. It develops oracy skills and competencies, and imparts values of discipline and collaboration.
 
-![](/images/Sec_cca/sophia%20society.jpg)
+![](/images/Sec_cca/sophia-society-2020.jpg)
 
 Through activities and programmes such as panel moderation, orating, hosting and emceeing, as well as community projects which engage members with real-life issues from Singapore to across the globe, we hone the MGS girl to be an articulate and effective communicator, anchored in sound values, and well-poised to respond and contribute to the future landscape.
-
-  
 
 Members can look forward to the following experiences at Sophia Society.
 
@@ -28,7 +26,6 @@ Members can look forward to the following experiences at Sophia Society.
 *   Platforms to develop confident public speaking
 *   Training with the SG Bicentennial Team (Prime Minister’s Office) on being storytellers and scribes
 
-  
 
 **Community VIA and competitions**
 
