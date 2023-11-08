@@ -9,8 +9,6 @@ variant: markdown
   <iframe class="ive_eobj_center" allowfullscreen="" frameborder="0" title="MGS Heritage Video" src="https://www.youtube.com/embed/_4GY9bmmbCA" height="100%" width="100%">
   </iframe>
 </div>
-
-
 The Girls’ Brigade Singapore started in 1927 at Methodist Girls’ School, and is an international uniformed youth organisation for girls.
 
 The Mission of The Girls’ Brigade Singapore is to develop each girl and officer to her fullest potential by equipping. empowering and enabling ”Every Girl a Leader” and “Every Officer a Servant Leader”.
@@ -19,7 +17,7 @@ This is achieved through the fourfold programme of The Girls’ Brigade which ai
 
 The weekly meeting programme encompasses worship, devotion, badgework/foot drill and recreational activities. There are also two camps in a year where students look forward to a time of fellowship and enrichment through activities such as amazing race, and learning leadership skills and values in authentic and fun ways.
 
-![](/images/Sec_cca/girl%20brigade.jpg)
+![](/images/Sec_cca/girl-brigade-2020.jpg)
 
 Our members also participate actively in national events such as the Girls’ Brigade Friendship Day as well as the biennial Low Guat Tin Challenge and the National Drill Competitions. Selected members have the opportunity to march at the National Day Parade and participate in inter-uniformed group activities.  
 
