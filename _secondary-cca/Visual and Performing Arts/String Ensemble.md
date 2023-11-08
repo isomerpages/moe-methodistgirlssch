@@ -14,7 +14,7 @@ variant: markdown
 
 The MGS String Ensemble brings together like-minded individuals with a passion for music-making. The CCA strives to develop in its members musical skills of detailed listening, awareness of blend and colour and ensemble coordination. Through performances, competitions, collaborations and string exchanges, String Ensemble hones the character of the MGS girl and seeks to develop values of responsibility, resilience and empathy. The CCA also aims to share its music with the community, and to make a difference to the lives of others.
 
-![](/images/Sec_cca/string%20ensemble.jpg)
+![](/images/Sec_cca/string-ensemble-2020.jpg)
 
 The CCA experience for members have included:
 

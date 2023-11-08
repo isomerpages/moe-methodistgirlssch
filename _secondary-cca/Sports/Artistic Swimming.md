@@ -12,7 +12,7 @@ variant: markdown
 
 Artistic Swimming aims to create an opportunity for students to acquire artistic water skills, and to nurture students with grace and artistry in the water. The CCA develops artistic swimming competencies of its members, and imparts values of endurance, resilience, harmony and teamwork through training sessions and competitions. As members practise perfecting the formations and routines, they are stretched to achieve their highest potential and grow in both skills and character.
 
-![](/images/Sec_cca/artistic-swimming.jpg)
+![](/images/Sec_cca/artistic-swimming-2020.jpg)
 
 Members participate in water training and non-water training of techniques and this enables them to hone their flexibility and stamina.
 

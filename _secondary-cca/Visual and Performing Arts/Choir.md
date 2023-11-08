@@ -12,7 +12,7 @@ variant: markdown
 
 The MGS Choir has a shared sense of passion and love for singing. The Choir’s guiding principles are: Awareness, Attitude, Ability, Attendance. We strive to inculcate self-discipline, independence, diligence and a sense of shared responsibility in every chorister, and to be of service to our school and wider community through our performances.
 
-![](/images/Sec_cca/choir.jpg)
+![](/images/Sec_cca/choir-2020.jpg)
 
 **2019 6th International Vietnam Choir Competition in Hoi An, Vietnam:**
 *   2 gold awards: category champion for the Youth Choir Category, second place for the Sacred Choral Music Category

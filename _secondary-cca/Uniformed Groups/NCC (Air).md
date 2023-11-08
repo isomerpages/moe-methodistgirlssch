@@ -12,7 +12,7 @@ variant: markdown
 
 MGS NCC (Air) was established with the aim of developing girls with discipline, leadership and a sense of adventure. Being a relatively new unit started in 2019, members are encouraged to push beyond their limits and step out of their comfort zones. NCC (Air) nurtures members to grow in strength, resilience and courage. Through activities such as weapon technical handling, individual field craft and aeromodelling, members are developed to embody the MGS girl with a heart to lead and serve her peers and community at large.
 
-![](/images/Sec_cca/ncc%20air.jpg)
+![](/images/Sec_cca/ncc-air-2020.jpg)
 
 There is a myriad of activities organised by HQ NCC to enrich the learning experiences of the NCC cadets. The basic activities include orienteering, drill proficiency, individual field craft, weapon technical handling, IMT and live range shooting, as well as Air activities such as aeromodelling, drone flying and computer simulated spot landing etc.  
 

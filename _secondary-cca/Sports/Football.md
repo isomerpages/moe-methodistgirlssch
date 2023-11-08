@@ -11,7 +11,7 @@ The CCA aims to provide MGS girls who have an interest in Football with the oppo
 
 MGS Football nurtures and grows its members to be confident and outstanding young leaders who can work well with others, and who are resilient, determined and fun-loving. Members not only develop their technical skills, but also learn how to work as a team tactically. The student leaders, coaches and teachers continually strengthen the team camaraderie to build lasting memories and foster bonds between each individual member.
 
-![](/images/Sec_cca/football.jpg)
+![](/images/Sec_cca/football-2020.jpg)
 
 Football CCA’s philosophy is to create a full year-round programme that provides multiple pathways and opportunities to MGS girls of all abilities as well as drive interest and love for Football and an active lifestyle. The CCA works with FAS, schools and other partners to cater to its developmental and competitive programmes.
 

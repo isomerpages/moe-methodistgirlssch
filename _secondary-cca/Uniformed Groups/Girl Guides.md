@@ -9,11 +9,11 @@ As part of the international sisterhood of Girl Guides, the [MG Girl Guides](htt
 
 In Guiding at MG, Guides are empowered through fun and challenging programmes, and unique experiences, adventures and activities. The CCA offer opportunities for girls to get involved in different communities, equipping them to make a lasting positive impact by helping others.
 
-![](/images/Sec_cca/girl%20guides.png)
+![](/images/Sec_cca/girl-guides-a-2020.png)
 
 The Guides also develop a deep sense of confidence and self-assurance, along with vital leadership and life skills – all while learning through fun adventures and making lifelong friendships!&nbsp;
 
-![](/images/Sec_cca/girl%20guides%201.png)
+![](/images/Sec_cca/girl-guides-b-2020.png)
 
 The Guiding programme teaches girls vital life skills – such as personal goal-setting, decision-making and team-building – in a safe and supportive environment. Girl Guides build and strengthen their leadership skills by taking the lead in Unit and Patrol activities, learning to organise events, and teaching each other and younger girls new skills.
 

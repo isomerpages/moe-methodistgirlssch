@@ -9,7 +9,7 @@ The [Guitar Ensemble](https://www.youtube.com/watch?v=Myft1jnWgXM) aims to enhan
 
 The CCA grows its members to showcase the MGS values of Godliness, Excellence and Love. Through practice sessions, members learn new techniques and hone their skills, as well as strengthen the camaraderie among themselves. The character of the MGS girl is also honed as she develops meaningful working relationships and establishes enduring rapport with her fellow CCA members.
 
-![](/images/Sec_cca/guitar-ensemble.jpg)
+![](/images/Sec_cca/guitar-ensemble-2020.jpg)
 
 In Guitar Ensemble, members enjoy many opportunities to gain new skills and valuable insights from the events it takes part in. Biennially, the ensemble participates in the Singapore Youth Festival (SYF) Arts Presentation. In preparation for its SYF presentation, the CCA organizes Guitar Ensemble Exchange Programmes with other guitar ensembles from different secondary schools and higher institutions, to deepen the members’ passion for and appreciation of the art of guitar-playing.
 

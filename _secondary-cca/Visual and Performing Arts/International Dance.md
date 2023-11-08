@@ -16,7 +16,7 @@ International Dance Club is a close-knit loving family of dancers who sets high 
 
 With a structured intensive programme that teaches skills, improvisation techniques and choreography, MG dancers develop resilience and creativity through collaborative events and performances. “One Breath, One Dance, One Family” is the vision to forge lasting friendships and inspire a lifelong enthusiasm for dance.
 
-![](/images/Sec_cca/international-dance-club.jpg)
+![International Dance 2023](/images/Sec_cca/international%20dance%202023.jpg)
 
 International Dance Club is dedicated to continuously pushing boundaries and grooming the finest dancers. Beyond the biennial SYF Arts Presentation and annual participation in the school’s Open House and Teachers’ Day Celebrations, the CCA’s signature biennial Dance Night is the hallmark of each member’s co-curricular experience. It is a time of bringing forth their best choreography pieces together with their alumni, and reaching out to the wider audience through dance. There are also various opportunities for external performances to connect to the community and learn from others.
 
