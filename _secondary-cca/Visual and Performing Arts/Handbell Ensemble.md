@@ -45,7 +45,9 @@ Every year, the Handbell Ensemble&nbsp;offers an accreditation opportunity to al
 * London College of Music (LCM) Handbell Ensemble Level 5 - Certificate of Distinction  <br>
 * Extraordinary People (EPL) Concert @ National University Singapore Culture Centre
 
+
 ## Leadership Opportunities
+
 **President / Vice-President: ** 
 - Organise and take charge of self-practice sessions together
 - Coach and develop the juniors in the Handbell committee in their leadership skills  
@@ -71,6 +73,7 @@ Every year, the Handbell Ensemble&nbsp;offers an accreditation opportunity to al
 - Train and lead the self-practice sessions  
 - Do note assignments  
 - Work with the Instructor and teachers on the weekly training program
+
 
 ## CCA Schedule
 * Days: Monday &amp; Wednesday  
