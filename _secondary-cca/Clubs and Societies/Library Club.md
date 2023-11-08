@@ -10,7 +10,6 @@ variant: markdown
   </iframe>
 </div>
 
-
 The MGS Library Club aims to develop student librarians to lead and to spark the joy in reading amongst their peers. Student librarians plan and organise book-related activities to develop and sustain the love and appreciation for a diverse range of literary genres. The newly revamped MGS Library provides a dynamic and supportive setting for exploratory learning and the student librarians manage and maintain it so as to provide a stimulating and conducive environment for our students’ pleasurable learning and innovation. While doing so, The Library Club also nurtures her members to be passionate and effective reading ambassadors who are also discriminating users of information and resourceful knowledge managers.
 
 ![](/images/Sec_cca/library-2020.jpg)
