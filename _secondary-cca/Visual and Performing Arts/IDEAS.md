@@ -16,7 +16,6 @@ variant: markdown
 
 [IDEAS (Innovation.Design.Entrepreneurship.Art.for Society)](https://youtu.be/Kr4scKttbMo) provides opportunities for students to develop innovative, critical thinking and entrepreneurial skills through various forms of visual art mediums. Through a comprehensive and well-rounded programme, community projects, and competitions, we aim to develop students holistically in areas of leadership, arts appreciation and various 21st century skills such as collaboration, communication and creativity.
  
-
 IDEAS provides a platform for students to showcase their artistic talents in various art competitions such as the Live-on Design Competition and YellowRen, with members clinching multiple accolades; as well as community projects such as the Singapore General Hospital Arts Expression Wall, SOTA Art Exhibition, PassionArts and Art Lab Programme. The CCA has also contributed its expertise and skills to many school projects such as props production for the MGS Musical, the aesthetics for the Art Gallery, and MGS Founder's Day decor. Members have had the opportunity to hone their entrepreneurial skills through selling handmade products at public platforms, being involved in the making of products, merchandise display, pricing, marketing and selling process.
 
 ![](/images/Sec_cca/ideas%202021.jpg)
