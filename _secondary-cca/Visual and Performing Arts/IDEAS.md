@@ -7,7 +7,6 @@ variant: markdown
 ---
 <img src="/images/Sec_cca/ideas-logo.png" align="right" style="width:40%">
 
-
 **Motto**&nbsp;: Value All Creation
 
 **Vision**&nbsp;: Inspiring girls to be Creative, Responsible, Enthusiastic, Ambitious, Tenacious and Enterprising
@@ -18,7 +17,9 @@ variant: markdown
  
 IDEAS provides a platform for students to showcase their artistic talents in various art competitions such as the Live-on Design Competition and YellowRen, with members clinching multiple accolades; as well as community projects such as the Singapore General Hospital Arts Expression Wall, SOTA Art Exhibition, PassionArts and Art Lab Programme. The CCA has also contributed its expertise and skills to many school projects such as props production for the MGS Musical, the aesthetics for the Art Gallery, and MGS Founder's Day decor. Members have had the opportunity to hone their entrepreneurial skills through selling handmade products at public platforms, being involved in the making of products, merchandise display, pricing, marketing and selling process.
 
-![](/images/Sec_cca/ideas%202021.jpg)
+<div style="width:100%; height:470px">
+	<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRQ-Vh29Yik0T3kmKghTh-1P2zRqkQAeCqZg5IKpTY72aVBrTr35cz9fxoitn_6reBuw92ET8mf18Nf/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="100%" height="100%" allowfullscreen="true"></iframe>
+</div>
 
 ## eBox Cafe
 
