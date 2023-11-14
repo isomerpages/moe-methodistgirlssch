@@ -26,6 +26,7 @@ The students will sit for and attain one of the following certifications:
 | Sec 2     | Performance Arts     | 6     |
 | Sec 3     | Group Drama - Scripts     | 7     |
 
+
 ## Leadership Opportunities
 
 * **President**: She provides leadership and direction to the committee. She is responsible for ensuring that the committee fulfils its responsibilities for success.
