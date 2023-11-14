@@ -5,17 +5,14 @@ description: ""
 third_nav_title: Sports
 variant: markdown
 ---
-<div style="width:100%; height:400px">
-  <iframe class="ive_eobj_center" allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/5vyG-tuJXuA" height="100%" width="100%">
-  </iframe>
-</div>
-
-
 The MGS Swim Team consists of a group of talented swimmers who have consistently excelled at National Schools competitions as well as local and overseas meets. The CCA provides opportunities for members to develop strong school and team spirit, and instils values such as perseverance, discipline, teamwork and good sportsmanship.
 
 Every member of the MGS Swim Team commits to many hours of training throughout the year. Each is a valued team member who strives for excellence, consistently achieving the top 3 positions in the National Schools Games team Championship every year.
 
-![](/images/Sec_cca/swimming-2020.jpg)
+<div style="width:100%; height:470px">
+	<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR-hKhm2aHKCH_N9N4yf1wptVku4E4WtLkPtHyy4vgFP_VT0OfcH6DaLC0NsULyrzs523TM1I0HTwb2/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="100%" height="100%" allowfullscreen="true"></iframe>
+</div>
+
 
 The Club was started in 2017 when the swimming pool was built. The dedicated and enthusiastic members participate in CCA sessions regularly, building strong bonds and improving their swimming skills at the same time.
 
