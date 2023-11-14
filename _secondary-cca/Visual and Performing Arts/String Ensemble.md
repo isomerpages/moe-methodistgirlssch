@@ -12,39 +12,31 @@ variant: markdown
   </iframe>
 </div>
 
-The MGS String Ensemble brings together like-minded individuals with a passion for music-making. The CCA strives to develop in its members musical skills of detailed listening, awareness of blend and colour and ensemble coordination. Through performances, competitions, collaborations and string exchanges, String Ensemble hones the character of the MGS girl and seeks to develop values of responsibility, resilience and empathy. The CCA also aims to share its music with the community, and to make a difference to the lives of others.
+The MGS String ensemble is dedicated to fostering a musical community where everyone has a shared love for music. This is achieved by the strong sense of pride and excellence within the CCA. In 2023, the CCA has placed a significant emphasis on empowering each member to contribute and take on leadership roles, while instilling a strong sense of belonging and responsibility. Aiming to provide members with a fulfilling and enriching experience, String ensemble has collaborated with various organizations, performed at different concerts, and participated in the schools newly launched Intergenerational learning (IGL) events including, mentoring the elderly.  
 
-![](/images/Sec_cca/string-ensemble-2020.jpg)
+<div style="width:100%; height:470px">
+	<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQV4tzHzwfrs1lYGUD2Bg8VUoMxajiZDWzNPu55Tdpqu0Ty2u9CGUbKYx39IC3av9yE20majsmKTdhd/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="100%" height="100%" allowfullscreen="true"></iframe>
+</div>
 
-The CCA experience for members have included:
+## Events and awards: 
 
-*   School Performances (Performing Arts Night, Founder’s Day, Student Leaders’ Prefects Installation, Open House)
-*   External Performances:
-    *   2019 SPD Charity Show performance
-    *   SYF Celebrations - Illuminate! performance
-*   Collaborations with other schools (Dazhong Primary School Junior Orchestra), opportunities to mentor students
-*   String exchanges – 2019 MGXAC with ACS (Independent) and ACJC
-*   Community VIA
-*   Opportunities to take part in Internal and External performances and competitions for both Tutti and Chamber groups
-*   String masterclass
+1. School Performances (Chinese New Year Celebration, Founder’s Day, Student Leaders’ Prefects Installation, Open House, CCA Fair, MGS Sunday, Methodist Long Service Awards)
 
-**2019 Accolades and Achievements**
+2. External performances 
+* Singapore Youth festival (SYF) — attained Certificate of Distinction 
+* Global Strings federation (GSF): Opening orchestra showcase at Yong Siew Toh Conservatory of Music
+* 9th Singapore Raffles International Music Festival (SRIMF) — attained Gold and Silver (Chamber music category) 
+* 2023 Sustainable Christmas Market performance at South Beach 
 
-*   Singapore Youth Festival Arts Presentation - Distinction (String Ensemble)
-*   6th Singapore Raffles International Music Festival (SRIMF) - Gold with Honours (Chamber Music)
-*   3rd Brilliant Talent Discovery Awards International Music Competition - Gold (Chamber Music)
-*   Mandeville Music Festival - Gold (Medallion Category)
-*   Winner of SNYO Concerto Competition 2019 and Performance of Mendelssohn's Violin Concerto with SNYO - Alyssa Goh Hui Yi, 4O
-*   Mediacorp Young Talents Project 2019 - Foong Shu Yan Ashley, 1M, Finalist (Senior Category)
+3. Collaborations 
+* GSF local school exchange with Pui Ching Middle School and Taipei Philharmonic Youth Ensemble 
+* 2023 MGXAC with ACS (Independent) and ACJC
 
-  
+4. 2023 string ensemble March camp 
 
-**2020 Performances and Activities**
+5. Strings Masterclass with Mr Gabriel Lee 
 
-*   Violin masterclass by alumnae Mathea Goh&nbsp;
-*   String workshop by re:SOUND artist Pavlo Beznosiuk
-*   Online Mentoring – Dazhong Primary Junior Orchestra, MGS Primary String Ensemble&nbsp;
-*   VIA - Virtual ensemble ‘In God we Trust’, Christmas Carolling virtual ensemble with Choir
+6. Intergenerational learning (IGL) Strings programme 
 
 
 ## Leadership Opportunities
