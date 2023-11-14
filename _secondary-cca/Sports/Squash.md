@@ -15,7 +15,7 @@ The CCA aims to cultivate in our girls a passion for squash and enable them to m
 Through CCA activities such as our weekly training sessions, friendly matches, sparring with coaches and competing in National School Games, Squash hones the character of the MGS girl through each training session and match, cultivating in them resilience, respect, and responsibility.
 
 <div style="width:100%; height:470px">
-	<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTwaSVO5Y0FOQpB0QSd6ClYBXSXPWkMv4cLDXT-5lnTJRnYZWNcxenLGJ4sNent01PZ1PCi0U-pZFB0/embed?start=true&amp;loop=true&amp;delayms=300" frameborder="0" width="100%" height="100%" allowfullscreen="true"></iframe>
+	<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTwaSVO5Y0FOQpB0QSd6ClYBXSXPWkMv4cLDXT-5lnTJRnYZWNcxenLGJ4sNent01PZ1PCi0U-pZFB0/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="100%" height="100%" allowfullscreen="true"></iframe>
 </div>
 
 In squash, members strive for continual improvement as a cohesive unit. The sport teaches members the importance of not only fitness and perseverance in the court, but also how friendship, determination and positivity are essential for success in all endeavours. The benefits of squash extend to the academic realm: the mental focus necessary in a match is applicable to academic studies.
