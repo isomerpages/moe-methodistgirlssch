@@ -7,7 +7,9 @@ variant: markdown
 ---
 [Indian Dance Club](https://youtu.be/DQJEc-emvvs) is a group of passionate dancers who seek to preserve and promote classical and folk Indian dance. From the colourful and enthralling Bharatanatyam and Kathak classical dance forms to the popular Bollywood genre, MGS Indian dancers’ high energy and sophisticated performances have always captivated their audience. Poised to share a love for culture and heritage through the mastery of body movements, facial expressions and teamwork, MG Indian dancers cultivate values of discipline and perseverance and build strong friendships.
 
-![](/images/Sec_cca/indian-dance-2020.jpg)
+<div style="width:100%; height:470px">
+	<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS-tIitVB4rWYwsdjpNiTWOxMGjYqzp-nrwEl6OuHXGF7pF7J7Ztv0kIgqgdmu5be3rbhoU1shCORm9/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="100%" height="100%" allowfullscreen="true"></iframe>
+</div>
 
 Known for its active participation in both internal and external community performances and consistently showcasing excellent performances in the biennial SYF Arts Presentation, MG Indian dancers play a big role in inspiring and developing an appreciation for classical dance.
 
