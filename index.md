@@ -27,4 +27,11 @@ sections:
       url: /community/parents/letterstoparents/
       image: /images/Highlights/letters-to-parents.jpg
       alt: letter to parents
+  - infopic:
+      title: Get official answers from our Q&A Platform
+      subtitle: HAVE A QUESTION?
+      id: infopic
+      button: VIEW OR ASK QUESTIONS ON ASK.GOV
+      url: https://ask.gov.sg/mgs
+      image: /images/mgs_askgov.png
 ---
