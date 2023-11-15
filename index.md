@@ -34,4 +34,5 @@ sections:
       button: VIEW OR ASK QUESTIONS ON ASK.GOV
       url: https://ask.gov.sg/mgs
       image: /images/mgs_askgov.png
+      alt: askMGS imahe
 ---
