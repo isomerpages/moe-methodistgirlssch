@@ -14,7 +14,9 @@ SALT Club aims to help our members’ spiritual growth and enable them to deepen
 
 Its philosophy is to bring God’s word to people we meet, by providing opportunities for them to learn about Christ, and helping others to grow spiritually in the likeness of Christ.
 
-![](/images/Sec_cca/salt-2020.jpg)
+<div style="width:100%; height:470px">
+	<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRHGB7ACYIKOABSlsLdzd-lE-EDNvu0yKOWMHnv0S2qF5PGw7BDFUChMGZphxyEI4CiBDkP8O3ZlHcB/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="100%" height="100%" allowfullscreen="true"></iframe>
+</div>
 
 SALT Club provides a platform for members to grow spiritually and emotionally by seeking solace in and being deep rooted in God’s word. The CCA also develops members’ leadership competencies and skills as they organise worship sessions, bible studies and VIA sessions. Through these sessions, SALT Club inculcate values of respect, responsibility, care, empathy and humility in its members.
 
@@ -43,4 +45,3 @@ Each year, the CCA visits the Methodist Welfare Services Nursing Home at Yew Tee
 * Day: Wednesday 
 * Time: 3.00pm to 5.30pm 
 * Venue: Teaching Lab (L1 Sports Complex)
-
