@@ -10,8 +10,6 @@ variant: markdown
   
 You may click&nbsp;[here](https://drive.google.com/drive/folders/1MOzuEpvSXwpfPKZuEyF5VhxybNA6Mt0p?usp=drive_link)&nbsp;to access the&nbsp;**MGS Primary booklist for 2024**.
 
-*Do note that the booklist for&nbsp;**P2 to P6**&nbsp;will be uploaded at a later date.*
-
 
 ### Pacific Bookstores
 
