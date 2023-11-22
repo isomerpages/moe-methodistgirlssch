@@ -7,7 +7,7 @@ variant: markdown
 ---
 ### For local students transferring from another local school
 
-Application window is from **Aug to 30th Sep**.  
+Application window is from **1st Aug to 30th Sep**.  
 
 Interested applicants should complete the online application between Aug to 30 Sep (click [here](https://form.gov.sg/6475923ede54e50012ba8fad)) and submit supporting documents via the attachment section provided in the form (i.e past year results, Semester 1 HDP report book slip, if any).  
 
