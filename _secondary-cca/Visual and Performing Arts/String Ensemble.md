@@ -54,5 +54,5 @@ The MGS String ensemble is dedicated to fostering a musical community where ever
 
 ## CCA Schedule
 * Venue: MEP 2
-* Wednesday: 3.15pm – 6.15pm
-* Friday: 3pm – 6pm
+* Monday: 3-6 pm
+* Wednesday: 3-6 pm
