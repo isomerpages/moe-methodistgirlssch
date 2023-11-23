@@ -3,14 +3,15 @@ title: Secondary School
 permalink: /admissions/fas-sec/
 description: ""
 third_nav_title: Financial Assistance Scheme
+variant: markdown
 ---
-## Financial Assistance & Scholarships
+## Financial Assistance &amp; Scholarships
 
 In MGS, we seek to give every girl a meaningful schooling experience and to help her to MASTER to GROW and to SERVE in every phase of her life. The school has put in place comprehensive financial assistance schemes such as the MOE Independent School Bursary (ISB), school-administered scholarships and bursaries to help students with financial need to reach their full potential for service and contribution beyond the school community.
 
 School-administered financial aid, depending on the level of subsidy, besides school fees, may include subsidies for enrichment programme fees, co-curricular activities (CCA) co-payment fees and compulsory level-wide school activities.
  
-Students who require financial aid at any point of time may approach [student_affairs@mgs.sch.edu.sg](mailto:student_affairs@mgs.sch.edu.sg) / Finance Office (Level 1) directly or through their Form Teacher for assistance.
+Students who require financial aid at any point of time may approach&nbsp;[student_affairs@mgs.sch.edu.sg](mailto:student_affairs@mgs.sch.edu.sg)&nbsp;/ Finance Office (Level 1) directly or through their Form Teacher for assistance.
 
 ### MOE INDEPENDENT SCHOOL BURSARY (MOE-ISB)
 
@@ -19,7 +20,7 @@ Students who require financial aid at any point of time may approach [student_a
 *   Student must be a Singapore Citizen
 *   Either the monthly Gross household income must meet one of the income criteria, Gross Household Income (GHI) or the Per Capita Income (PCI) criterion must be satisfied
 
-#### Income Criteria & Benefits
+#### Income Criteria &amp; Benefits
 
 From 1 Jan 2023 the revised benefits are as shown in the table below:
 
@@ -77,11 +78,11 @@ From 1 Jan 2023 the revised benefits are as shown in the table below:
 				
 *   Free textbooks and school attire at Secondary level      
 				
-*   $17 transport subsidy per month, capped at $204 per annum (for students taking public transport) <sup>2</sup>
+*   $17 transport subsidy per month, capped at $204 per annum (for students taking public transport)&nbsp;<sup>2</sup>
 				
 *   School meal subsidies of $3.50 per meal for 10 meals per school week
 				
-				*   Full subsidy for exam fees <sup>1</sup></td>
+				*   Full subsidy for exam fees&nbsp;<sup>1</sup></td>
     </tr>
     <tr>
       <td class="tg-mppl">$3,001 - $4,400 </td>
@@ -121,7 +122,7 @@ With effect from 2019, active recipients of ComCare assistance could be directly
 
 All MOE-ISB approved will be valid till December of the year. Fresh applications will have to be submitted for each academic year.
 
-[Click here for ISB Application Form 2022](https://drive.google.com/file/d/1lx38lkPmHDvrH9u54KE_w7rOS-OeDGMe/view?usp=sharing).
+[Click here for ISB Application Form](https://drive.google.com/file/d/1lx38lkPmHDvrH9u54KE_w7rOS-OeDGMe/view?usp=drive_link).
 
 
 ### Edusave Scholarships for Independent Schools (ESIS)
@@ -132,14 +133,14 @@ These scholarships are offered to academically strong students attending indepen
 *   ESIS (Y3)
 *   ESIS (Yearly Award)
 
-[Click here for more information](https://www.moe.gov.sg/financial-matters/awards-scholarships/edusave-scholarships-independent) .
+[Click&nbsp;here&nbsp;for more information](https://www.moe.gov.sg/financial-matters/awards-scholarships/edusave-scholarships-independent)&nbsp;.
 
 ### Music Elective Programme (MEP)
 
 Students of all nationalities who are admitted into the MEP within an Independent School are eligible for a fee subsidy up to a cap of $2400 per student per year.  
   
 
-[Click here for more information](https://www.moe.gov.sg/education-in-sg/our-programmes/mep-sec/where-to-take-it#:~:text=MEP%20students%20do%20not%20need,of%20%242%2C400%20per%20student%20yearly.).
+[Click&nbsp;here&nbsp;for more information](https://www.moe.gov.sg/education-in-sg/our-programmes/mep-sec/where-to-take-it#:~:text=MEP%20students%20do%20not%20need,of%20%242%2C400%20per%20student%20yearly.).
 
 ### MOE UPLIFT Scholarship
 
@@ -153,4 +154,4 @@ The UPLIFT Scholarship is awarded to students who are:
 
 ISB recipients receiving 100% fee subsidy will be auto-awarded the UPLIFT Scholarship.
 
-[Click here for more information](https://www.moe.gov.sg/financial-matters/awards-scholarships/uplift-scholarships) .
+[Click here for more information](https://www.moe.gov.sg/financial-matters/awards-scholarships/uplift-scholarships)&nbsp;.
