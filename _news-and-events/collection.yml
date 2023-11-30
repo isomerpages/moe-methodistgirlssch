@@ -2,5 +2,6 @@ collections:
   news-and-events:
     output: true
     order:
+      - MGS Welcomes You.md
       - Calendar of Events.md
       - Publications.md
