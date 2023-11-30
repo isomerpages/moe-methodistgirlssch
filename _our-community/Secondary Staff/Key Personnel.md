@@ -5,35 +5,7 @@ description: ""
 third_nav_title: Secondary Staff
 variant: markdown
 ---
-<style type="text/css">
-.tg {
-    color: #3D3D3D;
-    padding: 10px 5px;
-    text-align: left;
-    width: 100%;
-}
-.tg td {
-    overflow: hidden;
-    word-break: normal;
-}
-.tg th {
-    color: #3D3D3D;
-    font-weight: bold;
-}
-.tg .tr-norm {
-    vertical-align: top;
-    width: 60%;
-}
-.tg .tr-header {
-    text-align: left;
-    font-weight: bold;
-    vertical-align: top;
-    width: 50%;
-}
-</style>
-
 ### DEAN
-
 | | |
 | --- | --- |
 | Academic Studies | [Ms Choo Siew Bee](mailto:choo_siew_bee@schools.gov.sg) |
@@ -41,7 +13,6 @@ variant: markdown
 
 
 ### DEPARTMENT HEADS
-
 | | |
 | --- | --- |
 | Aesthetics | [Mrs Natasha Tay](mailto:sophia_natasha_wei_junhao@schools.gov.sg) |
@@ -60,7 +31,6 @@ variant: markdown
 
 
 ### TEACHER LEADERS
-
 | | |
 | --- | --- |
 | Lead Teacher (History) | [Mrs Doreen Ang](mailto:lim_li_huang_doreen@schools.gov.sg) |
@@ -72,7 +42,6 @@ variant: markdown
 
 
 ### SUBJECT HEADS
-
 | | |
 | --- | --- |
 | Character and Citizenship Education | [Mrs Joy Goh](mailto:joy_sim@schools.gov.sg) |
@@ -90,8 +59,8 @@ variant: markdown
 | Student Leadership / Prefect Mistress | [Mrs Chen Kok Peng](mailto:chen_kok_peng@schools.gov.sg) |
 | | |
 
-### YEAR HEADS (YH) AND ASSISTANT YEAR HEADS (AYH)
 
+### YEAR HEADS (YH) AND ASSISTANT YEAR HEADS (AYH)
 | | |
 | --- | --- |
 | Secondary 1 YH | [Mrs Natalie Lim](mailto:natalie_chew@schools.gov.sg) |
@@ -104,8 +73,8 @@ variant: markdown
 | Secondary 4 AYH | [Mrs Catherine Cheong](mailto:catherine_cheong@schools.gov.sg) |
 | | |
 
-### PROGRAMME HEADS
 
+### PROGRAMME HEADS
 | | |
 | --- | --- |
 | Cyberwellness | [Mrs Serene Loh](mailto:boo_serene@schools.gov.sg) |
