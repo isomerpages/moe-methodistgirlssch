@@ -3,6 +3,7 @@ title: Direct School Admission for Secondary 1
 permalink: /secondary/admissions/dsa-sec1/
 description: ""
 third_nav_title: Secondary Admission
+variant: markdown
 ---
 ## DSA Interaction Tea Session
 
@@ -39,6 +40,6 @@ MGS invites Primary 6 students to participate in the 2023 DSA exercise. As MGS i
 10. Swimming
 11. Tennis
 
-[Download MGS DSA Application 2023.](/files/Secondary/mgs%20dsa%20application%202023.pdf)
+[Download MGS DSA Application 2023.](https://drive.google.com/file/d/1r2ZhnFYYa3IL-9E8uGnWXZoXprEoLuvG/view?usp=drive_link)
 
 ![](/images/Highlights/pic-dsa.jpg)
