@@ -17,9 +17,7 @@ variant: markdown
 
 ### DEPARTMENT HEADS
 
-| Column 1 | Column 2 | 
-| -------- | -------- |
-| Text     | Text     |
+
 
 
 |     |     | 
