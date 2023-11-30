@@ -6,13 +6,6 @@ third_nav_title: Secondary Staff
 variant: markdown
 ---
 ### DEAN
-
-| Column 1 | Column 2 |
-| -------- | -------- | 
-| Text     | Text     | 
-
-
-
 | | |
 | -------- | -------- |
 | Academic Studies | [Ms Choo Siew Bee](mailto:choo_siew_bee@schools.gov.sg) |
@@ -35,6 +28,7 @@ variant: markdown
 | Science | [Mr Liu Heok Hing](mailto:liu_heok_hing@schools.gov.sg) |
 | Student Management &amp; Well-Being | [Ms Ho Wai Mun](mailto:ho_wai_mun@schools.gov.sg) |
 | | |
+
 
 
 ### TEACHER LEADERS
@@ -66,7 +60,6 @@ variant: markdown
 | Student Leadership / Prefect Mistress | [Mrs Chen Kok Peng](mailto:chen_kok_peng@schools.gov.sg) |
 | | |
 
-
 ### YEAR HEADS (YH) AND ASSISTANT YEAR HEADS (AYH)
 | | |
 | -------- | -------- |
@@ -79,7 +72,6 @@ variant: markdown
 | Secondary 4 YH | [Ms Carol Tay](mailto:carol_tay_dan_guey@schools.gov.sg)&nbsp; |
 | Secondary 4 AYH | [Mrs Catherine Cheong](mailto:catherine_cheong@schools.gov.sg) |
 | | |
-
 
 ### PROGRAMME HEADS
 | | |
