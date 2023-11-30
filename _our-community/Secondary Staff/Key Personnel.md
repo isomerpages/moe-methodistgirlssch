@@ -12,9 +12,6 @@ variant: markdown
 | Academic Studies     | [Ms Choo Siew Bee](mailto:choo_siew_bee@schools.gov.sg)     |
 |     |     | 
 
-|     |     | 
-| -------- | -------- | 
-| Text     | Text     | 
 
 
 
