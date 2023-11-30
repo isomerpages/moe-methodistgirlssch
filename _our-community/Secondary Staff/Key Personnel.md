@@ -6,9 +6,16 @@ third_nav_title: Secondary Staff
 variant: markdown
 ---
 ### DEAN
+
+
+|   |  | 
+| -------- | -------- | 
+| Text     | Text     | 
+
+
 | 1 | |
 | -------- | -------- |
-| Academic Studies | [Ms Choo Siew Bee](mailto:choo_siew_bee@schools.gov.sg) |
+| Academic Studies     | [Ms Choo Siew Bee](mailto:choo_siew_bee@schools.gov.sg)     |
 | | |
 
 
