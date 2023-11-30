@@ -2,6 +2,7 @@ collections:
   news-and-events:
     output: true
     order:
+      - Open House/DSA Talent Areas.md
       - Open House/.keep
       - Sharing Sessions.md
       - Student Voices.md
