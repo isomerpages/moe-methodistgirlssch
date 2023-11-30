@@ -16,6 +16,12 @@ variant: markdown
 
 
 ### DEPARTMENT HEADS
+
+| Column 1 | Column 2 | 
+| -------- | -------- |
+| Text     | Text     |
+
+
 |     |     | 
 | -------- | -------- | 
 | Aesthetics | [Mrs Natasha Tay](mailto:sophia_natasha_wei_junhao@schools.gov.sg) |
