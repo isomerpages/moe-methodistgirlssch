@@ -6,15 +6,22 @@ third_nav_title: Secondary Staff
 variant: markdown
 ---
 ### DEAN
+
+| Column 1 | Column 2 |
+| -------- | -------- | 
+| Text     | Text     | 
+
+
+
 | | |
-| --- | --- |
+| -------- | -------- |
 | Academic Studies | [Ms Choo Siew Bee](mailto:choo_siew_bee@schools.gov.sg) |
 | | |
 
 
 ### DEPARTMENT HEADS
 | | |
-| --- | --- |
+| -------- | -------- |
 | Aesthetics | [Mrs Natasha Tay](mailto:sophia_natasha_wei_junhao@schools.gov.sg) |
 | Character and Citizenship Education | [Mrs Marilyn Ng](mailto:lau_lilin_marilyn@schools.gov.sg) |
 | Educational Technology | [Mr Kenneth Soh](mailto:soh_chen_wai_kenneth@schools.gov.sg) |
@@ -32,7 +39,7 @@ variant: markdown
 
 ### TEACHER LEADERS
 | | |
-| --- | --- |
+| -------- | -------- |
 | Lead Teacher (History) | [Mrs Doreen Ang](mailto:lim_li_huang_doreen@schools.gov.sg) |
 | Senior Teacher (Character and Citizenship Education) | [Mr Christopher Ow](mailto:ow_chee_keong_christopher@schools.gov.sg) |
 | Senior Teacher (Chemistry) | [Mr David Loh](mailto:loh_jee_yong_david@schools.gov.sg) |
@@ -43,7 +50,7 @@ variant: markdown
 
 ### SUBJECT HEADS
 | | |
-| --- | --- |
+| -------- | -------- |
 | Character and Citizenship Education | [Mrs Joy Goh](mailto:joy_sim@schools.gov.sg) |
 | Community Education | [Mr Dennis Auyang](mailto:auyang_seh_hon_dennis@schools.gov.sg) |
 | Education and Career Guidance | [Ms Kek Lay Yan](mailto:kek_lay_yan@schools.gov.sg) |
@@ -62,7 +69,7 @@ variant: markdown
 
 ### YEAR HEADS (YH) AND ASSISTANT YEAR HEADS (AYH)
 | | |
-| --- | --- |
+| -------- | -------- |
 | Secondary 1 YH | [Mrs Natalie Lim](mailto:natalie_chew@schools.gov.sg) |
 | Secondary 1 AYH | [Mrs Grace Wong](mailto:grace_yeo_hui_ling@schools.gov.sg) |
 | Secondary 2 YH | [Mrs Sally E](mailto:pang_sally@schools.gov.sg)&nbsp; |
@@ -76,7 +83,7 @@ variant: markdown
 
 ### PROGRAMME HEADS
 | | |
-| --- | --- |
+| -------- | -------- |
 | Cyberwellness | [Mrs Serene Loh](mailto:boo_serene@schools.gov.sg) |
 | Citizenship Education | [Mrs Joy Goh](mailto:joy_sim@schools.gov.sg)[](mailto:janine_sarah_poon@schools.gov.sg) |
 | House Leadership | [Ms Nadia Ibrahim](mailto:nadia_dahak_ibrahim@schools.gov.sg) |
