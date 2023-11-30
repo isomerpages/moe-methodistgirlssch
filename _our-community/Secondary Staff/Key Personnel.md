@@ -104,32 +104,12 @@ variant: markdown
 | Secondary 4 AYH | [Mrs Catherine Cheong](mailto:catherine_cheong@schools.gov.sg) |
 | | |
 
-
 ### PROGRAMME HEADS
 
-<table class="tg">
-  <thead>
-    <tr>
-      <th class="tr-header">Cyberwellness</th>
-      <td class="tr-norm"><a href="mailto:boo_serene@schools.gov.sg">Mrs Serene Loh</a></td>
-    </tr>
-    <tr>
-      <th class="tr-header">Citizenship Education</th>
-      <td class="tr-norm"><a href="mailto:joy_sim@schools.gov.sg">Mrs Joy Goh</a><a href="mailto:janine_sarah_poon@schools.gov.sg"></a></td>
-    </tr>
-    <tr>
-      <th class="tr-header">House Leadership</th>
-      <td class="tr-norm"><a href="mailto:nadia_dahak_ibrahim@schools.gov.sg">Ms Nadia Ibrahim</a></td>
-    </tr>
-    <tr>
-      <th class="tr-header">Sexuality Education</th>
-      <td class="tr-norm"><a href="mailto:catherine_cheong@schools.gov.sg">Mrs Catherine Cheong</a></td>
-    </tr>
-    <tr>
-      <th class="tr-header">Values in Education</th>
-      <td class="tr-norm"><a href="mailto:tay_hui_ping@schools.gov.sg" target="">Ms Tay Hui Ping</a></td>
-    </tr>
-  </thead>
-  <tbody>
-  </tbody>
-</table>
+| | |
+| Cyberwellness | [Mrs Serene Loh](mailto:boo_serene@schools.gov.sg) |
+| Citizenship Education | [Mrs Joy Goh](mailto:joy_sim@schools.gov.sg)[](mailto:janine_sarah_poon@schools.gov.sg) |
+| House Leadership | [Ms Nadia Ibrahim](mailto:nadia_dahak_ibrahim@schools.gov.sg) |
+| Sexuality Education | [Mrs Catherine Cheong](mailto:catherine_cheong@schools.gov.sg) |
+| Values in Education | [Ms Tay Hui Ping](mailto:tay_hui_ping@schools.gov.sg) |
+| | |
