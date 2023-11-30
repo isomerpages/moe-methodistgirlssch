@@ -27,12 +27,7 @@ All parents in MGS are automatically part of the school’s parent support group
 
 ### 2023 ParentLink Committee
 
-| Column 1 | Column 2 |
-| -------- | -------- | 
-| Text     | Text     | 
-
-
-| 1 | |
+|     |     |
 | -------- | -------- |
 | Ex- officio Advisors: | Mrs Valarie Wilson <br>Mrs Diana Goh <br> Mrs Koh Chern Ee |
 | Chairperson | Mrs Dana Magnus |
@@ -40,3 +35,7 @@ All parents in MGS are automatically part of the school’s parent support group
 | Parent Liaison: | Mr Ernest Teo    <br> Mrs Andrea Friedman    <br> Ms Doreen Teo |
 | Alumnae Liaison: | Ms Lynn Lee |
 | Members: | Mrs Bow Yuen    <br> Ms Janelyn Yeo    <br> Mrs Joanne Chee    <br> Mr Keira Singh    <br> Mr Lionel Lim    <br> Ms Melody Lim    <br> Ms Ng Lin-Li |
+
+| Column 1 | Column 2 |
+| -------- | -------- | 
+| Text     | Text     | 
