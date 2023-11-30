@@ -36,6 +36,3 @@ All parents in MGS are automatically part of the school’s parent support group
 | Alumnae Liaison: | Ms Lynn Lee |
 | Members: | Mrs Bow Yuen    <br> Ms Janelyn Yeo    <br> Mrs Joanne Chee    <br> Mr Keira Singh    <br> Mr Lionel Lim    <br> Ms Melody Lim    <br> Ms Ng Lin-Li |
 
-| Column 1 | Column 2 |
-| -------- | -------- | 
-| Text     | Text     | 
