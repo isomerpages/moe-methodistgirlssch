@@ -1,9 +1,0 @@
-collections:
-  open-house:
-    output: true
-    order:
-      - MGS Welcomes You.md
-      - Programme.md
-      - Student Voices.md
-      - Sharing Sessions.md
-      - DSA Talent Areas.md

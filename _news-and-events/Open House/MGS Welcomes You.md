@@ -2,6 +2,7 @@
 title: MGS Welcomes You
 permalink: /news-and-events/mgsoh/
 description: ""
+third_nav_title: Open House
 ---
 ![](/images/Secondary/openhouse2023.png)
 

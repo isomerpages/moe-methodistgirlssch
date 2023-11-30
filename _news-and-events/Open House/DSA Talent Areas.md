@@ -2,6 +2,7 @@
 title: DSA Talent Areas
 permalink: /openhouse/dsa-talent-areas/
 description: ""
+third_nav_title: Open House
 ---
 DSA Application for Primary 6 students will begin in early May 2023. 
 
