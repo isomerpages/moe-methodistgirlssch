@@ -2,6 +2,7 @@ collections:
   news-and-events:
     output: true
     order:
+      - DSA Talent Areas.md
       - Sharing Sessions.md
       - Student Voices.md
       - Programme.md
