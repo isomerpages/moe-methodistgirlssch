@@ -35,6 +35,11 @@ variant: markdown
 
 
 ### TEACHER LEADERS
+
+| Column 1 | Column 2 |
+| -------- | -------- | 
+| Text     | Text     | 
+
 |     |     | 
 | -------- | -------- | 
 | Lead Teacher (History) | [Mrs Doreen Ang](mailto:lim_li_huang_doreen@schools.gov.sg) |
@@ -46,6 +51,11 @@ variant: markdown
 
 
 ### SUBJECT HEADS
+
+| Column 1 | Column 2 |
+| -------- | -------- | 
+| Text     | Text     | 
+
 |     |     | 
 | -------- | -------- | 
 | Character and Citizenship Education | [Mrs Joy Goh](mailto:joy_sim@schools.gov.sg) |
@@ -64,6 +74,11 @@ variant: markdown
 |     |     | 
 
 ### YEAR HEADS (YH) AND ASSISTANT YEAR HEADS (AYH)
+
+| Column 1 | Column 2 |
+| -------- | -------- | 
+| Text     | Text     | 
+
 |     |     | 
 | -------- | -------- | 
 | Secondary 1 YH | [Mrs Natalie Lim](mailto:natalie_chew@schools.gov.sg) |
@@ -77,6 +92,11 @@ variant: markdown
 |     |     | 
 
 ### PROGRAMME HEADS
+
+| Column 1 | Column 2 |
+| -------- | -------- | 
+| Text     | Text     | 
+
 |     |     | 
 | -------- | -------- | 
 | Cyberwellness | [Mrs Serene Loh](mailto:boo_serene@schools.gov.sg) |
