@@ -29,9 +29,8 @@ variant: markdown
 | Physical Education &amp; Co-Curricular Activities | [Mr Dan Ho](mailto:dan_ho@schools.gov.sg) |
 | School Staff Developer | [Ms Ivay Tan](mailto:tan_sin_yee_ivay@schools.gov.sg) |
 | Science | [Mr Liu Heok Hing](mailto:liu_heok_hing@schools.gov.sg) |
-| Student Management &amp; Well-Being | [Ms Ho Wai Mun](mailto:ho_wai_mun@schools.gov.sg) |
+| Student Management &amp; Well-Being | [Ms Ho Wai Mun](mailto:ho_wai_mun@schools.gov.sg)     |
 |     |     | 
-
 
 
 ### TEACHER LEADERS
