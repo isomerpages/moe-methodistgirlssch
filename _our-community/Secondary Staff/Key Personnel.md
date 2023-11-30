@@ -17,9 +17,6 @@ variant: markdown
 
 ### DEPARTMENT HEADS
 
-
-
-
 |     |     | 
 | -------- | -------- | 
 | Aesthetics | [Mrs Natasha Tay](mailto:sophia_natasha_wei_junhao@schools.gov.sg) |
