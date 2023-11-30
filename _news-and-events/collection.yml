@@ -2,6 +2,7 @@ collections:
   news-and-events:
     output: true
     order:
+      - Student Voices.md
       - Programme.md
       - MGS Welcomes You.md
       - Calendar of Events.md
