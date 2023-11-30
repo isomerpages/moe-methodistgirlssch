@@ -2,6 +2,7 @@ collections:
   news-and-events:
     output: true
     order:
+      - Sharing Sessions.md
       - Student Voices.md
       - Programme.md
       - MGS Welcomes You.md
