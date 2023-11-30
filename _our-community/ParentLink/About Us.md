@@ -26,7 +26,7 @@ All parents in MGS are automatically part of the school’s parent support group
   
 
 ### 2023 ParentLink Committee
-| | |
+| 1 | |
 | -------- | -------- |
 | Ex- officio Advisors: | Mrs Valarie Wilson <br>Mrs Diana Goh <br> Mrs Koh Chern Ee |
 | Chairperson | Mrs Dana Magnus |
