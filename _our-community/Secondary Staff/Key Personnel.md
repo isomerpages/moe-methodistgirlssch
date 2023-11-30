@@ -70,34 +70,25 @@ variant: markdown
 | Senior Teacher (Mathematics) | [Mrs Karen Chia](mailto:low_geok_lin_karen@schools.gov.sg) |
 | | |
 
-<table class="tg">
-  <thead>
-    <tr>
-      <th class="tr-header">Lead Teacher (History)</th>
-      <td class="tr-norm"><a href="mailto:lim_li_huang_doreen@schools.gov.sg">Mrs Doreen Ang</a></td>
-    </tr>
-    <tr>
-      <th class="tr-header">Senior Teacher (Character and Citizenship Education)</th>
-      <td class="tr-norm"><a href="mailto:ow_chee_keong_christopher@schools.gov.sg">Mr Christopher Ow</a></td>
-    </tr>
-    <tr>
-      <th class="tr-header">Senior Teacher (Chemistry)</th>
-      <td class="tr-norm"><a href="mailto:loh_jee_yong_david@schools.gov.sg">Mr David Loh</a></td>
-    </tr>
-    <tr>
-      <th class="tr-header">Senior Teacher (Language Arts)</th>
-      <td class="tr-norm"><a href="mailto:monica_bong@schools.gov.sg">Ms Monica Bong</a></td>
-    </tr>
-    <tr>
-      <th class="tr-header">Senior Teacher (Mathematics)</th>
-      <td class="tr-norm"><a href="mailto:low_geok_lin_karen@schools.gov.sg">Mrs Karen Chia</a></td>
-    </tr>
-  </thead>
-  <tbody>
-  </tbody>
-</table>
 
 ### SUBJECT HEADS
+
+| | |
+| --- | --- |
+| Character and Citizenship Education | [Mrs Joy Goh](mailto:joy_sim@schools.gov.sg) |
+| Community Education | [Mr Dennis Auyang](mailto:auyang_seh_hon_dennis@schools.gov.sg) |
+| Education and Career Guidance | [Ms Kek Lay Yan](mailto:kek_lay_yan@schools.gov.sg) |
+| Education Technology | [Mr Jay Cheong](mailto:jay_cheong_han_wen@schools.gov.sg) |
+| Humanities (Social Studies) | [Mr Terence Goh](mailto:goh_keng_lee_terence@mgs.sch.edu.sg) |
+| Integrated Programme | [Mrs Grace Poh](mailto:grace_poh@schools.gov.sg) |
+| Language Arts | [Mrs Chitra Thirumaran](mailto:chitra_thirumaran@schools.gov.sg) |
+| Mathematics | [Mrs Ruth Tan](mailto:ruth_tan@schools.gov.sg) |
+| Mother Tongue | [Mdm Chu Suat Bee](mailto:chu_suat_bee@schools.gov.sg) |
+| Music (MEP) | [Mrs Arlene Chan](mailto:low_siew_kheng_arlene@schools.gov.sg) |
+| Science (Biology) | [Mrs May Liow](mailto:phua_poh_eng@schools.gov.sg) |
+| Science (Chemistry) | [Mrs Tan Seot Cheng](mailto:lim_seot_cheng@schools.gov.sg) |
+| Student Leadership / Prefect Mistress | [Mrs Chen Kok Peng](mailto:chen_kok_peng@schools.gov.sg) |
+| | |
 
 <table class="tg">
   <thead>
