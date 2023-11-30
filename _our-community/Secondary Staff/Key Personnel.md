@@ -107,6 +107,7 @@ variant: markdown
 ### PROGRAMME HEADS
 
 | | |
+| --- | --- |
 | Cyberwellness | [Mrs Serene Loh](mailto:boo_serene@schools.gov.sg) |
 | Citizenship Education | [Mrs Joy Goh](mailto:joy_sim@schools.gov.sg)[](mailto:janine_sarah_poon@schools.gov.sg) |
 | House Leadership | [Ms Nadia Ibrahim](mailto:nadia_dahak_ibrahim@schools.gov.sg) |
