@@ -90,105 +90,20 @@ variant: markdown
 | Student Leadership / Prefect Mistress | [Mrs Chen Kok Peng](mailto:chen_kok_peng@schools.gov.sg) |
 | | |
 
-<table class="tg">
-  <thead>
-    <tr>
-      <th class="tr-header">Character and Citizenship Education</th>
-      <td class="tr-norm"><a href="mailto:joy_sim@schools.gov.sg">Mrs Joy Goh</a></td>
-    </tr>
-    <tr>
-      <th class="tr-header">Community Education</th>
-      <td class="tr-norm"><a href="mailto:auyang_seh_hon_dennis@schools.gov.sg">Mr Dennis Auyang</a></td>
-    </tr>
-    <tr>
-      <th class="tr-header"> Education and Career Guidance</th>
-      <td class="tr-norm"><a href="mailto:kek_lay_yan@schools.gov.sg">Ms Kek Lay Yan</a></td>
-    </tr>
-    <tr>
-      <th class="tr-header">Education Technology</th>
-      <td class="tr-norm"><a href="mailto:jay_cheong_han_wen@schools.gov.sg">Mr Jay Cheong</a></td>
-    </tr>
-    <tr>
-      <th class="tr-header">Humanities (Social Studies)</th>
-      <td class="tr-norm"><a href="mailto:goh_keng_lee_terence@mgs.sch.edu.sg">Mr Terence Goh</a></td>
-    </tr>
-    <tr>
-      <th class="tr-header">Integrated Programme</th>
-      <td class="tr-norm"><a href="mailto:grace_poh@schools.gov.sg">Mrs Grace Poh</a></td>
-    </tr>
-    <tr>
-      <th class="tr-header">Language Arts</th>
-      <td class="tr-norm"><a href="mailto:chitra_thirumaran@schools.gov.sg">Mrs Chitra Thirumaran</a></td>
-    </tr>
-    <tr>
-      <th class="tr-header">Mathematics</th>
-      <td class="tr-norm"><a href="mailto:ruth_tan@schools.gov.sg">Mrs Ruth Tan</a></td>
-    </tr>
-    <tr>
-      <th class="tr-header">Mother Tongue</th>
-      <td class="tr-norm"><a href="mailto:chu_suat_bee@schools.gov.sg">Mdm Chu Suat Bee</a></td>
-    </tr>
-    <tr>
-      <th class="tr-header">Music (MEP)</th>
-      <td class="tr-norm"><a href="mailto:low_siew_kheng_arlene@schools.gov.sg">Mrs Arlene Chan</a></td>
-    </tr>
-    <tr>
-      <th class="tr-header">Science (Biology)</th>
-      <td class="tr-norm"><a href="mailto:phua_poh_eng@schools.gov.sg">Mrs May Liow</a></td>
-    </tr>
-    <tr>
-      <th class="tr-header">Science (Chemistry)</th>
-      <td class="tr-norm"><a href="mailto:lim_seot_cheng@schools.gov.sg">Mrs Tan Seot Cheng</a></td>
-    </tr>
-    <tr>
-      <th class="tr-header">Student Leadership / Prefect Mistress</th>
-      <td class="tr-norm"><a href="mailto:chen_kok_peng@schools.gov.sg">Mrs Chen Kok Peng</a></td>
-    </tr>
-  </thead>
-  <tbody>
-  </tbody>
-</table>
-
 ### YEAR HEADS (YH) AND ASSISTANT YEAR HEADS (AYH)
 
-<table class="tg">
-  <thead>
-    <tr>
-      <th class="tr-header">Secondary 1 YH</th>
-      <td class="tr-norm"><a href="mailto:natalie_chew@schools.gov.sg">Mrs Natalie Lim</a></td>
-    </tr>
-    <tr>
-      <th class="tr-header">Secondary 1 AYH</th>
-      <td class="tr-norm"><a href="mailto:grace_yeo_hui_ling@schools.gov.sg">Mrs Grace Wong</a></td>
-    </tr>
-    <tr>
-      <th class="tr-header">Secondary 2 YH</th>
-      <td class="tr-norm"><a href="mailto:pang_sally@schools.gov.sg">Mrs Sally E</a>&nbsp;</td>
-    </tr>
-    <tr>
-      <th class="tr-header">Secondary 2 AYH</th>
-      <td class="tr-norm"><a href="mailto:janine_sarah_poon@schools.gov.sg">Ms Sarah Poon</a></td>
-    </tr>
-    <tr>
-      <th class="tr-header">Secondary 3 YH</th>
-      <td class="tr-norm"><a href="mailto:wong_khai_shin@schools.gov.sg">Ms Wong Khai Shin</a>&nbsp;</td>
-    </tr>
-    <tr>
-      <th class="tr-header">Secondary 3 AYH</th>
-      <td class="tr-norm"><a href="mailto:ling_lek_suan@schools.gov.sg" target="">Mr Ling Lek Suan</a><a href="mailto:catherine_cheong@schools.gov.sg"></a></td>
-    </tr>
-    <tr>
-      <th class="tr-header">Secondary 4 YH</th>
-      <td class="tr-norm"><a href="mailto:carol_tay_dan_guey@schools.gov.sg">Ms Carol Tay</a>&nbsp;</td>
-    </tr>
-    <tr>
-      <th class="tr-header">Secondary 4 AYH</th>
-      <td class="tr-norm"><a href="mailto:catherine_cheong@schools.gov.sg">Mrs Catherine Cheong</a></td>
-    </tr>
-  </thead>
-  <tbody>
-  </tbody>
-</table>
+| | |
+| --- | --- |
+| Secondary 1 YH | [Mrs Natalie Lim](mailto:natalie_chew@schools.gov.sg) |
+| Secondary 1 AYH | [Mrs Grace Wong](mailto:grace_yeo_hui_ling@schools.gov.sg) |
+| Secondary 2 YH | [Mrs Sally E](mailto:pang_sally@schools.gov.sg)&nbsp; |
+| Secondary 2 AYH | [Ms Sarah Poon](mailto:janine_sarah_poon@schools.gov.sg) |
+| Secondary 3 YH | [Ms Wong Khai Shin](mailto:wong_khai_shin@schools.gov.sg)&nbsp; |
+| Secondary 3 AYH | [Mr Ling Lek Suan](mailto:ling_lek_suan@schools.gov.sg)[](mailto:catherine_cheong@schools.gov.sg) |
+| Secondary 4 YH | [Ms Carol Tay](mailto:carol_tay_dan_guey@schools.gov.sg)&nbsp; |
+| Secondary 4 AYH | [Mrs Catherine Cheong](mailto:catherine_cheong@schools.gov.sg) |
+| | |
+
 
 ### PROGRAMME HEADS
 
