@@ -34,16 +34,11 @@ variant: markdown
 
 ### DEAN
 
-<table class="tg">
-  <thead>
-    <tr>
-      <th class="tr-header">Academic Studies</th>
-      <td class="tr-norm"><a href="mailto:choo_siew_bee@schools.gov.sg">Ms Choo Siew Bee</a></td>
-    </tr>
-  </thead>
-  <tbody>
-  </tbody>
-</table>
+| | |
+| --- | --- |
+| Academic Studies | [Ms Choo Siew Bee](mailto:choo_siew_bee@schools.gov.sg) |
+| | |
+
 
 ### DEPARTMENT HEADS
 
