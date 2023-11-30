@@ -2,6 +2,5 @@ collections:
   open-house:
     output: true
     order:
-      - Student Voices.md
       - Sharing Sessions.md
       - DSA Talent Areas.md
