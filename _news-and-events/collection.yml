@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Open House/.keep
-      - DSA Talent Areas.md
       - Sharing Sessions.md
       - Student Voices.md
       - Programme.md
