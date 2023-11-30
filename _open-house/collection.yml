@@ -1,5 +1,4 @@
 collections:
   open-house:
     output: true
-    order:
-      - DSA Talent Areas.md
+    order: []
