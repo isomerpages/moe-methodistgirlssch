@@ -2,5 +2,4 @@ collections:
   open-house:
     output: true
     order:
-      - Sharing Sessions.md
       - DSA Talent Areas.md
