@@ -3,6 +3,7 @@ title: Join Us
 permalink: /parentlink/join-us/
 description: ""
 third_nav_title: ParentLink
+variant: markdown
 ---
 <div style="width:100%; height:470px">
 	<iframe allowfullscreen="true" height="100%" width="100%" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSwr6ksR7xPMpLrWjmP92xUYvLnRA2fU-xRvC23BZPWjapIzO3Y_oxNRX4aio-eA3rM2TTO9pEpfrVO/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
@@ -22,65 +23,12 @@ In addition, parents can also be involved with career talks and providing work e
 
 ### 2023 Prayer Meeting Dates:
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-uwnk{color:#3D3D3D;text-align:left;vertical-align:top}
-.tg .tg-bzr3{color:#3D3D3D;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-bzr3">Schedule</th>
-    <th class="tg-bzr3">Combined 7.30 - 8.45am <br>
-      If On-site: Level 4 CCMC Wesley Hall**</th>
-    <th class="tg-bzr3">Sec 4 Group 7.30 - 8.45am <br>
-      If On-site: Level 4 CCMC Wesley Hall**</th>
-    <th class="tg-bzr3">Pri 6 Group 7.30 - 8.45am <br>
-      If On-site: Level 4 CCMC Wesley Hall**</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-uwnk">Term 1</td>
-    <td class="tg-uwnk">11 Jan, 1 Feb (On-site) <br>
-			1 Mar (Zoom)</td>
-    <td class="tg-uwnk">11 Jan (On-site) <br>
-      8 Feb, 8 Mar (Zoom)</td>
-    <td class="tg-uwnk">11 Jan (On-site) <br>
-      8 Feb, 8 Mar (Zoom)</td>
-  </tr>
-  <tr>
-    <td class="tg-uwnk">Term 2</td>
-    <td class="tg-uwnk">12 Apr (Zoom) <br>
-      3 May (On-site)</td>
-    <td class="tg-uwnk">12 Apr (Zoom) <br>
-      10 May (Zoom)</td>
-    <td class="tg-uwnk">12 Apr (Zoom) <br>
-      10 May (Zoom)</td>
-  </tr>
-  <tr>
-    <td class="tg-uwnk">Term 3</td>
-    <td class="tg-uwnk">5 Jul (Zoom) <br>
-      2 Aug (On-site)</td>
-    <td class="tg-uwnk">5 Jul (Zoom) <br>
-      2 Aug (On-site)</td>
-    <td class="tg-uwnk">5 Jul (Zoom) <br>
-      2 Aug (On-site)</td>
-  </tr>
-  <tr>
-    <td class="tg-uwnk">Term 4</td>
-    <td class="tg-uwnk">13 Sep (Zoom) <br>
-      4 Oct (Zoom)</td>
-    <td class="tg-uwnk">13 Sep (Zoom) <br>
-      11 Oct (Zoom)</td>
-    <td class="tg-uwnk">13 Sep (Zoom)</td>
-  </tr>
-</tbody>
-</table>
+| Schedule | Combined 7.30 - 8.45am  <br> If On-site: Level 4 CCMC Wesley Hall\*\* | Sec 4 Group 7.30 - 8.45am  <br> If On-site: Level 4 CCMC Wesley Hall\*\* | Pri 6 Group 7.30 - 8.45am  <br> If On-site: Level 4 CCMC Wesley Hall\*\* |
+| --- | --- | --- | --- |
+| Term 1 | 11 Jan, 1 Feb (On-site)  <br>1 Mar (Zoom) | 11 Jan (On-site)  <br>8 Feb, 8 Mar (Zoom) | 11 Jan (On-site)  <br>8 Feb, 8 Mar (Zoom) |
+| Term 2 | 12 Apr (Zoom)  <br>3 May (On-site) | 12 Apr (Zoom)  <br>10 May (Zoom) | 12 Apr (Zoom)  <br>10 May (Zoom) |
+| Term 3 | 5 Jul (Zoom)  <br>2 Aug (On-site) | 5 Jul (Zoom)  <br>2 Aug (On-site) | 5 Jul (Zoom)  <br>2 Aug (On-site) |
+| Term 4 | 13 Sep (Zoom)  <br>4 Oct (Zoom) | 13 Sep (Zoom)  <br>11 Oct (Zoom) | 13 Sep (Zoom) |
 
 **Remarks:**
 
