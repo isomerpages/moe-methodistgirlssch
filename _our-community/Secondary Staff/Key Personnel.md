@@ -61,6 +61,15 @@ variant: markdown
 
 ### TEACHER LEADERS
 
+| | |
+| --- | --- |
+| Lead Teacher (History) | [Mrs Doreen Ang](mailto:lim_li_huang_doreen@schools.gov.sg) |
+| Senior Teacher (Character and Citizenship Education) | [Mr Christopher Ow](mailto:ow_chee_keong_christopher@schools.gov.sg) |
+| Senior Teacher (Chemistry) | [Mr David Loh](mailto:loh_jee_yong_david@schools.gov.sg) |
+| Senior Teacher (Language Arts) | [Ms Monica Bong](mailto:monica_bong@schools.gov.sg) |
+| Senior Teacher (Mathematics) | [Mrs Karen Chia](mailto:low_geok_lin_karen@schools.gov.sg) |
+| | |
+
 <table class="tg">
   <thead>
     <tr>
