@@ -2,63 +2,42 @@
 title: School Leaders
 permalink: /community/school-leaders/
 description: ""
+variant: markdown
 ---
-<table width="100%" border="0" cellspacing="0" cellpadding="5">
+<table cellspacing="5" width="100%">
   <tbody>
     <tr>
-      <td width="37%" valign="bottom">&nbsp;</td>
-      <td width="25%" valign="bottom"><p style="text-align:center;"><img src="/images/Common/sl-vwilson.jpg" width="150" height="190" alt="" /><br>
-          <a href="mailto:Valarie_koh@schools.gov.sg">Mrs Valarie Wilson</a><br>
-          <strong>Principal</strong></p>
-        <br></td>
-      <td width="38%" valign="bottom">&nbsp;</td>
+      <td valign="top" align="center" rowspan="1" width="30%" colspan="1"><div class="isomer-image-wrapper"><img height="190" width="150" alt="" src="/images/Common/sl-vwilson.jpg"></div>
+        <a href="mailto:Valarie_koh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Valarie Wilson</a><br>
+      <strong>Principal</strong></td>
+      <td valign="top" align="center" rowspan="1" colspan="1" width="30%"></td>
+      <td valign="top" align="center" rowspan="1" width="40%"></td>
     </tr>
-  </tbody>
-</table>
-<table width="100%" border="0" cellspacing="0" cellpadding="5">
-  <tbody>
     <tr>
-      <td width="20%" valign="bottom">&nbsp;</td>
-      <td width="25%" valign="bottom"><p style="text-align:center;"><img src="/images/Common/sl-csim.jpg" width="150" height="190" alt=""/><br>
-          <a href="mailto:Corinne_SIM@schools.gov.sg">Mrs Corinne Sim</a><br>
-          <strong>Vice-Principal</strong> </p>
-        <br></td>
-      <td width="10%" valign="bottom">&nbsp;</td>
-      <td width="25%" valign="bottom"><p style="text-align:center;"><img src="/images/Common/sl-dgoh.jpg" width="150" height="190" alt=""/><br>
-          <a href="mailto:Diana_TAN@schools.gov.sg">Mrs Diana Goh</a><br>
-          <strong>Vice-Principal</strong> </p>
-        <br></td>
-      <td width="20%" valign="bottom">&nbsp;</td>
+      <td valign="top" align="center" rowspan="1" width="30%" colspan="1"><div class="isomer-image-wrapper"> <img height="190" width="150" alt="" src="/images/Common/sl-csim.jpg"></div><a href="mailto:Corinne_SIM@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Corinne Sim</a><br>        <strong>Vice-Principal</strong></td>
+      <td valign="top" align="center" rowspan="1" colspan="1" width="30%"><div class="isomer-image-wrapper"><img height="190" width="150" alt="" src="/images/Common/sl-dgoh.jpg"></div><a href="mailto:Diana_TAN@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Diana Goh</a><br>
+		  <strong>Vice-Principal</strong></td>
+      <td valign="top" align="center" width="40%">&nbsp;</td>
     </tr>
-  </tbody>
-</table>
-<table width="100%" border="0" cellpadding="5" cellspacing="0">
-  <tbody>
     <tr>
-      <td width="20%" valign="bottom">&nbsp;</td>
-      <td width="25%" valign="top"><p style="text-align:center;"><img src="/images/Common/sl-kohce.jpg" width="150" height="190" alt=""/><br>
-          <a href="mailto:YEOW_Chern_Ee@schools.gov.sg">Mrs Koh Chern Ee</a><br>
-          <strong>Vice-Principal</strong> </p>
-        <br></td>
-      <td width="10%" valign="top">&nbsp;</td>
-      <td width="25%" valign="top"><p style="text-align:center;"><img src="/images/Common/sl-cteng.jpg" width="150" height="190" alt=""/><br>
-         <a href="mailto:teng_tat_meng_charles@schools.gov.sg">Mr Charles Teng</a><br>
+      <td valign="top" align="center" width="30%" colspan="1"><div class="isomer-image-wrapper"><img height="190" width="150" alt="" src="/images/Common/sl_wyn.jpg"></div>
+        <a href="mailto:Chng_Yi_Na@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Wright Yi Na</a><br>
+      <strong>Vice-Principal</strong></td>
+      <td valign="top" align="center" colspan="1" width="30%"><div class="isomer-image-wrapper"><img height="190" width="150" alt="" src="/images/Common/sl-kohce.jpg"></div>
+        <a href="mailto:YEOW_Chern_Ee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Koh Chern Ee</a><br>
+      <strong>Vice-Principal</strong></td>
+      <td valign="top" align="center" width="40%">&nbsp;</td>
+    </tr>
+    <tr>
+      <td valign="top" align="center" rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img height="190" width="150" alt="" src="/images/Common/sl-cteng.jpg"></div>
+        <a href="mailto:teng_tat_meng_charles@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Charles Teng</a><br>
         <strong>Vice-Principal <br>
-      (Administration)</strong></p>
-      <br></td>
-      <td width="20%" valign="bottom">&nbsp;</td>
-    </tr>
-  </tbody>
-</table>
-<table width="100%" border="0" cellpadding="5" cellspacing="0">
-  <tbody>
-    <tr>
-      <td width="37%" valign="bottom">&nbsp;</td>
-      <td width="25%" valign="bottom"><p style="text-align:center;"><img src="/images/Common/sl-dyip1.jpg" width="150" height="190" alt=""/><br>
-        <a href="mailto:yip_wai_choong@schools.gov.sg">Mr Desmond Yip</a><br>
+          (Administration)</strong></td>
+      <td valign="top" align="center" rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img height="190" width="150" alt="" src="/images/Common/sl-dyip1.jpg"></div>
+        <a href="mailto:yip_wai_choong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Desmond Yip</a><br>
         <strong>Vice-Principal <br>
-      (Administration)</strong></p></td>
-      <td width="38%" valign="bottom">&nbsp;</td>
+          (Administration)</strong></td>
+      <td valign="top" align="center" width="40%">&nbsp;</td>
     </tr>
   </tbody>
 </table>
