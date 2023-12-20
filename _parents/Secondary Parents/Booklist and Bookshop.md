@@ -7,7 +7,7 @@ variant: markdown
 ---
 ### Booklist
 
-Please check the [schedule](/files/Secondary/Book_Sale_dates_for_MGS_2023___2024.pdf) of our book sale dates before coming in person to make the purchase.
+Please check the [schedule](https://drive.google.com/file/d/1uEzaMRmmkK8PNjpaEm59ohSTvR2Zp05B/view?usp=drive_link) of our book sale dates before coming in person to make the purchase.
 
 You may click [here](https://drive.google.com/drive/folders/1BdsqFy7exfWyFm5t2vvbFDhKCjxowbZc?usp=share_link) to access the booklist for 2024. 
 
