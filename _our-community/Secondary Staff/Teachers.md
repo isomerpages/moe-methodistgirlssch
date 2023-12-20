@@ -39,8 +39,10 @@ variant: markdown
       <td width="30%">&nbsp;</td>
     </tr>
     <tr>
-      <th width="10%" scope="row"><b>1D</b> </th>
-      <td width="30%"><a href="mailto:thory_chew@schools.gov.sg" target="">Mrs Thory Chew</a></td>
+      <th scope="row"><b>1D</b></th>
+      <td><a href="mailto:thory_chew@schools.gov.sg" target="">Mrs Thory Chew</a></td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
     </tr>
     <tr>
       <th width="10%" scope="row"><b>1I</b> </th>
