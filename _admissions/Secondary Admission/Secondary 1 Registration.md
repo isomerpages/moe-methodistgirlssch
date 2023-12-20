@@ -3,8 +3,6 @@ title: Secondary 1 Registration
 permalink: /secondary/admissions/secondary-1-registration/
 description: ""
 third_nav_title: Secondary Admission
-variant: markdown
+variant: tiptap
 ---
-![](/images/Secondary/sec1-registration.jpg)
-
-Information for Secondary One Registration will be uploaded on 20 December 2023.  Thank you for your patience and understanding.
+<div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secondary/sec1-registration.jpg"></div><p>Dear Parent/Guardian,</p><p>We are pleased to welcome your daughter to Methodist Girls’ School! At MGS, we believe each and every MGS girl is precious, and she is our raison d’être. With your partnership, the MGS girl will Master, Grow and Serve, anchored in strong fundamentals and values. Click <a href="https://drive.google.com/drive/folders/1Zy9iD3KqnvVbgBGDuFyF07zN_aQRNbKS?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">here</a> to access the MGS Secondary 1 Registration Package 2024.</p><p>All students who are posted to MGS must register officially. The MGS Secondary 1 Online Registration will start on Wednesday 20 December from 3.00pm to Tuesday 26 December 12.00pm. This exercise will take approximately 20 minutes and best to be completed on your personal computer. DSA students posted to MGS would need to register via this link as well.</p><p>To access the <a href="https://mgs.ntrix.sg/sec1registration/" rel="noopener noreferrer nofollow" target="_blank">MGS Secondary 1 Online Registration portal</a>, please key in the following for:</p><ul data-tight="true" class="tight"><li><p>Login ID: Last 4 digits and letter (in CAPS) of Child’s NRIC (E.g. 1234A)</p></li><li><p>Password: ‘$tudent’ + last 4 digits as per Login ID (E.g. $tudent1234A)</p></li></ul><p>Please email <a href="mailto:info@ncodeconsultant.com" rel="noopener noreferrer nofollow" target="_blank">info@ncodeconsultant.com</a> if you face any technical difficulties.</p><p></p>
