@@ -73,14 +73,14 @@ From 1 Jan 2023 the revised benefits are as shown in the table below:
         $3,000</td>
       <td class="tg-mppl">Not exceeding<br>
         $750</td>
-      <td class="tg-mppl">				
-				<p>
-					- 100% subsidy of school and miscellaneous fees <br>  
-					- Free textbooks and school attire at Secondary level <br>    
-					- $17 transport subsidy per month, capped at $204 per annum (for students taking public transport)&nbsp;<sup>2</sup> <br>
-					- School meal subsidies of $3.50 per meal for 10 meals per school week<br>
-					- Full subsidy for exam fees&nbsp;<sup>1</sup><br>
-				</p>
+      <td class="tg-mppl">
+				<ul>
+					<li>100% subsidy of school and miscellaneous fees</li>
+					<li>Free textbooks and school attire at Secondary level</li>
+					<li>$17 transport subsidy per month, capped at $204 per annum (for students taking public transport)&nbsp;<sup>2</sup></li>
+					<li>School meal subsidies of $3.50 per meal for 10 meals per school week</li>
+					<li>Full subsidy for exam fees&nbsp;<sup>1</sup></li>
+				</ul>
 			</td>
     </tr>
     <tr>
