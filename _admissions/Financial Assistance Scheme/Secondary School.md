@@ -73,16 +73,15 @@ From 1 Jan 2023 the revised benefits are as shown in the table below:
         $3,000</td>
       <td class="tg-mppl">Not exceeding<br>
         $750</td>
-      <td class="tg-mppl">
-				*   100% subsidy of school and miscellaneous fees      
-				
-*   Free textbooks and school attire at Secondary level      
-				
-*   $17 transport subsidy per month, capped at $204 per annum (for students taking public transport)&nbsp;<sup>2</sup>
-				
-*   School meal subsidies of $3.50 per meal for 10 meals per school week
-				
-				*   Full subsidy for exam fees&nbsp;<sup>1</sup></td>
+      <td class="tg-mppl">				
+				<p>
+					- 100% subsidy of school and miscellaneous fees <br>  
+					- Free textbooks and school attire at Secondary level <br>    
+					- $17 transport subsidy per month, capped at $204 per annum (for students taking public transport)&nbsp;<sup>2</sup> <br>
+					- School meal subsidies of $3.50 per meal for 10 meals per school week<br>
+					- Full subsidy for exam fees&nbsp;<sup>1</sup><br>
+				</p>
+			</td>
     </tr>
     <tr>
       <td class="tg-mppl">$3,001 - $4,400 </td>
@@ -111,7 +110,7 @@ From 1 Jan 2023 the revised benefits are as shown in the table below:
 
 ** Need to only satisfy either the GHI or the PCI criterion. PCI is computed based on GHI divided by the number of members in the household (including parents, siblings and grandparents).
 
-#### **Application Procedure**
+#### Application Procedure
 
 Students may apply for MOE-ISB throughout the year as exigencies of each family’s financial situation demand. The bursary granted will take effect from the month the application is approved and will not be back-dated to January.
 
@@ -133,7 +132,7 @@ These scholarships are offered to academically strong students attending indepen
 *   ESIS (Y3)
 *   ESIS (Yearly Award)
 
-[Click&nbsp;here&nbsp;for more information](https://www.moe.gov.sg/financial-matters/awards-scholarships/edusave-scholarships-independent)&nbsp;.
+[Click here for more information](https://www.moe.gov.sg/financial-matters/awards-scholarships/edusave-scholarships-independent)&nbsp;.
 
 ### Music Elective Programme (MEP)
 
