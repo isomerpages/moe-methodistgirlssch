@@ -3,6 +3,7 @@ title: Independent Learning Day
 permalink: /secondary/student-development/cce/ild/
 description: ""
 third_nav_title: Student Development
+variant: markdown
 ---
 Regular Independent Learning Days (ILDs) is integrated into the schooling experience of Secondary school students. ILD aims to develop students’ ability to be self-directed, passionate and lifelong learners. To achieve these intended outcomes, ILD days in MGS are held once every fortnight.
  
@@ -15,17 +16,17 @@ b. **Student-initiated Learning (SIL)**. Dedicated time (at least 2-3 hrs) for s
 
 
 
-## ILD Dates for 2023 
+## ILD Dates for 2024 
 For ease of reference, the dates for ILD this year are found below. These apply to all levels from Secondary 1 to 4.
 
 
 ### ILD Semester 1
-Term 1: 12 Jan, 26 Jan, 9 Feb, 23 Feb, 9 Mar
+Term 1: 11 Jan, 25 Jan, 22 Feb, 7 Mar, 21 Mar
 
-Term 2: 30 Mar, 13 Apr, 27 Apr, 11 May, 25 May
+Term 2: 11 Apr, 25 Apr, 9 May, 25 May
 
 
 ### ILD Semester 2
-Term 3: 13 Jul, 26 Jul (Wed), 24 Aug
+Term 3: 27 Jun, 11 Jul, 25 Jul, 22 Aug, 
 
-Term 4: 14 Sep, 28 Sep
+Term 4: 13 Sep (Fri), 26 Sep

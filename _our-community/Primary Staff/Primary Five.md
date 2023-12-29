@@ -3,12 +3,13 @@ title: Primary Five
 permalink: /primary/staff/teachers/primary-five/
 description: ""
 third_nav_title: Primary Staff
+variant: markdown
 ---
 | Class | Form Teacher | ||
 | -------- | -------- | -------- |-------- |
-|P5.1|[Ms Ann Cheo](mailto:ann_cheo@schools.gov.sg)|[Mdm Lee Kit Yi](mailto:lee_kit_yi@schools.gov.sg)|
-|P5.2|[Mrs Sophia Koh ](mailto:koh_pei_chen_sophia@schools.gov.sg)|[Mrs Naomi Tan ](mailto:yee_yee_may_naomi@schools.gov.sg)|[Ms Siti Nur Radhiahtun ](mailto:siti_nur_radhiahtun_ms@schools.gov.sg)
-|P5.3|[Mdm Sun Hui](mailto:sun_hui@schools.gov.sg)|[Mrs Mun Poh Hoon 	](mailto:chua_poh_hoon@schools.gov.sg)|
-|P5.4|[Ms Belinda Goh ](mailto:goh_gek_kheng_belinda@schools.gov.sg)|[Mrs Patricia Low](mailto:patricia_lim_ai_tee@schools.gov.sg)|
-|P5.5|[Mrs Rita James](mailto:rita_james@schools.gov.sg)|[Dr Karen 	Soh ](mailto:soh_karen_jasmine@schools.gov.sg)|
-|P5.6|[Mrs Jayanthi Rajaratnam](mailto:jayanthi_kadiresan@schools.gov.sg)|[Ms Wong Jia Xin ](mailto:wong_jia_xin@schools.gov.sg)
+|P5.1|[Mrs Brenda Ow ](mailto:koh_li_ying_brenda@schools.gov.sg)|[Mrs Jean Lee](mailto:sng_lee_lee@schools.gov.sg)|
+|P5.2|[Ms Ng Wei En](mailto:ng_wei_en@schools.gov.sg)|[Mr Christopher Wong](mailto:christopher_wong_say_eng@schools.gov.sg)|
+|P5.3|[Mrs Lily Teo](mailto:lily_teo@schools.gov.sg)|[Mrs Yokanathan](mailto:thilagavathy_yokanathan@schools.gov.sg)|
+|P5.4|[Mrs Velicia Lim](mailto:foo_wei_tint_velicia@schools.gov.sg)|[Mr Poh En Kee ](mailto:poh_en_kee@schools.gov.sg)|
+|P5.5|[Ms Koh Peiru](mailto:koh_pei_loo@schools.gov.sg)|[Mrs Gina Low](mailto:gina_chia@schools.gov.sg)|
+|P5.6|[Ms Venetia Guo](mailto:guo_yixin_venetia@schools.gov.sg)|[Ms Pu Lu](mailto:pu_lu@schools.gov.sg)

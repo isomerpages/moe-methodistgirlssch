@@ -3,6 +3,7 @@ title: Executive & Administrative Staff
 permalink: /primary/staff/executive-n-administrative-staff/
 description: ""
 third_nav_title: Primary Staff
+variant: markdown
 ---
 # Allied Educator
 
@@ -19,7 +20,6 @@ third_nav_title: Primary Staff
 |||
 | -------- | -------- |
 |Administration Manager| [Ms Criscelia Lim](mailto:criscelia_lim@schools.gov.sg)
-|Corporate Support Officer|Mr Brian Bing Xuan
 |Corporate Support Officer|Ms Jasmine Chua
 |Corporate Support Officer|Miss Nur Hibriyah
 |Corporate Support Officer|Mdm Rasidah Bte Salimin
@@ -41,7 +41,6 @@ third_nav_title: Primary Staff
 |||
 | -------- | -------- |
 |ICT Associate| [Miss Nur Atiqa](mailto:nur_atiqa_harun@schools.gov.sg)|
-|Desktop Engineer|Mr Francisco
 |Desktop Engineer|Miss Nur Izzati
 
 # Library
@@ -64,5 +63,4 @@ third_nav_title: Primary Staff
 
 |||
 | -------- | -------- |
-|Teacher-Aide| Miss Cecillia Tan
-|Teacher-Aide|Ms Koh Bee Kiow Eleen
+|Teacher-Aide| Mr Wilson Lim

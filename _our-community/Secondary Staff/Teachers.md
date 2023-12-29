@@ -3,6 +3,7 @@ title: Teachers
 permalink: /secondary/staff/teachers/
 description: ""
 third_nav_title: Secondary Staff
+variant: markdown
 ---
 <h3 style="text-align: left;">SECONDARY ONE</h3>
 <table width="100%" border="0" cellspacing="5" cellpadding="5" class="iveo_table ives_tab_simple">
@@ -38,14 +39,15 @@ third_nav_title: Secondary Staff
       <td width="30%">&nbsp;</td>
     </tr>
     <tr>
-      <th width="10%" scope="row"><b>1D</b> </th>
-      <td width="30%"><a href="mailto:thory_chew@schools.gov.sg" target="">Mrs Thory Chew</a></td>
+      <th scope="row"><b>1D</b></th>
+      <td><a href="mailto:thory_chew@schools.gov.sg" target="">Mrs Thory Chew</a></td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
     </tr>
     <tr>
       <th width="10%" scope="row"><b>1I</b> </th>
       <td width="30%"><a href="mailto:chue_kwai_fong@schools.gov.sg" target="">Ms Jennifer  Chue </a></td>
 			   <td width="30%"><a href="mailto:nurliyana_mohd_rifhan@schools.gov.sg" target="">Ms Nurliyana</a></td>
-      <td width="30%">&nbsp;</td>
       <td width="30%">&nbsp;</td>
     </tr>
     <tr>
@@ -76,7 +78,6 @@ third_nav_title: Secondary Staff
       <th width="10%" scope="row"><b>2M</b> </th>
       <td width="30%"><a href="mailto:chang_shian_feng_gerald@schools.gov.sg" target="">Mr Gerald Chang</a></td>
 			<td width="30%"><a href="mailto:ng_shu_fen_clarice@schools.gov.sg" target="">Ms Clarice Wu</a></td>
-      <td width="30%">&nbsp;</td>
       <td width="30%">&nbsp;</td>
     </tr>
     <tr>
@@ -186,7 +187,6 @@ third_nav_title: Secondary Staff
       <td width="30%"><a href="mailto:ruth_tan@schools.gov.sg" target="">Mrs Ruth  Tan</a></td>
 			  <td width="30%"><a href="mailto:lau_lilin_marilyn@schools.gov.sg" target="">Mrs Marilyn Ng</a></td>
       <td width="30%"></td>
-      <td width="30%">&nbsp;</td>
     </tr>
     <tr>
       <th width="10%" scope="row"><b>3G</b> </th>
@@ -246,6 +246,7 @@ third_nav_title: Secondary Staff
       <th width="10%" scope="row"> <b>4I </b> </th>
       <td width="30%"><a href="mailto:kek_lay_yan@schools.gov.sg" target="">Ms Kek Lay Yan</a></td>
       <td width="30%"><a href="mailto:kevin_khoo@schools.gov.sg" target="">Mr Kevin Khoo</a></td>
+
       <td width="30%">&nbsp;</td>
     </tr>
     <tr>
@@ -273,58 +274,58 @@ third_nav_title: Secondary Staff
 <table width="100%" border="0" cellspacing="5" cellpadding="5" class="iveo_table ives_tab_simple">
   <tbody>
     <tr>
-      <th width="13%" rowspan="2" scope="row" style="text-align: left;"> SEC/YR 1 </th>
-      <td width="29%"><a href="mailto:natalie_chew@schools.gov.sg" target="">Mrs Natalie Lim</a></td>
-      <td width="29%"><a href="mailto:siew_seok_hwa@schools.gov.sg" target="">Mrs Chen Seok Hwa </a></td>
-      <td width="29%"><a href="mailto:lim_hui_hsin_jeanne@schools.gov.sg" target="">Ms Jeanne Lim </a></td>
+      <th width="10%" rowspan="2" scope="row" style="text-align: left;"> SEC/YR 1 </th>
+      <td width="30%"><a href="mailto:natalie_chew@schools.gov.sg" target="">Mrs Natalie Lim</a></td>
+      <td width="30%"><a href="mailto:siew_seok_hwa@schools.gov.sg" target="">Mrs Chen Seok Hwa </a></td>
+      <td width="30%"><a href="mailto:lim_hui_hsin_jeanne@schools.gov.sg" target="">Ms Jeanne Lim </a></td>
     </tr>
     <tr>
-      <td><a href="mailto:dan_ho@schools.gov.sg" target="">Mr Dan Ho</a></td>
-      <td><a href="mailto:fiona_ngiam@schools.gov.sg" target="">Mrs Fiona Ngiam</a></td>
-      <td width="29%"><a href="mailto:kay_ren_tat@schools.gov.sg" target="">Mr Kay  Ren Tat </a></td>
+      <td width="30%"><a href="mailto:dan_ho@schools.gov.sg" target="">Mr Dan Ho</a></td>
+      <td width="30%"><a href="mailto:fiona_ngiam@schools.gov.sg" target="">Mrs Fiona Ngiam</a></td>
+      <td width="30%"><a href="mailto:kay_ren_tat@schools.gov.sg" target="">Mr Kay  Ren Tat </a></td>
     </tr>
     <tr>
-      <th width="13%" rowspan="3" scope="row" style="text-align: left;"> SEC/YR 2 </th>
-      <td width="29%"><a href="mailto:pang_sally@schools.gov.sg">Mrs Sally E</a></td>
-      <td width="29%"><a href="mailto:gao_lu@schools.gov.sg" target="">Mdm Gao Lu </a></td>
-      <td width="29%"><a href="mailto:leong_yin_yoke@schools.gov.sg" target="">Mrs Lim Yin Yoke </a></td>
+      <th width="10%" rowspan="3" scope="row" style="text-align: left;"> SEC/YR 2 </th>
+      <td width="30%"><a href="mailto:pang_sally@schools.gov.sg">Mrs Sally E</a></td>
+      <td width="30%"><a href="mailto:gao_lu@schools.gov.sg" target="">Mdm Gao Lu </a></td>
+      <td width="30%"><a href="mailto:leong_yin_yoke@schools.gov.sg" target="">Mrs Lim Yin Yoke </a></td>
     </tr>
     <tr>
-      <td width="29%"><a href="mailto:visweswaran_rebekkal_ezhilarasi@schools.gov.sg" target="">Mdm  V Rebekkal E </a></td>
-      <td width="29%"><a href="mailto:ng_siew_luan@schools.gov.sg" target="">Mrs Tham Siew Luan</a></td>
-      <td width="29%"><a href="mailto:sophia_natasha_wei_junhao@schools.gov.sg" target="">Mrs Natasha Tay</a></td>
+      <td width="30%"><a href="mailto:visweswaran_rebekkal_ezhilarasi@schools.gov.sg" target="">Mdm  V Rebekkal E </a></td>
+      <td width="30%"><a href="mailto:ng_siew_luan@schools.gov.sg" target="">Mrs Tham Siew Luan</a></td>
+      <td width="30%"><a href="mailto:sophia_natasha_wei_junhao@schools.gov.sg" target="">Mrs Natasha Tay</a></td>
     </tr>
     <tr>
-      <td width="29%"><a href="mailto:wendy_li-_jin_tan@schools.gov.sg">Ms Wendy Tan</a></td>
-      <td width="29%"><a href="mailto:lim_li_huang_doreen@schools.gov.sg" target="">Mrs Doreen Ang</a></td>
-      <td width="29%">&nbsp;</td>
+      <td width="30%"><a href="mailto:wendy_li-_jin_tan@schools.gov.sg">Ms Wendy Tan</a></td>
+      <td width="30%"><a href="mailto:lim_li_huang_doreen@schools.gov.sg" target="">Mrs Doreen Ang</a></td>
+      <td width="30%">&nbsp;</td>
     </tr>
     <tr>
-      <th width="13%" rowspan="2" style="text-align: left;" scope="row"> SEC/YR 3 </th>
-      <td width="29%"><a href="mailto:wong_khai_shin@schools.gov.sg" target="">Ms Wong  Khai Shin</a></td>
-      <td width="29%"><a href="mailto:cheryl_wong@schools.gov.sg" target="">Mrs Cheryl Wong </a></td>
-      <td width="29%"><a href="mailto:tan_chong_cheng@schools.gov.sg" target="">Mrs Cindi Choo </a></td>
+      <th width="10%" rowspan="2" style="text-align: left;" scope="row"> SEC/YR 3 </th>
+      <td width="30%"><a href="mailto:wong_khai_shin@schools.gov.sg" target="">Ms Wong  Khai Shin</a></td>
+      <td width="30%"><a href="mailto:cheryl_wong@schools.gov.sg" target="">Mrs Cheryl Wong </a></td>
+      <td width="30%"><a href="mailto:tan_chong_cheng@schools.gov.sg" target="">Mrs Cindi Choo </a></td>
     </tr>
     <tr>
-      <td width="29%"><a href="mailto:liu_heok_hing@schools.gov.sg" target="">Mr Liu Heok Hing </a></td>
-      <td width="29%"><a href="mailto:tan_sin_yee_ivay@schools.gov.sg" target="">Mrs Ivay Lim </a></td>
-      <td width="29%">&nbsp;</td>
+      <td width="30%"><a href="mailto:liu_heok_hing@schools.gov.sg" target="">Mr Liu Heok Hing </a></td>
+      <td width="30%"><a href="mailto:tan_sin_yee_ivay@schools.gov.sg" target="">Mrs Ivay Lim </a></td>
+      <td width="30%">&nbsp;</td>
     </tr>
     <tr>
-      <th width="13%" rowspan="3" scope="row" style="text-align: left;"> <b> SEC/YR 4 </b> </th>
-      <td width="29%"><a href="mailto:carol_tay_dan_guey@schools.gov.sg">Ms Carol Tay</a></td>
-      <td width="29%"><a href="mailto:beatrice_leong@schools.gov.sg" target="">Mrs Beatrice Leong</a></td>
-      <td width="29%"><a href="mailto:tan_choon_gan@schools.gov.sg" target="">Ms Tan Choon Gan</a></td>
+      <th width="10%" rowspan="3" scope="row" style="text-align: left;"> <b> SEC/YR 4 </b> </th>
+      <td width="30%"><a href="mailto:carol_tay_dan_guey@schools.gov.sg">Ms Carol Tay</a></td>
+      <td width="30%"><a href="mailto:beatrice_leong@schools.gov.sg" target="">Mrs Beatrice Leong</a></td>
+      <td width="30%"><a href="mailto:tan_choon_gan@schools.gov.sg" target="">Ms Tan Choon Gan</a></td>
     </tr>
     <tr>
-      <td width="29%"><a href="mailto:beatrice_leong@schools.gov.sg" target=""></a> <a href="mailto:ong_chen_moi@schools.gov.sg" target="">Mdm Ong Chen Moi</a></td>
-      <td width="29%"><a href="mailto:neo_chin_ee@schools.gov.sg" target="">Mdm Neo Chin Ee </a></td>
-      <td width="29%"><a href="mailto:lim_soh_cheng@schools.gov.sg" target="">Ms Lim Soh Cheng</a></td>
+      <td width="30%"><a href="mailto:beatrice_leong@schools.gov.sg" target=""></a> <a href="mailto:ong_chen_moi@schools.gov.sg" target="">Mdm Ong Chen Moi</a></td>
+      <td width="30%"><a href="mailto:neo_chin_ee@schools.gov.sg" target="">Mdm Neo Chin Ee </a></td>
+      <td width="30%"><a href="mailto:lim_soh_cheng@schools.gov.sg" target="">Ms Lim Soh Cheng</a></td>
     </tr>
     <tr>
-      <td width="29%"><a href="mailto:leong_wai_lup@schools.gov.sg" target="">Mr Leong  Wai Lup</a></td>
-      <td width="29%"><a href="mailto:choo_siew_bee@schools.gov.sg">Ms Choo Siew Bee </a></td>
-      <td width="29%">&nbsp;</td>
+      <td width="30%"><a href="mailto:leong_wai_lup@schools.gov.sg" target="">Mr Leong  Wai Lup</a></td>
+      <td width="30%"><a href="mailto:choo_siew_bee@schools.gov.sg">Ms Choo Siew Bee </a></td>
+      <td width="30%">&nbsp;</td>
     </tr>
   </tbody>
 </table>
