@@ -5,14 +5,7 @@ description: ""
 third_nav_title: Visual and Performing Arts
 variant: markdown
 ---
-<div style="width:100%; height:400px">
-  <iframe class="ive_eobj_center" allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/qEwmGVCNneo" height="100%" width="100%">
-  </iframe>
-</div>
-
 The MGS Choir has a shared sense of passion and love for singing. The Choir’s guiding principles are: Awareness, Attitude, Ability, Attendance. We strive to inculcate self-discipline, independence, diligence and a sense of shared responsibility in every chorister, and to be of service to our school and wider community through our performances.
-
-![](/images/Sec_cca/choir-2020.jpg)
 
 **2023 Cantabile**
 * A joint presentation with Saint Andrew’s choir
