@@ -14,8 +14,8 @@ sections:
       background: /images/Common/pic-landing-2023.jpg
   - infopic:
       title: Here, For A Purpose
-      subtitle: Theme 2023
-      image: /images/Common/theme verse 2023.png
+      subtitle: Theme 2024
+      image: /images/Common/Theme_2024.png
       alt: Image alt text
   - resources:
       title: Highlights
