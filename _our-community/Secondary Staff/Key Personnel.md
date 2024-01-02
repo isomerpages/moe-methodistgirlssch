@@ -5,9 +5,7 @@ description: ""
 third_nav_title: Secondary Staff
 variant: markdown
 ---
-### DEPARTMENT HEADS
-
-|     |     | 
+| DEPARTMENT HEADS |     | 
 | -------- | -------- | 
 | Aesthetics | [Mrs Natasha Tay](mailto:sophia_natasha_wei_junhao@schools.gov.sg) |
 | Character and Citizenship Education | [Mrs Marilyn Ng](mailto:lau_lilin_marilyn@schools.gov.sg) |
@@ -24,9 +22,7 @@ variant: markdown
 |     |     | 
 
 
-### TEACHER LEADERS
-
-|     |     | 
+| TEACHER LEADERS |     | 
 | -------- | -------- | 
 | Lead Teacher (History) | [Mrs Doreen Ang](mailto:lim_li_huang_doreen@schools.gov.sg) |
 | Senior Teacher (Character and Citizenship Education) | [Mr Christopher Ow](mailto:ow_chee_keong_christopher@schools.gov.sg) |
@@ -35,10 +31,7 @@ variant: markdown
 | Senior Teacher (Mathematics) | [Mrs Karen Chia](mailto:low_geok_lin_karen@schools.gov.sg) |
 |     |     | 
 
-
-### SUBJECT HEADS
-
-|     |     | 
+| SUBJECT HEADS |     | 
 | -------- | -------- | 
 | Character and Citizenship Education | [Mrs Joy Goh](mailto:joy_sim@schools.gov.sg) |
 | Community Education | [Mr Dennis Auyang](mailto:auyang_seh_hon_dennis@schools.gov.sg) |
@@ -55,23 +48,23 @@ variant: markdown
 | Student Leadership / Prefect Mistress | [Mrs Chen Kok Peng](mailto:chen_kok_peng@schools.gov.sg) |
 |     |     | 
 
-### YEAR HEADS (YH) AND ASSISTANT YEAR HEADS (AYH)
-
-|     |     | 
+| YEAR HEADS (YH) |     | 
 | -------- | -------- | 
 | Secondary 1 YH | [Mrs Natalie Lim](mailto:natalie_chew@schools.gov.sg) |
-| Secondary 1 AYH | [Mrs Grace Wong](mailto:grace_yeo_hui_ling@schools.gov.sg) |
 | Secondary 2 YH | [Mrs Sally E](mailto:pang_sally@schools.gov.sg)&nbsp; |
-| Secondary 2 AYH | [Ms Sarah Poon](mailto:janine_sarah_poon@schools.gov.sg) |
 | Secondary 3 YH | [Ms Wong Khai Shin](mailto:wong_khai_shin@schools.gov.sg)&nbsp; |
-| Secondary 3 AYH | [Mr Ling Lek Suan](mailto:ling_lek_suan@schools.gov.sg)[](mailto:catherine_cheong@schools.gov.sg) |
 | Secondary 4 YH | [Ms Carol Tay](mailto:carol_tay_dan_guey@schools.gov.sg)&nbsp; |
+|     |     | 
+
+| ASSISTANT YEAR HEADS (AYH) |     | 
+| -------- | -------- | 
+| Secondary 1 AYH | [Mrs Grace Wong](mailto:grace_yeo_hui_ling@schools.gov.sg) |
+| Secondary 2 AYH | [Ms Sarah Poon](mailto:janine_sarah_poon@schools.gov.sg) |
+| Secondary 3 AYH | [Mr Ling Lek Suan](mailto:ling_lek_suan@schools.gov.sg)[](mailto:catherine_cheong@schools.gov.sg) |
 | Secondary 4 AYH | [Mrs Catherine Cheong](mailto:catherine_cheong@schools.gov.sg) |
 |     |     | 
 
-### PROGRAMME HEADS
-
-|     |     | 
+|  PROGRAMME HEADS |     | 
 | -------- | -------- | 
 | Cyberwellness | [Mrs Serene Loh](mailto:boo_serene@schools.gov.sg) |
 | Citizenship Education | [Mrs Joy Goh](mailto:joy_sim@schools.gov.sg)[](mailto:janine_sarah_poon@schools.gov.sg) |
