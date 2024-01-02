@@ -5,16 +5,6 @@ description: ""
 third_nav_title: Secondary Staff
 variant: markdown
 ---
-### DEAN
-
-|     |     | 
-| -------- | -------- | 
-| Academic Studies     | [Ms Choo Siew Bee](mailto:choo_siew_bee@schools.gov.sg)     |
-|     |     | 
-
-
-
-
 ### DEPARTMENT HEADS
 
 |     |     | 
@@ -88,4 +78,4 @@ variant: markdown
 | House Leadership | [Ms Nadia Ibrahim](mailto:nadia_dahak_ibrahim@schools.gov.sg) |
 | Sexuality Education | [Mrs Catherine Cheong](mailto:catherine_cheong@schools.gov.sg) |
 | Values in Education | [Ms Tay Hui Ping](mailto:tay_hui_ping@schools.gov.sg) |
-|     |     | 
+|     |     |
