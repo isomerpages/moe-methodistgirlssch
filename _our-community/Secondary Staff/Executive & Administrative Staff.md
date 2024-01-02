@@ -63,6 +63,6 @@ Senior Executive: Mrs Joanna Kong
 Executive (Community Partnerships): Mr Wang Zekun
 
 ### **TEACHERS' SUPPORT**
-Executive: Ms Irene Chua  
 Executive: Ms Lim Aik Wang  
 Executive: Mrs Pauline Yong
+
