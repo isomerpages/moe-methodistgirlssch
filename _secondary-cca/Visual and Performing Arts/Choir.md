@@ -14,6 +14,29 @@ The MGS Choir has a shared sense of passion and love for singing. The Choir’s 
 
 ![](/images/Sec_cca/choir-2020.jpg)
 
+**2023 Cantabile**
+* A joint presentation with Saint Andrew’s choir
+* Songs: Morning Rain, Londali Bridge, Exultate Justi
+* Songs performed combined with Saint Andrew’s choir: Beauty and the beast, Just a Single Voice
+
+**2023 Founders’ Day Performance**
+* The MGS choir collaborated with seniors from Methodist Welfare Services, Covenant Community Methodist Church, grandparents as well as our very own ex-principal, Ms Koh Mei Leen, to form the Intergenerational Choir.
+* Song: I Will Run To You
+
+**2023 National Day Performance**
+The MGS choir collaborated with seniors from Methodist Welfare Services, Covenant Community Methodist Church, grandparents as well as our very own ex-principal, Ms Koh Mei Leen, to form the Intergenerational Choir.
+
+**2023 SYF**
+* First SYF after Covid 
+* Distinction
+* Songs: Morning Rain, Londali Bridge, Exultate Justi
+
+**2022 Kodaly Symposium**
+* The Kodaly Symposium was a Gala concert held on 20 August.
+* We sang with choirs from other schools such as Dunman High and St Andrews at the Berrick Performance Hall in Tanglin Trust School.
+* We sang with our guest soloist, Jonathan MacPherson, and had our guest conductor, Prof. László Nemes, lead us in singing our combined songs.
+* Songs sung with the other two schools (combined songs): Kodaly Zolton’s Esti Dal, Christopher Tin’s Baba Yetu
+
 **2019 6th International Vietnam Choir Competition in Hoi An, Vietnam:**
 *   2 gold awards: category champion for the Youth Choir Category, second place for the Sacred Choral Music Category
 *   Performed in the final Grand Prix concert.
@@ -49,6 +72,8 @@ The Choir has benefited from yearly masterclasses from the likes of Professor Ge
 
 
 ## CCA Schedule
-* Days: Wednesday, Friday  
-* Time: 3.00pm - 6.00pm  
-* Venue: Chapel (Wed), ISH Band room (Fri)
+* Days: Monday, Wednesday
+* Time: 3.00pm - 6.00pm
+* Venue:
+	* Monday: 3-4.30pm (LT1)
+	* Wednesday:4.30-6pm (Chapel) 
