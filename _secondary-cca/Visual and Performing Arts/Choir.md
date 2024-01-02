@@ -5,14 +5,35 @@ description: ""
 third_nav_title: Visual and Performing Arts
 variant: markdown
 ---
-<div style="width:100%; height:400px">
-  <iframe class="ive_eobj_center" allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/qEwmGVCNneo" height="100%" width="100%">
-  </iframe>
-</div>
-
 The MGS Choir has a shared sense of passion and love for singing. The Choir’s guiding principles are: Awareness, Attitude, Ability, Attendance. We strive to inculcate self-discipline, independence, diligence and a sense of shared responsibility in every chorister, and to be of service to our school and wider community through our performances.
 
-![](/images/Sec_cca/choir-2020.jpg)
+<div style="width:100%; height:470px">
+	<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRgraTtdnHlyth6_vS5bkdLVj-pW4QzzyqmM6yORqQUPTFOYb0lvFzLFLFX30vXd-flL43LTGKau3-0/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="100%" height="100%" allowfullscreen="true"></iframe>
+</div>
+
+
+**2023 Cantabile**
+* A joint presentation with Saint Andrew’s choir
+* Songs: Morning Rain, Londali Bridge, Exultate Justi
+* Songs performed combined with Saint Andrew’s choir: Beauty and the beast, Just a Single Voice
+
+**2023 Founders’ Day Performance**
+* The MGS choir collaborated with seniors from Methodist Welfare Services, Covenant Community Methodist Church, grandparents as well as our very own ex-principal, Ms Koh Mei Leen, to form the Intergenerational Choir.
+* Song: I Will Run To You
+
+**2023 National Day Performance**
+The MGS choir collaborated with seniors from Methodist Welfare Services, Covenant Community Methodist Church, grandparents as well as our very own ex-principal, Ms Koh Mei Leen, to form the Intergenerational Choir.
+
+**2023 SYF**
+* First SYF after Covid 
+* Distinction
+* Songs: Morning Rain, Londali Bridge, Exultate Justi
+
+**2022 Kodaly Symposium**
+* The Kodaly Symposium was a Gala concert held on 20 August.
+* We sang with choirs from other schools such as Dunman High and St Andrews at the Berrick Performance Hall in Tanglin Trust School.
+* We sang with our guest soloist, Jonathan MacPherson, and had our guest conductor, Prof. László Nemes, lead us in singing our combined songs.
+* Songs sung with the other two schools (combined songs): Kodaly Zolton’s Esti Dal, Christopher Tin’s Baba Yetu
 
 **2019 6th International Vietnam Choir Competition in Hoi An, Vietnam:**
 *   2 gold awards: category champion for the Youth Choir Category, second place for the Sacred Choral Music Category
@@ -49,6 +70,8 @@ The Choir has benefited from yearly masterclasses from the likes of Professor Ge
 
 
 ## CCA Schedule
-* Days: Wednesday, Friday  
-* Time: 3.00pm - 6.00pm  
-* Venue: Chapel (Wed), ISH Band room (Fri)
+* Days: Monday, Wednesday
+* Time: 3.00pm - 6.00pm
+* Venue:
+	* Monday: 3-4.30pm (LT1)
+	* Wednesday:4.30-6pm (Chapel)
