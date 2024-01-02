@@ -1,5 +1,5 @@
 ---
-title: Teachers
+title: Teachers 2023
 permalink: /secondary/staff/teachers/
 description: ""
 third_nav_title: Secondary Staff
