@@ -5,14 +5,12 @@ description: ""
 third_nav_title: ParentLink
 variant: markdown
 ---
-### 2023 ParentLink Event
+### 2024 ParentLink Event
 
 | | |
 | --- | --- |
-| January 17, Tuesday | Coffee Chat |
-| February 3, Friday | Welcome Breakfast |
-| February 11, Saturday | P1 Picnic |
-| May 13, Saturday | Mother-Daughter Bonding |
-| July 1, Saturday | MGS Carnival |
-| September 18, Monday | Thank You Breakfast |
-| October 14, Saturday | Father-Daughter Bonding |
+| January 16, Tuesday | Coffee Chat |
+| February 2, Friday | Welcome Breakfast |
+| March 2, Saturday | P1 Engagement |
+| September 16, Monday | Thank You Breakfast |
+| TBC | Father-Daughter Bonding |
