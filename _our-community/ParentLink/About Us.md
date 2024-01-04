@@ -25,14 +25,13 @@ ParentLink aims to play a part in our daughters’ learning environment in the f
 All parents in MGS are automatically part of the school’s parent support group. Some parents will come forth as volunteers to help in various activities and administration; a few will offer to be representatives for their daughters’ classes and will be appointed class/level reps. These reps work with a central committee to organise activities and events for the year.  
   
 
-### 2023 ParentLink Committee
+### 2024 ParentLink Committee
 
 |     |     |
 | -------- | -------- |
 | Ex- officio Advisors: | Mrs Valarie Wilson <br>Mrs Diana Goh <br> Mrs Koh Chern Ee |
 | Chairperson | Mrs Dana Magnus |
-| Vice Chair: | Ms Grace Chew  <br> Mrs Andrea Friedman |
+| Vice Chairperson: | Ms Grace Chew  <br> Mrs Andrea Friedman |
 | Parent Liaison: | Mr Ernest Teo    <br> Mrs Andrea Friedman    <br> Ms Doreen Teo |
-| Alumnae Liaison: | Ms Lynn Lee |
-| Members: | Mrs Bow Yuen    <br> Ms Janelyn Yeo    <br> Mrs Joanne Chee    <br> Mr Keira Singh    <br> Mr Lionel Lim    <br> Ms Melody Lim    <br> Ms Ng Lin-Li |
-
+| Alumnae Liaison: | Ms Gwee Su Li |
+| Members: | Mrs Bow Yuen    <br> Mrs Joanne Chee    <br> Mr Keira Singh    <br> Mr Lionel Lim    <br> Ms Melody Lim    <br> Ms Ng Lin-Li    <br> Ms Sharon Kee    <br> Mr Tycen Bundgaard |
