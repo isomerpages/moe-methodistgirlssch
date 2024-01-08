@@ -2,13 +2,13 @@ collections:
   secondary-academic:
     output: true
     order:
-      - "Contemporary issues: Perspectives & Inquiry.md"
       - Aesthetics/.keep
       - Aesthetics/Aesthetics.md
       - Aesthetics/Art.md
       - Aesthetics/Lower Secondary Music.md
       - Aesthetics/Music Elective Programme.md
       - Computer Studies.md
+      - "Contemporary issues: Perspectives & Inquiry.md"
       - Food and Consumer Education.md
       - Humanities/.keep
       - Humanities/Humanities.md
