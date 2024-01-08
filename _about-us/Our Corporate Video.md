@@ -2,14 +2,6 @@
 title: Our Corporate Video
 permalink: /about-us/our-corporate-video/
 description: ""
+variant: tiptap
 ---
-## THE MGS EDUCATION EXPERIENCE
-
-### HERE, FOR A PURPOSE
-
-<div style="width:100%; height:400px">
-  <iframe class="ive_eobj_center" allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/aBKMUTH21BM" height="100%" width="100%">
-  </iframe>
-</div>
-
-The school video encapsulates the quintessence of MGS, an established legacy since 1887.
+<h2>THE MGS EDUCATION EXPERIENCE</h2><h3>HERE, FOR A PURPOSE</h3><div class="iframe-wrapper"><iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/aBKMUTH21BM?si=n1Wn2kGxHjSJRBwj"></iframe></div><p>The school video encapsulates the quintessence of MGS, an established legacy since 1887.</p>
