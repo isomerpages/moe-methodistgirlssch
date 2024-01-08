@@ -73,5 +73,5 @@ The Choir has benefited from yearly masterclasses from the likes of Professor Ge
 * Days: Monday, Wednesday
 * Time: 3.00pm - 6.00pm
 * Venue:
-	* Monday: 3-4.30pm (LT1) and 4.30-6pm (Chapel)
-	* Wednesday: 3-6pm (Chapel)
+	* Monday: 3-6pm (Chapel)
+	* Wednesday: 3-4.30pm (LT1) and 4.30-6pm (Chapel)
