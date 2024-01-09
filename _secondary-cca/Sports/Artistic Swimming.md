@@ -3,30 +3,6 @@ title: Artistic Swimming
 permalink: /secondary/curriculum/cca/sports/artistic-swimming/
 description: ""
 third_nav_title: Sports
-variant: markdown
+variant: tiptap
 ---
-<div style="width:100%; height:400px">
-  <iframe class="ive_eobj_center" allowfullscreen="" frameborder="0" title="MGS Heritage Video" src="https://www.youtube.com/embed/J73PlYiUZQc" height="100%" width="100%">
-  </iframe>
-</div>
-
-Artistic Swimming aims to create an opportunity for students to acquire artistic water skills, and to nurture students with grace and artistry in the water. The CCA develops artistic swimming competencies of its members, and imparts values of endurance, resilience, harmony and teamwork through training sessions and competitions. As members practise perfecting the formations and routines, they are stretched to achieve their highest potential and grow in both skills and character.
-
-![](/images/Sec_cca/artistic-swimming-2020.jpg)
-
-Members participate in water training and non-water training of techniques and this enables them to hone their flexibility and stamina.
-
-Each member is dedicated and committed to excellence, and the CCA has strong showing in the annual SSA National School Artistic Swimming Championships competition. Besides triumphing in the Artistic Swimming arena, it has also been featured in special event showcases for the school.
-
-
-## Leadership Opportunities
-
-Captain
-* ‘B’ Div Vice-Captain
-* ‘C’ Div Vice-Captain
-
-
-## CCA Schedule
-* Days: Wednesday &amp; Friday
-* Time: 3.15pm to 5.15pm
-* Venue: MGS Swimming Complex
+<div class="iframe-wrapper"><iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/J73PlYiUZQc"></iframe></div><p>Artistic Swimming aims to create an opportunity for students to acquire artistic water skills, and to nurture students with grace and artistry in the water. The CCA develops artistic swimming competencies of its members, and imparts values of endurance, resilience, harmony and teamwork through training sessions and competitions. As members practise perfecting the formations and routines, they are stretched to achieve their highest potential and grow in both skills and character.</p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_cca/artistic-swimming-2020.jpg"></div><p>Members participate in water training and non-water training of techniques and this enables them to hone their flexibility and stamina.</p><p>Each member is dedicated and committed to excellence, and the CCA has strong showing in the annual SSA National School Artistic Swimming Championships competition. Besides triumphing in the Artistic Swimming arena, it has also been featured in special event showcases for the school.</p><h2>Leadership Opportunities</h2><p>Captain</p><ul data-tight="true" class="tight"><li><p>‘B’ Div Vice-Captain</p></li><li><p>‘C’ Div Vice-Captain</p></li></ul><h2>CCA Schedule</h2><ul data-tight="true" class="tight"><li><p>Days: Wednesday &amp; Friday</p></li><li><p>Time: 3.15pm to 5.15pm</p></li><li><p>Venue: MGS Swimming Complex</p></li></ul><p></p>
