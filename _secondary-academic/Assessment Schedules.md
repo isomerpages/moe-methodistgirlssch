@@ -2,19 +2,6 @@
 title: Assessment Schedules
 permalink: /secondary/academic/schedules/
 description: ""
+variant: tiptap
 ---
-Please click on the links below to access the latest schedule for each level:
-
-*   Assessment Schedule 2024 ^
-
-
-**2024 Preliminary/End-of-Year Examination Timetable** ^
-
-*   Sec/Year 1, 2 and 3: Examination Schedule
-
-*   Year 4: EOY Examination Schedule
-
-*   Sec 4: Preliminary Examination Schedule
-
-
-<sup> ^ a link will be provided at a date closer to the event</sup>
+<p>Please click on the links below to access the latest schedule for each level:</p><ul data-tight="true" class="tight"><li><p>Assessment Schedule 2024 ^</p></li></ul><p><strong>2024 Preliminary/End-of-Year Examination Timetable</strong> ^</p><ul><li><p>Sec/Year 1, 2 and 3: Examination Schedule</p></li><li><p>Year 4: EOY Examination Schedule</p></li><li><p>Sec 4: Preliminary Examination Schedule</p></li></ul><p>^ a link will be provided at a date closer to the event</p>
