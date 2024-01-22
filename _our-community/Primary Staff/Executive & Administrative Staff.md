@@ -5,16 +5,6 @@ description: ""
 third_nav_title: Primary Staff
 variant: markdown
 ---
-# Allied Educator
-
-|||
-| -------- | -------- |
-|School Counsellor| [Miss Christina Soh Yu Ting](mailto:christina_soh_yu_ting@schools.gov.sg)|
-|Senior Special Educational Needs(SEN) Officer|[Mrs Lee E-Lyn](mailto:lim_e-lyn_lin_yilin@schools.gov.sg)|
-|Senior Special Educational Needs(SEN) Officer| [Miss Chiam Puay Hoon](mailto:lindy_chiam_puay_hoon@schools.gov.sg)|
-|Allied Educator (Teaching and Learning)| [Ms Lam Yueh Hwa Jessica](mailto:lam_yueh_hwa_jessica@schools.gov.sg)|
-
-
 # Administration
 
 |||
@@ -64,3 +54,4 @@ variant: markdown
 |||
 | -------- | -------- |
 |Teacher-Aide| Mr Wilson Lim
+|Teacher-Aide| Ms Christine Sim
