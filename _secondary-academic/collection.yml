@@ -1,0 +1,28 @@
+collections:
+  secondary-academic:
+    output: true
+    order:
+      - Aesthetics/.keep
+      - Aesthetics/Aesthetics.md
+      - Aesthetics/Art.md
+      - Aesthetics/Lower Secondary Music.md
+      - Aesthetics/Music Elective Programme.md
+      - Computer Studies.md
+      - "Contemporary issues: Perspectives & Inquiry.md"
+      - Food and Consumer Education.md
+      - Humanities/.keep
+      - Humanities/Humanities.md
+      - Humanities/Geography.md
+      - Humanities/Global Studies and Global Perspectives and Inquiry.md
+      - Humanities/History.md
+      - Humanities/Social Studies.md
+      - Language Arts.md
+      - Mathematics.md
+      - Mother Tongue.md
+      - Physical Education.md
+      - Sciences.md
+      - Integrated Programme/.keep
+      - Integrated Programme/Integrated Programme.md
+      - Integrated Programme/Curriculum Structure & Subject Options.md
+      - "1: 1 Learning Programme.md"
+      - Assessment Schedules.md

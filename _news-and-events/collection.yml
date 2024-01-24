@@ -1,0 +1,12 @@
+collections:
+  news-and-events:
+    output: true
+    order:
+      - Open House/MGS Welcomes You.md
+      - Open House/Programme.md
+      - Open House/Student Voices.md
+      - Open House/Sharing Sessions.md
+      - Open House/DSA Talent Areas.md
+      - Open House/.keep
+      - Calendar of Events.md
+      - Publications.md

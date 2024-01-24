@@ -1,0 +1,21 @@
+collections:
+  secondary:
+    output: true
+    order:
+      - Our Educational Experience.md
+      - Student Development/.keep
+      - Student Development/Student Development.md
+      - Student Development/Character and Citizenship Education (CCE).md
+      - Student Development/Counselling.md
+      - Student Development/Education & Career Guidance.md
+      - Student Development/Independent Learning Day.md
+      - Student Development/Sexuality Education.md
+      - Student Development/Values in Action.md
+      - Key Programmes/.keep
+      - Key Programmes/Intergenerational Learning (IGL) @ MGS.md
+      - Key Programmes/STE(A)M.md
+      - Useful Links/.keep
+      - Useful Links/For Staff.md
+      - Useful Links/For Students.md
+      - Useful Links/Student Learning Space.md
+      - Useful Links/Loan of MGS Uniform One.md

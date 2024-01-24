@@ -1,0 +1,14 @@
+collections:
+  about-mgs:
+    output: true
+    order:
+      - Principal's Message.md
+      - Our Board of Management.md
+      - Our Corporate Video.md
+      - Our Heritage.md
+      - Our Identity.md
+      - Our MGS Houses.md
+      - PDPA Policy.md
+      - School Safety.md
+      - The MGS Store.md
+      - Contact Us.md

@@ -1,0 +1,7 @@
+---
+title: MOE Parent Kit
+permalink: /our-people/Parents/moe-parent-kit/
+description: ""
+variant: tiptap
+---
+<div class="isomer-image-wrapper"><img style="width:40%;" height="auto" width="100%" src="/images/Common/logo-moe-parentkit.jpg"></div><p>Click here to access the <a href="https://www.moe.gov.sg/parentkit?pt=Education%20Stages%C2%A0%C2%A0" rel="noopener noreferrer nofollow" target="_blank">MOE Parent Kit</a>:</p><ul data-tight="true" class="tight"><li><p><strong>Education Stages</strong>: Tips and advice on selecting schools and transitioning to new education stage (from pre-school to primary, primary to secondary and secondary to post-secondary)</p></li><li><p><strong>Learning</strong>: Ways to inculcate positive learning attitudes in our children and adapting to new routines such as Home-Based Learning (HBL)</p></li><li><p><strong>Technology</strong>: Resources on developing cyber wellness &amp; cyber etiquette, dealing with cyberbullying and managing the use of devices – including Personal Learning Devices (PLDs)</p></li><li><p><strong>Parent-child Relationship</strong>: Parent-child activities to strengthen family relationships and bond with your child</p></li><li><p><strong>Well-being</strong>: Resources on caring for and supporting your child’s mental and physical well-being</p></li><li><p><strong>Personal Growth</strong>: Tips and advice on how to support your child in building interpersonal skills to help them manage their emotions throughout their schooling journey</p></li></ul><p></p>

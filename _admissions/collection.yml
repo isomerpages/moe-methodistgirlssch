@@ -1,0 +1,27 @@
+collections:
+  admissions:
+    output: true
+    order:
+      - Primary Admission/.keep
+      - Primary Admission/Midstream Admission for Primary School.md
+      - Secondary Admission/.keep
+      - Secondary Admission/Direct School Admission for Secondary 1.md
+      - Secondary Admission/Integrated Programme for Year 1.md
+      - Secondary Admission/Integrated Programme for Year 3.md
+      - Secondary Admission/Appeals for Admissions into Secondary 1.md
+      - Secondary Admission/Secondary 1 Registration.md
+      - Secondary Admission/Midstream Admission for Secondary School.md
+      - Secondary Admission/Immersion Programmes.md
+      - School Fees/.keep
+      - School Fees/Primary School Fees.md
+      - School Fees/Secondary School Fees.md
+      - Financial Assistance Scheme/.keep
+      - Financial Assistance Scheme/Primary School.md
+      - Financial Assistance Scheme/Secondary School.md
+      - Awards and Scholarships/.keep
+      - Awards and Scholarships/Awards and Scholarships.md
+      - Awards and Scholarships/MGS Special Awards and Scholarships.md
+      - Awards and Scholarships/MGS School based Awards.md
+      - Awards and Scholarships/MOE Scholarship & Awards.md
+      - Awards and Scholarships/National & Other Awards.md
+      - Leave of Absence.md
