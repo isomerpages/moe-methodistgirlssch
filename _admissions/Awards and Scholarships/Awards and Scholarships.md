@@ -33,7 +33,7 @@ more information on each scholarship/ award.</p>
 <h3>CLOSING DATE FOR SUBMISSIONS:</h3>
 <p>(i) <strong>Thursday 25 January 2024, 3pm&nbsp;</strong>
 </p>
-<p>For Current Secondary Four/ Year Four students<strong> and&nbsp;</strong>
+<p>For Current Secondary Four/ Year Four students<strong> and&nbsp;</strong> 
 <br>Current Secondary One/ Year One students who continue their studies in
 MGS from Primary Six</p>
 <p></p>
@@ -48,15 +48,15 @@ purpose.&nbsp;</p>
 <p></p>
 <p>Kindly submit the completed application form (including files and supporting
 documents) to the respective FORMSG:</p>
-<p><strong>Puan Sri Helene Tan Chin Tuan Scholarships</strong>
-<br>(i) <a href="https://go.gov.sg/2023mgsp6pshtct" rel="noopener noreferrer nofollow" target="_blank">Application for Puan Sri Helene Tan Chin Tuan Scholarship - MGS Primary 6 (2023)</a>
-<br>(ii) <a href="https://go.gov.sg/2023sy3pshtct" rel="noopener noreferrer nofollow" target="_blank">Application for Puan Sri Helene Tan Chin Tuan Scholarship - MGS Sec / Yr 3 (2023)</a>
+<p><strong>Puan Sri Helene Tan Chin Tuan Scholarships</strong> 
+<br>(i) <a href="https://go.gov.sg/2023mgsp6pshtct" rel="noopener noreferrer nofollow" target="_blank">Application for Puan Sri Helene Tan Chin Tuan Scholarship - MGS Primary 6 (2023)</a> 
+<br>(ii) <a href="https://go.gov.sg/2023sy3pshtct" rel="noopener noreferrer nofollow" target="_blank">Application for Puan Sri Helene Tan Chin Tuan Scholarship - MGS Sec / Yr 3 (2023)</a> 
 <br>(iii) <a href="https://go.gov.sg/2023sy4pshtct" rel="noopener noreferrer nofollow" target="_blank">Application for Puan Sri Helene Tan Chin Tuan Scholarship - MGS Sec / Yr 4 (2023)</a>
 </p>
-<p><strong>Jumabhoy Impact Award</strong>
+<p><strong>Jumabhoy Impact Award</strong> 
 <br><a href="https://go.gov.sg/2023sy4jumabhoyimpactaward" rel="noopener noreferrer nofollow" target="_blank">Application for Jumabhoy Impact Award - MGS Sec / Yr 4 (2023)</a>
 </p>
-<p><strong>Tommy Koh Award for Arts and Creativity</strong>
+<p><strong>Tommy Koh Award for Arts and Creativity</strong> 
 <br><a href="https://go.gov.sg/2023sy4tommykohawardforartsandcreativity" rel="noopener noreferrer nofollow" target="_blank">Application for Tommy Koh Award for Arts &amp; Creativity - MGS Sec / Yr 4 (2023)</a>
 </p>
 <p></p>
