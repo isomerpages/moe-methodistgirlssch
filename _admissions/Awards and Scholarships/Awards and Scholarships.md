@@ -111,7 +111,7 @@ Primary Six</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>25 &amp; 26 March 2024, 4 April 2024 (TBC)</strong>
+<p><strong>25 &amp; 26 March 2024, 5 April 2024 (TBC)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
