@@ -28,12 +28,6 @@ in her growth journey of being and becoming her best self for our world.</p>
 to MASTER, to GROW and to SERVE.</p>
 </li>
 </ol>
-<h3>Structure</h3>
-<p>All parents in MGS are automatically part of the school’s parent support
-group. Some parents will come forth as volunteers to help in various activities
-and administration; a few will offer to be representatives for their daughters’
-classes and will be appointed class/level reps. These reps work with a
-central committee to organise activities and events for the year.</p>
 <h3>2024 ParentLink Committee</h3>
 <table>
 <tbody>
