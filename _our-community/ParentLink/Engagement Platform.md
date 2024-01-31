@@ -5,25 +5,47 @@ description: ""
 third_nav_title: ParentLink
 variant: tiptap
 ---
-<h3>2024 ParentLink Event</h3>
-<p><strong>ParentLink Engagement Platform</strong>
-</p>
+<h3><strong>ParentLink Engagement Platform</strong></h3>
+<p>ParentLink Engagement Platform</p>
 <p>The School and ParentLink collaborate as partners in supporting every
 MGS girl in her growth journey of being and becoming her best self for
 the world. Various opportunities are made possible for parents to contribute
 to the development of their daughters during their school experience, thereby
 strengthening the parent-daughter relationship. Parents can actively participate
-by helping out in school programs, enrichment activities and learning journeys,
-as well as engage in parent sessions and take part in parent-child bonding
-activities. More information regarding these opportunities will be shared
-at a later date. In addition, parents can also volunteer in the Library,
-Reading Rocks and Circle of Care for Primary school, and the Worship and
-Prayer parents under the School’s Christian Ministry. If you are interested
-in volunteering for any of the above programmes, please email <a href="mailto:mgps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>mgps@moe.edu.sg</u></a> (Pri)
-or <a href="mailto:mgps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>mgss@moe.edu.sg</u></a> (Sec)</p>
-<p><strong>The following outlines some of the parent engagement platforms and activities schedule:</strong>
+by:&nbsp;</p>
+<ul>
+<li>
+<p>taking on the role of Class reps in the Primary School,&nbsp;</p>
+</li>
+<li>
+<p>helping out in school programs, enrichment activities and learning journeys,&nbsp;</p>
+</li>
+<li>
+<p>being involved with career talks and providing work experience opportunities
+in the Secondary School,&nbsp;</p>
+</li>
+<li>
+<p>volunteering in the avenues such as Library, Reading Rocks and Circle
+of Care for Primary School,</p>
+</li>
+<li>
+<p>serving in Worship and Prayer parents under the School’s Christian Ministry,</p>
+</li>
+<li>
+<p>engaging in parent sessions and taking part in parent-child bonding activities.</p>
+</li>
+</ul>
+<p>In the Primary School, Class reps form an important network through which
+ParentLink functions. They are appointed based on indications of interest
+and recommendations from level reps, ParentLink committee and/or teachers.
+Class reps are encouraged to participate and engage other class parents
+to support ParentLink events, offer/channel feedback and suggestions relevant
+to ParentLink, assist teachers/the school when requested and initiate informal
+activities at class levels.</p>
+<p>The following outlines some of the parent engagement platforms and activities
+schedule:
+<br>
 </p>
-<p></p>
 <table>
 <tbody>
 <tr>
@@ -75,7 +97,8 @@ or <a href="mailto:mgps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Fridays, 8 March, 19 April, 23 August 7.30 - 8.15am</p>
+<p>Fridays, 8 March, 19 April, 23 August</p>
+<p>7.30 - 8.15am</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>World of Wonder (WoW)</p>
@@ -101,21 +124,17 @@ or <a href="mailto:mgps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_
 </tr>
 </tbody>
 </table>
+<p>
+<br>
+</p>
+<p>If you are interested in volunteering for any of the above programmes,
+please email <a href="mailto:mgps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>mgps@moe.edu.sg</u></a> (Pri)
+or <a href="mailto:mgps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>mgss@moe.edu.sg</u></a> (Sec).
+More information regarding some of these opportunities will also be shared
+at a later date.&nbsp;</p>
 <p></p>
-<h3>How you can help:</h3>
-<p>Class reps form an important network through which ParentLink functions.
-They are appointed based on indications of interest and recommendations
-from level reps, ParentLink committee and/or teachers. Class reps are encouraged
-to participate and engage other class parents to support ParentLink events,
-offer/channel feedback and suggestions relevant to ParentLink, assist teachers/the
-school when requested and initiate informal activities at class levels.</p>
-<p>Should you be interested in helping in any of the events organized by
-ParentLink, please&nbsp;<a href="mailto:mgss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>email us</u></a>&nbsp;.</p>
-<h3>Parents may also help in other areas:</h3>
-<p>In addition, parents can also be involved with career talks and providing
-work experience opportunities in the Secondary School, library duties in
-the Primary School or be a part of regular prayer meetings to provide prayer
-support to the school and girls as well as in ad-hoc events.</p>
+<p>Parents can be part of prayer meetings to provide prayer support to the
+school and girls. Below are more information regarding these sessions:&nbsp;</p>
 <h3>2024 Prayer Meeting Dates:</h3>
 <table>
 <tbody>
@@ -187,7 +206,7 @@ support to the school and girls as well as in ad-hoc events.</p>
 <p>P6 coordinators: Ms Annie Chua</p>
 </li>
 <li>
-<p>S/Y4 coordinator: TBA/TBC (kindly contact Ms Jenny Koh at&nbsp;<a href="mailto:mgss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>jenny_koh@mgs.sch.edu.sg</u></a>)</p>
+<p>S/Y4 coordinator: TBA/TBC (kindly contact Ms Jenny Koh at&nbsp;<a href="mailto:mgps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>jenny_koh@mgs.sch.edu.sg</u></a>)</p>
 </li>
 </ul>
 <p><strong>Remarks:</strong>
@@ -231,4 +250,6 @@ the Security Post.</p>
 <p>If you have any enquiries regarding Parents’ Prayer Meetings, please contact
 Christian Ministry Staff (CMS) Ms Corrine Chee (Pri Sch), Ms Jenny Koh
 (Sec Sch) at 6469 4800.</p>
-<p></p>
+<p>
+<br>
+</p>
