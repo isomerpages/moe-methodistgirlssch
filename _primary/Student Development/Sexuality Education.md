@@ -117,7 +117,7 @@ from sexuality-related risks.</p>
 </ol>
 <p><strong>At METHODIST GIRLS’ SCHOOL (PRIMARY), the following Sexuality Education lessons will be taught in 2024:</strong>
 </p>
-<p>Primary 5</p>
+<h4><strong>Primary 5</strong></h4>
 <table>
 <tbody>
 <tr>
@@ -196,7 +196,7 @@ and how to seek help for themselves and their friends.</p>
 </tbody>
 </table>
 <p></p>
-<p>Primary 6</p>
+<h4><strong>Primary 6</strong></h4>
 <table>
 <tbody>
 <tr>
