@@ -97,7 +97,8 @@ schedule:
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Fridays, 8 March, 19 April, 23 August 7.30 - 8.15am</p>
+<p>Fridays, 8 March, 19 April, 23 August</p>
+<p>7.30 - 8.15am</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>World of Wonder (WoW)</p>
