@@ -6,7 +6,7 @@ third_nav_title: ParentLink
 variant: tiptap
 ---
 <h3><strong>ParentLink Engagement Platform</strong></h3>
-<p>ParentLink Engagement Platform</p>
+<p></p>
 <p>The School and ParentLink collaborate as partners in supporting every
 MGS girl in her growth journey of being and becoming her best self for
 the world. Various opportunities are made possible for parents to contribute
@@ -36,12 +36,10 @@ of Care for Primary School,</p>
 </li>
 </ul>
 <p>In the Primary School, Class reps form an important network through which
-ParentLink functions. They are appointed based on indications of interest
-and recommendations from level reps, ParentLink committee and/or teachers.
-Class reps are encouraged to participate and engage other class parents
-to support ParentLink events, offer/channel feedback and suggestions relevant
-to ParentLink, assist teachers/the school when requested and initiate informal
-activities at class levels.</p>
+ParentLink functions. Class reps are encouraged to participate and engage
+other class parents to support ParentLink events, offer/channel feedback
+and suggestions relevant to ParentLink, assist teachers/the school when
+requested and initiate informal activities at class levels.</p>
 <p>The following outlines some of the parent engagement platforms and activities
 schedule:
 <br>
