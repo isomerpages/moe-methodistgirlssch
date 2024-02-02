@@ -17,7 +17,7 @@ can look forward to receiving their iPad bundles by Term 2, Week 1 of the
 year.&nbsp;</p>
 <p>Please refer to these two handbooks for more information about Learning
 with a Personal Learning Device:
-<br>-&nbsp;<a href="https://drive.google.com/file/d/1xsqK7iSMpd5H6LTQFhsB3-MNH1OyGE89/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook on Learning with a PLD (I)</a>
+<br>-&nbsp;<a href="https://drive.google.com/file/d/1xsqK7iSMpd5H6LTQFhsB3-MNH1OyGE89/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook on Learning with a PLD (I)</a> 
 <br>-&nbsp;<a href="https://drive.google.com/file/d/1uKcpRzKpsTeN1Ro70kqJiUzpz_XqS96v/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook on Learning with a PLD (II)</a>
 </p>
 <div class="iframe-wrapper">
@@ -26,7 +26,7 @@ with a Personal Learning Device:
 <h3>DMA Option for Parents</h3>
 <p><a href="https://form.gov.sg/6153d0af93cf0600135149c2" rel="noopener noreferrer nofollow" target="_blank">Click here</a>&nbsp;&nbsp;to
 change your DMA Options.</p>
-<p><a href="https://drive.google.com/file/d/11zI-tlYpxe8DdIS3f_JGYy-4Y7p6V88a/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">DMA Parent Guide - Default (iPadOS)</a>
-<br><a href="https://drive.google.com/file/d/1ZhmXrpcd8PpdBGVZGOx25vzSG6i0j5rw/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">DMA Parent Guide v2.0 - Option A (iPadOS)</a>
+<p><a href="https://drive.google.com/file/d/11zI-tlYpxe8DdIS3f_JGYy-4Y7p6V88a/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">DMA Parent Guide - Default (iPadOS)</a> 
+<br><a href="https://drive.google.com/file/d/1ZhmXrpcd8PpdBGVZGOx25vzSG6i0j5rw/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">DMA Parent Guide v2.0 - Option A (iPadOS)</a> 
 <br><a href="https://drive.google.com/file/d/1bMTMJMhaSlkYcZKJOnDVhJ5kscNSQdJt/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">DMA Parent Guide v2.0 - Option B (iPadOS)</a>
 </p>
