@@ -59,7 +59,7 @@ As such, it must be worn with pride and decorum. <strong>The wearer must treat U
 do not tumble dry
 <br>  b) Preferably hand wash according to instructions on care label.</p>
 <p><strong>(3) Dry Clean: MGS blazer and blue skirt.</strong> Write your <strong>name on the front side of the laundry receipt</strong>.</p>
-<p><strong>(4) Return the uniform to the General Office (ground floor)</strong> 
+<p><strong>(4) Return the uniform to the General Office (ground floor)</strong>
 </p>
 <p><strong>(5) If any part of the Uniform is lost, damaged or badly stained, you will replace the item at the following cost:</strong>
 </p>
