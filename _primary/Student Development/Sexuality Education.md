@@ -168,8 +168,6 @@ of being exposed to sexually explicit materials and reject the viewing
 and/or reading of pornographic materials. They will learn to evaluate their
 own responses when they encounter pornography by applying the strategy
 ‘Stop-Think-Do’.&nbsp;</p>
-<p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 2</p>
@@ -211,7 +209,7 @@ and how to seek help for themselves and their friends.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>TIME PERIOD</p>
-<p>(e.g. Term 1 Week 2)</p>
+<p></p>
 </td>
 </tr>
 <tr>
