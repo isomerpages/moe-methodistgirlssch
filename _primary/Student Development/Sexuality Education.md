@@ -265,7 +265,7 @@ lessons need to complete an opt-out form which will be given by our child’s/wa
 form teacher.</p>
 </li>
 <li>
-<p>Parents can contact the school at <a href="mailto:quah_hue_bin_cecilia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">quah_hue_bin_cecilia@schools.gov.sg</a> for
+<p>Parents can contact the school at <a href="mailto:jayanthi_kadiresan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jayanthi_kadiresan@schools.gov.sg</a> for
 discussion or to seek clarification about the school’s Sexuality Education
 programme.</p>
 </li>
