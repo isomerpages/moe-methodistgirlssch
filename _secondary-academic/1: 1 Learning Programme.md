@@ -27,7 +27,7 @@ with a Personal Learning Device:
 <p><a href="https://form.gov.sg/6153d0af93cf0600135149c2" rel="noopener noreferrer nofollow" target="_blank">Click here</a>&nbsp;&nbsp;to
 change your DMA Options.</p>
 <p><a href="https://drive.google.com/file/d/11zI-tlYpxe8DdIS3f_JGYy-4Y7p6V88a/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">DMA Parent Guide - Default (iPadOS)</a> 
-<br><a href="https://drive.google.com/file/d/1WY8zv7IvB9JBwVYDw-pTaFJkhxQSd8gt/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">DMA Parent Guide - Option A (iPadOS</a> 
+<br><a href="https://drive.google.com/file/d/1WY8zv7IvB9JBwVYDw-pTaFJkhxQSd8gt/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">DMA Parent Guide - Option A (iPadOS</a>
 <a href="https://drive.google.com/file/d/1ZhmXrpcd8PpdBGVZGOx25vzSG6i0j5rw/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">)</a>
 <br><a href="https://drive.google.com/file/d/1K1-uRoj4oZjVEnh4LWHuZ1WNB8zNQQR-/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">DMA Parent Guide - Option B (iPadOS)</a>
 </p>
