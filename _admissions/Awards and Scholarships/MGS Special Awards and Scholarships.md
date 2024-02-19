@@ -108,7 +108,7 @@ To Serve.</p>
 </p>
 <p>^Tommy Koh Award for Arts and Creativity replaces the previous Tommy Koh
 Book Prize.</p>
-<h2>Mary Nind Bursary Award</h2>
+<h2>Mary Nind Bursary Award (MNBA)</h2>
 <p>To recognise self-directed academic achievements for high ability students
 who come from lower or middle income families. She is of good character
 and role models our school values and the school motto, To Master, To Grow,
