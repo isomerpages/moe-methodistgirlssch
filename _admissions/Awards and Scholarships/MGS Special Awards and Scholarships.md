@@ -44,13 +44,13 @@ school values and the school motto, To Master, To Grow, To Serve.</p>
 <h2>Ellice Handy Award&nbsp;</h2>
 <p><em>Mrs Ellice Handy was an old girl, and later a teacher at MGS where she taught English, History and Bible Knowledge. She was the first Asian principal of MGS and wrote the first Singaporean cookbook, My Favourite Recipes.</em>
 </p>
-<p><strong>(A) GCE O-Level</strong>
+<p><strong>(A) Ellice Handy Award (GCE O-Level)</strong>
 </p>
 <p>The Ellice Handy Award is presented to a student who has excelled academically
 in the GCE O-Level cohort. She is a self-directed learner who inspires
 others with her passion for learning. She is of good character and role
 models our school values and the school motto, To Master, To Grow, To Serve.</p>
-<p><strong>(B) Integrated Programme</strong>
+<p><strong>(B) Ellice Handy Award (Integrated Programme)</strong>
 </p>
 <p>The Ellice Handy Award is presented to a student who has excelled academically
 in the Year Four Integrated Programme cohort. She is a self-directed learner
