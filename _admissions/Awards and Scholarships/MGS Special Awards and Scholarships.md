@@ -25,15 +25,20 @@ motto, To Master, To Grow, To Serve.</p>
 <h2>Lydia Huang Award</h2>
 <p>The Lydia Huang Award is presented to the student with outstanding CCA
 (Sports) achievements in the PSLE cohort and shows strong school spirit.
-She is a current Secondary One student continuing her studies in MGS.</p>
+She is of good character and role models our school values and the school
+motto, To Master, To Grow, To Serve and is a current Secondary One student
+continuing her studies in MGS.</p>
 <h2>Model Student Award</h2>
 <p>The Model Student Award is presented to a Primary 6 pupil who shows exemplary
 behaviour and demonstrates a commitment to achieving excellence in academic
-pursuits and in co-curricular activities. She is ever ready to extend a
-helping hand to others and inspires acts of kindness among&nbsp;her&nbsp;peers.</p>
+pursuits and in co-curricular activities. She is of good character and
+role models our school values and the school motto, To Master, To Grow,
+To Serve. She is ever ready to extend a helping hand to others and inspires
+acts of kindness among her peers.</p>
 <h2>Tan Ley Chee Award</h2>
 <p>The Tan Ley Chee Award is presented to the best all-rounder in the graduating
-class.</p>
+cohort in Secondary school. She is of good character and role models our
+school values and the school motto, To Master, To Grow, To Serve.</p>
 <p><em>The Tan Ley Chee Award originated from the Best All Round Student Award created in 1976. The award is named after the former Ngui Ley Chee, an old girl, and president of the MGS Alumnae Association for a number of years.</em>
 </p>
 <h2>Ellice Handy Award&nbsp;</h2>
@@ -41,15 +46,22 @@ class.</p>
 </p>
 <p><strong>(A) GCE O-Level</strong>
 </p>
-<p>The Ellice Handy Award is presented to the top student in the GCE O-Level
-cohort.</p>
+<p>The Ellice Handy Award is presented to a student who has excelled academically
+in the GCE O-Level cohort. She is a self-directed learner who inspires
+others with her passion for learning. She is of good character and role
+models our school values and the school motto, To Master, To Grow, To Serve.</p>
 <p><strong>(B) Integrated Programme</strong>
 </p>
-<p>The Ellice Handy Award is presented to the top student in the Year Four
-Integrated Programme cohort.</p>
+<p>The Ellice Handy Award is presented to a student who has excelled academically
+in the Year Four Integrated Programme cohort. She is a self-directed learner
+who inspires others with her passion for learning. She is of good character
+and role models our school values and the school motto, To Master, To Grow,
+To Serve.</p>
 <h2>Wong Hee Hua Award</h2>
 <p>The Wong Hee Hua Award is presented to a music student from the graduating
-class for her outstanding contribution to the musical life of MGS.</p>
+class for her outstanding contribution to the musical life of MGS. She
+is of good character and role models our school values and the school motto,
+To Master, To Grow, To Serve.</p>
 <p><em>Miss Wong Hee Hua is the younger sister of Ruth Wong. She graduated from MGS in 1936 at the age of 14 and went on to become a teacher in her alma mater. Her forte was in the teaching of Music and Mathematics. Under her leadership, the MGS choir won many awards.</em>
 </p>
 <h2>Puan Sri Helene Tan Chin Tuan Scholarships</h2>
@@ -68,17 +80,17 @@ To Serve.</p>
 <p><em>The Jumabhoy family is a dedicated supporter of education-centric philanthropic initiatives and believes strongly in giving back to the community.</em>
 </p>
 <p>*Jumabhoy Impact Award replaces the previous Jumabhoy Award.</p>
-<h2>Outstanding Sportsgirl Award</h2>
+<h2>MGS Outstanding Sportsgirl Award</h2>
 <p>The MGS Outstanding Sports Girl Award is presented to a Colours recipient
 with a track record of exceptional performance in national and international
-sports competitions.</p>
-<p>She is an exemplary sports girl who displays good character befitting
-of school values and the school motto, To Master, To&nbsp;Grow,&nbsp;To&nbsp;Serve.</p>
+sports competitions. She is an exemplary sports girl who is of good character
+and role models our school values and the school motto, To Master, To Grow,
+To Serve.</p>
 <h2>Wee Kim Wee Award</h2>
 <p>The Wee Kim Wee Award is presented to a Secondary Three pupil who has
 consistently displayed exemplary conduct and embodies our school values
 and motto since she was in Secondary One. She must also have demonstrated
-a commitment to academic pursuits and in co-curricular&nbsp;activities.</p>
+a commitment to academic pursuits and in co-curricular activities.</p>
 <h2>Sophia Blackmore Award</h2>
 <p>The Sophia Blackmore Award is presented to a Primary or Secondary MGS
 student who displays either exemplary courage and determination in the
