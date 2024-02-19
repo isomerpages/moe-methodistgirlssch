@@ -95,7 +95,8 @@ a commitment to academic pursuits and in co-curricular activities.</p>
 <p>The Sophia Blackmore Award is presented to a Primary or Secondary MGS
 student who displays either exemplary courage and determination in the
 face of challenging circumstances or magnanimity and altruism in the face
-of adversity.</p>
+of adversity. She is of good character and role models our school values
+and the school motto, To Master, To Grow, To Serve.</p>
 <p><em>Miss Sophia Blackmore was the first woman missionary sent by the Methodist Women’s Foreign Missionary Society to Singapore in 1887. With fortitude, tenacity and passion for the welfare of others, she pioneered education for girls in Singapore. She founded a church and two well-known schools, one of which is MGS.</em>
 </p>
 <h2>Tommy Koh Award for Arts and Creativity</h2>
