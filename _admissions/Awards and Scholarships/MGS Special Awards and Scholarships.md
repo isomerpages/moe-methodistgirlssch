@@ -110,7 +110,9 @@ To Serve.</p>
 Book Prize.</p>
 <h2>Mary Nind Bursary Award</h2>
 <p>To recognise self-directed academic achievements for high ability students
-who come from lower or middle income families</p>
+who come from lower or middle income families. She is of good character
+and role models our school values and the school motto, To Master, To Grow,
+To Serve.</p>
 <h2>Mrs Anna Tham Book Prize</h2>
 <p>Mrs Anna Tham Book Prizes are presented to the top three scorers in Mathematics
 in Primary Five and Six, in the lower secondary levels (both the IP and
