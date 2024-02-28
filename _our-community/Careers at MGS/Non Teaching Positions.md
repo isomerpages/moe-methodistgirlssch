@@ -5,4 +5,5 @@ description: ""
 third_nav_title: Careers at MGS
 variant: tiptap
 ---
-<p><a href="https://www.jobstreet.com.sg/en/job/11090951" rel="noopener noreferrer nofollow" target="_blank">Teacher Aide</a></p>
+<p><a href="https://www.jobstreet.com.sg/job/73909228?tracking=SHR-WEB-SharedJob-asia-7" rel="noopener noreferrer nofollow" target="_blank">Senior Executive, Human Resources</a>
+</p>
