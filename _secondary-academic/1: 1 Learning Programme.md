@@ -27,8 +27,6 @@ with a Personal Learning Device:
 <p><a href="https://form.gov.sg/6153d0af93cf0600135149c2" rel="noopener noreferrer nofollow" target="_blank">Click here</a>&nbsp;&nbsp;to
 change your DMA Options.</p>
 <p><a href="https://drive.google.com/file/d/1yfzfCqVfrQStZ9w5djSHnHVTol7fZbqD/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">DMA Parent Guide - Default Option</a>
-</p>
-<p><a href="https://drive.google.com/file/d/1WY8zv7IvB9JBwVYDw-pTaFJkhxQSd8gt/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">DMA Parent Guide - Option A</a>
-</p>
-<p><a href="https://drive.google.com/file/d/1K1-uRoj4oZjVEnh4LWHuZ1WNB8zNQQR-/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">DMA Parent Guide - Option B</a>
+<br><a href="https://drive.google.com/file/d/1WY8zv7IvB9JBwVYDw-pTaFJkhxQSd8gt/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">DMA Parent Guide - Option A</a>
+<br><a href="https://drive.google.com/file/d/1K1-uRoj4oZjVEnh4LWHuZ1WNB8zNQQR-/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">DMA Parent Guide - Option B</a>
 </p>
