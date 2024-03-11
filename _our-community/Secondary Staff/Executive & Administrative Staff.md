@@ -6,41 +6,41 @@ third_nav_title: Secondary Staff
 variant: tiptap
 ---
 <h3><strong>ADMINISTRATION</strong></h3>
-<p>Senior Manager: <a href="mailto:Anthony_Phua@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Anthony Phua</a>
+<p>Senior Manager: <a href="mailto:Anthony_Phua@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Anthony Phua</a> 
 <br>Senior Executive: Ms Ho Wai Fun
 <br>Senior&nbsp;Executive (Procurement): Ms Ruth Chng
 <br>Executive (Procurement) : Mdm Sulaigal</p>
 <h3><strong>ALLIED EDUCATORS AND COUNSELLORS</strong></h3>
-<p>Education and Career Guidance (ECG) Counsellor:&nbsp;<a href="mailto:sylvia_ng_pik_san@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Sylvia Ng</a>
-<br>Education and Career Guidance (ECG) Counsellor:&nbsp;<a href="mailto:tan_lay_theng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Dr Tan Lay Theng</a>
-<br>Learning and Behavioural Support:&nbsp;<a href="mailto:Nimala_Mokhna_Rau@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Nimala Rau</a>
+<p>Education and Career Guidance (ECG) Counsellor:&nbsp;<a href="mailto:sylvia_ng_pik_san@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Sylvia Ng</a> 
+<br>Education and Career Guidance (ECG) Counsellor:&nbsp;<a href="mailto:tan_lay_theng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Dr Tan Lay Theng</a> 
+<br>Learning and Behavioural Support:&nbsp;<a href="mailto:Nimala_Mokhna_Rau@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Nimala Rau</a> 
 <br>School Counsellor:&nbsp;<a href="mailto:goh_chor_siang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Goh Chor Siang</a>
 </p>
 <h3><strong>CHRISTIAN MINISTRY</strong></h3>
 <p>Christian Ministry Staff:&nbsp;<a href="mailto:jenny_koh@mgs.sch.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Jenny Koh</a>
 </p>
 <h3><strong>FACILITIES MANAGEMENT</strong></h3>
-<p>Manager: <a href="mailto:mohd_nassir_osman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Mohamad Nassir Bin Osman</a>
+<p>Manager: <a href="mailto:mohd_nassir_osman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Mohamad Nassir Bin Osman</a> 
 <br>Senior Executive: Mr Henry Liow
 <br>Assistant Executive: Mr Khairulanwar Bin Mahad
 <br>Operations Support Officer: Mr Chan Keng Seng</p>
 <h3><strong>FINANCE</strong></h3>
-<p>Director:&nbsp;<a href="mailto:cheryl_chan_hp@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Cheryl Chan</a>
-<br>Manager:&nbsp;&nbsp;<a href="mailto:teoh_ling_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Teoh Ling Hui</a>
+<p>Director:&nbsp;<a href="mailto:cheryl_chan_hp@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Cheryl Chan</a> 
+<br>Manager:&nbsp;&nbsp;<a href="mailto:teoh_ling_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Teoh Ling Hui</a> 
 <br>Senior Executive: Ms Charyl Lee
 <br>Senior Executive: Ms Debbie Cheng</p>
 <h3><strong>HUMAN RESOURCES</strong></h3>
-<p>Senior Manager: <a href="mailto:yong_sheue_horng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Yong Sheue Horng</a>
+<p>Senior Manager: <a href="mailto:yong_sheue_horng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Yong Sheue Horng</a> 
 <br>Senior Executive: Ms Geraldine Chan</p>
 <h3><strong>INFORMATION TECHNOLOGY</strong></h3>
-<p>Manager: <a href="mailto:edmund_wong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Edmund Wong</a>
+<p>Manager: <a href="mailto:edmund_wong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Edmund Wong</a> 
 <br>Senior Executive: Mr David Quah
 <br>Senior&nbsp;Executive: Mr Siva Chandran
 <br>Desktop Engineer:&nbsp;Mr Zakery Lee</p>
 <h3><strong>LIBRARY</strong></h3>
 <p>Librarian: Ms Zainap Bte Abdul Majid</p>
 <h3><strong>OPERATIONS</strong></h3>
-<p>Manager: <a href="mailto:Farah_Nabilah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Farah Nabilah Binte Muzafar</a>
+<p>Manager: <a href="mailto:Farah_Nabilah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Farah Nabilah Binte Muzafar</a> 
 <br>Assistant and Security Officer: Mdm Vimala</p>
 <h3><strong>SCIENCE LABORATORY</strong></h3>
 <p>Senior Executive: Mdm Loh Yen Nee
@@ -48,9 +48,10 @@ variant: tiptap
 <br>Assistant Executive:&nbsp;Ms Sally Lee
 <br>Senior Officer: Mr Chong Tze Yuen</p>
 <h3><strong>STRATEGIC COMMUNICATIONS &amp; OUTREACH</strong></h3>
-<p>Director (Student Affairs &amp; Outreach):&nbsp;<a href="mailto:joyce_ang_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Joyce Ang</a>
-<br>Senior Manager (Strategic Communications &amp; Engagement):&nbsp;<a href="mailto:tay_sue-mei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Sue-Mei Tay</a>
-<br>Senior Executive: Mrs Joanna Kong
+<p>Director (Student Affairs &amp; Outreach):&nbsp;<a href="mailto:joyce_ang_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Joyce Ang</a> 
+<br>Senior Manager (Strategic Communications &amp; Engagement):&nbsp;<a href="mailto:tay_sue-mei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Sue-Mei Tay</a> 
+<br>Senior Executive (Strategic Communications &amp; Engagement): Mrs Joanna
+Kong
 <br>Executive (Community Partnerships): Mr Wang Zekun</p>
 <h3><strong>TEACHERS' SUPPORT</strong></h3>
 <p>Executive: Ms Lim Aik Wang
