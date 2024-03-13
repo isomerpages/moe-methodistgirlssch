@@ -14,4 +14,4 @@ variant: markdown
 
 * [2024 P5 Infosheet](https://drive.google.com/file/d/147NDjBDXFv48xux0cktyF5eZLn7sTjOb/view?usp=sharing)  
 
-* [2024 P6 Infosheet](https://drive.google.com/file/d/1em5jojrKCzbIJXM98jvI9bj_R1tdVwZP/view?usp=share_link)
+* [2024 P6 Infosheet](https://drive.google.com/file/d/1DkGbDHWBF6SD3wkDQZhK3RbE1lgiOtg0/view?usp=sharing)
