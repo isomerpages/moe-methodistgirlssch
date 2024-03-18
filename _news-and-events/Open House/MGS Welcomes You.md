@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OH24_web.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OH24_Website_QR_to_FormSg.png">
 </div>
 <p></p>
 <p>What does it mean to <strong>learn deeply</strong> and <strong>serve purposefully</strong> for
