@@ -8,10 +8,10 @@ variant: tiptap
 biannual school newsletter encapsulating the MGS heartbeat through diverse
 narratives of how we learn and serve that embody the spirit of MGS, written
 by and for members of our school community.</p>
-<p><a href="https://drive.google.com/file/d/1l9EeEBBsN_16pM9XC5Jt0izYvGQP7sql/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">MGS Yearbook: </a>Our
-annual school magazine capturing the essence of the MGS journey in the
-year and celebrating the cherished moments and bonds that define us - a
-testament to our collective identity as an MGS family.</p>
+<p><a href="https://drive.google.com/file/d/1l9EeEBBsN_16pM9XC5Jt0izYvGQP7sql/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">MGS Yearbook</a>:
+Our annual school magazine capturing the essence of the MGS journey in
+the year and celebrating the cherished moments and bonds that define us
+- a testament to our collective identity as an MGS family.</p>
 <p><a href="https://drive.google.com/file/d/1FeIvsCiJWkjUL4XWbC6Lgb7inKpcKSQ-/view" rel="noopener noreferrer nofollow" target="_blank">Methodist Educational Brochure</a>:&nbsp;This
 document is a brief on the Educational Mission of The Methodist Church
 in Singapore. It serves as an introduction to anyone serving in our Methodist
