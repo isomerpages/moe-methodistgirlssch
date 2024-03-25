@@ -188,6 +188,5 @@ government and government aided school under the Independent School Bursary
 (ISB)).</p>
 </li>
 </ol>
-<p>ISB recipients receiving 100% fee subsidy will be auto-awarded the UPLIFT
-Scholarship.</p>
+<p></p>
 <p><a href="https://www.moe.gov.sg/financial-matters/awards-scholarships/uplift-scholarships" rel="noopener noreferrer nofollow" target="_blank">Click here for more information</a>&nbsp;.</p>
