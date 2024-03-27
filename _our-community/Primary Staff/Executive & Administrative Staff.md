@@ -32,7 +32,7 @@ variant: markdown
 | -------- | -------- |
 |ICT Associate| [Miss Nur Atiqa](mailto:nur_atiqa_harun@schools.gov.sg)|
 |Desktop Engineer|Miss Nur Izzati
-|Desktop Engineer|Mr Alif
+|Desktop Engineer|Mr Alif Abd Hamid
 
 # Library
 
