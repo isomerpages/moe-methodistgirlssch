@@ -26,7 +26,7 @@ Talent Development| [Ms Ann Cheo](mailto:ann_cheo@schools.gov.sg)
 |Physical Education|| [Mrs Gladys Jiow](mailto:tan_tsu_pei_gladys@schools.gov.sg)
 Education Technology||[Mr Christopher Wong](mailto:christopher_wong_say_eng@schools.gov.sg)
 English| [Mrs Sophia Koh ](mailto:koh_pei_chen_sophia@schools.gov.sg	)
-Mathematics|[Ms Koh Peiru (Covering)](mailto:koh_pei_loo@schools.gov.sg)
+Mathematics|[Ms Koh Peiru](mailto:koh_pei_loo@schools.gov.sg)
 Mother Tongue|[Ms Pun Yee Voon](mailto:pun_yee_voon@schools.gov.sg)
 Science|[Mrs Mun Poh Hoon](mailto:chua_poh_hoon@schools.gov.sg)
 
