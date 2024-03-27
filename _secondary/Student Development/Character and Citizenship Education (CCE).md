@@ -233,7 +233,7 @@ integrity, and contribute positively to society in meaningful ways.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secondary/growth%20journey-01.png">
 </div>
-<h3>MGS Student Development Experiences </h3>
+<h3>MGS Student Development Experiences</h3>
 <p>Student Development Experiences or Milestone Programmes are organised
 for each cohort. These experiences provide authentic contexts for learning
 as well as opportunities for students to practice the social-emotional
