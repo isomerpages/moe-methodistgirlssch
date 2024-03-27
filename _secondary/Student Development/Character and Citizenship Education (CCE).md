@@ -15,7 +15,7 @@ students.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1.png">
 </div>
-<h4>(A) A Caring and Enabling School Culture </h4>
+<h4>(A) A Caring and Enabling School Culture</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>is supported by a peer support framework</p>
@@ -29,7 +29,7 @@ recognised and affirmed for their positive actions and contributions</p>
 students, teachers and school partners.</p>
 </li>
 </ul>
-<h4>(B) Values and Social-emotional Competencies </h4>
+<h4>(B) Values and Social-emotional Competencies</h4>
 <p>The MGS girl</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -233,16 +233,15 @@ integrity, and contribute positively to society in meaningful ways.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secondary/growth%20journey-01.png">
 </div>
-<h3>MGS Milestone Programmes</h3>
-<p>Enrichment activities or Milestone Programmes are organized for each cohort.
-These activities provide authentic contexts for learning as well as opportunities
-for students to practice the social-emotional skills they have learnt in
-class. Activities are designed for social mixing and communication where
-through common tasks and challenges, students take steps forward to interact
-with those beyond their class and school.</p>
+<h3>MGS Student Development Experiences </h3>
+<p>Student Development Experiences or Milestone Programmes are organised
+for each cohort. These experiences provide authentic contexts for learning
+as well as opportunities for students to practice the social-emotional
+skills they have learnt in class. Experiences are designed for social mixing
+and communication where through common tasks and challenges, students take
+steps forward to interact with those beyond their class and school.</p>
 <p>The milestone programmes for each level are as follows:</p>
-<p><strong>Secondary/Year 1</strong>
-</p>
+<p>Secondary/Year 1</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Orientation Week</p>
@@ -254,8 +253,7 @@ with those beyond their class and school.</p>
 <p>Values in Action</p>
 </li>
 </ul>
-<p><strong>Secondary/Year 2</strong>
-</p>
+<p>Secondary/Year 2</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Learning Journey to National Museum</p>
@@ -267,21 +265,19 @@ with those beyond their class and school.</p>
 <p>Values in Action</p>
 </li>
 </ul>
-<p><strong>Secondary/Year 3</strong>
-</p>
+<p>Secondary/Year 3</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>MOE-OBS Challenge</p>
+<p>NRIC Presentation Ceremony</p>
+</li>
+<li>
+<p>MOE-OBS Challenge Camp</p>
 </li>
 <li>
 <p>Values in Action</p>
 </li>
-<li>
-<p>NRIC Presentation Ceremony</p>
-</li>
 </ul>
-<p><strong>Secondary/Year 4</strong>
-</p>
+<p>Secondary/Year 4</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Careers Festival</p>
@@ -296,6 +292,7 @@ with those beyond their class and school.</p>
 <p>Values in Action</p>
 </li>
 </ul>
+<p></p>
 <h3>School Experiences</h3>
 <p>The MGS girl is presented with a plethora of experiences and opportunities
 for growth, socialisation and self-discovery. These are offered both at
@@ -306,16 +303,20 @@ practice planning and leadership, forge friendships and make memories.</p>
 <p>The experiences include:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>House activities</p>
-</li>
-<li>
-<p>Independent Learning Day</p>
-</li>
-<li>
 <p>Self-initiated VIA projects</p>
 </li>
 <li>
-<p>STEAM programme activities</p>
+<p>Science, Technology, Society and Environment (STSE) programmes</p>
+</li>
+<li>
+<p>House activities</p>
+</li>
+<li>
+<p>Sec 3 Work Experience</p>
+</li>
+<li>
+<p>Intergenerational Learning Experiences</p>
 </li>
 </ul>
+<p></p>
 <p></p>
