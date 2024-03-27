@@ -10,8 +10,8 @@ variant: markdown
 |||
 | -------- | -------- |
 |Administration Manager| [Ms Criscelia Lim](mailto:criscelia_lim@schools.gov.sg)
+|Corporate Support Officer|Mr Alvin Goh
 |Corporate Support Officer|Ms Jasmine Chua
-|Corporate Support Officer|Miss Nur Hibriyah
 |Corporate Support Officer|Mdm Rasidah Bte Salimin
 |Operations Support Officer|Mdm Tang Lai Mui
 
@@ -32,6 +32,7 @@ variant: markdown
 | -------- | -------- |
 |ICT Associate| [Miss Nur Atiqa](mailto:nur_atiqa_harun@schools.gov.sg)|
 |Desktop Engineer|Miss Nur Izzati
+|Desktop Engineer|Mr Alif
 
 # Library
 
@@ -44,6 +45,7 @@ variant: markdown
 |||
 | -------- | -------- |
 |Operations Manager|[Mr George Ulric Arriola](mailto:George_Ulric_Arriola@schools.gov.sg)
+|Operations Manager|[Mr Ong Kim Seng](mailto:Ong_Kim_Seng@schools.gov.sg)
 |Operations Assistant/Security Officer|Mdm Vimala d/o Krishnan
 |Operations Support Officer|Mdm Gunampushnam w/o Nagapan Ganesan
 |Operations Support Officer|Mdm Kee Geok Wah
