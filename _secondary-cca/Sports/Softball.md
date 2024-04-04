@@ -19,16 +19,3 @@ Students can expect fun yet challenging training sessions which incorporate both
 </div>
 
 Players can also look forward to participating in various events such as the annual National School Games, friendly matches as well as the highly anticipated camps. While the intensity and frequency of training sessions and competitions demand a high level of commitment, they form an integral part of the team’s journey to their podium target in the National School Games, as evidenced by both the ‘B’ and ‘C’ Divisions clinching the championship in 2022 and 2023.
-
-
-## Leadership Opportunities
-
-* Captains (B &amp; C Division)
-* Vice-Captains (B &amp; C Division)
-
-
-## CCA Schedule
-
-* Days: Mondays, Wednesdays &amp; Fridays
-* Time &amp; Duration: 3.00pm - 6.00pm
-* Venue: School Field
