@@ -5,4 +5,22 @@ description: ""
 third_nav_title: Visual and Performing Arts
 variant: tiptap
 ---
-<p><a href="https://youtu.be/DQJEc-emvvs" rel="noopener noreferrer nofollow" target="_blank">Indian Dance Club</a> is a group of passionate dancers who seek to preserve and promote classical and folk Indian dance. From the colourful and enthralling Bharatanatyam and Kathak classical dance forms to the popular Bollywood genre, MGS Indian dancers’ high energy and sophisticated performances have always captivated their audience. Poised to share a love for culture and heritage through the mastery of body movements, facial expressions and teamwork, MG Indian dancers cultivate values of discipline and perseverance and build strong friendships.</p><div class="iframe-wrapper"><iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS-tIitVB4rWYwsdjpNiTWOxMGjYqzp-nrwEl6OuHXGF7pF7J7Ztv0kIgqgdmu5be3rbhoU1shCORm9/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe></div><p>Known for its active participation in both internal and external community performances and consistently showcasing excellent performances in the biennial SYF Arts Presentation, MG Indian dancers play a big role in inspiring and developing an appreciation for classical dance.</p><p>2019 SYF Arts Presentation - Distinction</p><p>2019 National Day (Heartlands) Northwest District Performance</p><h2>Leadership Opportunities</h2><p><strong>President</strong></p><ul data-tight="true" class="tight"><li><p>Leads Dance towards achieving its goals</p></li><li><p>In consultation with teacher IC and instructor to recommend and implement structures and programmes</p></li><li><p>Works closely with the committee for deployment, communication, practices and performances</p></li></ul><p><strong>Vice President</strong></p><ul data-tight="true" class="tight"><li><p>Assists the president in leading Dance</p></li><li><p>Works closely with president and committee for deployment, communication, practices and performances</p></li></ul><p><strong>Logistics</strong></p><ul data-tight="true" class="tight"><li><p>Keeps track of props, accessories and items from Dance</p></li><li><p>Develops and organises Dance in developing good dance studio habits</p></li></ul><h2>CCA Schedule</h2><ul data-tight="true" class="tight"><li><p>Days: Wednesday and Friday</p></li><li><p>Time: 3.00-6.00pm</p></li><li><p>Venue: PAL Room 1A @ MGS Sports Complex</p></li></ul><p></p>
+<p><a href="https://youtu.be/DQJEc-emvvs" rel="noopener noreferrer nofollow" target="_blank">Indian Dance Club</a> is
+a group of passionate dancers who seek to preserve and promote classical
+and folk Indian dance. From the colourful and enthralling Bharatanatyam
+and Kathak classical dance forms to the popular Bollywood genre, MGS Indian
+dancers’ high energy and sophisticated performances have always captivated
+their audience. Poised to share a love for culture and heritage through
+the mastery of body movements, facial expressions and teamwork, MG Indian
+dancers cultivate values of discipline and perseverance and build strong
+friendships.</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS-tIitVB4rWYwsdjpNiTWOxMGjYqzp-nrwEl6OuHXGF7pF7J7Ztv0kIgqgdmu5be3rbhoU1shCORm9/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p>Known for its active participation in both internal and external community
+performances and consistently showcasing excellent performances in the
+biennial SYF Arts Presentation, MG Indian dancers play a big role in inspiring
+and developing an appreciation for classical dance.</p>
+<p>2019 SYF Arts Presentation - Distinction</p>
+<p>2019 National Day (Heartlands) Northwest District Performance</p>
+<p></p>
