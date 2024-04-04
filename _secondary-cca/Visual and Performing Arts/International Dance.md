@@ -5,4 +5,29 @@ description: ""
 third_nav_title: Visual and Performing Arts
 variant: tiptap
 ---
-<p><a href="https://mgdancee.wixsite.com/mgdancee" rel="noopener noreferrer nofollow" target="_blank">MG Dance on WIX</a></p><div class="iframe-wrapper"><iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/cLIczQXvusA"></iframe></div><p>International Dance Club is a close-knit loving family of dancers who sets high standards of excellence. It aims to instil discipline and amplify their passion through the mastery of diverse dance genres, from classical to contemporary and jazz and hip hop dance.</p><p>With a structured intensive programme that teaches skills, improvisation techniques and choreography, MG dancers develop resilience and creativity through collaborative events and performances. “One Breath, One Dance, One Family” is the vision to forge lasting friendships and inspire a lifelong enthusiasm for dance.</p><div class="iframe-wrapper"><iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTmbdQL9itGMrduK6_NIYIryQzOmbwnJtv6feMwVrcPG_tHqhPEju43CgAsFeBfwJQ7mx0bzY8NG6Cl/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></div><p>International Dance Club is dedicated to continuously pushing boundaries and grooming the finest dancers. Beyond the biennial SYF Arts Presentation and annual participation in the school’s Open House and Teachers’ Day Celebrations, the CCA’s signature biennial Dance Night is the hallmark of each member’s co-curricular experience. It is a time of bringing forth their best choreography pieces together with their alumni, and reaching out to the wider audience through dance. There are also various opportunities for external performances to connect to the community and learn from others.</p><h2>Leadership Opportunities</h2><p><strong>President:</strong></p><ul data-tight="true" class="tight"><li><p>Leads Dance towards achieving its goals</p></li><li><p>Consults with teacher ICs and instructor to recommend and implement structures and programmes</p></li><li><p>Works closely with the committee for deployment, communication, practices and performances</p></li></ul><p><strong>Vice President &amp; Assistant Junior President:</strong></p><ul data-tight="true" class="tight"><li><p>Assists the president in leading Dance</p></li><li><p>Works closely with president and committee for deployment, communication, practices and performances</p></li></ul><p><strong>Dance Captain:</strong> Proficiency in dance techniques and skills to lead and work with others</p><p><strong>Logistics:</strong> Keeps track of props and items and develops and organises Dance to practise good dance studio habits</p><p><strong>Wardrobe:</strong> Oversees hair, costumes and makeup for performances</p><p><strong>Administration:</strong></p><ul data-tight="true" class="tight"><li><p>Communicates with level reps for accountability and attendance taking</p></li><li><p>Collection and distribution of admin matters</p></li></ul><p><strong>IT Director:</strong> In-charge of all social media, IT matters</p><h2>CCA Schedule</h2><ul data-tight="true" class="tight"><li><p>Days: Monday and Wednesday; Thursday (self-practice)</p></li><li><p>Time: 4pm-6pm; 3.00pm-6.00pm and 2.30pm-4.30pm</p></li><li><p>Venue: Dance Studio @ MGS Sports Complex</p></li></ul><p></p>
+<p><a href="https://mgdancee.wixsite.com/mgdancee" rel="noopener noreferrer nofollow" target="_blank">MG Dance on WIX</a>
+</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/cLIczQXvusA"></iframe>
+</div>
+<p>International Dance Club is a close-knit loving family of dancers who
+sets high standards of excellence. It aims to instil discipline and amplify
+their passion through the mastery of diverse dance genres, from classical
+to contemporary and jazz and hip hop dance.</p>
+<p>With a structured intensive programme that teaches skills, improvisation
+techniques and choreography, MG dancers develop resilience and creativity
+through collaborative events and performances. “One Breath, One Dance,
+One Family” is the vision to forge lasting friendships and inspire a lifelong
+enthusiasm for dance.</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTmbdQL9itGMrduK6_NIYIryQzOmbwnJtv6feMwVrcPG_tHqhPEju43CgAsFeBfwJQ7mx0bzY8NG6Cl/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
+<p>International Dance Club is dedicated to continuously pushing boundaries
+and grooming the finest dancers. Beyond the biennial SYF Arts Presentation
+and annual participation in the school’s Open House and Teachers’ Day Celebrations,
+the CCA’s signature biennial Dance Night is the hallmark of each member’s
+co-curricular experience. It is a time of bringing forth their best choreography
+pieces together with their alumni, and reaching out to the wider audience
+through dance. There are also various opportunities for external performances
+to connect to the community and learn from others.</p>
+<p></p>
