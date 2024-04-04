@@ -5,4 +5,123 @@ description: ""
 third_nav_title: Visual and Performing Arts
 variant: tiptap
 ---
-<p>The MGS Choir has a shared sense of passion and love for singing. The Choir’s guiding principles are: Awareness, Attitude, Ability, Attendance. We strive to inculcate self-discipline, independence, diligence and a sense of shared responsibility in every chorister, and to be of service to our school and wider community through our performances.</p><div class="iframe-wrapper"><iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRgraTtdnHlyth6_vS5bkdLVj-pW4QzzyqmM6yORqQUPTFOYb0lvFzLFLFX30vXd-flL43LTGKau3-0/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe></div><p><strong>2023 Cantabile</strong></p><ul data-tight="true" class="tight"><li><p>A joint presentation with Saint Andrew’s choir</p></li><li><p>Songs: Morning Rain, Londali Bridge, Exultate Justi</p></li><li><p>Songs performed combined with Saint Andrew’s choir: Beauty and the beast, Just a Single Voice</p></li></ul><p><strong>2023 Founders’ Day Performance</strong></p><ul data-tight="true" class="tight"><li><p>The MGS choir collaborated with seniors from Methodist Welfare Services, Covenant Community Methodist Church, grandparents as well as our very own ex-principal, Ms Koh Mei Leen, to form the Intergenerational Choir.</p></li><li><p>Song: I Will Run To You</p></li></ul><p><strong>2023 National Day Performance</strong> The MGS choir collaborated with seniors from Methodist Welfare Services, Covenant Community Methodist Church, grandparents as well as our very own ex-principal, Ms Koh Mei Leen, to form the Intergenerational Choir.</p><p><strong>2023 SYF</strong></p><ul data-tight="true" class="tight"><li><p>First SYF after Covid</p></li><li><p>Distinction</p></li><li><p>Songs: Morning Rain, Londali Bridge, Exultate Justi</p></li></ul><p><strong>2022 Kodaly Symposium</strong></p><ul data-tight="true" class="tight"><li><p>The Kodaly Symposium was a Gala concert held on 20 August.</p></li><li><p>We sang with choirs from other schools such as Dunman High and St Andrews at the Berrick Performance Hall in Tanglin Trust School.</p></li><li><p>We sang with our guest soloist, Jonathan MacPherson, and had our guest conductor, Prof. László Nemes, lead us in singing our combined songs.</p></li><li><p>Songs sung with the other two schools (combined songs): Kodaly Zolton’s Esti Dal, Christopher Tin’s Baba Yetu</p></li></ul><p><strong>2019 6th International Vietnam Choir Competition in Hoi An, Vietnam:</strong></p><ul data-tight="true" class="tight"><li><p>2 gold awards: category champion for the Youth Choir Category, second place for the Sacred Choral Music Category</p></li><li><p>Performed in the final Grand Prix concert.</p></li></ul><p><strong>2019 12th International Choir Festival, Orientale Concentus, Singapore</strong></p><ul data-tight="true" class="tight"><li><p>Performed in the Opening Ceremony (by invitation only)</p></li></ul><p><strong>2019 SYF Arts Presentation:</strong></p><ul data-tight="true" class="tight"><li><p>Gold</p></li></ul><p><strong>2018 Enterprise Singapore event:</strong></p><ul data-tight="true" class="tight"><li><p>Secondary 3 members were invited to sing for the ASEAN director delegates at a dinner organised by Enterprise Singapore.</p></li><li><p>Performed at National Gallery a series of locally composed songs to showcase a part of Singapore’s culture.</p></li></ul><p><strong>2017:</strong></p><ul data-tight="true" class="tight"><li><p>Recording choir for South East Asian (SEA) Games and National Day Parade.</p></li></ul><p>The Choir has benefited from yearly masterclasses from the likes of Professor Gerald Wirth, President/Artistic Director of The Vienna Boys Choir, and Ms Jennifer Tham, former MGS Choir Mistress and Cultural Medallion recipient. Through these, we were able to gain deeper insights, understanding, and a greater appreciation for singing.</p><h2>Leadership Opportunities</h2><ul data-tight="true" class="tight"><li><p><strong>Chairperson</strong> : Oversees the day to day running of the choir, sets expectations and goals for the choir, and works closely with the teachers and conductor to achieve them.</p></li><li><p><strong>Vice-chairperson 1 and 2</strong> : Works closely with the chairperson</p></li><li><p><strong>Student conductor(s)</strong> : Conducts the choir during performances, leads and conducts during student-led sessions</p></li><li><p><strong>Assistant student conductor(s)</strong> : Assists the student conductor and conducts during some performances</p></li><li><p><strong>Section leaders (Sop 1, Sop 2, Alto 1, Alto 2)</strong> : Leads section in sectionals</p></li><li><p><strong>Assistant section leaders (Sop 1, Sop 2, Alto 1, Alto 2)</strong> : Assists the section leader in leading sectionals</p></li><li><p><strong>Choir pianist(s)</strong>: Plays the piano accompaniment for vocal warmups and performances</p></li><li><p><strong>Events and communication</strong>: Updates the school choir noticeboard, Instagram page and other outreach platforms</p></li><li><p><strong>Logistics and AV</strong>: Sets up electronic keyboard and relevant AV equipment</p></li><li><p><strong>Scores and resources</strong>: Maintains score cupboard, in charge of issuing new scores</p></li></ul><h2>CCA Schedule</h2><ul data-tight="true" class="tight"><li><p>Days: Monday, Wednesday</p></li><li><p>Time: 3.00pm - 6.00pm</p></li><li><p>Venue:</p><ul data-tight="true" class="tight"><li><p>Monday: 3-6pm (Chapel)</p></li><li><p>Wednesday: 3-4.30pm (LT1) and 4.30-6pm (Chapel)</p></li></ul></li></ul><p></p>
+<p>The MGS Choir has a shared sense of passion and love for singing. The
+Choir’s guiding principles are: Awareness, Attitude, Ability, Attendance.
+We strive to inculcate self-discipline, independence, diligence and a sense
+of shared responsibility in every chorister, and to be of service to our
+school and wider community through our performances.</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRgraTtdnHlyth6_vS5bkdLVj-pW4QzzyqmM6yORqQUPTFOYb0lvFzLFLFX30vXd-flL43LTGKau3-0/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p><strong>2023 Cantabile</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>A joint presentation with Saint Andrew’s choir</p>
+</li>
+<li>
+<p>Songs: Morning Rain, Londali Bridge, Exultate Justi</p>
+</li>
+<li>
+<p>Songs performed combined with Saint Andrew’s choir: Beauty and the beast,
+Just a Single Voice</p>
+</li>
+</ul>
+<p><strong>2023 Founders’ Day Performance</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>The MGS choir collaborated with seniors from Methodist Welfare Services,
+Covenant Community Methodist Church, grandparents as well as our very own
+ex-principal, Ms Koh Mei Leen, to form the Intergenerational Choir.</p>
+</li>
+<li>
+<p>Song: I Will Run To You</p>
+</li>
+</ul>
+<p><strong>2023 National Day Performance</strong> The MGS choir collaborated
+with seniors from Methodist Welfare Services, Covenant Community Methodist
+Church, grandparents as well as our very own ex-principal, Ms Koh Mei Leen,
+to form the Intergenerational Choir.</p>
+<p><strong>2023 SYF</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>First SYF after Covid</p>
+</li>
+<li>
+<p>Distinction</p>
+</li>
+<li>
+<p>Songs: Morning Rain, Londali Bridge, Exultate Justi</p>
+</li>
+</ul>
+<p><strong>2022 Kodaly Symposium</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>The Kodaly Symposium was a Gala concert held on 20 August.</p>
+</li>
+<li>
+<p>We sang with choirs from other schools such as Dunman High and St Andrews
+at the Berrick Performance Hall in Tanglin Trust School.</p>
+</li>
+<li>
+<p>We sang with our guest soloist, Jonathan MacPherson, and had our guest
+conductor, Prof. László Nemes, lead us in singing our combined songs.</p>
+</li>
+<li>
+<p>Songs sung with the other two schools (combined songs): Kodaly Zolton’s
+Esti Dal, Christopher Tin’s Baba Yetu</p>
+</li>
+</ul>
+<p><strong>2019 6th International Vietnam Choir Competition in Hoi An, Vietnam:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>2 gold awards: category champion for the Youth Choir Category, second
+place for the Sacred Choral Music Category</p>
+</li>
+<li>
+<p>Performed in the final Grand Prix concert.</p>
+</li>
+</ul>
+<p><strong>2019 12th International Choir Festival, Orientale Concentus, Singapore</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Performed in the Opening Ceremony (by invitation only)</p>
+</li>
+</ul>
+<p><strong>2019 SYF Arts Presentation:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Gold</p>
+</li>
+</ul>
+<p><strong>2018 Enterprise Singapore event:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Secondary 3 members were invited to sing for the ASEAN director delegates
+at a dinner organised by Enterprise Singapore.</p>
+</li>
+<li>
+<p>Performed at National Gallery a series of locally composed songs to showcase
+a part of Singapore’s culture.</p>
+</li>
+</ul>
+<p><strong>2017:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Recording choir for South East Asian (SEA) Games and National Day Parade.</p>
+</li>
+</ul>
+<p>The Choir has benefited from yearly masterclasses from the likes of Professor
+Gerald Wirth, President/Artistic Director of The Vienna Boys Choir, and
+Ms Jennifer Tham, former MGS Choir Mistress and Cultural Medallion recipient.
+Through these, we were able to gain deeper insights, understanding, and
+a greater appreciation for singing.</p>
+<p></p>
