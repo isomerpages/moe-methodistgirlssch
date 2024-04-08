@@ -32,6 +32,14 @@ such as the FAS U14 League participates in other competitions on a sign-up
 basis such as Futsal Tournaments Trainings are 2 to 3 times a week. Tuesdays
 and Thursdays are training days and there are often football friendlies
 on either Monday, Wednesday or Friday.</p>
+<p>In November 2022, Methodist Girls’ School joined Unleash the Roar, Singapore
+Football Academy. This was to raise interest amongst girls and the quality
+of skills in girls’ soccer. With this new journey, we then began our Centre-based
+Partnership Programme with Boon Lay Secondary School and Westwood Secondary
+School in January 2023. The centred-based football team seeks to hone talents
+in the female football scene and to encourage social mixing with the other
+cluster schools. This paved our journey and led to the introduction of
+Direct School Admission last year for girls’ football.</p>
 <p><strong>National Inter-School Football Championships:</strong>
 </p>
 <ul data-tight="true" class="tight">
