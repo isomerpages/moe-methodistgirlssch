@@ -139,5 +139,5 @@ and determine if you will need to replace it.
 <h2>Loan of MGS Uniform One</h2>
 <p><a href="https://docs.google.com/forms/d/e/1FAIpQLScu6bQdz1x6gAo8xruDzLvMOLrFg-Nq_Ws3eYHdJhVAWzZ7XA/viewform" rel="noopener noreferrer nofollow" target="_blank">Use this LINK</a> to
 book a slot for loaning the MGS Uniform One.</p>
-<p>Uniform One can be collected from the Outreach Office at the P/VP’s office
-on Level 3. Be punctual. Ring the doorbell or knock the door for assistance.</p>
+<p>Uniform One can only be picked up and returned on Mondays or Wednesdays
+between 2.30 and 3.30pm at the General Office, Level&nbsp;One.&nbsp;</p>
