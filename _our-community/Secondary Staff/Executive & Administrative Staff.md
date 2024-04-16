@@ -33,7 +33,7 @@ variant: tiptap
 <p>Senior Manager: <a href="mailto:yong_sheue_horng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Yong Sheue Horng</a> 
 <br>Senior Executive: Ms Geraldine Chan</p>
 <h3><strong>INFORMATION TECHNOLOGY</strong></h3>
-<p>Manager: <a href="mailto:edmund_wong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Edmund Wong</a> 
+<p>SeniorManager: <a href="mailto:edmund_wong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Edmund Wong</a> 
 <br>Senior Executive: Mr David Quah
 <br>Senior&nbsp;Executive: Mr Siva Chandran
 <br>Desktop Engineer:&nbsp;Mr Zakery Lee</p>
@@ -54,5 +54,7 @@ variant: tiptap
 Kong
 <br>Executive (Community Partnerships): Mr Wang Zekun</p>
 <h3><strong>TEACHERS' SUPPORT</strong></h3>
-<p>Executive: Ms Lim Aik Wang
-<br>Executive: Mrs Pauline Yong</p>
+<p>Senior Officer: Miss Joanna Gautama</p>
+<p>Senior Officer: Mdm Raihana Binte Mohamed Yusope</p>
+<p>Executive: Mrs Pauline Yong</p>
+<p></p>
