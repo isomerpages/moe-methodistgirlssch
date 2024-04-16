@@ -5,5 +5,5 @@ layout: link
 description: ""
 image: ""
 variant: tiptap
-external: https://https://www.mgs.moe.edu.sg/news-and-events/mgsoh/
+external: https://www.mgs.moe.edu.sg/news-and-events/mgsoh/
 ---

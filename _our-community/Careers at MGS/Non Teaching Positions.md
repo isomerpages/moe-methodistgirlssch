@@ -5,5 +5,5 @@ description: ""
 third_nav_title: Careers at MGS
 variant: tiptap
 ---
-<p><a href="https://www.jobstreet.com.sg/job/73909228?tracking=SHR-WEB-SharedJob-asia-7" rel="noopener noreferrer nofollow" target="_blank">Senior Executive, Human Resources</a>
+<p><a href="https://www.jobstreet.com.sg/manager,-finance-jobs/in-Bukit-Timah-Central-Region?jobId=75153128&amp;type=standard" rel="noopener noreferrer nofollow" target="_blank">Manager, Finance</a>
 </p>
