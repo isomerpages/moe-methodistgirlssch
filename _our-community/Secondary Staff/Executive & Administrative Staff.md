@@ -54,8 +54,8 @@ variant: tiptap
 Kong
 <br>Executive (Community Partnerships): Mr Wang Zekun</p>
 <h3><strong>TEACHERS' SUPPORT</strong></h3>
-<p>Executive: Mrs Pauline Yong</p>
-<p>Senior Officer: Miss Joanna Gautama</p>
-<p>Senior Officer: Mdm Raihana Binte Mohamed Yusope</p>
+<p>Executive: Mrs Pauline Yong
+<br>Senior&nbsp;Officer: Miss Joanna Gautama
+<br>Senior&nbsp;Officer:&nbsp;Mdm Raihana Binte Mohamed Yusope</p>
 <p></p>
 <p></p>
