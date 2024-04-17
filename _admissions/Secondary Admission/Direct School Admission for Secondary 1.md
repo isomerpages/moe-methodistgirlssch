@@ -6,32 +6,28 @@ third_nav_title: Secondary Admission
 variant: tiptap
 ---
 <h2><strong>DIRECT SCHOOL ADMISSION INTO MGS SECONDARY ONE</strong></h2>
-<p></p>
 <p>MGS invites Primary 6 students to participate in the 2024 DSA exercise.
 As MGS is a dual track school with both the Integrated Programme (IP) and
 Singapore-Cambridge Secondary Education Certificate (SEC) Programme, our
 DSA talent areas are applicable for both tracks.&nbsp;</p>
-<p></p>
 <p><em>The </em><strong><em>MGS IP is a six-year integrated programme</em></strong><em> that leads to the International Baccalaureate Diploma Programme at Anglo-Chinese School (Independent) in Years 5 and 6.</em>
 </p>
-<p></p>
 <p><em>The </em><strong><em>MGS SEC Programme is a four-year programme</em></strong><em> culminating in the Singapore-Cambridge SEC examinations, after which various post-secondary options are available.</em>
 </p>
-<p></p>
 <p><strong>MGS DSA TALENT AREAS:</strong>
 </p>
-<p>1.&nbsp;&nbsp;&nbsp; English Language</p>
-<p>2.&nbsp;&nbsp;&nbsp; STEM (Science, Technology, Engineering, Mathematics)</p>
-<p>3.&nbsp;&nbsp;&nbsp; Music Elective Programme</p>
-<p>4.&nbsp;&nbsp;&nbsp; Artistic Swimming</p>
-<p>5.&nbsp;&nbsp;&nbsp; Bowling</p>
-<p>6.&nbsp;&nbsp;&nbsp; Football</p>
-<p>7.&nbsp;&nbsp;&nbsp; Netball</p>
-<p>8.&nbsp;&nbsp;&nbsp; Softball</p>
-<p>9.&nbsp;&nbsp;&nbsp; Squash</p>
-<p>10.&nbsp; Swimming</p>
-<p>11.&nbsp; Tennis</p>
-<p></p>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; English Language</p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; STEM (Science, Technology, Engineering,
+Mathematics)</p>
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Music Elective Programme</p>
+<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Artistic Swimming</p>
+<p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bowling</p>
+<p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Football</p>
+<p>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Netball</p>
+<p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Softball</p>
+<p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Squash</p>
+<p>10.&nbsp;&nbsp; Swimming</p>
+<p>11.&nbsp;&nbsp; Tennis</p>
 <p><em>DSA Application for Primary 6 students will begin in early May 2024. Please refer to this page for full details nearing the date.</em>
 </p>
 <p></p>
