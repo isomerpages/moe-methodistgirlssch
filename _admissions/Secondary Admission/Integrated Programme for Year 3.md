@@ -176,8 +176,8 @@ for Y3IP application account</p>
 <h3>Online application portal</h3>
 <p>The online application portal will be open for access only after <strong>Friday, 17 May 2024, 7pm.</strong>
 </p>
-<p>Access the online application portal here (only after Friday, 17 May,
-7pm)</p>
+<p>Access the online application portal <u>here</u> (only after Friday, 17
+May, 7pm)</p>
 <p><em>Note: During the online application, please be reminded to save <u>each</u> completed section before proceeding to the next.</em>
 </p>
 <p></p>
