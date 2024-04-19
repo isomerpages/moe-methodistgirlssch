@@ -41,7 +41,9 @@ obtain the link.
 <br>Alternatively, you may access using the QR code below:
 <br>
 </p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/qr_code__2_.png">
+</div>
 </td>
 </tr>
 <tr>
