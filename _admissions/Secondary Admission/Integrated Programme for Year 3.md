@@ -41,9 +41,6 @@ obtain the link.
 <br>Alternatively, you may access using the QR code below:
 <br>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="Secondary/Admissions/dsa-yr3ip-2022-qrcode.png" src="/images/Secondary/Admissions/dsa-yr3ip-qrcode.png">
-</div>
 <p></p>
 </td>
 </tr>
