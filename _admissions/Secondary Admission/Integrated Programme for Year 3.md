@@ -84,8 +84,8 @@ obtain the link.
 <p>Selection Test (Written)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>For <strong>all </strong>Y3 IP applicants</p>
-<p>Applicants will be informed details via email</p>
+<p>For <strong>all </strong>Y3 IP applicants. Applicants will be informed
+details via email.</p>
 </td>
 </tr>
 <tr>
@@ -131,16 +131,16 @@ attend Y3 subject options briefing.</p>
 </table>
 <h3>How to apply</h3>
 <p>You will need the following information and supporting documents (in softcopy)
-for upload during the application:</p>
+for <strong>upload during the application:</strong>
+</p>
 <ol data-tight="true" class="tight">
 <li>
 <p><strong>Personal Particulars: </strong>Include a passport photo of applicant;
-JPEG format; not exceeding 2MB in size.</p>
+JPEG format; not exceeding 2MB in size</p>
 </li>
 <li>
-<p><strong>Education Background: </strong>PSLE results, Sec 1 Overall Examinations
-(Sec 2 EOY results to be emailed to <a href="mailto:tang_lyn_lyn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Grace Tang</a> (HOD, IP) and
-<a href="mailto:grace_poh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Grace Poh</a>(SH, IP) by 23 Oct 2023)</p>
+<p><strong>Education Background: </strong>PSLE results, Sec 1 Overall Examinations,&nbsp;
+(Sec 2 EOY results to be uploaded to a form sent via email by 25 Oct 2024)</p>
 </li>
 <li>
 <p><strong>Parent’s/Guardian’s Particulars</strong>
@@ -164,19 +164,22 @@ for the MGS IP?</p>
 <a href="mailto:grace_poh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">grace_poh@schools.gov.sg</a>
 </p>
 <h3>Important note for current Secondary 2 MGS students/parents</h3>
-<ul data-tight="true" class="tight">
+<ul>
 <li>
-<p>You still need to sign up for a Y3IP application account (link available
-after 20 May), as it is different from your current MGS ntrix account.</p>
+<p>You still need to sign up for a Y3IP application account, as it is different
+from your current MGS ntrix account.</p>
 </li>
 <li>
-<p>DO <strong>NOT</strong> USE your current MGS ntrix account login details/password
-for Y3IP application account.</p>
+<p>DO <u>NOT</u> USE your current MGS ntrix account login details/password
+for Y3IP application account</p>
 </li>
 </ul>
 <h3>Online application portal</h3>
-<p>The online application portal will be open for access only after <strong>Saturday, 20 May 2023, 9am.</strong>
+<p>The online application portal will be open for access only after <strong>Friday, 17 May 2024, 7pm.</strong>
 </p>
-<p>Note: During the online application, please be reminded to save each completed
-section before proceeding to the next.</p>
-<p>Access the online application portal <a href="https://mgs.ntrix.sg/schooladmission/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>Access the online application portal here (only after Friday, 17 May,
+7pm)</p>
+<p><em>Note: During the online application, please be reminded to save <u>each</u> completed section before proceeding to the next.</em>
+</p>
+<p></p>
+<p></p>
