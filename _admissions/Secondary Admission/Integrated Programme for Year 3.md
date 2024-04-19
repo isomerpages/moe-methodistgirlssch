@@ -38,11 +38,10 @@ to the International Baccalaureate Diploma Programme at Anglo-Chinese School
 <p>By Zoom
 <br>Register <a href="https://go.gov.sg/mgsy3ip2024" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 obtain the link.
-<br>Alternatively, you may access using the QR code below:
-<br>
-</p>
+<br>Alternatively, you may access using the QR code below:</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/qr_code__2_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/https___go_gov_sg_mgsy3ip2024.png">
 </div>
 </td>
 </tr>
