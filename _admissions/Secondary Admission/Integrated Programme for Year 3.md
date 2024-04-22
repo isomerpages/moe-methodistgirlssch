@@ -61,9 +61,9 @@ obtain the link.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Monday</p>
-<p>31 July 2024</p>
-<p>5pm</p>
+<p>Monday
+<br>31 July 2024
+<br>5pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Application closes</p>
@@ -74,9 +74,9 @@ obtain the link.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Thursday</p>
-<p>15 Aug 2024</p>
-<p>3-5pm</p>
+<p>Thursday
+<br>15 Aug 2024
+<br>3-5pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Selection Test (Written)</p>
@@ -88,8 +88,8 @@ details via email.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>By Friday</p>
-<p>25 Oct 2024</p>
+<p>By Friday
+<br>25 Oct 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Shortlisting phase</p>
