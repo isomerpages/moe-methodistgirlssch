@@ -86,6 +86,5 @@ the school community and beyond</p>
 <p>Composing for film (Singaporean films)</p>
 </li>
 </ul>
-<p><strong>Assessment</strong>
-</p>
+<h3>Assessment</h3>
 <p>Students are assessed through group projects.and performances.</p>
