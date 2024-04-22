@@ -8,13 +8,11 @@ variant: tiptap
 <iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTUuu_5bIfsDeG0vPlOIL_cKPTuA2-ob1Y80G3ozXKRhDmixew1Mwt8ks4hNZwBvWSBd1VFRkTZSvJs/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <h3>Frequently Asked Questions</h3>
-<p><a href="https://docs.google.com/document/d/e/2PACX-1vTVLcIObKjvQ-BDsGHbKRjBlSCS-JpG3FDpOG1vGHfC1LAJklfSTgKmSdXOCxeA4djzrriQl4e3VKqy/pub" rel="noopener noreferrer nofollow" target="_blank">MGS 1:1 Fast Forward FAQ</a>&nbsp;&nbsp;&nbsp;</p>
+<p><a href="https://docs.google.com/document/d/e/2PACX-1vTVLcIObKjvQ-BDsGHbKRjBlSCS-JpG3FDpOG1vGHfC1LAJklfSTgKmSdXOCxeA4djzrriQl4e3VKqy/pub" rel="noopener noreferrer nofollow" target="_blank">MGS 1:1 Learning Programme FAQ</a>&nbsp;&nbsp;&nbsp;</p>
 <p><strong>Learning Device for Sec/Yr One:</strong>&nbsp;&nbsp;&nbsp;There
 is no need for parents to purchase their own iPads as this package is centrally
 procured by MGS. We will inform parents in due time with regard to the
-specific purchase and payments modes of the device package. Parents/students
-can look forward to receiving their iPad bundles by Term 2, Week 1 of the
-year.&nbsp;</p>
+specific purchase and payments modes of the device package.</p>
 <p>Please refer to these two handbooks for more information about Learning
 with a Personal Learning Device:
 <br>-&nbsp;<a href="https://drive.google.com/file/d/1xsqK7iSMpd5H6LTQFhsB3-MNH1OyGE89/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook on Learning with a PLD (I)</a> 
@@ -26,7 +24,7 @@ with a Personal Learning Device:
 <h3>DMA Option for Parents</h3>
 <p><a href="https://form.gov.sg/6153d0af93cf0600135149c2" rel="noopener noreferrer nofollow" target="_blank">Click here</a>&nbsp;&nbsp;to
 change your DMA Options.</p>
-<p><a href="https://drive.google.com/file/d/1yfzfCqVfrQStZ9w5djSHnHVTol7fZbqD/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">DMA Parent Guide - Default Option</a>
-<br><a href="https://drive.google.com/file/d/1WY8zv7IvB9JBwVYDw-pTaFJkhxQSd8gt/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">DMA Parent Guide - Option A</a>
+<p><a href="https://drive.google.com/file/d/1yfzfCqVfrQStZ9w5djSHnHVTol7fZbqD/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">DMA Parent Guide - Default Option</a> 
+<br><a href="https://drive.google.com/file/d/1WY8zv7IvB9JBwVYDw-pTaFJkhxQSd8gt/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">DMA Parent Guide - Option A</a> 
 <br><a href="https://drive.google.com/file/d/1K1-uRoj4oZjVEnh4LWHuZ1WNB8zNQQR-/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">DMA Parent Guide - Option B</a>
 </p>
