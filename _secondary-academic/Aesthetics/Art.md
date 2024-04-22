@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Aesthetics
 variant: tiptap
 ---
-<h3>Aims </h3>
+<h3>Aims</h3>
 <p>The aims of the MGS Visual Arts Education is aligned to the MOE syllabus
 to enable every child to:</p>
 <ul>
@@ -53,11 +53,24 @@ student-student and student-world</p>
 <p>4. Learning environment which is interactive and builds a culture of learning
 within the school community and beyond.&nbsp;</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secondary/1.jpg">
+</div>
 <p></p>
-<p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secondary/2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secondary/3.jpg">
+</div>
 <h4></h4>
 <h3>Assessment</h3>
-<p>Comprises individual and group term projects and time-based examinations</p>
+<p>Art assessment is an ongoing and iterative process integral to Art teaching
+and learning, and is closely aligned with the syllabus objectives, content
+and pedagogy. The assessment plan for MGS Visual Arts is balanced, meaningful
+and developmentally appropriate to learning through assessment for, of&nbsp;
+and as learning.</p>
 <table>
 <tbody>
 <tr>
@@ -86,13 +99,13 @@ within the school community and beyond.&nbsp;</p>
 <p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>20%</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>30% Preparatory Studies (Term 1-2)</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -101,19 +114,16 @@ within the school community and beyond.&nbsp;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>60%</p>
+<p>50%</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>60%</p>
+<p>40%</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Research Presentation (5%)
-<br>
-</p>
-<p>Artist Response Portfolio (10%)</p>
+<p>Artist Response Portfolio 20%</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>WA1 30%</p>
 </td>
 </tr>
 <tr>
@@ -122,16 +132,17 @@ within the school community and beyond.&nbsp;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>40%</p>
+<p>50%</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>40%</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Applied Arts Journey (15%)</p>
+<p>Research Presentation 10%</p>
+<p>Applied Arts Journey (5%)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>70% Preliminary Examination</p>
+<p>Preliminary Examination 70%</p>
 </td>
 </tr>
 <tr>
@@ -146,7 +157,8 @@ within the school community and beyond.&nbsp;</p>
 <p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Visual Journal (10%)</p>
+<p>EOY 60%</p>
+<p>Visual Journal (5%)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-</p>
