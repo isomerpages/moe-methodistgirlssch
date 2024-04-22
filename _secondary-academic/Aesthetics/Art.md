@@ -51,10 +51,10 @@ digital means.</p>
 <p>3. Learning partnerships which cultivate relationships between teacher-student,
 student-student and student-world</p>
 <p>4. Learning environment which is interactive and builds a culture of learning
-within the school community and beyond.&nbsp;</p>
+within the school community and beyond.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secondary/1.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Secondary/1.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
