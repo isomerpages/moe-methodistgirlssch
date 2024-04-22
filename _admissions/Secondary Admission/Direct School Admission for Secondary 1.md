@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Secondary Admission
 variant: tiptap
 ---
-<h2><strong>DIRECT SCHOOL ADMISSION INTO MGS SECONDARY ONE</strong></h2>
+<h2><strong>2024 DIRECT SCHOOL ADMISSION TO MGS SECONDARY 1 IN 2025</strong></h2>
 <p>MGS invites Primary 6 students to participate in the 2024 DSA exercise.
 As MGS is a dual track school with both the Integrated Programme (IP) and
 Singapore-Cambridge Secondary Education Certificate (SEC) Programme, our
