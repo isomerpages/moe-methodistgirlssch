@@ -48,7 +48,7 @@ obtain the link.
 <tr>
 <td rowspan="1" colspan="1">
 <p>Friday
-<br>17 May 2023
+<br>17 May 2024
 <br>7pm</p>
 </td>
 <td rowspan="1" colspan="1">
