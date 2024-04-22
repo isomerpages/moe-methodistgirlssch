@@ -47,7 +47,8 @@ to devise innovative solutions to real-world challenges.</p>
 </p>
 <p>The design of our Computer Studies is guided by the MOE Computing Curriculum
 Framework which was revised in 2017.</p>
-<p></p>
+<p><strong>&lt;&lt;Insert pic here&gt;&gt;</strong>
+</p>
 <p></p>
 <p></p>
 <p></p>
