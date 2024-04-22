@@ -41,7 +41,7 @@ obtain the link.
 <br>Alternatively, you may access using the QR code below:</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/https___go_gov_sg_mgsy3ip2024.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/https___go_gov_sg_mgsy3ip2024.png">
 </div>
 </td>
 </tr>
