@@ -47,6 +47,60 @@ to devise innovative solutions to real-world challenges.</p>
 </p>
 <p>The design of our Computer Studies is guided by the MOE Computing Curriculum
 Framework which was revised in 2017.</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<h3>Computer Studies for Lower Secondary</h3>
+<p>Computer Studies lessons for each lower secondary class will be conducted
+once every fortnight, with each session lasting 1 hour and 50 minutes.
+By the conclusion of their second year at MGS, all students will have attained
+proficiency in utilizing the Python programming language to develop interactive
+games. While Computer Studies for lower secondary levels is a non-examinable
+subject, students will undergo assessment based on their assignments and
+projects, allowing for holistic evaluation of their comprehension and application
+of concepts.</p>
+<h3>Computer Studies for Upper Secondary/IP Years</h3>
+<p>The Upper Secondary and IP Year 3 and 4 levels offer Computing as a subject,
+providing students with the opportunity to further enrich and deepen their
+understanding in this dynamic field. The Computing syllabus is designed
+to equip students with a strong foundation for advanced studies in computing,
+while also imparting skills essential for thriving in a rapidly evolving
+technological landscape. Moreover, the concepts and skills acquired are
+versatile, extending beyond computing-specific domains to apply in various
+other fields where computational expertise is indispensable.</p>
+<p>Specifically, the syllabus aims to enable students to:</p>
+<ol>
+<li>
+<p>Gain comprehensive knowledge and understanding of core computing areas,
+encompassing concepts such as logic, algorithms, data analysis, data representation,
+and networking.</p>
+</li>
+<li>
+<p>Develop and proficiently apply computational thinking skills, including
+abstraction and decomposition, to tackle real-world problems. This involves
+designing, coding, testing, and debugging programs using personal computers.</p>
+</li>
+<li>
+<p>Foster an appreciation for computing as a dynamic and creative discipline,
+fostering awareness of recent advancements and innovations in computer
+systems.</p>
+</li>
+<li>
+<p>Cultivate an understanding of the social, ethical, legal, and economic
+implications inherent in computing, encouraging responsible and ethical
+decision-making.</p>
+</li>
+<li>
+<p>Instill attitudes and 21st-century competencies crucial for success in
+computing and beyond, such as inventive thinking, perseverance, collaboration,
+effective communication, as well as a commitment to accuracy and thoroughness.</p>
+</li>
+</ol>
+<p>Through this holistic approach, the Computing syllabus endeavors to empower
+students not only with technical expertise but also with the critical thinking,
+creativity, and ethical awareness necessary to navigate and contribute
+meaningfully to our increasingly digital society.</p>
 <p>
 <br>
 </p>
