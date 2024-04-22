@@ -50,7 +50,7 @@ strengths, interests and learning needs.</p>
 and cooking.</p>
 </li>
 </ul>
-<h3>Lower Secondary FCE Course Outline </h3>
+<h3>Lower Secondary FCE Course Outline</h3>
 <ul>
 <li>
 <p>Financial Literacy and Money Management</p>
