@@ -61,9 +61,9 @@ obtain the link.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Monday
-<br>31 July 2024
-<br>5pm</p>
+<p>Monday</p>
+<p>31 July 2024</p>
+<p>5pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Application closes</p>
@@ -74,8 +74,8 @@ obtain the link.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Thursday
-<br>15 Aug 2024</p>
+<p>Thursday</p>
+<p>15 Aug 2024</p>
 <p>3-5pm</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -116,9 +116,7 @@ informed via email</p>
 <p>End Oct 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Outcome of application
-<br>
-</p>
+<p>Outcome of application</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Applicants who are offered a confirmed Y3 IP place will be invited to
