@@ -47,10 +47,10 @@ to devise innovative solutions to real-world challenges.</p>
 </p>
 <p>The design of our Computer Studies is guided by the MOE Computing Curriculum
 Framework which was revised in 2017.</p>
-<p><strong>&lt;&lt;Insert pic here&gt;&gt;</strong>
-</p>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secondary/Computing_Curriculum_Framework__2017_.png">
+</div>
 <p></p>
 <h3>Computer Studies for Lower Secondary</h3>
 <p>Computer Studies lessons for each lower secondary class will be conducted
