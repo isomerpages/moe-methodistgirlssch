@@ -37,7 +37,7 @@ analytical thinking.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>&nbsp;Level</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>‘O’ Level / SEC Track</p>
@@ -96,7 +96,7 @@ problem solving skills</p>
 </li>
 </ul>
 <h3>Assessment</h3>
-<p>A balance of formative and summative assessments comprise of&nbsp;</p>
+<p>A balance of formative and summative assessments comprising of&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Mathematical investigation</p>
