@@ -2,7 +2,6 @@ collections:
   secondary:
     output: true
     order:
-      - CCA/Our Educational Experience.md
       - CCA/.keep
       - Academic/.keep
       - Student Development/.keep
