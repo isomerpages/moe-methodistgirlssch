@@ -40,7 +40,7 @@ analytical thinking.</p>
 <p>&nbsp;</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>‘O’ Level Track</p>
+<p>‘O’ Level / SEC Track</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>IP Track</p>
@@ -102,22 +102,27 @@ problem solving skills</p>
 <p>Mathematical investigation</p>
 </li>
 <li>
-<p>Mathematical modelling</p>
+<p>Mathematical modeling</p>
 </li>
 <li>
 <p>Online quiz</p>
 </li>
 <li>
+<p>Open-source assessments</p>
+</li>
+<li>
 <p>Higher order alternate assessments</p>
 </li>
 <li>
-<p>Projects &amp; coursework</p>
+<p>Authentic Project Tasks</p>
 </li>
 <li>
 <p>Written assignments &amp; assessments</p>
 </li>
 </ul>
 <h3>Special Programmes</h3>
+<p>Students will have opportunities to pursue their interests and develop
+their talents through the following :</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Singapore Mathematical Olympaid</p>
@@ -129,16 +134,22 @@ problem solving skills</p>
 <p>Singapore Mathematics Project Festival</p>
 </li>
 <li>
+<p>Australian Mathematics Competition</p>
+</li>
+<li>
+<p>International Mathematical Modelling Challenge (IMMC)</p>
+</li>
+<li>
 <p>Singapore Science and Engineering Fair (SSEF)</p>
 </li>
 <li>
-<p>Graphic Calculator Design</p>
+<p>Designing with TI Graphing Calculators Competition</p>
 </li>
 <li>
 <p>Mathematics For Young Australian (MCYA)</p>
 </li>
 <li>
-<p>The International Mathematical Modelling Challenge (IMMC)</p>
+<p>Singapore International Mathematical &amp; Computational Challenge</p>
 </li>
 </ul>
 <p></p>
