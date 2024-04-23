@@ -2,8 +2,8 @@ collections:
   secondary:
     output: true
     order:
-      - Academic/.keep
       - Our Educational Experience.md
+      - Academic/.keep
       - Student Development/.keep
       - Student Development/Student Development.md
       - Student Development/Character and Citizenship Education (CCE).md
