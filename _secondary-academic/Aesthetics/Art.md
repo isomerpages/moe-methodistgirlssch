@@ -71,7 +71,95 @@ and learning, and is closely aligned with the syllabus objectives, content
 and pedagogy. The assessment plan for MGS Visual Arts is balanced, meaningful
 and developmentally appropriate to learning through assessment for, of&nbsp;
 and as learning.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secondary/Presentation1.png">
-</div>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Term</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Sec/Year 1</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Sec/Year 2</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Sec/Year 3</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Sec/Year 4</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>20%</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>50%</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>40%</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Artist Response Portfolio 20%</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>WA1 30%</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>50%</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>40%</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Research Presentation 10%</p>
+<p>Applied Arts Journey 5%</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Preliminary Examination 70%</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>EOY 60%</p>
+<p>Visual Journal 5%</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
