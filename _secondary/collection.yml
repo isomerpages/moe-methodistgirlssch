@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Our Educational Experience.md
+      - CCA/Achievements.md
       - CCA/CCA.md
       - CCA/.keep
       - Academic/.keep
