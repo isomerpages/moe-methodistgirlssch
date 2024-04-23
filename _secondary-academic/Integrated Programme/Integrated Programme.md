@@ -104,7 +104,6 @@ the needs and interests of each individual student.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secondary/IP4_5.png">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secondary/IP6.jpg">
 </div>
@@ -151,7 +150,6 @@ external attachments. Through real-world experiences, they deepen their
 understanding and forge meaningful connections between theory and practice.
 The programme equips students with greater self-awareness, and confidence
 to take on complex new challenges.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secondary/IP3.png">
 </div>
