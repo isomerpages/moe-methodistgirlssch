@@ -2,6 +2,7 @@ collections:
   secondary-cca:
     output: true
     order:
+      - Test/.keep
       - Achievements.md
       - Clubs and Societies/.keep
       - Clubs and Societies/Chess Club.md
