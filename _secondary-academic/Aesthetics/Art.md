@@ -40,18 +40,27 @@ as entry points to making, thinking and talking about art.</p>
 <p>To realise the emerging 21st century competencies through Art, lessons
 are designed with core learning experiences appropriate for the different
 levels, and augmented by 4 elements of deep learning with</p>
-<p>1. Pedagogical practices of inquiry-based learning (IBL), e-pedagogy,
-collaborative art making and learning and differentiated instruction. These
-are enhanced with thinking moves which include Design Thinking, and commonly
-used of See, Think, Wonder and Connect, Extend and Challenge which help
-students to make meaningful connections to real life and the art world
-as they learn and acquire the skills and concepts through analogue and
-digital means.</p>
-<p>2. Leveraging digital with art tools and techniques to enhance competencies</p>
-<p>3. Learning partnerships which cultivate relationships between teacher-student,
+<ol data-tight="true" class="tight">
+<li>
+<p>Pedagogical practices of inquiry-based learning (IBL), e-pedagogy, collaborative
+art making and learning and differentiated instruction. These are enhanced
+with thinking moves which include Design Thinking, and commonly used of
+See, Think, Wonder and Connect, Extend and Challenge which help students
+to make meaningful connections to real life and the art world as they learn
+and acquire the skills and concepts through analogue and digital means.</p>
+</li>
+<li>
+<p>Leveraging digital with art tools and techniques to enhance competencies</p>
+</li>
+<li>
+<p>Learning partnerships which cultivate relationships between teacher-student,
 student-student and student-world</p>
-<p>4. Learning environment which is interactive and builds a culture of learning
+</li>
+<li>
+<p>Learning environment which is interactive and builds a culture of learning
 within the school community and beyond.</p>
+</li>
+</ol>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Secondary/1.jpg">
@@ -64,7 +73,6 @@ within the school community and beyond.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secondary/3.jpg">
 </div>
-<h4></h4>
 <h3>Assessment</h3>
 <p>Art assessment is an ongoing and iterative process integral to Art teaching
 and learning, and is closely aligned with the syllabus objectives, content
