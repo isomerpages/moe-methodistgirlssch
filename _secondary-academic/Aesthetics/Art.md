@@ -21,9 +21,10 @@ to enable every child to:</p>
 </ul>
 <h3>Curriculum</h3>
 <p>The teaching and learning of Art is grounded on big ideas:&nbsp;&nbsp;</p>
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Art helps us to see in new ways</p>
-<ul>
+</li>
 <li>
 <p>Art tells stories about our world</p>
 </li>
@@ -31,12 +32,10 @@ to enable every child to:</p>
 <p>Art influences how we live</p>
 </li>
 </ul>
-<p></p>
 <p>It develops skills and understanding across 4 areas of learning content
 - art forms and media, artistic processes, visual qualities and context.
 The 4 areas interact and influence each other in dynamic ways and serve
 as entry points to making, thinking and talking about art.</p>
-<p></p>
 <p>To realise the emerging 21st century competencies through Art, lessons
 are designed with core learning experiences appropriate for the different
 levels, and augmented by 4 elements of deep learning with</p>
