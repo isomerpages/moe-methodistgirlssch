@@ -31,7 +31,7 @@ real world for the betterment of all.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secondary/IP2.png">
 </div>
-<h4>Values-based Education</h4>
+<h4>Values-based education</h4>
 <p>The curriculum emphasises developing principled and responsible citizens
 who will serve as ethical and civic leaders in society, guided by a robust
 moral compass, poised to serve and contribute to community, Singapore and
