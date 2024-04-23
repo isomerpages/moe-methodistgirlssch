@@ -10,8 +10,9 @@ that leads to the International Baccalaureate Diploma Programme at Anglo-Chinese
 School (Independent) in Years 5 and 6.</p>
 <p>The MGS IPis designed to develop principled and confident future-ready
 citizens who use their talents to lead and serve society.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secondary/ip-framework1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secondary/IP1.png">
 </div>
 <h3>Future-ready competencies</h3>
 <p>The MGS IP student possesses the global competencies of</p>
@@ -28,7 +29,7 @@ and connections, constructs meaningful knowledge and applies it in the
 real world for the betterment of all.</p>
 <h3>Features of the IP Curriculum</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secondary/ip-features.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secondary/IP2.png">
 </div>
 <h4>Values-based Education</h4>
 <p>The curriculum emphasises developing principled and responsible citizens
@@ -99,6 +100,10 @@ fostering a culture of innovation and critical thinking. In this environment,
 questions are elevated above answers, and learning is scaffolded to meet
 the needs and interests of each individual student.</p>
 <h3>Distinctive IP learning experience</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secondary/IP4.jpg">
+</div>
 <h4>Blackmore Academy</h4>
 <p>The Blackmore Academy houses the MGS signature talent development programmes.
 Spanning both disciplinary and interdisciplinary experiences, students
