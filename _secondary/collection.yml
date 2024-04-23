@@ -2,6 +2,7 @@ collections:
   secondary:
     output: true
     order:
+      - Academic/.keep
       - Our Educational Experience.md
       - Student Development/.keep
       - Student Development/Student Development.md
