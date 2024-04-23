@@ -112,18 +112,19 @@ to collect the data necessary to address their own research question. They
 will also explore ways to apply their findings to achieve social impact,
 going beyond the merely theoretical to be of service to others.</p>
 <h4>Global Perspectives &amp; Inquiry (GPI)</h4>
-<p>The GPI programme aims to enable Year 1 and Year 2 students to acquire
-knowledge and understanding of significant events and issues from around
-the world while seeing that there are varied perspectives that people have
-regarding related human actions and behaviours.</p>
+<p>The <a href="https://www.mgs.moe.edu.sg/secondary/academic/humanities/global-studies/" rel="noopener noreferrer nofollow" target="_blank">GPI programme</a> aims
+to enable Year 1 and Year 2 students to acquire knowledge and understanding
+of significant events and issues from around the world while seeing that
+there are varied perspectives that people have regarding related human
+actions and behaviours.</p>
 <h4>Global Studies</h4>
-<p>Global Studies at Year 3 &amp; 4 is a multi-disciplinary approach to the
-study of political, economic, social and cultural relationships of the
-world through the use of various disciplinary lenses or perspectives. The
-essential disciplinary content will also aid students’ understanding of
-their respective nation’s (Singapore or otherwise) place within the global
-community and to prepare them to be global citizens for an increasingly
-interconnected world.</p>
+<p><a href="https://www.mgs.moe.edu.sg/secondary/academic/humanities/global-studies/" rel="noopener noreferrer nofollow" target="_blank">Global Studies</a> at
+Year 3 &amp; 4 is a multi-disciplinary approach to the study of political,
+economic, social and cultural relationships of the world through the use
+of various disciplinary lenses or perspectives. The essential disciplinary
+content will also aid students’ understanding of their respective nation’s
+(Singapore or otherwise) place within the global community and to prepare
+them to be global citizens for an increasingly interconnected world.</p>
 <h4>Philosophy, Thinking and Knowledge (PTK)</h4>
 <p>The PTK programme provides our Year 3 &amp; Year 4 students with an exploration
 of the foundations of knowledge. It serves to integrate the disparate school
