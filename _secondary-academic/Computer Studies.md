@@ -71,7 +71,7 @@ technological landscape. Moreover, the concepts and skills acquired are
 versatile, extending beyond computing-specific domains to apply in various
 other fields where computational expertise is indispensable.</p>
 <p>Specifically, the syllabus aims to enable students to:</p>
-<ol>
+<ol data-tight="true" class="tight">
 <li>
 <p>Gain comprehensive knowledge and understanding of core computing areas,
 encompassing concepts such as logic, algorithms, data analysis, data representation,
@@ -102,6 +102,12 @@ effective communication, as well as a commitment to accuracy and thoroughness.</
 students not only with technical expertise but also with the critical thinking,
 creativity, and ethical awareness necessary to navigate and contribute
 meaningfully to our increasingly digital society.</p>
+<p>
+<br>
+</p>
+<p>
+<br>
+</p>
 <p>
 <br>
 </p>
