@@ -10,7 +10,9 @@ domains through a systematic programme of appropriate learning experience.
 The programme also aims to promote a greater appreciation of healthy living
 and a more positive attitude towards physical activities.</p>
 <h3>Aims</h3>
-<p>1) To equip students with the school Values, the Social Emotional Competencies
+<ul data-tight="true" class="tight">
+<li>
+<p>To equip students with the school Values, the Social Emotional Competencies
 (Self-Awareness, Self-Management, Social Awareness, Relationship Management,
 Responsible Decision-Making), the 21<sup>st</sup> Century Competencies (Civic
 Literacy, Global Awareness &amp; Cross-Cultural Skills; Critical &amp;
@@ -19,9 +21,15 @@ and the 6 Global Competencies (Critical Thinking, Creativity, Character,
 Collaboration, Communication, Citizenship) so as to cope with challenges
 such as globalisation, changing demographics and technological advancements
 that they will face in the future.</p>
-<p>2) To inculcate a sense of co-operation, teamwork, sportsmanship, and
-to develop a positive attitude towards healthy living.</p>
-<p>3) To develop basic skills in the games for life-long learning.</p>
+</li>
+<li>
+<p>To inculcate a sense of co-operation, teamwork, sportsmanship, and to
+develop a positive attitude towards healthy living.</p>
+</li>
+<li>
+<p>To develop basic skills in the games for life-long learning.</p>
+</li>
+</ul>
 <h3>PE Modules</h3>
 <table>
 <tbody>
@@ -138,5 +146,21 @@ to develop a positive attitude towards healthy living.</p>
 </tbody>
 </table>
 <h3>MGS Sports Events</h3>
-<p>Cross-country, Sec 3 Ultimate Frisbee Championships, Sec 4 Sports Education,
-Sports Day, Swimming Championships</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Cross-country</p>
+</li>
+<li>
+<p>Sec 3 Ultimate Frisbee Championships</p>
+</li>
+<li>
+<p>Sec 4 Sports Education</p>
+</li>
+<li>
+<p>Sports Day</p>
+</li>
+<li>
+<p>Swimming Championships</p>
+</li>
+</ul>
+<p></p>
