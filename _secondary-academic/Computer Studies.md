@@ -35,16 +35,14 @@ behaviour</p>
 a passion for lifelong learning, emboldening our students to embrace uncertainty,
 embrace challenges, and seize opportunities as they emerge in the digital
 age</p>
-<p><strong><u>Pedagogy</u></strong>
-</p>
+<h4>Pedagogy</h4>
 <p>Moreover, our curriculum transcends the mere acquisition of technical
 skills; it fosters the emerging 21st century competencies such as critical,
 adaptive and inventive thinking, as well as collaboration.&nbsp; Through
 hands-on projects and collaborative endeavours, students are encouraged
 to think critically, solve complex problems, and unleash their imagination
 to devise innovative solutions to real-world challenges.</p>
-<p><strong><u>Curriculum Framework</u></strong>
-</p>
+<h4>Curriculum Framework</h4>
 <p>The design of our Computer Studies is guided by the MOE Computing Curriculum
 Framework which was revised in 2017.</p>
 <p></p>
@@ -55,12 +53,11 @@ Framework which was revised in 2017.</p>
 <h3>Computer Studies for Lower Secondary</h3>
 <p>Computer Studies lessons for each lower secondary class will be conducted
 once every fortnight, with each session lasting 1 hour and 50 minutes.
-By the conclusion of their second year at MGS, all students will have attained
-proficiency in utilizing the Python programming language to develop interactive
-games. While Computer Studies for lower secondary levels is a non-examinable
-subject, students will undergo assessment based on their assignments and
-projects, allowing for holistic evaluation of their comprehension and application
-of concepts.</p>
+All students will have attained proficiency in utilizing the Python programming
+language to develop interactive games. While Computer Studies for lower
+secondary levels is a non-examinable subject, students will undergo assessment
+based on their assignments and projects, allowing for holistic evaluation
+of their comprehension and application of concepts.</p>
 <h3>Computer Studies for Upper Secondary/IP Years</h3>
 <p>The Upper Secondary and IP Year 3 and 4 levels offer Computing as a subject,
 providing students with the opportunity to further enrich and deepen their

@@ -33,15 +33,21 @@ world and to contribute actively and responsibly as global citizens.</p>
 </li>
 </ul>
 <h3>Pedagogical Approach in the Humanities</h3>
-<ul data-tight="true" class="tight">
+<ul>
+<li>
+<p>Parallel Curriculum</p>
+</li>
 <li>
 <p>Inquiry Based Learning</p>
 </li>
 <li>
-<p>Thinking Routines</p>
+<p>Concept Mapping</p>
 </li>
 <li>
-<p>e-Pedagogy (7 Key Applications of Technology)</p>
+<p>Socratic Questioning</p>
+</li>
+<li>
+<p>Paul’s Wheel of Reasoning</p>
 </li>
 </ul>
 <p></p>
