@@ -44,7 +44,7 @@ to develop a positive attitude towards healthy living.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>SEC/YR 1</strong>
+<p><strong>Sec/Year 1</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -67,7 +67,7 @@ to develop a positive attitude towards healthy living.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>SEC/YR 2</strong>
+<p><strong>Sec/Year 2</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -91,7 +91,7 @@ to develop a positive attitude towards healthy living.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>SEC/YR 3</strong>
+<p><strong>Sec/Year 3</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -118,7 +118,7 @@ to develop a positive attitude towards healthy living.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>SEC/YR 4</strong>
+<p><strong>Sec/Year 4</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
