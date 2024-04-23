@@ -56,7 +56,7 @@ create knowledge</p>
 the school community and beyond</p>
 </li>
 </ul>
-<p><strong>Secondary / Year 1</strong>
+<p><strong>Sec/Year 1</strong>
 </p>
 <ul>
 <li>
@@ -73,7 +73,7 @@ the school community and beyond</p>
 <br>performance</p>
 </li>
 </ul>
-<p><strong>Secondary /Year 2</strong>
+<p><strong>Sec/Year 2</strong>
 </p>
 <ul>
 <li>
