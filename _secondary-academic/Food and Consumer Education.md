@@ -86,7 +86,6 @@ and cooking.</p>
 <h3>National Syllabuses</h3>
 <p>Please refer to&nbsp;<a href="https://www.moe.gov.sg/secondary/schools-offering-full-sbb/syllabus" rel="noopener noreferrer nofollow" target="_blank">this link</a>.</p>
 <h3>Gallery</h3>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secondary/FCE.png">
 </div>
