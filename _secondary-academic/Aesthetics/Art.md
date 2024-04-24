@@ -60,15 +60,14 @@ student-student and student-world</p>
 within the school community and beyond.</p>
 </li>
 </ol>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Secondary/1.jpg">
 </div>
-<p></p>
+<h4>Deep Learning in MGS Visual Arts - Lower Secondary</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secondary/2.jpg">
 </div>
-<p></p>
+<h4>Deep Learning in MGS Visual Arts - Upper Secondary</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secondary/3.jpg">
 </div>
