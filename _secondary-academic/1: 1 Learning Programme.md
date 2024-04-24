@@ -45,8 +45,7 @@ fostering a sense of community and engagement.</p>
 </li>
 </ul>
 <h3>Frequently Asked Questions</h3>
-<p><strong><u>MGS 1:1 Learning Programme FAQ&nbsp;</u></strong>
-</p>
+<h4>MGS 1:1 Learning Programme FAQ&nbsp;</h4>
 <p><strong>Learning Device for Sec/Year 1:</strong>&nbsp;&nbsp;&nbsp;There
 is no need for parents to purchase their own iPads as this package is centrally
 procured by MGS. We will inform parents in due time with regard to the
