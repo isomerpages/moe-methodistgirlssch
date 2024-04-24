@@ -16,11 +16,11 @@ the importance of preparing our students to acquire the digital skills
 to navigate this digital age and in line with the National Digital Literacy
 Programme announced in 2020, we offer a 1:1 Learning Programme to our students.</p>
 <p></p>
-<h4><strong>Why 1:1?</strong></h4>
+<h4>Why 1:1?</h4>
 <p>Our commitment to a 1:1 computing initiative is driven by the recognition
 that technology is not merely a tool but a powerful enabler and capability
 multiplier to enhance and customise students’ learning experiences.&nbsp;</p>
-<h4><br><strong>The Aims:</strong></h4>
+<h4><br>The Aims:</h4>
 <p>The primary aim of our 1:1 Learning Programme is to equip our students
 with the 21st century competencies of collaboration, critical thinking
 and communication, which they need to thrive in the future. Since each
@@ -28,7 +28,7 @@ student has their own device, we empower them to engage in self-directed
 and collaborative learning, develop digital literacies and technological
 skills, and use digital tools to create solutions.&nbsp;</p>
 <p></p>
-<h4><strong>Key Features:</strong></h4>
+<h4>Key Features:</h4>
 <ul>
 <li>
 <p>Instant Connectivity: With access to their own device, students can connect
@@ -45,7 +45,7 @@ fostering a sense of community and engagement.</p>
 </li>
 </ul>
 <h3>Frequently Asked Questions</h3>
-<h4><a href="https://docs.google.com/document/d/e/2PACX-1vTVLcIObKjvQ-BDsGHbKRjBlSCS-JpG3FDpOG1vGHfC1LAJklfSTgKmSdXOCxeA4djzrriQl4e3VKqy/pub" rel="noopener noreferrer nofollow" target="_blank">MGS 1:1 Learning Programme FAQ</a>&nbsp;&nbsp;&nbsp;</h4>
+<h4>MGS 1:1 Learning Programme FAQ&nbsp;</h4>
 <p><strong>Learning Device for Sec/Year 1:</strong>&nbsp;&nbsp;&nbsp;There
 is no need for parents to purchase their own iPads as this package is centrally
 procured by MGS. We will inform parents in due time with regard to the
@@ -54,7 +54,7 @@ specific purchase and payments modes of the device package.</p>
 with a Personal Learning Device:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://drive.google.com/file/d/1xsqK7iSMpd5H6LTQFhsB3-MNH1OyGE89/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook on Learning with a PLD (I)</a> 
+<p><a href="https://drive.google.com/file/d/1xsqK7iSMpd5H6LTQFhsB3-MNH1OyGE89/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook on Learning with a PLD (I)</a>
 </p>
 </li>
 <li>
@@ -70,11 +70,11 @@ with a Personal Learning Device:</p>
 change your DMA Options.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://drive.google.com/file/d/1yfzfCqVfrQStZ9w5djSHnHVTol7fZbqD/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">DMA Parent Guide - Default Option</a> 
+<p><a href="https://drive.google.com/file/d/1yfzfCqVfrQStZ9w5djSHnHVTol7fZbqD/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">DMA Parent Guide - Default Option</a>
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/1WY8zv7IvB9JBwVYDw-pTaFJkhxQSd8gt/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">DMA Parent Guide - Option A</a> 
+<p><a href="https://drive.google.com/file/d/1WY8zv7IvB9JBwVYDw-pTaFJkhxQSd8gt/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">DMA Parent Guide - Option A</a>
 </p>
 </li>
 <li>

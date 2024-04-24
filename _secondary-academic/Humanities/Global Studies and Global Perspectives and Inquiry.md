@@ -63,7 +63,6 @@ traditional subject boundaries or schools of thought, as new needs have
 emerged in today’s increasingly globalised and complex world. The GS curriculum
 provides students with these exciting opportunities to understand and attempt
 to resolve global issues vis-à-vis interdisciplinary lens.</p>
-<p></p>
 <h3>Assessment</h3>
 <p>The students will be assessed in a variety of modes besides the traditional
 examination.</p>
