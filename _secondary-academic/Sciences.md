@@ -16,7 +16,6 @@ the core ideas in the three sciences.</p>
 related to the disciplinary core ideas. This will engage the students with
 fundamental questions about the world and how scientists have found answers
 to them.</p>
-<p></p>
 <h3>Goals</h3>
 <p>Upon graduation, MGS students would have gained sufficient knowledge of
 the core ideas of science and its practices to:&nbsp;</p>
