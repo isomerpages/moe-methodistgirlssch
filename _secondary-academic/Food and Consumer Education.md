@@ -86,25 +86,14 @@ and cooking.</p>
 <h3>National Syllabuses</h3>
 <p>Please refer to&nbsp;<a href="https://www.moe.gov.sg/secondary/schools-offering-full-sbb/syllabus" rel="noopener noreferrer nofollow" target="_blank">this link</a>.</p>
 <h3>Gallery</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Our SY2 Curry Master Chefs whipped up a Spicy Hot Curry Meal." src="/images/Secondary/CurryMasterChef__1_.jpg">
-</div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Having FUN frying piping hot Doughnut Balls for self-initiated learning activity." src="/images/Secondary/Doughnut_Ball.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secondary/FCE.png">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secondary/TangYuan.jpg">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secondary/Laksagoreng__1_.jpg">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secondary/OnlyEgg.jpg">
-</div>
+<p></p>
 <p>
 <br>
 </p>
