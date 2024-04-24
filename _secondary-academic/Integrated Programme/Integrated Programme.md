@@ -100,7 +100,6 @@ fostering a culture of innovation and critical thinking. In this environment,
 questions are elevated above answers, and learning is scaffolded to meet
 the needs and interests of each individual student.</p>
 <h3>Distinctive IP learning experience</h3>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secondary/IP4_5.png">
 </div>
