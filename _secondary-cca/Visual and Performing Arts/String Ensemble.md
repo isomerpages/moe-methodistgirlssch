@@ -6,11 +6,9 @@ third_nav_title: Visual and Performing Arts
 variant: tiptap
 ---
 <h4><strong>2024 MGS Festival of Arts (Kizuna)</strong></h4>
-<p>
-<br>
-</p>
-<p></p>
-<p></p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSQDXxH0XBdW5fDL9hrlD6Zcp5JRAhPlgkNlVuhZx7q25KxXSsuvM8vNAwGtXUk4CK2whjLL-yrlklj/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
 <p><a href="https://mgstringsofficial.wixsite.com/website-2" rel="noopener noreferrer nofollow" target="_blank">MG Strings on WIX</a>
 </p>
 <div class="iframe-wrapper">
