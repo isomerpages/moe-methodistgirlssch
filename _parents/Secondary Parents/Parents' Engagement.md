@@ -12,7 +12,7 @@ variant: tiptap
 Parents' Engagement notes.</p>
 </li>
 <li>
-<p><a href="https://www.youtube.com/watch?v=UR07CITaE4E" rel="noopener noreferrer nofollow" target="_blank">View</a> the
+<p><a href="https://youtu.be/wlAuIIxID7Y?si=VlRhwSuhRXwBz7wh" rel="noopener noreferrer nofollow" target="_blank">View</a> the
 Principal's Address</p>
 </li>
 </ol>
