@@ -9,8 +9,6 @@ variant: tiptap
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRqWkFVLA03jJR2d8PutsxFevTyWsMnDnScFIiohOU0CmNYL7Sgxt6qO2QMHtKtI7frKnhAOpUcVHA1/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
-<p></p>
-<p></p>
 <p>The MGS Choir has a shared sense of passion and love for singing. The
 Choir’s guiding principles are: Awareness, Attitude, Ability, Attendance.
 We strive to inculcate self-discipline, independence, diligence and a sense
