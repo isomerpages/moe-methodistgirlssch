@@ -154,10 +154,9 @@ for the MGS IP?</p>
 </li>
 </ol>
 <h3>For further clarifications, please contact:</h3>
-<p><strong>Ms Grace Tang (Head, Integrated Programme)</strong>: <a href="mailto:tang_lyn_lyn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tang_lyn_lyn@schools.gov.sg</a>
+<p><strong>Head of Department (Integrated Programme)</strong>: <a href="mailto:tang_lyn_lyn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Grace Tang</a>
 </p>
-<p><strong>Mrs Grace Poh (Subject head, Integrated Programme)</strong>:
-<a href="mailto:grace_poh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">grace_poh@schools.gov.sg</a>
+<p><strong>Subject Head (Integrated Programme)</strong>: <a href="mailto:grace_poh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Grace Poh</a>
 </p>
 <h3>Important note for current Secondary 2 MGS students/parents</h3>
 <ul>
