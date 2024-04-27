@@ -11,7 +11,7 @@ Direct School Admission phase as well as via the PSLE Posting Exercise.</p>
 find out more about MGS DSA Timeline and how to apply.</p>
 <h2>Enquiries</h2>
 <p>For further clarification, please contact:</p>
-<p><strong>Head of Department (Integrated Programme)</strong>: <a href="tang_lyn_lyn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Grace Tang</a>
+<p><strong>Head of Department (Integrated Programme)</strong>: <a href="mailto:tang_lyn_lyn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Grace Tang</a>
 </p>
 <p><strong>Subject Head (Integrated Programme)</strong>: <a href="mailto:grace_poh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Grace Poh</a>
 </p>
