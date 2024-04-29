@@ -9,6 +9,7 @@ variant: tiptap
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQE5QQVuyiC_ZkpvyOzrb2Wo1fjfizmCw8YatASCJqAH1imkzTEOXYG2y-aIVwoFvi0CS4BsNxKFXkX/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
+<p></p>
 <p>The <a href="https://www.youtube.com/watch?v=Myft1jnWgXM" rel="noopener noreferrer nofollow" target="_blank">Guitar Ensemble</a> aims
 to enhance the MGS education for its members by providing fulfilling and
 enriching experiences through CCA. Guitar Ensemble was established in 2007
