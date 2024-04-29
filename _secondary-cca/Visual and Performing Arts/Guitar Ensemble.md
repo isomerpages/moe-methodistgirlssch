@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Visual and Performing Arts
 variant: tiptap
 ---
-<h4></h4>
+<h4><strong>2024 MGS Festival of Arts (Kizuna)</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQE5QQVuyiC_ZkpvyOzrb2Wo1fjfizmCw8YatASCJqAH1imkzTEOXYG2y-aIVwoFvi0CS4BsNxKFXkX/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
