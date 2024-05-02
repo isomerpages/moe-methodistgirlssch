@@ -22,8 +22,9 @@ to the camaraderie on and off the court. Rigorous trainings are never dreaded
 here, as members are constantly spurred on by each other, and as it also
 allows members to reach and expand their potential.</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTPMJMXOQWNlI-36HZC0ZDGDMn0KETWCpmRrjQ_1UeTkNOOSXUy2HLzXrneFiBP3mql3bSHdN1kUXTd/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRy2Ce9bf5fkaS7hlEpRI7HDB1g5GWFT1PKHhxaaTaxbqbBV5ShhZ1qRHUA3QRQDgCiEn_ZH18xuIcp/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
+<p></p>
 <p>For members to challenge themselves and hone their skills, the CCA competes
 in the annual National School Games (NSG) for both the ‘B’ and ‘C’ Divisions.
 It also takes part in carnivals and tournaments, and organizes friendly
