@@ -28,7 +28,7 @@ Mathematics)</p>
 <p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Squash</p>
 <p>10.&nbsp;&nbsp; Swimming</p>
 <p>11.&nbsp;&nbsp; Tennis</p>
-<p><em>DSA Application for Primary 6 students will begin in early May 2024. Please refer to this page for full details nearing the date.</em>
+<p><strong><a href="" rel="noopener noreferrer nofollow" target="_blank">Download MGS DSA Application 2024 here.</a></strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
