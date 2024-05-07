@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <h4><strong>2024 MGS Festival of Arts (Kizuna)</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTxRNmF35qSdHVnu1X8-F1OdDd4YMBcPXBi0xuyZpc2Yg-Zfu8-lGadCCJanJNfrzjgzeEpYJzxxgwD/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTxRNmF35qSdHVnu1X8-F1OdDd4YMBcPXBi0xuyZpc2Yg-Zfu8-lGadCCJanJNfrzjgzeEpYJzxxgwD/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <div class="iframe-wrapper">
 <iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/rkpS-FviCgM"></iframe>
