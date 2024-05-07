@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <h4><strong>2024 MGS Festival of Arts (Kizuna)</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRqWkFVLA03jJR2d8PutsxFevTyWsMnDnScFIiohOU0CmNYL7Sgxt6qO2QMHtKtI7frKnhAOpUcVHA1/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRqWkFVLA03jJR2d8PutsxFevTyWsMnDnScFIiohOU0CmNYL7Sgxt6qO2QMHtKtI7frKnhAOpUcVHA1/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p>The MGS Choir has a shared sense of passion and love for singing. The
 Choir’s guiding principles are: Awareness, Attitude, Ability, Attendance.
