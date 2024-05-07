@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <h4><strong>2024 MGS Festival of Arts (Kizuna)</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSQDXxH0XBdW5fDL9hrlD6Zcp5JRAhPlgkNlVuhZx7q25KxXSsuvM8vNAwGtXUk4CK2whjLL-yrlklj/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSQDXxH0XBdW5fDL9hrlD6Zcp5JRAhPlgkNlVuhZx7q25KxXSsuvM8vNAwGtXUk4CK2whjLL-yrlklj/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p><a href="https://mgstringsofficial.wixsite.com/website-2" rel="noopener noreferrer nofollow" target="_blank">MG Strings on WIX</a>
 </p>
