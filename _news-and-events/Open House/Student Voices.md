@@ -5,14 +5,12 @@ description: ""
 third_nav_title: Open House
 variant: tiptap
 ---
-<h2>Day In A Life of an MG Student</h2>
+<h3>Day In A Life of an MG Student</h3>
 <div class="iframe-wrapper">
 <iframe height="695" width="1236" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/REGukxwt7Qc"></iframe>
 </div>
 <p></p>
-<p></p>
-<p></p>
-<h2>Vlog of an MGS Student</h2>
+<h3>Vlog of an MGS Student</h3>
 <div class="iframe-wrapper">
 <iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/jgc13GkUqbY"></iframe>
 </div>
@@ -20,7 +18,6 @@ variant: tiptap
 to you a day in the life of an MGS student.
 <br>
 </p>
-<p></p>
 <blockquote>
 <p>Down through the years our memories will keep a loving place.
 <br>For friendships made and pleasures shared, and lessons learned apace.</p>
@@ -43,7 +40,7 @@ of love.</p>
 her inspiring journey as a leader and the challenges that she encountered.</p>
 <p>Her experiences in MG have shaped her into the individual she is today,
 and taught her what it truly means to Master, to Grow and to Serve.</p>
-<h2>Student Testimonials</h2>
+<h3>Student Testimonials</h3>
 <div class="iframe-wrapper">
 <iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/LZT0I1SWSvs"></iframe>
 </div>
