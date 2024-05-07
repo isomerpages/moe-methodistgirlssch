@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <h3>Day In A Life of an MG Student</h3>
 <div class="iframe-wrapper">
-<iframe height="695" width="1236" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/REGukxwt7Qc"></iframe>
+<iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/REGukxwt7Qc"></iframe>
 </div>
 <p></p>
 <h3>Vlog of an MGS Student</h3>
