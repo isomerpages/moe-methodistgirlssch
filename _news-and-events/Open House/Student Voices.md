@@ -6,7 +6,9 @@ third_nav_title: Open House
 variant: tiptap
 ---
 <h2>Day In A Life of an MG Student</h2>
-<p></p>
+<div class="iframe-wrapper">
+<iframe height="695" width="1236" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/REGukxwt7Qc"></iframe>
+</div>
 <p></p>
 <p></p>
 <p></p>
