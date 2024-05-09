@@ -275,11 +275,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:yong_mee_ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Mdm Yong Mee Ying</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -430,11 +430,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:phua_poh_eng@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Mrs May Liow</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
