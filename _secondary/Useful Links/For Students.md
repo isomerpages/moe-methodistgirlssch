@@ -50,7 +50,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/1XE24zn12tjXPMfhAr1PJBFQsgUg8QerR/view" rel="noopener noreferrer nofollow" target="_blank">For Updating of Student's Address</a>
+<p><a href="https://drive.google.com/file/d/1hGaNmDJ68qqlHCqKg1gWzjwzPjXyY9nc/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">For Updating of Student's Address</a>
 </p>
 </li>
 </ul>
