@@ -12,7 +12,12 @@ is open to students who are currently in 2024 Secondary 2 or its equivalent.</p>
 to the International Baccalaureate Diploma Programme at Anglo-Chinese School
 (Independent) in Years 5 &amp; 6.</p>
 <h3>Please note the following dates for the application process:</h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -172,8 +177,8 @@ for Y3IP application account</p>
 <h3>Online application portal</h3>
 <p>The online application portal will be open for access only after <strong>Friday, 17 May 2024, 7pm.</strong>
 </p>
-<p>Access the online application portal <u>here</u> (only after Friday, 17
-May, 7pm)</p>
+<p>Access the online application portal <a href="https://mgs.ntrix.sg/schooladmission/" rel="noopener noreferrer nofollow" target="_blank">here</a>(only after Friday,
+17 May, 7pm)</p>
 <p><em>Note: During the online application, please be reminded to save <u>each</u> completed section before proceeding to the next.</em>
 </p>
 <p></p>
