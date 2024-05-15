@@ -5,6 +5,10 @@ description: ""
 third_nav_title: Visual and Performing Arts
 variant: tiptap
 ---
+<h4><strong>2024 MGS Festival of Arts (Kizuna II)</strong></h4>
+<div class="iframe-wrapper">
+<iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ7uMtMWSAeCQEEVAuOi6LLKLUsAlcZeIdH6tRZ-shkuJH_FwStoRhlbd3bMLTqLr0_eNMB-Za2VHB-/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
 <p><a href="https://mgdancee.wixsite.com/mgdancee" rel="noopener noreferrer nofollow" target="_blank">MG Dance on WIX</a>
 </p>
 <div class="iframe-wrapper">
