@@ -5,6 +5,11 @@ description: ""
 third_nav_title: Visual and Performing Arts
 variant: tiptap
 ---
+<h4><strong>2024 MGS Festival of Arts (Kizuna II)</strong></h4>
+<div class="iframe-wrapper">
+<iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRgmqEx8puCswB4OVG5wWXnHlsT0SjgDK3cf8Z2v3dP8ohg2RsTp518h1B-HigrdPxSYR6v76s5LAnl/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
+<p></p>
 <div class="iframe-wrapper">
 <iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/F_Q-pdx1J_0?si=TuzQOnogM5XNXwyi"></iframe>
 </div>
@@ -24,7 +29,12 @@ and aspirations.</p>
 <iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRDI0qneK8ujs1OQ_X2zXRetPBBsQc6jzW_IxVEAYGUudAR_OGpJ6hjYJ7fYU-90k0btDSBJmkhe5Gu/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p>The students will sit for and attain one of the following certifications:</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
