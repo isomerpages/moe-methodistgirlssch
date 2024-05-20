@@ -26,7 +26,7 @@ variant: tiptap
 <br>Operations Support Officer: Mr Chan Keng Seng</p>
 <h3><strong>FINANCE</strong></h3>
 <p>Director:&nbsp;<a href="mailto:cheryl_chan_hp@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Cheryl Chan</a> 
-<br>Manager:&nbsp;&nbsp;<a href="mailto:teoh_ling_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Teoh Ling Hui</a> 
+<br>Manager: <em>Vacant</em>
 <br>Senior Executive: Ms Charyl Lee
 <br>Senior Executive: Ms Debbie Cheng</p>
 <h3><strong>HUMAN RESOURCES</strong></h3>
