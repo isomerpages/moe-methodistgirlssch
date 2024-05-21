@@ -37,12 +37,17 @@ skills.</p>
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p>SYF 2013, 2015, 2017, 2019 &amp; 2021&nbsp; – Certificate of Distinction
-<br>
-</p>
+<p>SYF 2023 - Certificate of Distinction</p>
 </li>
 <li>
-<p>Trinity College London Group Examination (Advanced) – Distinction</p>
+<p>9th Singapore Raffles International Music Festival (SRIMF) - attained
+Gold (chamber ensemble category)</p>
+</li>
+<li>
+<p>2023 VIA Guitar Ensemble performance at Sengkang Hospital</p>
+</li>
+<li>
+<p>2023 Sustainable Christmas Market performance at South Beach</p>
 </li>
 </ol>
 <p></p>
