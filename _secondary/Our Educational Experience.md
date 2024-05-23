@@ -33,7 +33,6 @@ Baccalaureate Diploma in Anglo-Chinese School (Independent). IP subjects
 include Global Studies, Philosophy, Thinking &amp; Knowledge (PTK) and
 Independent Studies (IS). Curricular programmes include the Music Elective
 Programme (MEP) and Science, Technology, Society and Environment (STSE)
-Week.. Co-curricular programmes include Education and Career Guidance,
-Cyberwellness, Values in Action (VIA), Arts Appreciation, Independent Learning
-Day, Intergenerational Learning, Outdoor Education and Student Leadership
-training opportunities.</p>
+Week. Co-curricular programmes include Education and Career Guidance, Cyberwellness,
+Values in Action (VIA), Arts Appreciation, Independent Learning Day, Intergenerational
+Learning, Outdoor Education and Student Leadership training opportunities.</p>
