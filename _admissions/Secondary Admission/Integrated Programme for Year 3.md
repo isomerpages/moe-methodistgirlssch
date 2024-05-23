@@ -11,6 +11,19 @@ is open to students who are currently in 2024 Secondary 2 or its equivalent.</p>
 <p>The MGS Integrated Programme (IP) is a through-train programme that leads
 to the International Baccalaureate Diploma Programme at Anglo-Chinese School
 (Independent) in Years 5 &amp; 6.</p>
+<p></p>
+<p>Click on the links below to view the Information Session: Years 3 &amp;
+4 and the IP Curriculum Structure on 17 May:
+<br>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>MGS Integrated Programme [<a href="https://drive.google.com/file/d/1JbOjkZgG-cIxgfiJsYV8X4nnXtaGeUi5/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">PDF Slides</a>]</p>
+</li>
+<li>
+<p>MGS Integrated Programme [<a href="https://go.gov.sg/y3ip24" rel="noopener noreferrer nofollow" target="_blank">Recording</a>]</p>
+</li>
+</ul>
 <h3>Please note the following dates for the application process:</h3>
 <table style="minWidth: 75px">
 <colgroup>
