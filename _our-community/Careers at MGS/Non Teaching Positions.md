@@ -5,4 +5,4 @@ description: ""
 third_nav_title: Careers at MGS
 variant: tiptap
 ---
-<p></p>
+<p>There are currently no vacancies.</p>
