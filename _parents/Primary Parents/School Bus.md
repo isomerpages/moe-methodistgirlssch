@@ -165,5 +165,6 @@ Email:&nbsp;[sayguants@yahoo.com.sg](mailto:sayguants@yahoo.com.sg)
     </tr>
   </tbody>
 </table>
+(updated Jan 2024)
 
 Please note that the indicative rates above reflect the mandated maximum service charge for the respective distances, and are inclusive of 9% GST.
