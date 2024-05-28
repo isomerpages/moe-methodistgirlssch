@@ -26,12 +26,15 @@ variant: tiptap
 <br>Operations Support Officer: Mr Chan Keng Seng</p>
 <h3><strong>FINANCE</strong></h3>
 <p>Director:&nbsp;<a href="mailto:cheryl_chan_hp@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Cheryl Chan</a> 
-<br>Manager: <em>Vacant</em>
+<br>Manager: <em>Vacant</em> 
 <br>Senior Executive: Ms Charyl Lee
 <br>Senior Executive: Ms Debbie Cheng</p>
 <h3><strong>HUMAN RESOURCES</strong></h3>
 <p>Senior Manager: <a href="mailto:yong_sheue_horng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Yong Sheue Horng</a> 
-<br>Senior Executive: Ms Chin Si Min</p>
+<br>Senior Executive: MS Chin Si Min
+<br>Senior&nbsp;Executive: Mr Lester Lee
+<br>
+</p>
 <h3><strong>INFORMATION TECHNOLOGY</strong></h3>
 <p>Senior Manager: <a href="mailto:edmund_wong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Edmund Wong</a> 
 <br>Senior Executive: Mr David Quah
