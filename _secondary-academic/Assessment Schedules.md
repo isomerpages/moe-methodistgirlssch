@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <p>Please click on the links below to access the latest schedule for each
 level:</p>
-<p><strong>2024 Preliminary/End-of-Year Examination Timetable</strong> ^</p>
+<h4><strong>2024 Examination Schedule</strong>^</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -18,7 +18,7 @@ level:</p>
 <p>Level</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Examination Schedule</p>
+<p>Assessment Schedules</p>
 </th>
 </tr>
 <tr>
@@ -26,7 +26,7 @@ level:</p>
 <p>Secondary/Year 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>End-of-Year Examination Schedule</p>
+<p>End-of-Year Examination Timetable</p>
 </td>
 </tr>
 <tr>
@@ -34,7 +34,7 @@ level:</p>
 <p>Secondary/Year 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>End-of-Year Examination Schedule</p>
+<p>End-of-Year Examination Timetable</p>
 </td>
 </tr>
 <tr>
@@ -42,7 +42,7 @@ level:</p>
 <p>Secondary 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://drive.google.com/file/d/1fGa1M2uoOP50SAh0wE3-ptD3x7ixFWit/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">End-of-Year Examination Schedule</a>
+<p><a href="https://drive.google.com/file/d/1fGa1M2uoOP50SAh0wE3-ptD3x7ixFWit/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">End-of-Year Examination Timetable</a>
 </p>
 </td>
 </tr>
@@ -51,7 +51,7 @@ level:</p>
 <p>Year 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://drive.google.com/file/d/12ghcMyqit7-skP0QT0YCZe4iBqY0oTqD/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">End-of-Year Examination Schedule</a>
+<p><a href="https://drive.google.com/file/d/12ghcMyqit7-skP0QT0YCZe4iBqY0oTqD/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">End-of-Year Examination Timetable</a>
 </p>
 </td>
 </tr>
@@ -60,7 +60,7 @@ level:</p>
 <p>Secondary 4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://drive.google.com/file/d/1RyCUDXhX_wRNokkwUMlhBOoxn2c34JYp/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Preliminary Examination Schedule</a>
+<p><a href="https://drive.google.com/file/d/1RyCUDXhX_wRNokkwUMlhBOoxn2c34JYp/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Preliminary Examination Timetable</a>
 </p>
 </td>
 </tr>
@@ -69,7 +69,7 @@ level:</p>
 <p>Year 4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>End-of-Year Examination Schedule</p>
+<p>End-of-Year Examination Timetable</p>
 </td>
 </tr>
 </tbody>
