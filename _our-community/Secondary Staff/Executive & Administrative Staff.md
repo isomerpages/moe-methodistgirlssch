@@ -31,7 +31,7 @@ variant: tiptap
 <br>Senior Executive: Ms Debbie Cheng</p>
 <h3><strong>HUMAN RESOURCES</strong></h3>
 <p>Senior Manager: <a href="mailto:yong_sheue_horng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Yong Sheue Horng</a> 
-<br>Senior Executive: MS Chin Si Min
+<br>Senior Executive: Ms Chin Si Min
 <br>Senior&nbsp;Executive: Mr Lester Lee
 <br>
 </p>
