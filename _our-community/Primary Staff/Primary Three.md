@@ -7,7 +7,7 @@ variant: markdown
 ---
 | Class | Form Teacher | ||
 | -------- | -------- | -------- |-------- |
-|P3.1|[Mrs Faith Yeo](mailto:wong_chew_ling@schools.gov.sg)|[Mrs Cecilia Quah](mailto:quah_hue_bin_cecilia@schools.gov.sg)|
+|P3.1|[Mrs Faith Yeo](mailto:wong_chew_ling@schools.gov.sg)|[Mrs Cecilia Quah](mailto:quah_hue_bin_cecilia@schools.gov.sg)|[Miss Nadia Massri](mailto:Nur_Nadia_Massri@schools.gov.sg)|
 |P3.2|[Mrs Naomi Yee](mailto:yee_yee_may_naomi@schools.gov.sg)|[Ms Zhang Li](mailto:zhang_li_a@schools.gov.sg)|
 |P3.3|[Dr Karen Soh](mailto:soh_karen_jasmine@schools.gov.sg)|[Ms Linda Chan](mailto:chan_pei_chui@schools.gov.sg)|
 |P3.4|[Ms Jocelyn Chua](mailto:Jocelyn_CHUA@schools.gov.sg)|[Mrs Sandy Lim](mailto:yu_pui_shan@schools.gov.sg)|
