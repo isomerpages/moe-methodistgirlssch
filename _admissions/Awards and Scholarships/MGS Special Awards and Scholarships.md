@@ -25,17 +25,17 @@ Excellence and Love, and the school motto, To Master, To Grow, To Serve.</p>
 </p>
 <h2>Lydia Huang Award</h2>
 <p>The Lydia Huang Award is presented to the student with outstanding CCA
-(Sports) achievements in the PSLE cohort and shows strong school spirit.
-She is of good character and role models our school values, Godliness,
-Excellence and Love, and the school motto, To Master, To Grow, To Serve
-and is a current Secondary One student continuing her studies in MGS.</p>
+(Sports) achievements in the PSLE cohort continuing her studies in MGS.&nbsp;
+She shows strong school spirit and is of good character role modeling our
+school values, Godliness, Excellence and Love, and the school motto, To
+Master, To Grow, To Serve.</p>
 <h2>Model Student Award</h2>
 <p>The Model Student Award is presented to a Primary 6 pupil who shows exemplary
 behaviour and demonstrates a commitment to achieving excellence in academic
-pursuits and in co-curricular activities. She is of good character and
-role models our school values, Godliness, Excellence and Love, and the
-school motto, To Master, To Grow, To Serve. She is ever ready to extend
-a helping hand to others and inspires acts of kindness among her peers.</p>
+pursuits and in co-curricular activities. She is ever ready to extend a
+helping hand to others and inspires acts of kindness among her peers. She
+is of good character and role models our school values, Godliness, Excellence
+and Love, and the school motto, To Master, To Grow, To Serve.&nbsp;</p>
 <h2>Tan Ley Chee Award</h2>
 <p>The Tan Ley Chee Award is presented to the best all-rounder in the graduating
 cohort in Secondary school. She is of good character and role models our
@@ -70,7 +70,7 @@ and Love, and the school motto, To Master, To Grow, To Serve.</p>
 <h2>Puan Sri Helene Tan Chin Tuan Scholarships</h2>
 <p>The Puan Sri Helene Tan Chin Tuan Scholarships are presented to students
 with a heart of excellence in serving others and contributing to the community.
-She is of good character and role models our school values, Godliness,
+They are of good character and role model our school values, Godliness,
 Excellence and Love, and the school motto, To Master, To Grow, To Serve.</p>
 <p><em>Puan Sri Helene Tan Chin Tuan served as President of the MGS Alumnae Association in 1951, spearheading fundraising efforts to build the Mary Nind Wing at the Mount Sophia campus. She was a firm believer in helping the less fortunate in society and is recognised today for her significant contributions to public service and charity work.</em>
 </p>
@@ -90,10 +90,12 @@ sports competitions. She is an exemplary sports girl who is of good character
 and role models our school values, Godliness, Excellence and Love, and
 the school motto, To Master, To Grow, To Serve.</p>
 <h2>Wee Kim Wee Award</h2>
-<p>The Wee Kim Wee Award is presented to a Secondary Three pupil who has
-consistently displayed exemplary conduct and embodies our school values
-and motto since she was in Secondary One. She must also have demonstrated
-a commitment to academic pursuits and in co-curricular activities.</p>
+<p>The<strong> </strong>Wee Kim Wee Award is presented to a Secondary Three
+pupil who has consistently displayed exemplary conduct and embodies our
+school values and motto since she was in Secondary One. She must also have
+demonstrated a commitment to academic pursuits and in co-curricular activities.
+She is of good character and role models our school values, Godliness,
+Excellence and Love, and the school motto, To Master, To Grow, To Serve.</p>
 <h2>Sophia Blackmore Award</h2>
 <p>The Sophia Blackmore Award is presented to a Primary or Secondary MGS
 student who displays either exemplary courage and determination in the
