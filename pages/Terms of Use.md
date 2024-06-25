@@ -4,4 +4,160 @@ permalink: /terms-of-use/
 description: ""
 variant: tiptap
 ---
-<h3>Agreement – Terms</h3><ol data-tight="true" class="tight"><li><p>Thank you for visiting this Website (“The Website”). The Website is owned and maintained by the Methodist Girls' School, Singapore (hereinafter “MGS”).</p></li><li><p>All access of any area of The Website is governed by the terms and conditions below (“Terms”). If you do not accept any of these Terms, exit immediately. Continue only if you accept these terms.</p></li><li><p>In these Terms, the words “we,” “our” and “us” refer to MGS.</p></li><li><p>MGS reserves the right to change these Terms from time to time. Your use of The Website constitutes your agreement to any modified Terms.</p></li></ol><h3>Access to The Website</h3><ol data-tight="true" class="tight"><li><p>The accessibility and operation of The Website relies on technologies outside our control. We do not guarantee continued accessibility or uninterrupted operation of The Website.</p></li></ol><h3>Relying on Information</h3><ol data-tight="true" class="tight"><li><p>The Website is provided for general information only. We do not guarantee the timeliness, accuracy, completeness or reliability of any statements, opinion, representation or other information in The Website. You should do your own checks.</p></li><li><p>The materials located on The Website, including the information as well as software programs available on or through it (“the Contents”), are protected by copyright, trademark and other forms of proprietary rights. All rights, title and interest in the Contents are owned by, licensed to or controlled by MGS.</p></li></ol><h3>Security</h3><ol data-tight="true" class="tight"><li><p>Where appropriate we use available technology to protect the security of communications made through The Website. We do not, however, accept liability for the security, authenticity, integrity or confidentiality of any transactions and other communications made through The Website.</p></li><li><p>Internet communications may be susceptible to interference or interception by third parties. Despite our best efforts, we make no warranties that The Website is free of infection by computer viruses or other unauthorised software.</p></li></ol><h3>Hyperlinks</h3><ol data-tight="true" class="tight"><li><p>We are not responsible or liable for the availability or content of any other Internet site (not provided by us) linked to or from The Website. Access to any other site is at your own risk.</p></li><li><p>If you create a link or frame to The Website you do so at your own risk.</p></li><li><p>Private entities who wish to have their websites hyperlinked on The Website can write to us at&nbsp;<a href="mailto:mgps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mgps@moe.edu.sg</a> or <a href="mailto:mgss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mgss@moe.edu.sg</a>, with their contact details, the Uniform Resource Locator (URL) of the proposed link, a brief write-up of their website’s function, and reasons for wanting to be hyperlinked on The Website.</p></li><li><p>We reserve the right to object to, or disable any link or frame to or from The Website.</p></li><li><p>We reserve the right to change the URL of The Website.</p></li></ol><h3>Intellectual Property</h3><ol data-tight="true" class="tight"><li><p>Materials, including design, source codes, pages, documents and online graphics, audio and video in The Website are protected by law. The intellectual property rights in the materials are owned or licensed to us. All rights reserved (© Methodist Girls' School, Singapore)</p></li><li><p>Apart from any fair dealings for the purposes of private study, research, criticism or review, as permitted by law, no part of The Website may be reproduced or reused for any commercial purposes whatsoever without our prior written permission. The modification of the materials on The Website is prohibited.</p></li></ol><h3>Disclaimer of Warranties and Liability</h3><ol data-tight="true" class="tight"><li><p>We will not be liable for any loss or damage:</p><ol data-tight="true" class="tight"><li><p>that you may incur on account of using, visiting or relying on any statement, opinion, representation or information in The Website;</p></li><li><p>resulting from any delay in the operation or transmission, communications failure, Internet access difficulties or malfunctions in equipment or software; or</p></li><li><p>the conduct or the views of any person who accesses or uses The Website.</p></li></ol></li></ol><p></p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Thank you for visiting Methodist Girls’ School website. By accessing and
+using this Web Site, you shall be deemed to have accepted to be legally
+bound by these Terms of Use. If you do not agree to these Terms of Use,
+please do not use this Web Site. Agreement – Terms</p>
+</li>
+</ol>
+<h3>General</h3>
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p>These Terms of Use may be changed from time to time. Changes will be posted
+on this page and your use of this Web Site after such changes have been
+posted will constitute your agreement to the modified Terms of Use and
+all of the changes.</p>
+</li>
+</ol>
+<h3>Proprietary Rights </h3>
+<ol start="3" data-tight="true" class="tight">
+<li>
+<p>This Web Site is maintained by Methodist Girls’ School. It is owned by
+Methodist Girls’ School.</p>
+</li>
+<li>
+<p>The materials located on this Web Site including the information and software
+programs (the Contents), are protected by copyright, trademark and other
+forms of proprietary rights. All rights, title and interest in the Contents
+are owned by, licensed to or controlled by Methodist Girls’ School.</p>
+</li>
+</ol>
+<h3>Privacy Policy </h3>
+<ol start="5" data-tight="true" class="tight">
+<li>
+<p>Click here to review this Web Site Privacy Statement.</p>
+</li>
+</ol>
+<h3>Restrictions on Use of Materials </h3>
+<ol start="6" data-tight="true" class="tight">
+<li>
+<p>Except as otherwise provided, the Contents of this Web Site shall not
+be reproduced, republished, uploaded, posted, transmitted or otherwise
+distributed in any way, without the prior written permission of Methodist
+Girls’ School.&nbsp; To use any parts of the contents of this Site, the
+user must seek permission in writing, stating the contents for use; intent
+of use; manner of use; time frame of use and identity of the user. MOE
+reserves the right to refuse permission without declaring reason(s); and/or
+if information submitted by user is deemed insufficient.</p>
+</li>
+<li>
+<p>Modification of any of the Contents or use of the Contents for any other
+purpose will be a violation of Methodist Girls’ School’s copyright and
+other intellectual property rights. Graphics and images on this Web Site
+are protected by copyright and may not be reproduced or appropriated in
+any manner without written permission of Methodist Girls’ School.</p>
+<p></p>
+<h3>Right of Access</h3>
+<ol start="8" data-tight="true" class="tight">
+<li>
+<p>Methodist Girls’ School reserves all rights to deny or restrict access
+to this Web Site to any particular person, or to block access from a particular
+external address to this Web Site, at any time, without ascribing any reasons
+whatsoever.</p>
+</li>
+</ol>
+<p></p>
+<h3>Disclaimer of Warranties and Liability</h3>
+<ol start="9" data-tight="true" class="tight">
+<li>
+<p>The Contents of this Web Site are provided on an "as is" basis without
+warranties of any kind. To the fullest extent permitted by law, Methodist
+Girls’ School does not warrant and hereby disclaims any warranty:</p>
+</li>
+</ol>
+<p>(a) as to the accuracy, correctness, reliability, timeliness, non-infringement,
+title, merchantability or fitness for any particular purpose of the Contents
+of this Web Site;</p>
+<p>(b) that the Contents available through this Web Site or any functions
+associated therewith will be uninterrupted or error-free, or that defects
+will be corrected or that this Web Site and the server is and will be free
+of all viruses and/or other harmful elements.</p>
+<ol start="10" data-tight="true" class="tight">
+<li>
+<p>Methodist Girls’ School shall also not be liable for any damage or loss
+of any kind caused as a result (direct or indirect) of the use of the Web
+Site, including but not limited to any damage or loss suffered as a result
+of reliance on the Contents contained in or available from the Web Site.</p>
+<p></p>
+</li>
+</ol>
+<h3>Links from This Web Site to Other Web Sites</h3>
+<ol start="11" data-tight="true" class="tight">
+<li>
+<p>This Web Site contains hyperlinks to web sites which are not maintained
+Methodist Girls’ School. Methodist Girls’ School is not responsible for
+the contents of those web sites and shall not be liable for any damages
+or loss arising from access to those web sites. Use of the hyperlinks and
+access to such web sites are entirely at your own risk.</p>
+</li>
+<li>
+<p>Hyperlinks to other web sites are provided as a convenience. In no circumstances
+shall Methodist Girls’ School be considered to be associated or affiliated
+with any trade or service marks, logos, insignia or other devices used
+or appearing on web sites to which this Web Site is linked.</p>
+<p></p>
+</li>
+</ol>
+<h3>Links to This Web Site from Other Web Sites</h3>
+<ol start="13" data-tight="true" class="tight">
+<li>
+<p>Except as set forth below, caching and links to, and the framing of this
+Web Site or any of the Contents are prohibited.</p>
+</li>
+<li>
+<p>You must secure permission from Methodist Girls’ School prior to hyperlinking
+to, or framing, this Web Site or any of the Contents, or engaging in similar
+activities. Methodist Girls’ School reserves the right to impose conditions
+when permitting any hyperlinking to, or framing of this Web Site or any
+of the Contents.</p>
+</li>
+<li>
+<p>Your linking to, or framing any part of this Web Site or its Contents
+constitute acceptance of these Terms of Use. This is deemed to be the case
+even after the posting of any changes or modifications to these Terms of
+Use. If you do not accept these Terms of Use, you must discontinue linking
+to, or framing of this Web Site or any of the Contents.</p>
+</li>
+<li>
+<p>In no circumstances shall Methodist Girls’ School be considered to be
+associated or affiliated in whatever manner with any trade or service marks,
+logos, insignia or other devices used or appearing on web sites that link
+to this Web Site or any of the Contents.</p>
+</li>
+<li>
+<p>Methodist Girls’ School reserves all rights to disable any links to, or
+frames of any site containing inappropriate, profane, defamatory, infringing,
+obscene, indecent or unlawful topics, names, material or information, or
+material or information that violates any written law, any applicable intellectual
+property, proprietary, privacy or publicity rights.</p>
+</li>
+<li>
+<p>Methodist Girls’ School reserves the right to disable any unauthorised
+links or frames and disclaims any responsibility for the content available
+on any other site reached by links to or from this Web Site or any of the
+Contents.</p>
+<p></p>
+</li>
+</ol>
+<h3><strong>Governing Law</strong></h3>
+<ol start="19" data-tight="true" class="tight">
+<li>
+<p>These Terms of Use shall be governed and construed in accordance with
+laws of the Republic of Singapore.</p>
+</li>
+</ol>
+</li>
+</ol>
+<p></p>
