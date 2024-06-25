@@ -4,14 +4,10 @@ permalink: /terms-of-use/
 description: ""
 variant: tiptap
 ---
-<ol data-tight="true" class="tight">
-<li>
 <p>Thank you for visiting Methodist Girls’ School website. By accessing and
 using this Web Site, you shall be deemed to have accepted to be legally
 bound by these Terms of Use. If you do not agree to these Terms of Use,
 please do not use this Web Site. Agreement – Terms</p>
-</li>
-</ol>
 <h3>General</h3>
 <ol start="2" data-tight="true" class="tight">
 <li>
@@ -21,7 +17,7 @@ posted will constitute your agreement to the modified Terms of Use and
 all of the changes.</p>
 </li>
 </ol>
-<h3>Proprietary Rights </h3>
+<h3>Proprietary Rights</h3>
 <ol start="3" data-tight="true" class="tight">
 <li>
 <p>This Web Site is maintained by Methodist Girls’ School. It is owned by
@@ -34,13 +30,13 @@ forms of proprietary rights. All rights, title and interest in the Contents
 are owned by, licensed to or controlled by Methodist Girls’ School.</p>
 </li>
 </ol>
-<h3>Privacy Policy </h3>
+<h3>Privacy Policy</h3>
 <ol start="5" data-tight="true" class="tight">
 <li>
 <p>Click here to review this Web Site Privacy Statement.</p>
 </li>
 </ol>
-<h3>Restrictions on Use of Materials </h3>
+<h3>Restrictions on Use of Materials</h3>
 <ol start="6" data-tight="true" class="tight">
 <li>
 <p>Except as otherwise provided, the Contents of this Web Site shall not
