@@ -4,10 +4,10 @@ permalink: /terms-of-use/
 description: ""
 variant: tiptap
 ---
-<p>Thank you for visiting Methodist Girls’ School website. By accessing and
-using this Web Site, you shall be deemed to have accepted to be legally
-bound by these Terms of Use. If you do not agree to these Terms of Use,
-please do not use this Web Site. Agreement – Terms</p>
+<p>Thank you for visiting Methodist Girls’ School. By accessing and using
+this Web Site, you shall be deemed to have accepted to be legally bound
+by these Terms of Use. If you do not agree to these Terms of Use, please
+do not use this Web Site.</p>
 <h3>General</h3>
 <ol start="2" data-tight="true" class="tight">
 <li>
