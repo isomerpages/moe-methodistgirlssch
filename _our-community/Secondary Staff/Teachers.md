@@ -293,7 +293,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Ang Geok Xing</p>
 </td>
 </tr>
 <tr>
@@ -306,7 +306,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:claire_chan@mgs.sch.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Claire Chan</a>
+<p><a href="mailto:neo_chow_ming_linus@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Linus Neo</a>
 </p>
 </td>
 </tr>
@@ -320,7 +320,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Grace Lee</p>
 </td>
 </tr>
 <tr>
