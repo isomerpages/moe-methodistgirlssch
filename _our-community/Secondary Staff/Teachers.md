@@ -579,7 +579,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p><strong>Non-form teachers</strong>
 </p>
 </td>
@@ -588,7 +588,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:kwan-terry_annette@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Annette Kwan-Terry</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -597,16 +598,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:leong_wai_lup@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Mr Leong Wai Lup</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:kwan-terry_annette@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Annette Kwan-Terry</a>
 </p>
 </td>
 </tr>
@@ -802,11 +794,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:liu_heok_hing@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Mr Liu Heok Hing</a>
+<p><a href="mailto:tan_sin_yee_ivay@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Ivay Tan</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_sin_yee_ivay@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Ivay Tan</a>
+<p><a href="mailto:liu_heok_hing@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Mr Liu Heok Hing</a>
 </p>
 </td>
 </tr>
