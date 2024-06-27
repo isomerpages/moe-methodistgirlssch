@@ -158,7 +158,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="4" colspan="1">
+<td rowspan="5" colspan="1">
 <p><strong>Non-form teachers</strong>
 </p>
 </td>
@@ -203,11 +203,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:dan_ho@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Mr Dan Ho</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:dan_ho@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Mr Dan Ho</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -369,7 +377,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="4" colspan="1">
+<td rowspan="5" colspan="1">
 <p><strong>Non-form teachers</strong>
 </p>
 </td>
@@ -414,11 +422,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:wendy_li-_jin_tan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Wendy Tan</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:wendy_li-_jin_tan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Wendy Tan</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
