@@ -463,7 +463,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Li Yuewei</p>
+<p><a href="mailto:li_yuewei@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Ms Li Yuewei</a>
+</p>
 </td>
 </tr>
 <tr>
