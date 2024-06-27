@@ -97,7 +97,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:muhammad_afif_mansoor@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Muhammad Afif Bin Mansoor</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -110,7 +111,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:yeo_teck_king_melvyn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Melvyn Yeo</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -151,7 +153,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:germaine_ho_yen_peng@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Mrs Germaine Kan</a>
+</p>
 </td>
 </tr>
 <tr>
