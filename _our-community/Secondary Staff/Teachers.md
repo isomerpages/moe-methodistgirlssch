@@ -290,11 +290,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yong_mee_ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Mdm Yong Mee Ying</a>
+<p><a href="mailto:ang_geok_xing@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Ang Geok Xing</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ang_geok_xing@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Ang Geok Xing</a>
+<p><a href="mailto:yong_mee_ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Mdm Yong Mee Ying</a>
 </p>
 </td>
 </tr>
@@ -459,11 +459,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:phua_poh_eng@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Mrs May Liow</a>
+<p><a href="mailto:li_yuewei@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Ms Li Yuewei</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:li_yuewei@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Ms Li Yuewei</a>
+<p><a href="mailto:phua_poh_eng@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Mrs May Liow</a>
 </p>
 </td>
 </tr>
