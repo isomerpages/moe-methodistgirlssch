@@ -96,7 +96,7 @@ variant: tiptap
 <p>Physical Education &amp; Co-Curricular Activities</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:dan_ho@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Dan Ho</a>
+<p><a href="mailto:dan_ho@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Linus Neo</a>
 </p>
 </td>
 </tr>
