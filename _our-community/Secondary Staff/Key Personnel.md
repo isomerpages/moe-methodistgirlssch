@@ -93,10 +93,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Physical Education &amp; Co-Curricular Activities</p>
+<p>Physical Education &amp; Co-Curricular Activities (Covering HOD)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:neo_chow_ming_linus@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Linus Neo</a>  <em>covering</em>
+<p><a href="mailto:neo_chow_ming_linus@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Linus Neo</a> 
 </p>
 </td>
 </tr>
