@@ -11,12 +11,12 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<h4>Chairman</h4>
-</th>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
+<h4>Chariman</h4>
+</td>
+<td rowspan="1" colspan="1">
 <p>Mrs Sim Suh-Ting</p>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -34,6 +34,14 @@ variant: tiptap
 <p>Mrs Tjio Bee Ann</p>
 <p>Mrs Valarie Wilson</p>
 <p>Mrs Wee Oi Yee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
