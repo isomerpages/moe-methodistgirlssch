@@ -69,7 +69,8 @@ level:</p>
 <p>Year 4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>End-of-Year Examination Timetable</p>
+<p><a href="https://drive.google.com/file/d/18CZP1ZTCdIdjvhE_Zl3p716rkz7wNtlo/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">End-of-Year Examination Timetable</a>
+</p>
 </td>
 </tr>
 </tbody>
