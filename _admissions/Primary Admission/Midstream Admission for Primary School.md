@@ -15,10 +15,10 @@ Please be informed that the school will only notify the successful applicants by
 
 may not be offered the same in MGS, as this depends on the school’s internal consideration of a basket of different factors. The school's decision is final and will not be able to entertain appeals regarding unsuccessful applications. 
 
-For any further queries or assistance, please email to [mgps@schools.gov.sg](mailto:mgps@schools.gov.sg). 
+For any further queries or assistance, please email to [mgps@moe.edu.sg](mailto:mgps@moe.edu.sg). 
 
 FAQs:  
-[FAQ\_Mid-Stream Admission to MGS (Primary)](https://drive.google.com/file/d/10zpBex6Lp7_gpLbw4f5W7kdWouVVT1tB/view?usp=sharing)  
+[FAQ\_Mid-Stream Admission to MGS (Primary)](https://drive.google.com/file/d/15x2enIAurEQkJ1_9TphnDdyTN-n7Ujc2/view?usp=sharing)  
   
 
 **For Returning Singaporeans**  
