@@ -2,6 +2,7 @@ collections:
   about-mgs:
     output: true
     order:
+      - MGS School Tour.md
       - Example Title.md
       - Principal's Message.md
       - Our Board of Management.md
