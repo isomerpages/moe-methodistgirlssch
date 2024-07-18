@@ -12,7 +12,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<h4>Chariman</h4>
+<h4>Chairman</h4>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Sim Suh-Ting</p>
