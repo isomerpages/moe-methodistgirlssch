@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Calendar of Events.md
-      - MGS School Tour.md
       - Open House/.keep
       - Open House/MGS Welcomes You.md
       - Open House/Programme.md
