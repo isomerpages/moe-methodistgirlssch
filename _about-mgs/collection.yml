@@ -2,13 +2,13 @@ collections:
   about-mgs:
     output: true
     order:
-      - MGS School Tour.md
       - Principal's Message.md
       - Our Board of Management.md
       - Our Corporate Video.md
       - Our Heritage.md
       - Our Identity.md
       - Our MGS Houses.md
+      - MGS School Tour.md
       - PDPA Policy.md
       - School Safety.md
       - The MGS Store.md
