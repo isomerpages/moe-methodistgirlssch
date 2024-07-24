@@ -2,8 +2,8 @@ collections:
   news-and-events:
     output: true
     order:
-      - MGS 137th Founder’s Day’.md
       - Calendar of Events.md
+      - MGS 137th Founder’s Day’.md
       - Open House/.keep
       - Open House/MGS Welcomes You.md
       - Open House/Programme.md
