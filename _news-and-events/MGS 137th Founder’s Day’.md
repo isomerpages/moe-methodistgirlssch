@@ -4,6 +4,16 @@ permalink: /mgs-137th-founder-s-day/
 variant: tiptap
 description: ""
 ---
-<h2>We are MGS</h2>
+<h4>WE ARE MGS</h4>
+<p>Featuring the diverse faces and voices of our beloved MGS family, this
+video co-created by Sec 2 students celebrates the rich tapestry of our
+school in commemoration of MGS 137th Founder's Day. As part of their Learning
+Unboxed programme, our students honed their digital storytelling and video
+production skills, bringing to life the connections and experiences that
+define us. Join us in celebrating our shared heritage and the incredible
+spirit of our community.&nbsp;&nbsp;</p>
+<p>
+<br>
+</p>
 <p></p>
 <p></p>
