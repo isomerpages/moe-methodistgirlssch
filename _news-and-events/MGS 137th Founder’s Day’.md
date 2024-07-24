@@ -16,4 +16,7 @@ spirit of our community.&nbsp;&nbsp;</p>
 <br>
 </p>
 <p></p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT4v-5h22ejfJjaULm2E55iEFTPAiavIaSQ__IuMEm7og_dUzowiHT2G5zfIA444Mjg16ljA_7bsj3R/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
 <p></p>
