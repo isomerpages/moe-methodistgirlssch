@@ -23,7 +23,7 @@ level:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Secondary</p>
+<p>Secondary 1 (SEC Programme)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://drive.google.com/file/d/116yoFIw1pq_Khz-qbJBhtMr4yHQsJV9r/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">End-of-Year Examination Timetable</a>
@@ -32,7 +32,7 @@ level:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year 1</p>
+<p>Secondary 1 (Integrated Programme)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://drive.google.com/file/d/1dv4TsPvtb3pnroYK0zGcv9Jl48PN3myD/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">End-of-Year Examination Timetable</a>
