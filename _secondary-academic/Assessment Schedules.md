@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <p>Please click on the links below to access the latest schedule for each
 level:</p>
-<h4><strong>2024 Examination Schedule</strong>^</h4>
+<h4><strong>2024 Examination Schedule</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -113,6 +113,6 @@ level:</p>
 </tr>
 </tbody>
 </table>
-<p>^ a link will be provided at a date closer to the event</p>
+<p></p>
 <p></p>
 <p></p>
