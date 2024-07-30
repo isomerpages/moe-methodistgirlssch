@@ -23,35 +23,73 @@ level:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Secondary/Year 1</p>
+<p>Secondary</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>End-of-Year Examination Timetable</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Secondary/Year 2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>End-of-Year Examination Timetable</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Secondary 3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://drive.google.com/file/d/1fGa1M2uoOP50SAh0wE3-ptD3x7ixFWit/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">End-of-Year Examination Timetable</a>
+<p><a href="https://drive.google.com/file/d/116yoFIw1pq_Khz-qbJBhtMr4yHQsJV9r/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">End-of-Year Examination Timetable</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year 3</p>
+<p>Year 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://drive.google.com/file/d/12ghcMyqit7-skP0QT0YCZe4iBqY0oTqD/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">End-of-Year Examination Timetable</a>
+<p><a href="https://drive.google.com/file/d/1dv4TsPvtb3pnroYK0zGcv9Jl48PN3myD/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">End-of-Year Examination Timetable</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Secondary 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://drive.google.com/file/d/1JCSE27QeunkcIoI3TxZtjJmOxaHJq3pG/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">End-of-Year Examination Timetable</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Year 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://drive.google.com/file/d/1UnbE9TN-M0J-J2U28aAkeHfI02TX5SYJ/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">End-of-Year Examination Timetable</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Secondary 3 (Term 3)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://drive.google.com/file/d/1oD0xJGYkvvF_Kjix8PGxjbEBWfOd2MRf/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">End-of-Year Examination Timetable (term 3)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Secondary 3 (Term 4)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://drive.google.com/file/d/1yF5mijMZAZh8jfQqmuWB1-ZvW0Y5eZ53/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">End-of-Year Examination Timetable (term 4)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Year 3 (Term 3)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://drive.google.com/file/d/12ghcMyqit7-skP0QT0YCZe4iBqY0oTqD/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">End-of-Year Examination Timetable (term 3)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Year 3 (Term 4)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://drive.google.com/file/d/191aRg-9vISWAXWf7HuQIOWUsRv8jDJjs/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">End-of-Year Examination Timetable (term 4)</a>
 </p>
 </td>
 </tr>
