@@ -79,7 +79,7 @@ obtain the link.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Monday
+<p>Wednesday
 <br>31 July 2024
 <br>5pm</p>
 </td>
