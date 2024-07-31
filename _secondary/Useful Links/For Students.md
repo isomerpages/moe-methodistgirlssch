@@ -24,6 +24,10 @@ variant: tiptap
 </p>
 </li>
 <li>
+<p><a href="https://drive.google.com/file/d/1XE24zn12tjXPMfhAr1PJBFQsgUg8QerR/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">MGS School Rules</a>
+</p>
+</li>
+<li>
 <p><a href="https://soundcloud.com/user-110809749/sets/mgs-original-compositions" rel="noopener noreferrer nofollow" target="_blank">MGS Vibes on Soundcloud</a>
 </p>
 </li>
