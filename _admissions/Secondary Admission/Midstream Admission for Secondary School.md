@@ -22,8 +22,7 @@ the school will only notify applicants who are shortlisted for interviews.
 All interviews will be conducted within the month of November.</p>
 <h2>For Returning Singaporeans</h2>
 <p>Returning Singaporeans (RS) may seek admission to our school at any time
-of the year. However, RSes are encouraged to seek admission in the first
-half of the year. Please access this <a href="https://www.moe.gov.sg/returning-singaporeans/returning-to-singapore" rel="noopener noreferrer nofollow" target="_blank">website</a> for
+of the year. Please access this <a href="https://www.moe.gov.sg/returning-singaporeans/returning-to-singapore" rel="noopener noreferrer nofollow" target="_blank">website</a> for
 a comprehensive suite of services. Alternatively, please contact the school
 for more information on admission.</p>
 <h2>For International Students applying to Secondary 1 - 3</h2>
