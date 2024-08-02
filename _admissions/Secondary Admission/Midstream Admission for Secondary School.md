@@ -26,7 +26,7 @@ of the year. However, RSes are encouraged to seek admission in the first
 half of the year. Please access this <a href="https://www.moe.gov.sg/returning-singaporeans/returning-to-singapore" rel="noopener noreferrer nofollow" target="_blank">website</a> for
 a comprehensive suite of services. Alternatively, please contact the school
 for more information on admission.</p>
-<h2>For International Students applying to Secondary 1 - 3 </h2>
+<h2>For International Students applying to Secondary 1 - 3</h2>
 <p>All International Students (IS) seeking admission into mainstream schools
 are required to participate in the Admissions Exercise for International
 Students (AEIS).&nbsp; For more information, please visit the&nbsp;<a href="https://www.moe.gov.sg/international-students" rel="noopener noreferrer nofollow" target="_blank">MOE website</a>.</p>
