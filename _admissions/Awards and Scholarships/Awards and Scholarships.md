@@ -60,7 +60,11 @@ documents) to the respective FORMSG:</p>
 <br><a href="https://go.gov.sg/2023sy4tommykohawardforartsandcreativity" rel="noopener noreferrer nofollow" target="_blank">Application for Tommy Koh Award for Arts &amp; Creativity - MGS Sec / Yr 4 (2023)</a>
 </p>
 <p></p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
