@@ -18,12 +18,12 @@ sports competitions. She is an exemplary sports girl who is of good character
 and role models our school values, Godliness, Excellence and Love, and
 the school motto, To Master, To Grow, To Serve.</p>
 <h3><strong>Wee Kim Wee Award</strong></h3>
-<p>TheWee Kim Wee Award is presented to a Secondary Three pupil who has consistently
-displayed exemplary conduct and embodies our school values and motto since
-she was in Secondary One. She must also have demonstrated a commitment
-to academic pursuits and in co-curricular activities. She is of good character
-and role models our school values, Godliness, Excellence and Love, and
-the school motto, To Master, To Grow, To Serve.
+<p>The Wee Kim Wee Award is presented to a Secondary Three pupil who has
+consistently displayed exemplary conduct and embodies our school values
+and motto since she was in Secondary One. She must also have demonstrated
+a commitment to academic pursuits and in co-curricular activities. She
+is of good character and role models our school values, Godliness, Excellence
+and Love, and the school motto, To Master, To Grow, To Serve.
 <br>
 </p>
 <h3><strong>MGS Sports Award</strong></h3>
