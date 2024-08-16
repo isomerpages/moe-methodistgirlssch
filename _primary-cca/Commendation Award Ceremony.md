@@ -1,6 +1,6 @@
 ---
 title: Commendation Award Ceremony
-permalink: /commendation-award-ceremony/
+permalink: /primary/mg-curriculum/commendation-award-ceremony/
 variant: tiptap
 description: ""
 ---
