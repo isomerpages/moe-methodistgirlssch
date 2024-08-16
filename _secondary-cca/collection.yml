@@ -2,7 +2,6 @@ collections:
   secondary-cca:
     output: true
     order:
-      - Commendation Award Ceremony.md
       - CCA.md
       - Achievements.md
       - Clubs and Societies/.keep
@@ -35,3 +34,4 @@ collections:
       - Visual and Performing Arts/Indian Dance Club.md
       - Visual and Performing Arts/International Dance.md
       - Visual and Performing Arts/String Ensemble.md
+      - Commendation Award Ceremony.md
