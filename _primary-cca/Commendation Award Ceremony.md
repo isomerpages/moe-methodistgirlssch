@@ -5,9 +5,9 @@ variant: tiptap
 description: ""
 ---
 <p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pri.jpg">
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Kb5SNRl3dA8?si=fIhnkKhsxCV5ewnq"></iframe>
 </div>
+<p></p>
 <p>The CAC e-bulletin and the Broadcast video of the event will be available
 on Tuesday 27 August 2024.</p>
