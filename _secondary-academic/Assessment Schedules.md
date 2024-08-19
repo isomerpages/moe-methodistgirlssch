@@ -35,7 +35,7 @@ level:</p>
 <p>Secondary 1 (Integrated Programme)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://drive.google.com/file/d/1dv4TsPvtb3pnroYK0zGcv9Jl48PN3myD/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">End-of-Year Examination Timetable</a>
+<p><a href="https://drive.google.com/file/d/1bojCxGo15GOjqHuVCjNTLu_Ese0f3lyC/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">End-of-Year Examination Timetable</a>
 </p>
 </td>
 </tr>
