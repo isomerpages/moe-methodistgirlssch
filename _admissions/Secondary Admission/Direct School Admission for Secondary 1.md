@@ -6,7 +6,7 @@ third_nav_title: Secondary Admission
 variant: tiptap
 ---
 <h2><strong>2024 DIRECT SCHOOL ADMISSION TO MGS SECONDARY 1 IN 2025</strong></h2>
-<p>Outcome of DSA Application to MGS</p>
+<h4>Outcome of DSA Application to MGS</h4>
 <p>Dear Applicants/Parents,</p>
 <p>A notification has been sent to your email addresses on Friday, 23 August
 2024, on the outcome of your DSA Application (Confirmed/Waitlist/Unsuccessful).</p>
