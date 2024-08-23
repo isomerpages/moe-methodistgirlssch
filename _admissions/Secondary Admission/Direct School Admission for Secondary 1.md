@@ -6,6 +6,13 @@ third_nav_title: Secondary Admission
 variant: tiptap
 ---
 <h2><strong>2024 DIRECT SCHOOL ADMISSION TO MGS SECONDARY 1 IN 2025</strong></h2>
+<h4>Outcome of DSA Application to MGS</h4>
+<p>Dear Applicants/Parents,</p>
+<p>A notification has been sent to your email addresses on Friday, 23 August
+2024, on the outcome of your DSA Application (Confirmed/Waitlist/Unsuccessful).</p>
+<p>Please check your inbox/spam/junk folders.</p>
+<p>Thank you for your patience and all the best for your PSLE!</p>
+<hr>
 <p>MGS invites Primary 6 students to participate in the 2024 DSA exercise.
 As MGS is a dual track school with both the Integrated Programme (IP) and
 Singapore-Cambridge Secondary Education Certificate (SEC) Programme, our
