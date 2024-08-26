@@ -10,5 +10,4 @@ description: ""
 </div>
 <p></p>
 <p>The CAC e-bulletin and the Broadcast video of the event will be available
-on Tuesday 27 August 2024.</p><a class="isomer-image-wrapper" href="https://file.go.gov.sg/cqumiq.pdf"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Primary/https___go_gov_sg_cqumiq.png"></a>
-<p></p>
+on Tuesday 27 August 2024.</p>
