@@ -26,7 +26,7 @@ is of good character and role models our school values, Godliness, Excellence
 and Love, and the school motto, To Master, To Grow, To Serve.
 <br>
 </p>
-<h3><strong>MGS Sports Award</strong></h3>
+<h3><strong>MGS Sports Award*</strong></h3>
 <p>The MGS Sports Awards are presented to talented and deserving athletes
 in recognition of their contributions to the Nation in various respective
 international competitions. These athletes have trained hard and overcome
@@ -35,6 +35,9 @@ they have demonstrated Sportsmanship, Teamwork and a spirit of Excellence.&nbsp;
 She is an exemplary sports girl who is of good character and role models
 our school values, Godliness, Excellence and Love, and the school motto,
 To Master, To Grow, To Serve.</p>
+<p>*<em>From 2025 onwards, the MGS&nbsp;Sports&nbsp;Awards&nbsp;will be discontinued.</em>
+</p>
+<p></p>
 <h4>Colours/Merit Award</h4>
 <p>The Colours/Merit Award for Sports is presented in recognition of a pupil’s
 high standard of performance in sports and games approved by the school.</p>
