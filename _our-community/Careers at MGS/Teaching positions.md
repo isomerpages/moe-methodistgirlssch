@@ -27,6 +27,5 @@ for 21st Century students. Those with teaching experience in the Gifted
 Education Programme or the International Baccalaureate or who have designed
 learning experiences in an international context would be considered favourably.
 We also welcome applicants who are currently JC teachers.</p>
-<p><a href="https://drive.google.com/file/d/17PmxePldsC93s6iSjEJbkU3xtERSno-1/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">List of positions available from now till 15 October 2024.</a>
+<p><a href="https://drive.google.com/file/d/17PmxePldsC93s6iSjEJbkU3xtERSno-1/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">List of positions available. Application  by 15 October 2024.</a>
 </p>
-<p></p>
