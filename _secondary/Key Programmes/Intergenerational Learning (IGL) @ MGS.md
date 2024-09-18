@@ -42,16 +42,10 @@ festival aims to explore and share emerging good practices, interest and
 inspire new IGL communities, and address challenges in promoting intergenerational
 learning and harmony. Participants will also have opportunities to immerse
 in curated IGL experiences.</p>
-<ul data-tight="true" class="tight">
-<li>
 <p>Find out more at: <a href="http://go.gov.sg/iglfest24" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/iglfest24</a>
 </p>
-</li>
-<li>
-<p>Register now at: <a href="http://go.gov.sg/iglfest24" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/iglfest24signup</a>
+<p>Register now at: <a href="https://form.gov.sg/66e3d21d45e443e3a3657bde" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/iglfest24signup</a>
 </p>
-</li>
-</ul>
 <p></p>
 <h3>Course Registration</h3>
 <div class="iframe-wrapper">
