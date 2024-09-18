@@ -30,6 +30,9 @@ please write to us at <a href="mailto:IGL@mgs.sch.edu.sg" rel="noopener noreferr
 <h3>MGS Intergenerational Learning Festival 2024</h3>
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/website_banner_5MB.jpg">
+</div>
 <p>The MGS Intergenerational Learning (IGL) Festival on Cultivating Intergenerational
 Learning Communities seeks to bring together educators, researchers, practitioners,
 and community leaders to delve into the rich tapestry of intergenerational
@@ -39,10 +42,16 @@ festival aims to explore and share emerging good practices, interest and
 inspire new IGL communities, and address challenges in promoting intergenerational
 learning and harmony. Participants will also have opportunities to immerse
 in curated IGL experiences.</p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Find out more at: <a href="http://go.gov.sg/iglfest24" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/iglfest24</a>
 </p>
+</li>
+<li>
 <p>Register now at: <a href="http://go.gov.sg/iglfest24" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/iglfest24signup</a>
 </p>
+</li>
+</ul>
 <p></p>
 <h3>Course Registration</h3>
 <div class="iframe-wrapper">
