@@ -5,5 +5,5 @@ layout: link
 description: ""
 image: ""
 variant: tiptap
-external: https://https://go.gov.sg/iglfest24
+external: https://go.gov.sg/iglfest24
 ---
