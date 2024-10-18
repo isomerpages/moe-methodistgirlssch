@@ -3,6 +3,7 @@ title: Primary School
 permalink: /admissions/fas-pri/
 description: ""
 third_nav_title: Financial Assistance Scheme
+variant: markdown
 ---
 ## Financial Assistance Scheme
 
@@ -30,43 +31,43 @@ a. Relatives who are old or sick and are unemployed and dependent on the family;
 
 b. Child dependent (where the family is the legal guardian).
 
-You may refer to the **[MOE FAS Pamphlet](https://drive.google.com/file/d/1euj1JLCGOXiwNcg6I6_v24f7KxnFhuC3/view?usp=sharing)** or click [here](https://www.moe.gov.sg/financial-matters/financial-assistance) for more information on the available schemes to support our Singaporean Students.
+You may refer to the&nbsp;**[MOE FAS Pamphlet](https://drive.google.com/file/d/1dXULXaYgnv335Zjh7fdfHQqOrdgB2QWe/view?usp=sharing)** or&nbsp;click&nbsp;[here](https://www.moe.gov.sg/financial-matters/financial-assistance)&nbsp;for more information on the available schemes to support our Singaporean Students.
 
-5.  **HOW TO APPLY**?
+5.&nbsp; **HOW TO APPLY**?
 
-1\.  Parents can obtain the hard copy Application forms from the General Office or school website [here](https://drive.google.com/file/d/1wwLOxqXgYUoZon-mYY7uMJVShEtyvrK1/view?usp=sharing).
+1\.  Parents can obtain the hard copy Application forms from the General Office or school website [here](https://drive.google.com/file/d/1zed109W8V4b935CEdWreauMEuVu6wZED/view?usp=sharing).
 
 2\. Parents can also apply via the link below :
 
 <p style="text-align:center;">
-<img style="width:40%"  src="/images/Primary/qr%20code.jpg">
+<img style="width:40%" src="/images/Primary/qr%20code.jpg">
 </p>
 
-<html>
-<head>
+
+
 <style>
 a {
   color: black;
 }
 </style>
-</head>
-<body>
 
-<p><b><center><a href="https://go.gov.sg/moe-efas">https://go.gov.sg/moe-efas</a></center></b></p>
 
-</body>
-</html>
+
+<p><b></b></p><center><b><a href="https://go.gov.sg/moe-efas">https://go.gov.sg/moe-efas</a></b></center><p></p>
+
+
+
 
 You may refer to the [eFAS User Guide](https://drive.google.com/file/d/1r73LXFaXaiqu-zwVWT8X31XzL7mp93Me/view?usp=sharing) for online submission.
 
-6.    Please note that application via hardcopy form is required for: 
+6.&nbsp;&nbsp; &nbsp;Please note that application via hardcopy form is required for:&nbsp;
 
-        a. families with other dependents (Great grandparents, Aunties/Uncles, Cousins and others) 
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;a. families with other dependents (Great grandparents, Aunties/Uncles, Cousins and others)&nbsp;
 
-        b. family with more than 5 children 
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;b. family with more than 5 children&nbsp;
 
-        c. family with more than 4 unmarried children 
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;c. family with more than 4 unmarried children&nbsp;
 
-        d. family with more than 3 grandparents in the household 
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;d. family with more than 3 grandparents in the household&nbsp;
 
-7.   If your child is a ComCare recipient, they need not submit the application for MOE FAS as MOE FAS will be auto-granted to ComCare beneficiaries.
+7.&nbsp; &nbsp;If your child is a ComCare recipient, they need not submit the application for MOE FAS as MOE FAS will be auto-granted to ComCare beneficiaries.
