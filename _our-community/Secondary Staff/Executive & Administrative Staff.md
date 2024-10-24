@@ -14,7 +14,7 @@ variant: tiptap
 <p>Education and Career Guidance (ECG) Counsellor:&nbsp;<a href="mailto:sylvia_ng_pik_san@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Sylvia Ng</a> 
 <br>Education and Career Guidance (ECG) Counsellor:&nbsp;<a href="mailto:tan_lay_theng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Dr Tan Lay Theng</a> 
 <br>Learning and Behavioural Support:&nbsp;<a href="mailto:Nimala_Mokhna_Rau@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Nimala Rau</a> 
-<br>School Counsellor:&nbsp;<a href="mailto:goh_chor_siang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Goh Chor Siang</a>
+<br>
 </p>
 <h3><strong>CHRISTIAN MINISTRY</strong></h3>
 <p>Christian Ministry Staff:&nbsp;<a href="mailto:jenny_koh@mgs.sch.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Jenny Koh</a>
