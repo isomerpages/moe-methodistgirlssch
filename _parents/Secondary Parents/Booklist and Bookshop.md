@@ -12,4 +12,4 @@ access the MGS Secondary booklist for 2025.</p>
 <p><strong>Normal Operating Hours (during term time)</strong> 
 <br>Monday - Friday: 7am to 4pm (except school holidays)
 <br>Sat, Sun &amp; PH : Closed
-<br><strong>Contact:</strong>&nbsp;&nbsp;&nbsp;6463 6719</p>
+<br><strong>Contact:</strong>&nbsp;&nbsp;&nbsp;9047 9461</p>
