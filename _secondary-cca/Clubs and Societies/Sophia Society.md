@@ -15,8 +15,9 @@ to excel as an orator, through experience, enrichment and engagement.</p>
 to the community through service as emcees, hosts, deejays and moderators.
 It develops oracy skills and competencies, and imparts values of discipline
 and collaboration.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_cca/sophia-society-2020.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_cca/sophia_society_2024.jpg">
 </div>
 <p>Through activities and programmes such as panel moderation, orating, hosting
 and emceeing, as well as community projects which engage members with real-life
@@ -32,30 +33,28 @@ to respond and contribute to the future landscape.</p>
 <p>Exchanges with different schools</p>
 </li>
 <li>
-<p>Opportunities to organise oratorical competitions</p>
+<p>Producing short interview videos</p>
 </li>
 <li>
 <p>Platforms to develop confident public speaking</p>
-</li>
-<li>
-<p>Training with the SG Bicentennial Team (Prime Minister’s Office) on being
-storytellers and scribes</p>
+<p></p>
 </li>
 </ul>
 <p><strong>Community VIA and competitions</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mediacorp immersive learning trip</p>
+<p>Immersive learning trip</p>
 </li>
 <li>
 <p>National Library Board KidsRead Programme</p>
 </li>
 <li>
-<p>Singapore Youth Festival Emcee Training (MOE Arts Education Branch)</p>
+<p>Opportunities to organise oratorical competitions for W3 schools</p>
 </li>
 <li>
-<p>MGS May Oh Debate Challenge</p>
+<p>Participation in the Live On Essay Competition organised by the National
+Organ Transplant Unit</p>
 </li>
 </ul>
 <p></p>
