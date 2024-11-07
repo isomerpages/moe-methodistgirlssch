@@ -96,7 +96,7 @@ variant: tiptap
 <p>Physical Education &amp; Co-Curricular Activities (Covering HOD)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:neo_chow_ming_linus@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Linus Neo</a> 
+<p><a href="mailto:neo_chow_ming_linus@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Linus Neo</a>
 </p>
 </td>
 </tr>
@@ -226,15 +226,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:joy_sim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Joy Goh</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Community Education</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:auyang_seh_hon_dennis@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Dennis Auyang</a>
 </p>
 </td>
 </tr>
