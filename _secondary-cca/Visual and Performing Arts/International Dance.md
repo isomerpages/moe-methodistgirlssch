@@ -12,7 +12,7 @@ variant: tiptap
 <p><a href="https://mgdancee.wixsite.com/mgdancee" rel="noopener noreferrer nofollow" target="_blank">MG Dance on WIX</a>
 </p>
 <div class="iframe-wrapper">
-<iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/cLIczQXvusA"></iframe>
+<iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/yX2jM24358c?si=DbVFDuQ4LJwvJSt7"></iframe>
 </div>
 <p>International Dance Club is a close-knit loving family of dancers who
 sets high standards of excellence. It aims to instil discipline and amplify
@@ -23,8 +23,9 @@ techniques and choreography, MG dancers develop resilience and creativity
 through collaborative events and performances. “One Breath, One Dance,
 One Family” is the vision to forge lasting friendships and inspire a lifelong
 enthusiasm for dance.</p>
-<div class="iframe-wrapper">
-<iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTmbdQL9itGMrduK6_NIYIryQzOmbwnJtv6feMwVrcPG_tHqhPEju43CgAsFeBfwJQ7mx0bzY8NG6Cl/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_cca/International_Dance_2024.jpg">
 </div>
 <p>International Dance Club is dedicated to continuously pushing boundaries
 and grooming the finest dancers. Beyond the biennial SYF Arts Presentation
