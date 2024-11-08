@@ -153,8 +153,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:germaine_ho_yen_peng@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Mrs Germaine Kan</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -203,8 +202,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:dan_ho@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Mr Dan Ho</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -256,8 +254,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:hoe_jun_jin_junie@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Ms Junie Hoe</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:wendy_ong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Wendy Ang</a>
@@ -489,8 +486,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:auyang_seh_hon_dennis@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Dennis Auyang</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_seot_cheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Mrs Tan Seot Cheng</a>
