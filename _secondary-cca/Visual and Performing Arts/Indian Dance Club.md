@@ -9,7 +9,7 @@ variant: tiptap
 <div class="iframe-wrapper">
 <iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS0wsg2EhmJHW1eC8e0d7nrf5xvTU_sYRb6s2RSqXJniWwKdE82S778H897wIpLjy3RJF1w5FAh1_xu/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
-<p>The <a href="https://youtu.be/C-JXAIbzuQM" rel="noopener noreferrer nofollow" target="_blank">Indian Dance Club</a> at
+<p>The <a href="https://youtu.be/Q5HfGES4aYo" rel="noopener noreferrer nofollow" target="_blank">Indian Dance Club</a> at
 MGS is a vibrant community of passionate and creative dancers committed
 to preserving and celebrating the rich heritage of classical and folk Indian
 dance. From the intricate grace of Bharatanatyam and Kathak to the lively
