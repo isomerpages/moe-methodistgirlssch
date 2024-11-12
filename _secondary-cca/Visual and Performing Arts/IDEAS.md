@@ -40,87 +40,23 @@ with eBOX by clicking&nbsp;<a href="https://sites.google.com/mgs.sch.edu.sg/mg-e
 <p>We believe in encouraging all members to embrace creativity and innovation
 as their way of life!</p>
 <h2>Community Projects &amp; VIA</h2>
-<ul data-tight="true" class="tight">
-<li>
-<p>Digital Workshops for MGS (Primary) Art Club 2023</p>
-</li>
-<li>
-<p>Face-painting at Jazz for Dogs@Singapore Botanic Gardens 2023</p>
-</li>
-<li>
-<p>Community Art Project (givingBac)@ National Gallery Singapore 2023</p>
-</li>
-<li>
-<p>eBOX Flash Sale@MGS in aid for Make A Wish Foundation 2023</p>
-</li>
-<li>
-<p>Digital Workshop for MGS (Primary) Art Club &amp; MGS (Secondary) students
-2022</p>
-</li>
-<li>
-<p>e-Shop Project on Recycled Materials with SengKang Hospital 2021</p>
-</li>
-<li>
-<p>eBOX Flash Sale@MGS in aid of SengKang Hospital Health Growth Fund 2021</p>
-</li>
-<li>
-<p>Art Therapy - Colouring Book Project with SengKang Hospital 2020</p>
-</li>
-<li>
-<p>Sales at Somerset Market@*SCAPE in aid of Sengkang Hospital Health Growth
-Fund 2019</p>
-</li>
-<li>
-<p>Entrepreneurship Project &amp; Work Experience with MamaShop 2020</p>
-</li>
-<li>
-<p>PAssionArts Festival 2019 - "Garden of HeARTs" 2019</p>
-</li>
-<li>
-<p>Jazz for Dogs@Singapore Botanic Gardens 2019</p>
-</li>
-<li>
-<p>SGH Arts Expression Wall 2019</p>
-</li>
-<li>
-<p>Love for Tree Art Exhibition@SOTA 2018</p>
-</li>
-<li>
-<p>SYF Art Lab 2018</p>
-</li>
-</ul>
+<p>IDEAS offers numerous opportunities for our members to contribute to impactful
+community art and charity projects. Notable highlights include collaborating
+with seniors from Lions Befrienders to create a vibrant floor mural at
+Ghim Moh, offering face-painting at the Jazz for Dogs event, and participating
+in the givingBac community art project at the National Gallery Singapore.
+IDEAS has also organized and sold handcrafted products like handmade jewellery,
+tote bags, stickers, and crochet items to raise funds for causes such as
+the Singapore Red Cross, PEACE of ART, and SengKang Hospital. Through initiatives
+like the Art Therapy Colouring Book Project and entrepreneurial ventures
+at the Sustainable Kids Market, IDEAS has engaged with the community, fostering
+creativity, promoting social responsibility, and making a positive impact.</p>
 <h2>Achievements</h2>
-<ul data-tight="true" class="tight">
-<li>
-<p>Keep SG Clean Comic Strip Competition (Category- Clean Public Toilets)
-- 2nd Prize</p>
-</li>
-<li>
-<p>LIVE ON Design Competition - Merit Award</p>
-</li>
-<li>
-<p>VOMG CHROMATIKA (Voice of My Generation Art Competition) 2022 - 1st Runner
-Up</p>
-</li>
-<li>
-<p>Live-On Design Competition organised by National Organ Transport Unit,
-Ministry of Health 2022 - Higher Distinction (1) &amp; Merit award (1)</p>
-</li>
-<li>
-<p>Live-On Design Competition organised by National Organ Transport Unit,
-Ministry of Health 2021 - 1st Prize; 4th Prize &amp; Distinction (1)</p>
-</li>
-<li>
-<p>Live-On Design Competition organised by National Organ Transport Unit,
-Ministry of Health 2020 - High Distinction (1) &amp; Merit (2) awards</p>
-</li>
-<li>
-<p>Live-On Design Competition organised by National Organ Transport Unit,
-Ministry of Health 2019 - Distinction (1) &amp; Merit (1) awards, Honorable
-Mention (1)</p>
-</li>
-<li>
-<p>YellowRen Art Competition 2018 - Merit award</p>
-</li>
-</ul>
-<p></p>
+<p>IDEAS members have picked up several awards in art and design competitions,
+including second place in the Keep SG Clean Comic Strip Competition and
+first runner-up in VOMG CHROMATIKA. Our members have also been recognized
+in the LIVE ON Design Competition and ViaRT Award, winning 3rd Prize for
+the PARKROYAL COLLECTION Marina Bay Best Sustainable Message Award. We
+have also earned awards in the On-the-Spot Watercolour Painting Competition
+and YellowRen Art Competition, showing our creativity and commitment to
+meaningful art.</p>
