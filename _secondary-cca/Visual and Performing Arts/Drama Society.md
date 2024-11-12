@@ -35,9 +35,11 @@ performance and technical abilities.</p>
 <p><strong>Annual Production</strong>: A major production where members showcase
 their talents on stage and behind the scenes.</p>
 </li>
-</ol>
+<li>
 <p><strong>Values in Action (VIA) Events</strong>: Community engagement initiatives
 that allow students to perform and contribute through the arts.</p>
+</li>
+</ol>
 <div class="iframe-wrapper">
 <iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/F_Q-pdx1J_0?si=TuzQOnogM5XNXwyi"></iframe>
 </div>
