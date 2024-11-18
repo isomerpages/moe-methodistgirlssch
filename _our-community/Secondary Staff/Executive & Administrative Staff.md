@@ -14,7 +14,7 @@ variant: tiptap
 <p>Education and Career Guidance (ECG) Counsellor:&nbsp;<a href="mailto:sylvia_ng_pik_san@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Sylvia Ng</a> 
 <br>Education and Career Guidance (ECG) Counsellor:&nbsp;<a href="mailto:tan_lay_theng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Dr Tan Lay Theng</a> 
 <br>Learning and Behavioural Support:&nbsp;<a href="mailto:Nimala_Mokhna_Rau@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Nimala Rau</a> 
-<br>
+<br>School Counsellor: Ms Javine Kiew: <a href="mailto:Javine_Kiew@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Javine Kiew</a>
 </p>
 <h3><strong>CHRISTIAN MINISTRY</strong></h3>
 <p>Christian Ministry Staff:&nbsp;<a href="mailto:jenny_koh@mgs.sch.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Jenny Koh</a>
@@ -39,7 +39,7 @@ variant: tiptap
 <p>Senior Manager: <a href="mailto:edmund_wong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Edmund Wong</a> 
 <br>Senior Executive: Mr David Quah
 <br>Senior&nbsp;Executive: Mr Siva Chandran
-<br>Desktop Engineer:&nbsp;Mr Zakery Lee</p>
+<br>Desktop Engineer:&nbsp;Mr Yuuki Ishiwata</p>
 <h3><strong>LIBRARY</strong></h3>
 <p>Librarian: Ms Zainap Bte Abdul Majid</p>
 <h3><strong>OPERATIONS</strong></h3>
