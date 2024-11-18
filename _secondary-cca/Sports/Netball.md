@@ -5,9 +5,6 @@ description: ""
 third_nav_title: Sports
 variant: tiptap
 ---
-<div class="iframe-wrapper">
-<iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/vgYv_w-VamY"></iframe>
-</div>
 <p>The Netball School Team CCA cultivates quick-thinking skills in all players
 and emphasizes the importance of sportsmanship at all times, while striving
 to develop Women of Excellence. Through the triweekly training sessions,
@@ -22,7 +19,7 @@ to the camaraderie on and off the court. Rigorous trainings are never dreaded
 here, as members are constantly spurred on by each other, and as it also
 allows members to reach and expand their potential.</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRy2Ce9bf5fkaS7hlEpRI7HDB1g5GWFT1PKHhxaaTaxbqbBV5ShhZ1qRHUA3QRQDgCiEn_ZH18xuIcp/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT016VuF12GJVzDPoYjUfBeyuZcPJpIL11veVac0Tt-fLauitGBC5TAVlJQ1rtGtF8rq_l7FKTS8Tby/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p></p>
 <p>For members to challenge themselves and hone their skills, the CCA competes
