@@ -33,7 +33,12 @@ must be satisfied</p>
 </ul>
 <h4>Income Criteria &amp; Benefits</h4>
 <p>From 1 Jan 2023 the revised benefits are as shown in the table below:</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -143,7 +148,7 @@ card; and</p>
 </ul>
 <p>All MOE-ISB approved will be valid till December of the year. Fresh applications
 will have to be submitted for each academic year.</p>
-<p><a href="https://drive.google.com/file/d/1lx38lkPmHDvrH9u54KE_w7rOS-OeDGMe/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Click here for ISB Application Form</a>.</p>
+<p><a href="https://drive.google.com/file/d/1XDkMb4-lZvBGdK1ijSLMTXnb5edp2dE4/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Click here for ISB Application Form</a>.</p>
 <h3>Edusave Scholarships for Independent Schools (ESIS)</h3>
 <p>These scholarships are offered to academically strong students attending
 independent schools. The award value of the ESIS is up to $2,400 per year.
