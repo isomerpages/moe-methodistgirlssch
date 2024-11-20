@@ -11,7 +11,7 @@ variant: tiptap
 </div>
 <h4>PM Lawrence Wong learning about handbells</h4>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRtFsmUbHH7_Q3Al_9T_T20eVTx2Y953ewDdIPDa1yGxI-Cm1A_sucYmqdtYGieJcBg1FTTKIeLLkIO/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRtFsmUbHH7_Q3Al_9T_T20eVTx2Y953ewDdIPDa1yGxI-Cm1A_sucYmqdtYGieJcBg1FTTKIeLLkIO/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p>The MGS Secondary Handbell Ensemble was established in 1989 with the vision
 of providing a platform for aspiring musicians to develop their interest
@@ -36,18 +36,18 @@ the lives of others. The Handbell Ensemble challenges members to step out
 of their comfort zone and experience growth.</p>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSw7f8pOfVxd0FHoVCbk-DcIh-MR8jrC31SCQ64aJCtZMiy4207GiA7g3kf2NxYy9XVJNOWLMJ5sM6s/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSw7f8pOfVxd0FHoVCbk-DcIh-MR8jrC31SCQ64aJCtZMiy4207GiA7g3kf2NxYy9XVJNOWLMJ5sM6s/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h4>Intergenerational learning (IGL) mentoring programme with the seniors from Methodist Welfare Services (MWS) Wesley Active Ageing Centre</h4>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS9Zc1HvV8tXhhVkoxQX1NUVNtoUJvbsB9luZn28LdfmaesTA2ut1D81OjO5KjrV0peLhmAy6q2zhx9/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS9Zc1HvV8tXhhVkoxQX1NUVNtoUJvbsB9luZn28LdfmaesTA2ut1D81OjO5KjrV0peLhmAy6q2zhx9/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <h4>Mentoring programme with the children from Society for the Physically Disabled (SPD)</h4>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQB_64BOYAH8HB5PaRBG9Sdh9E5yW-YRTMqPFjvOh_na3uKDw76B6E3jPkHtrNu-yrM9xnuliPYPFS8/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQB_64BOYAH8HB5PaRBG9Sdh9E5yW-YRTMqPFjvOh_na3uKDw76B6E3jPkHtrNu-yrM9xnuliPYPFS8/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <h4>Performance with the children from Society for the Physically Disabled 60th Anniversary Celebration Dinner</h4>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTfEFk57_D3soIxrad64PCq22fOddFYLXZqv6sLu8uVZhPxavSxhMvwRhL_lHfT7xmaDHnE9GpHg9f8/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTfEFk57_D3soIxrad64PCq22fOddFYLXZqv6sLu8uVZhPxavSxhMvwRhL_lHfT7xmaDHnE9GpHg9f8/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p></p>
