@@ -19,7 +19,7 @@ to the camaraderie on and off the court. Rigorous trainings are never dreaded
 here, as members are constantly spurred on by each other, and as it also
 allows members to reach and expand their potential.</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT016VuF12GJVzDPoYjUfBeyuZcPJpIL11veVac0Tt-fLauitGBC5TAVlJQ1rtGtF8rq_l7FKTS8Tby/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT016VuF12GJVzDPoYjUfBeyuZcPJpIL11veVac0Tt-fLauitGBC5TAVlJQ1rtGtF8rq_l7FKTS8Tby/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p></p>
 <p>For members to challenge themselves and hone their skills, the CCA competes
