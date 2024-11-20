@@ -66,7 +66,8 @@ the school community and beyond</p>
 <p>Fundamentals of performance on the guitar, cajon, keyboard</p>
 </li>
 <li>
-<p>Language Arts x Music Soundscape composition on Soundtrap /GarageBand</p>
+<p><a href="https://soundcloud.com/user-110809749/sets/year-2-ip-language-arts-poetry-x-general-music-soundscapes?si=3e3d4ff47451488eaca74b105669c95b" rel="noopener nofollow" target="_blank">Language Arts x Music Soundscape composition on Soundtrap /GarageBand</a>
+</p>
 </li>
 <li>
 <p>National day and Community songs by Singaporean composers: Pop Band
@@ -88,5 +89,4 @@ the school community and beyond</p>
 </ul>
 <h3>Assessment</h3>
 <p>Students are assessed through group projects and performances.</p>
-<p><a href="https://soundcloud.com/user-110809749/sets/year-2-ip-language-arts-poetry-x-general-music-soundscapes?si=3e3d4ff47451488eaca74b105669c95b" rel="noopener nofollow" target="_blank">Soundscapes (Music x Language Arts)</a>
-</p>
+<p></p>
