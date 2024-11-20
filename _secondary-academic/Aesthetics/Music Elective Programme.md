@@ -49,7 +49,7 @@ voice, with a maximum duration of 5 minutes. Non-pianists can perform unaccompan
 <p>Please refer to the <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/mep-sec" rel="noopener noreferrer nofollow" target="_blank">MOE MEP webpage</a> for
 more details.</p>
 <h3>Selection Test for 2025 Sec/Year 1 MEP</h3>
-<p>Date/Day: January 2025 (to be announced)</p>
+<p>Date/Day: 10 January 2025 3 - 6pm</p>
 <p>DSA-MEP students will not be required to attend the Selection Test.</p>
 <h3>National Syllabuses</h3>
 <p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/6086_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Higher Music Syllabus 6086</a>
@@ -75,10 +75,6 @@ Indian Ensemble Music, Gamelan</p>
 </li>
 </ol>
 <h3>Programme Highlights @ MGS</h3>
-<p><a href="https://drive.google.com/file/d/1ezgCzzh9WZ2bC3Us_lm-dB7ULpEnNFCG/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Overview of MEP@MGS</a>
-</p>
-<p><a href="https://soundcloud.com/user-110809749/sets/mgs-original-compositions" rel="noopener noreferrer nofollow" target="_blank">MG Vibes (Soundcloud): Compositions from the class of 2020 - 2024</a>
-</p>
 <ul>
 <li>
 <p>Regular attendance at public concerts</p>
@@ -106,8 +102,15 @@ Indian Ensemble Music, Gamelan</p>
 </li>
 <li>
 <p>Student-initiated activities</p>
+<p></p>
 </li>
 </ul>
+<p><a href="https://drive.google.com/file/d/1ezgCzzh9WZ2bC3Us_lm-dB7ULpEnNFCG/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Overview of MEP@MGS</a>
+</p>
+<p><a href="https://soundcloud.com/user-110809749/sets/mgs-original-compositions" rel="noopener noreferrer nofollow" target="_blank">MG Vibes (Soundcloud): Compositions from the class of 2020 - 2024</a>
+</p>
+<p><a href="https://on.soundcloud.com/Vdjdc9qVZ6ZGTh7r9" rel="noopener nofollow" target="_blank">Melodies of MGS: Original Compositions</a>
+</p>
 <h3>Co-curriculum</h3>
 <p>All MEP students in MGS are required to join a Performing Arts music CCA,
 as it enhances your journey of musical development.</p>
