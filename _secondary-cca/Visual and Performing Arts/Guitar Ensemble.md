@@ -23,7 +23,7 @@ their skills, as well as strengthen the camaraderie among themselves. The
 character of the MGS girl is also honed as she develops meaningful working
 relationships and establishes enduring rapport with her fellow CCA members.</p>
 <div class="iframe-wrapper">
-<iframe height="500" width="844" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR4hrvALb4uExBwllk6tBwK-UIn55oPnFjWmP0QwdyrETn0RIXYVrgdz1pLwG9OhlVKdwW8uBDqMfHW/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="400" width="844" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR4hrvALb4uExBwllk6tBwK-UIn55oPnFjWmP0QwdyrETn0RIXYVrgdz1pLwG9OhlVKdwW8uBDqMfHW/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>Members enjoy many opportunities to gain new skills and valuable insights
 from the events it takes part in to grow in competencies of collaboration,
