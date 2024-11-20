@@ -10,9 +10,9 @@ variant: tiptap
 </div>
 <p>Dear Parent/Guardian,</p>
 <p>The secondary school posting results will be released between Wednesday,
-18 Dec and Friday, 20 December 2024.</p>
-<p>Upon release of the posting results, students who are posted to our school
-will need to refer our school website for more details on:</p>
+18 December and Friday, 20 December 2024.</p>
+<p>Upon release of the posting results, please refer to our school website
+for more details on:</p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Secondary 1 Online Registration</p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Registration Package (includes important
 school information, orientation programme, school prescribed personal learning
