@@ -50,7 +50,7 @@ variant: tiptap
 <h4>Request Forms</h4>
 <ul>
 <li>
-<p><a href="https://drive.google.com/file/d/17CitVcP8ZNj-j_ttJnq5ltsOxLkiuzoi/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">For Reprint of Documents - Testimonial/ MGS Result Slip / CCA Certificate / Others</a>
+<p><a href="https://go.gov.sg/reprint-of-documents" rel="noopener noreferrer nofollow" target="_blank">For Reprint of Documents - Testimonial/ MGS Result Slip / CCA Certificate / Others</a>
 </p>
 </li>
 <li>
