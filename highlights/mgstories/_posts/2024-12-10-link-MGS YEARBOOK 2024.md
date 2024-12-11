@@ -5,5 +5,5 @@ layout: link
 description: ""
 image: ""
 variant: tiptap
-external: https://https://yearbooks.sg/MGSYearbook2024/
+external: https://yearbooks.sg/MGSYearbook2024/
 ---
