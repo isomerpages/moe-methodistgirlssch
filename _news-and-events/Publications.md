@@ -8,7 +8,7 @@ variant: tiptap
 biannual school newsletter encapsulating the MGS heartbeat through diverse
 narratives of how we learn and serve that embody the spirit of MGS, written
 by and for members of our school community.</p>
-<p><a href="https://drive.google.com/file/d/1Sk1I2fZG0MWSGY3CvUDXl2oSGjE96go1/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">MGS Yearbook</a>:
+<p><a href="https://drive.google.com/file/d/1PLlbmA4sPkslZe-CHQV9G-eBZ_UMlkYW/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">MGS Yearbook</a>:
 Our annual school magazine capturing the essence of the MGS journey in
 the year and celebrating the cherished moments and bonds that define us
 - a testament to our collective identity as an MGS family.</p>
