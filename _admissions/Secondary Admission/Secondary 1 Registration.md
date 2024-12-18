@@ -17,9 +17,9 @@ in strong fundamentals and values. Click <a href="https://drive.google.com/drive
 access the MGS Secondary 1 Registration Package 2025.&nbsp;</p>
 <p>All students, including DSA students, who are posted to MGS must register
 officially. The <a href="https://mgs.ntrix.sg/registration/login" rel="noopener noreferrer nofollow" target="_blank">Secondary 1 Online Registration</a> will
-start on Wednesday, 18 December from 5.00pm to Sunday, 22 December 12.00pm.
-This exercise will take approximately 20 minutes and best to be completed
-on your personal computer.&nbsp;</p>
+start on Wednesday, 18 December 2024 from 5.00pm to Monday, 23 December
+2024, 9am (REVISED). This exercise will take approximately 20 minutes and
+best to be completed on your personal computer.&nbsp;</p>
 <p>To access the MGS Secondary 1 Online Registration portal, please key in
 the following for:&nbsp;</p>
 <ul>
