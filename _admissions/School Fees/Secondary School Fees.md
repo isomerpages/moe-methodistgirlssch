@@ -9,11 +9,7 @@ variant: tiptap
 <p>For more information, please click on the links below:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://drive.google.com/file/d/1E1iT6Y0GanI0Y7l7qC-atwv5qkOWtsin/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">School &amp; Miscellaneous Fees</a>
-</p>
-</li>
-<li>
-<p><a href="https://drive.google.com/file/d/1-NA2hyQirvFf_r-02vIokoCPg-9vDVdD/view?usp=share_link" rel="noopener noreferrer nofollow" target="_blank">Appendix 1 - Application Form for Interbank GIRO</a>
+<p><a href="https://drive.google.com/file/d/1GsKN8onbRgYwCtOp1Shz_9MPBA6ODk8w/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">School &amp; Miscellaneous Fees</a>
 </p>
 </li>
 <li>
