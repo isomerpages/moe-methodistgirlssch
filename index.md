@@ -13,9 +13,9 @@ sections:
   - hero:
       background: /images/Common/pic-landing-2023.jpg
   - infopic:
-      title: Here, For A Purpose
-      subtitle: Theme 2024
-      image: /images/Common/Theme_2024.png
+      title: Rooted in God's Love
+      subtitle: Theme 2025
+      image: /images/Common/Theme_2025.png
       alt: Image alt text
   - resources:
       title: Highlights
