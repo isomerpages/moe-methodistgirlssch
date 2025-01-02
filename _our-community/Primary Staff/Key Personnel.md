@@ -26,7 +26,7 @@ Talent Development| [Ms Ann Cheo](mailto:ann_cheo@schools.gov.sg)
 |Physical Education|| [Mrs Gladys Jiow](mailto:tan_tsu_pei_gladys@schools.gov.sg)
 Education Technology||[Mr Christopher Wong](mailto:christopher_wong_say_eng@schools.gov.sg)
 English| [Mrs Sophia Koh ](mailto:koh_pei_chen_sophia@schools.gov.sg	)
-Mathematics|[Ms Koh Peiru](mailto:koh_pei_loo@schools.gov.sg)
+Mathematics|[Ms Koh Peiru](mailto:koh_pei_loo@schools.gov.sg)|[Ms Venetia Guo](mailto:guo_yixin_venetia@schools.gov.sg)
 Mother Tongue|[Ms Pun Yee Voon](mailto:pun_yee_voon@schools.gov.sg)
 Science|[Mrs Mun Poh Hoon](mailto:chua_poh_hoon@schools.gov.sg)
 
@@ -35,8 +35,8 @@ Science|[Mrs Mun Poh Hoon](mailto:chua_poh_hoon@schools.gov.sg)
 
 | **Level** | **Year Head** |**Assistant Year Head** |
 | -------- | -------- |-------- |
-| **P1<br>P2<br>P3**|[Mdm Nasuha Ghaffar](mailto:nasuha_ghaffar@schools.gov.sg)|[Mrs Hwee Ching Tan](mailto:tan_sian_huang@schools.gov.sg)<br>[Mrs Amy Ng](mailto:fang_yingying_amy@schools.gov.sg)<br>[Ms Naomi Yee](mailto:yee_yee_may_naomi@schools.gov.sg)| 
-| **P4<br>P5<br>P6**|[Mrs Sim Lee Hong](mailto:chua_lee_hong@schools.gov.sg)|[Miss Suhaily Mohamed Moktar](mailto:suhaily_md_moktar@schools.gov.sg)<br>[Ms Ng Wei En](mailto:ng_wei_en@schools.gov.sg)<br>[Mrs Rita James](mailto:rita_james@schools.gov.sg)| 
+| **P1<br>P2<br>P3**|[Mrs Gladys Jiow](mailto:tan_tsu_pei_gladys@schools.gov.sg)|[Mrs Amy Ng](mailto:fang_yingying_amy@schools.gov.sg)<br>[Mrs Hwee Ching Tan](mailto:tan_sian_huang@schools.gov.sg)<br>[Miss Suhaily Mohamed Moktar](mailto:suhaily_md_moktar@schools.gov.sg)
+| **P4<br>P5<br>P6**|[Mrs Sim Lee Hong](mailto:chua_lee_hong@schools.gov.sg)|[Ms Naomi Yee](mailto:yee_yee_may_naomi@schools.gov.sg)<br>[Mrs Rita James](mailto:rita_james@schools.gov.sg)<br>[Ms Ng Wei En](mailto:ng_wei_en@schools.gov.sg)
 
 
 # Teacher Leaders
@@ -45,8 +45,6 @@ Science|[Mrs Mun Poh Hoon](mailto:chua_poh_hoon@schools.gov.sg)
 | -------- | -------- |
 |Senior Teacher (English)| [Ms Shamini Menon](mailto:shamini_menon@schools.gov.sg)| 
 |Senior Teacher (English)| [Mrs Gina Low](mailto:gina_chia@schools.gov.sg)| 
-|Lead Teacher (Mathematics)| [Ms Belinda Goh](mailto:goh_gek_kheng_belinda@schools.gov.sg)|
-|Senior Teacher (Mathematics)| [Dr Soh Karen Jasmine](mailto:soh_karen_jasmine@schools.gov.sg)| 
 |Senior Teacher (Mother&nbsp;Tongue)| [Mrs Michelle Sin](mailto:michelle_sin@schools.gov.sg)| 
 |Senior Teacher (Science)| [Mdm Li Huixing](mailto:loi_huey_shing@schools.gov.sg)| 
 |Senior Teacher (Education Support)| [Mrs May Yeo](mailto:nam_mei_lin_may@schools.gov.sg)| 

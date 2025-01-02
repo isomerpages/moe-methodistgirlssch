@@ -70,15 +70,15 @@ with a Personal Learning Device:</p>
 change your DMA Options.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://drive.google.com/file/d/1yfzfCqVfrQStZ9w5djSHnHVTol7fZbqD/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">DMA Parent Guide - Default Option</a>
+<p><a href="https://drive.google.com/file/d/1MBLMFZZX9pfci2jD6M5mmYwiWF-x4XXn/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">DMA Parent User Guide for Default Option</a>
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/1WY8zv7IvB9JBwVYDw-pTaFJkhxQSd8gt/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">DMA Parent Guide - Option A</a>
+<p><a href="https://drive.google.com/file/d/1DhAQe0VZ3d47lRmPA950C5i-N8JhfVY7/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">DMA Parent User Guide for Option A</a>
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/1K1-uRoj4oZjVEnh4LWHuZ1WNB8zNQQR-/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">DMA Parent Guide - Option B</a>
+<p><a href="https://drive.google.com/file/d/1Jmw9mLdesrU83-I974IZBWXy_FdEwD4q/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">DMA Parent User Guide for Option B</a>
 </p>
 </li>
 </ul>
