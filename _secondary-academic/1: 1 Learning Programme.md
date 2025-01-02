@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <div class="iframe-wrapper">
-<iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTUuu_5bIfsDeG0vPlOIL_cKPTuA2-ob1Y80G3ozXKRhDmixew1Mwt8ks4hNZwBvWSBd1VFRkTZSvJs/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT2jmZlsoSdbAGwGK35LbnZ0I_CgsttZ11BN6zguFicl4eUntH-5KkuKXPPJ0_4zw/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h3>Empowering Tomorrow's Leaders: Our 1:1 Learning Programme</h3>
 <p>In today's fast-paced world, technology is revolutionizing every aspect
