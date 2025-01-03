@@ -24,7 +24,6 @@ Talent Development| [Ms Ann Cheo](mailto:ann_cheo@schools.gov.sg)
 | Department | Level  Head|Subject Head |
 | -------- | -------- |-------- |
 |Character and Citizenship Education|| [Ms Jocelyn Chua (covering)](mailto:Jocelyn_CHUA@schools.gov.sg)
-|Physical Education|| [Mrs Gladys Jiow](mailto:tan_tsu_pei_gladys@schools.gov.sg)
 Education Technology||[Mr Christopher Wong](mailto:christopher_wong_say_eng@schools.gov.sg)
 English| [Mrs Sophia Koh ](mailto:koh_pei_chen_sophia@schools.gov.sg	)
 Mathematics|[Ms Koh Peiru](mailto:koh_pei_loo@schools.gov.sg)|
