@@ -110,9 +110,7 @@ schedule:
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
+<p></p>
 <p>If you are interested in volunteering for any of the above programmes,
 please email <a href="mailto:mgps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>mgps@moe.edu.sg</u></a> (Pri)
 or <a href="mailto:mgps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>mgss@moe.edu.sg</u></a> (Sec).
@@ -144,7 +142,7 @@ school and girls. Below are more information regarding these sessions:&nbsp;</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="3" colspan="1">
 <p>Term 1</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -156,9 +154,6 @@ school and girls. Below are more information regarding these sessions:&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>3 February</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -169,9 +164,6 @@ school and girls. Below are more information regarding these sessions:&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>3 March</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -179,7 +171,7 @@ school and girls. Below are more information regarding these sessions:&nbsp;</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Term 2</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -191,9 +183,6 @@ school and girls. Below are more information regarding these sessions:&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>5 May</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -201,7 +190,7 @@ school and girls. Below are more information regarding these sessions:&nbsp;</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="3" colspan="1">
 <p>Term 3</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -213,9 +202,6 @@ school and girls. Below are more information regarding these sessions:&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>4 August</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -223,9 +209,6 @@ school and girls. Below are more information regarding these sessions:&nbsp;</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p>1 September</p>
 </td>
