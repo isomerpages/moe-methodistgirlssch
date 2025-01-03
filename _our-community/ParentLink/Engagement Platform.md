@@ -119,7 +119,7 @@ at a later date.&nbsp;</p>
 <p></p>
 <p>Parents can be part of prayer meetings to provide prayer support to the
 school and girls. Below are more information regarding these sessions:&nbsp;</p>
-<h3>2024 Prayer Meeting Dates:</h3>
+<h3>2025 Prayer Meeting Dates:</h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
