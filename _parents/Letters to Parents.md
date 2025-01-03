@@ -9,5 +9,5 @@ variant: tiptap
 </div>
 <p><a href="https://drive.google.com/drive/folders/1_f4ffJw8vMmCIn0SjszmLsd5x2jgE7jT?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Primary School</a>
 </p>
-<p><a href="https://drive.google.com/drive/folders/1jEZPzZJHm9k76GwyjZ23rI66BKdrQu7E?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Secondary School</a>
+<p><a href="https://drive.google.com/drive/folders/1fnffWwbahvWMWst7XEiQrGnBpmjx2Gkm?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Secondary School</a>
 </p>
