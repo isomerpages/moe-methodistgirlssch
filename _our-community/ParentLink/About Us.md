@@ -28,8 +28,12 @@ in her growth journey of being and becoming her best self for our world.</p>
 to MASTER, to GROW and to SERVE.</p>
 </li>
 </ol>
-<h3>2024 ParentLink Committee</h3>
-<table>
+<h3>2025 ParentLink Committee</h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -81,7 +85,7 @@ to MASTER, to GROW and to SERVE.</p>
 <p>Alumnae Liaison:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Gwee Su Li</p>
+<p>Ms Elaine Khoo</p>
 </td>
 </tr>
 <tr>
@@ -89,10 +93,10 @@ to MASTER, to GROW and to SERVE.</p>
 <p>Members:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Bow Yuen
+<p>Ms Adele Yeo
+<br>Mrs Bow Yuen
+<br>Ms Elaine Teo
 <br>Mrs Joanne Chee
-<br>Mr Keira Singh
-<br>Mr Lionel Lim
 <br>Ms Melody Lim
 <br>Ms Ng Lin-Li
 <br>Ms Sharon Kee
