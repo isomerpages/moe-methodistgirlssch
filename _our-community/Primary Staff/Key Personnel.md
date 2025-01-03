@@ -37,7 +37,7 @@ Student Leadership||[Ms Venetia Guo](mailto:guo_yixin_venetia@schools.gov.sg)
 
 | **Level** | **Year Head** |**Assistant Year Head** |
 | -------- | -------- |-------- |
-| **P1<br>P2**|[Mrs Gladys Jiow](mailto:tan_tsu_pei_gladys@schools.gov.sg)|[Mrs Amy Ng](mailto:fang_yingying_amy@schools.gov.sg)<br>[Mrs Hwee Ching Tan](mailto:tan_sian_huang@schools.gov.sg)
+| **P1<br>P2**|[Mrs Gladys Jiow (covering)](mailto:tan_tsu_pei_gladys@schools.gov.sg)|[Mrs Amy Ng](mailto:fang_yingying_amy@schools.gov.sg)<br>[Mrs Hwee Ching Tan](mailto:tan_sian_huang@schools.gov.sg)
 | **P3<br>P4**|[Mdm Nasuha Ghaffar](mailto:tan_tsu_pei_gladys@schools.gov.sg)|[Miss Suhaily Mohamed Moktar](mailto:suhaily_md_moktar@schools.gov.sg)<br>[Ms Naomi Yee](mailto:yee_yee_may_naomi@schools.gov.sg)
 | **P5<br>P6**|[Mrs Sim Lee Hong](mailto:chua_lee_hong@schools.gov.sg)|[Mrs Rita James](mailto:rita_james@schools.gov.sg)<br>[Ms Ng Wei En](mailto:ng_wei_en@schools.gov.sg)
 
