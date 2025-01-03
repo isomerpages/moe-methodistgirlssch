@@ -44,7 +44,11 @@ requested and initiate informal activities at class levels.</p>
 schedule:
 <br>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -58,36 +62,23 @@ schedule:
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tuesday, 2 January</p>
-<p>8.30 - 11am</p>
+<p>January 7, Tuesday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P1 Connect</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Tuesday, 16 January</p>
-<p>5 - 6.30pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sec 1 Coffee Chat</p>
+<p>S/Y1 Coffee Chat</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Friday, 2 February</p>
-<p>8.30 - 10am</p>
+<p>February 7, Friday</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Welcome Breakfast</p>
-<p>(for Primary School Level and Class Representatives)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Saturday, 2 March</p>
-<p>8 - 10am</p>
+<p>March 8, Saturday</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P1 Engagement Day</p>
@@ -95,21 +86,18 @@ schedule:
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Fridays, 8 March, 19 April, 23 August</p>
-<p>7.30 - 8.15am</p>
+<p>September 22, Monday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>World of Wonder (WoW)</p>
-<p>(For Primary Girls)</p>
+<p>Thank You Breakfast</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Monday, 16 September</p>
-<p>8 - 9.30am</p>
+<p>October 18, Saturday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Thank You Breakfast for Parent Volunteers</p>
+<p>Father-Daughter Bonding</p>
 </td>
 </tr>
 <tr>
@@ -134,11 +122,20 @@ at a later date.&nbsp;</p>
 <p>Parents can be part of prayer meetings to provide prayer support to the
 school and girls. Below are more information regarding these sessions:&nbsp;</p>
 <h3>2024 Prayer Meeting Dates:</h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Schedule</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Date</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -151,9 +148,34 @@ school and girls. Below are more information regarding these sessions:&nbsp;</p>
 <p>Term 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>8 January (7.45-9am @ Level 4 Wesley Hall)
-<br>5 February (7.45-9am @ Level 4 Wesley Hall)
-<br>4 March (8 – 9.15am via Zoom*)</p>
+<p>6 January</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>On-site (7.45 – 9am @ Level 4 Wesley Hall)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 February</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>On-site (7.45 – 9am @ Level 4 Wesley Hall)</p>
+<p><em>CNY lo-hei fellowship after meeting</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 March</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Zoom* (8 – 9.15am refer to zoom details below)</p>
 </td>
 </tr>
 <tr>
@@ -161,8 +183,21 @@ school and girls. Below are more information regarding these sessions:&nbsp;</p>
 <p>Term 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1 April (8 – 9.15am via Zoom*)
-<br>6 May (8 – 9.15am via Zoom*)</p>
+<p>7 April</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Zoom* (8 – 9.15am refer to zoom details below)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 May</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Zoom* (8 – 9.15am refer to zoom details below)</p>
 </td>
 </tr>
 <tr>
@@ -170,8 +205,32 @@ school and girls. Below are more information regarding these sessions:&nbsp;</p>
 <p>Term 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>8 July (7.45-9am @ Level 4 Wesley Hall)
-<br>5 August (8 – 9.15am via Zoom*)</p>
+<p>14 July</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>On-site (7.45 – 9am @ Level 4 Wesley Hall)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 August</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Zoom* (8 – 9.15am refer to zoom details below)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 September</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Zoom* (8 – 9.15am refer to zoom details below)</p>
 </td>
 </tr>
 <tr>
@@ -179,19 +238,21 @@ school and girls. Below are more information regarding these sessions:&nbsp;</p>
 <p>Term 4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>9 September (8 – 9.15am via Zoom*)
-<br>7 October (8 – 9.15am via Zoom*)</p>
+<p>6 October</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Zoom* (8 – 9.15am refer to zoom details below)</p>
 </td>
 </tr>
 </tbody>
 </table>
 <ul>
 <li>
-<p>Zoom meeting ID:&nbsp;<strong>824 7906 5189, Passcode: 1Pet5:7</strong>
+<p>Zoom Meeting ID: <strong>847 5466 9801</strong>; Passcode: <strong>Matt22:37</strong>
 </p>
 </li>
 </ul>
-<p><strong>Prayer coordinator:</strong>
+<p><strong><u>Prayer coordinator:</u></strong>
 </p>
 <ul>
 <li>
@@ -201,15 +262,13 @@ school and girls. Below are more information regarding these sessions:&nbsp;</p>
 <p>Overall coordinator (S/Y 1-4): Mr Patrick Loke</p>
 </li>
 <li>
-<p>P6 coordinators: Ms Annie Chua</p>
-</li>
-<li>
-<p>S/Y4 coordinator: TBA/TBC (kindly contact Ms Jenny Koh at&nbsp;<a href="mailto:mgps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>jenny_koh@mgs.sch.edu.sg</u></a>)</p>
+<p>Christiam Ministry Staff (CMS): Ms Corrine Chee (Pri); Ms Jenny Koh (Sec)</p>
+<p></p>
 </li>
 </ul>
-<p><strong>Remarks:</strong>
+<p><strong><u>Remarks:</u></strong>
 </p>
-<ul>
+<ol data-tight="true" class="tight">
 <li>
 <p><strong>All prayer meetings are combined</strong>&nbsp;meaning parents
 with child(ren) in different levels meet together at the same day and time,
@@ -225,24 +284,26 @@ to allow more parents to join the session, be it on-site or via zoom</p>
 will make their own arrangements nearing PSLE/O Level to meet via zoom
 for prayer sessions</p>
 </li>
-</ul>
-<p><strong>Instruction for on-site meetings:</strong>
+<li>
+<p><strong>Parents kindly drop a message to either one of the prayer coordinators (Laura or Patrick) to indicate your interest to be registered into the MGS prayer group community.</strong>
+</p>
+</li>
+</ol>
+<p><strong><u>Instruction for on-site meetings:</u></strong>
 </p>
 <ol>
 <li>
-<p>Please take the lift to Level 4, walk straight past the Pri School library.
-The venue will be the first room on your right along the corridor</p>
+<p>Please take lift to Level 4, walk straight past the Pri School library,
+1<sup>st</sup> room on your right along the corridor</p>
 </li>
 <li>
-<p>Do remember to obtain a Visitor’s Pass at the Security Post. Kindly inform
-Security on duty that you are going to Level 4 for parents’ prayer meeting.</p>
+<p>Do remember to exchange for a Visitor’s Pass at the Security Post – kindly
+inform Security on duty that you are going to <u>Level 4</u> for parents’
+prayer meeting.&nbsp;</p>
 </li>
 <li>
-<p>Vehicles parked inside the school premise are strictly based on a first-come-first-serve
-basis, subject to availability, and in WHITE coloured VISITOR LOTS ONLY.
-There must be a “temporary parking label” to be displayed on the vehicle
-dashboard – this “temporary parking label” is subject to availability at
-the Security Post.</p>
+<p>Taking public transport is encouraged. Visitor parking in the car park
+opposite the school is limited and subject to availability.</p>
 </li>
 </ol>
 <p>If you have any enquiries regarding Parents’ Prayer Meetings, please contact
