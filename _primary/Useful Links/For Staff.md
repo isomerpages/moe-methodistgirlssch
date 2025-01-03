@@ -3,6 +3,7 @@ title: For Staff
 permalink: /primary/useful-links/for-staff/
 description: ""
 third_nav_title: Useful Links
+variant: markdown
 ---
 ### MGS Links
 * [EdTech Devices & Venue Booking ](https://sites.google.com/mgs.sch.edu.sg/mgps-edtechhub)  
@@ -11,7 +12,6 @@ third_nav_title: Useful Links
 
 ### MOE Links
 * [Cockpit 2](http://schoolcockpit.moe.gov.sg/)  
-* [iCON 2](https://icon.moe.edu.sg/) 
 * [Intranet](https://intranet.moe.gov.sg/) 
 * [MOE](http://www.moe.gov.sg/)  
 * [MIMS](https://mims.moe.gov.sg/) 

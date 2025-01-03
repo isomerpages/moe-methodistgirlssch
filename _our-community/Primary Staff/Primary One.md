@@ -7,10 +7,10 @@ variant: markdown
 ---
 | Class | Form Teacher | | |
 | -------- | -------- | -------- |-------- |
-|P1.1| [Ms Evelyn Huang ](mailto:huang_yulin_evelyn@schools.gov.sg)| [Ms Tan May Lin](mailto:tan_may_lin@schools.gov.sg) | 
-|P1.2| [Mrs Gladys Jiow ](mailto:tan_tsu_pei_gladys@schools.gov.sg)|[Mrs Tan Hwee Ching](mailto:tan_sian_huang@schools.gov.sg)| 
-|P1.3|[Mrs Katherine Hah](mailto:katherine_loi_huay_kiew@schools.gov.sg) | [Mdm Zhan Bei](mailto:zhan_bei@schools.gov.sg)|
-|P1.4| [Mrs Lei Jiayun](mailto:lei_jiayun@schools.gov.sg) |[Mrs Thilaka Ruben](mailto:thilaka_ganapathi@schools.gov.sg)|
-|P1.5|[Mdm Basheera Begum](mailto:basheera_begum_syed_sult@schools.gov.sg) |[Mrs Lee Huay Chyn](mailto:lee_huay_chyn@schools.gov.sg)|
-|P1.6|[Mdm Evia Chiok](mailto:chiok_suat_cheng@schools.gov.sg)|[Mdm Xu Jing](mailto:xu_jing@schools.gov.sg)|
-|P1.7|[Mrs Jamie Chaw](mailto:lo_hwee_ling_jamie@schools.gov.sg)|[Ms Neo Shiwei](mailto:neo_shiwei@schools.gov.sg)|
+|P1.1| [Mdm Angela Tan](mailto:angela_tang_wai_yu@schools.gov.sg)| [Ms Zhang Li](mailto:zhang_li_a@schools.gov.sg) | 
+|P1.2| [Mrs Chris Lim](mailto:yap_lay_chin@schools.gov.sg)|[Mdm Zhang Qiaoming](mailto:zhang_qiao_ming@schools.gov.sg)| 
+|P1.3|[Ms Jocelyn Chua](mailto:Jocelyn_CHUA@schools.gov.sg) | [Mrs Amy Ng](mailto:fang_yingying_amy@schools.gov.sg)|
+|P1.4| [Mr Tan See Chow](mailto:tan_see_chow@schools.gov.sg) |[Mrs Michelle Sin](mailto:tmichelle_sin@schools.gov.sg)|
+|P1.5|[Mrs Evelyn Ong](mailto:tan_ee_ming_evelyn@schools.gov.sg) |[Mdm Liu Biting](mailto:liu_biting@schools.gov.sg)|
+|P1.6|[Mdm Siti Maisarah](mailto:siti_maisarah_mohamed_wafa@schools.gov.sg)|[Mrs Eileen Ong](mailto:ngui_shu_may_eileen@schools.gov.sg)|
+|P1.7|[Mdm Lim Yung Hui](mailto:lim_yung_hui@schools.gov.sg)|[Mrs Katherine Hah](mailto:katherine_loi_huay_kiew@schools.gov.sg)|
