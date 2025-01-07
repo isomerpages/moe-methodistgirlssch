@@ -96,7 +96,8 @@ to MASTER, to GROW and to SERVE.</p>
 <p>Ms Adele Yeo
 <br>Mrs Bow Yuen
 <br>Ms Elaine Teo
-<br>Mrs Joanne Chee
+<br>Mrs Joanne Chee</p>
+<p>Mr Lionel Lim
 <br>Ms Melody Lim
 <br>Ms Ng Lin-Li
 <br>Ms Sharon Kee
