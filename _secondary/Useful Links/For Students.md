@@ -24,7 +24,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/1IADI0JbGrafKJsP-picb4Ajex-jY1zSC/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">MGS School Rules</a>
+<p><a href="https://drive.google.com/file/d/12TtCSrJnoTJirXtwZ-K7SbC_50xCWp7E/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">MGS School Rules</a>
 </p>
 </li>
 <li>
