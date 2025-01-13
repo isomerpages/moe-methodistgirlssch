@@ -76,10 +76,10 @@ Excellence and Love, and the school motto, To Master, To Grow, To Serve.</p>
 </p>
 <h2>Jumabhoy Impact Award</h2>
 <p>Jumabhoy Impact Award* is presented to an individual or a group of secondary
-students who have made a positive impact in the community through a socially
-responsible or sustainable project. She is/They are of good character and
-role models our school values, Godliness, Excellence and Love, and the
-school motto, To Master, To Grow, To Serve.</p>
+students who have made a positive impact in the community through project
+focused on social responsibility and/ or sustainability. She is/They are
+of good character and role models our school values, Godliness, Excellence
+and Love, and the school motto, To Master, To Grow, To Serve.</p>
 <p><em>The Jumabhoy family is a dedicated supporter of education-centric philanthropic initiatives and believes strongly in giving back to the community.</em>
 </p>
 <p>*Jumabhoy Impact Award replaces the previous Jumabhoy Award.</p>
