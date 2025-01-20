@@ -94,10 +94,10 @@ schedule:
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>October 18, Saturday</p>
+<p>TBC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Father-Daughter Bonding</p>
+<p>Parent-Daughter Bonding</p>
 </td>
 </tr>
 <tr>
