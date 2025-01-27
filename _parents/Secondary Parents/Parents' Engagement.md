@@ -5,14 +5,14 @@ description: ""
 third_nav_title: Secondary Parents
 variant: tiptap
 ---
-<h2>Parents' Engagement 2024</h2>
+<h2>Parents' Engagement 2025</h2>
 <ol>
 <li>
-<p><a href="https://drive.google.com/drive/folders/1P43ugRMCwnbP-0J63LhmHyWXZITUOVTE?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Access</a> our
+<p><a href="https://drive.google.com/drive/folders/1sMrs1DgS21fQT4vN6STZv5S0aXcw1y-9?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Access</a> our
 Parents' Engagement notes.</p>
 </li>
 <li>
-<p><a href="https://youtu.be/wlAuIIxID7Y?si=VlRhwSuhRXwBz7wh" rel="noopener noreferrer nofollow" target="_blank">View</a> the
+<p><a href="https://www.youtube.com/watch?v=oWZY8woVUW8" rel="noopener noreferrer nofollow" target="_blank">View</a> the
 Principal's Address</p>
 </li>
 </ol>
