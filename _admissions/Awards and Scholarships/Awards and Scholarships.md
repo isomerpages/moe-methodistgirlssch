@@ -31,7 +31,7 @@ website, which you can find at the following <a href="https://www.mgs.moe.edu.sg
 more information on each scholarship/ award.</p>
 <p></p>
 <h3>CLOSING DATE FOR SUBMISSIONS:</h3>
-<p>(i) <strong>Tuesday 4 February 2025 3pm&nbsp;</strong>
+<p>(i) <strong>Friday 7 February 2025 3pm&nbsp;</strong>
 </p>
 <p>For Current Secondary Four/ Year Four students<strong> and&nbsp;</strong> 
 <br>Current Secondary One/ Year One students who continue their studies in
