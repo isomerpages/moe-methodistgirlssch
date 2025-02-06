@@ -293,7 +293,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Music (MEP)</p>
+<p>Music</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:low_siew_kheng_arlene@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Arlene Chan</a>
