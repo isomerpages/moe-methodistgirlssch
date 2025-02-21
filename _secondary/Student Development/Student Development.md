@@ -11,8 +11,7 @@ student experience to enhance the social, emotional, intellectual, moral
 and spiritual growth for all MGS students in order that they grow in Godliness,
 Excellence and Love to be and become MGS girls who are always ready to
 serve the community and, in serving, learn with and from the community.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secondary/Student_Development.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secondary/student_Development.png">
 </div>
 <p></p>
