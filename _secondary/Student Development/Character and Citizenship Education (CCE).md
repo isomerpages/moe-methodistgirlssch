@@ -87,10 +87,28 @@ for the MGS girl as she progresses through each phase of her schooling
 years. They are developmental in nature and revolve around the Developmental
 Focus:</p>
 <p></p>
+<table style="width: 0px">
+<colgroup></colgroup>
+<tbody>
+<tr></tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secondary/growth_journey_01.png">
 </div>
-<table>
+<table style="width: 0px">
+<colgroup></colgroup>
+<tbody>
+<tr></tr>
+</tbody>
+</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secondary/growth_journey_02.png">
+</div>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -126,7 +144,10 @@ responsible individuals who contribute positively to the world around them.</p>
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -161,7 +182,10 @@ and effective interpersonal skills.</p>
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -195,7 +219,10 @@ needed to make a positive difference in their communities and beyond.</p>
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -204,21 +231,23 @@ needed to make a positive difference in their communities and beyond.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Level Developmental Milestone: </strong>Being and becoming Future-Ready</p>
+<p><strong>Level Developmental Milestone: </strong>Being and becoming a Faithful
+Steward</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>The focus is on equipping students with the competencies necessary to
-thrive in an ever-evolving world. Through a combination of experiential
-learning and reflective practices, students are encouraged to develop a
-strong sense of personal integrity, ethical leadership, and social responsibility.
-Moreover, students continue to foster effective communication skills, including
-verbal, written, and digital literacy, essential for navigating diverse
-professional and social landscapes. By emphasizing character development
-alongside citizenship and communication, we aim to empower students to
-become conscientious global citizens who can adapt to change, lead with
-integrity, and contribute positively to society in meaningful ways.</p>
+lead with responsibility and purpose. We nurture students to be faithful
+stewards who take ownership of the resources, relationships, and opportunities
+entrusted to them. Through a combination of experiential learning and reflective
+practices, students cultivate ethical leadership, adaptability, and a strong
+sense of accountability. They continue to develop effective communication
+skills—verbal, written, and digital—essential for navigating diverse professional
+and social landscapes. By emphasizing stewardship alongside leadership,
+creativity, and communication, students develop the confidence and integrity
+to lead with wisdom and care, shaping a better future for those around
+them.</p>
 </td>
 </tr>
 <tr>
