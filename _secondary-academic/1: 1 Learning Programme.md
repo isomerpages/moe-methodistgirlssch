@@ -74,7 +74,7 @@ change your DMA Options.</p>
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/1DhAQe0VZ3d47lRmPA950C5i-N8JhfVY7/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">DMA Parent User Guide for Option A</a>
+<p><a href="https://drive.google.com/file/d/142GAlVfYc-1ECB7vJFoYcp2QVn7YKFmu/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">DMA Parent User Guide for Option A</a>
 </p>
 </li>
 <li>
