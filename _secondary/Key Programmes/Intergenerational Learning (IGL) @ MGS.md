@@ -27,34 +27,18 @@ These are some areas of possible IGL learning for seniors and youths.</p>
 please write to us at <a href="mailto:IGL@mgs.sch.edu.sg" rel="noopener noreferrer nofollow" target="_blank">IGL@mgs.sch.edu.sg</a>
 </p>
 <p></p>
-<h3>MGS Intergenerational Learning Festival 2024</h3>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/website_banner_5MB.jpg">
-</div>
-<p>The MGS Intergenerational Learning (IGL) Festival on Cultivating Intergenerational
-Learning Communities seeks to bring together educators, researchers, practitioners,
-and community leaders to delve into the rich tapestry of intergenerational
-learning as a context for the development for the Character and Citizenship
-Competencies, with focus on Civic and Cross-Cultural Literacy. This learning
-festival aims to explore and share emerging good practices, interest and
-inspire new IGL communities, and address challenges in promoting intergenerational
-learning and harmony. Participants will also have opportunities to immerse
-in curated IGL experiences.</p>
-<p>Find out more at: <a href="http://go.gov.sg/iglfest24" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/iglfest24</a>
-</p>
-<p>Register now at: <a href="https://form.gov.sg/66e3d21d45e443e3a3657bde" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/iglfest24signup</a>
-</p>
-<p></p>
 <h3>Course Registration</h3>
 <div class="iframe-wrapper">
 <iframe height="315px" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRw0bQxKhWeVERaN6OQpUld_EKRlCOpP9EgYdN2AAYHymPFef2mXm15hwG60wAeQDf5lq3pgGV2-0Vb/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
-<p><strong>Seniors</strong>: <a href="https://forms.gle/RpwpMRnmcNqVzsDv5" rel="noopener noreferrer nofollow" target="_blank">www.tinyurl.com/MGLearns</a>
+<p><strong>Seniors</strong>: <a href="http://go.gov.sg/mglearns" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/mglearns</a>
 </p>
-<p><strong>Students/Youths</strong>: <a href="https://forms.gle/Y3eErseV5dVsEsFd9" rel="noopener noreferrer nofollow" target="_blank">www.tinyurl.com/MGServes</a>
+<p><strong>Students/Youths</strong>: <a href="http://go.gov.sg/mgserves" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/mgserves</a>
 </p>
+<div class="iframe-wrapper">
+<iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/pRREdXXephw?si=xlcCDXFdzisDermz"></iframe>
+</div>
+<p></p>
 <div class="iframe-wrapper">
 <iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/5VKvFNIQ9sQ?si=c3Hs79f4h76UAGP9"></iframe>
 </div>
