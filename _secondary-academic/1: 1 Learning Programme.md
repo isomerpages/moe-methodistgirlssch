@@ -66,7 +66,7 @@ with a Personal Learning Device:</p>
 <iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQp-W4mmXtsbpooIwtrOXogEgVdgiKA7HiPuBGga1erL0PEHc1rCh-5Nr5-gjPRaNCgd619U0NmHbgB/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <h3>DMA Option for Parents</h3>
-<p><a href="https://form.gov.sg/6153d0af93cf0600135149c2" rel="noopener noreferrer nofollow" target="_blank">Click here</a>&nbsp;&nbsp;to
+<p><a href="https://go.gov.sg/mgsdmaoption" rel="noopener noreferrer nofollow" target="_blank">Click here</a>&nbsp;&nbsp;to
 change your DMA Options.</p>
 <ul data-tight="true" class="tight">
 <li>
