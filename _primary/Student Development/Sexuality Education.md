@@ -230,18 +230,14 @@ from experiencing the feelings of infatuation.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Are We More Than Friends?</p>
-<p>Lesson 2</p>
+<p>Lesson 2 (60 min)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>This lesson focuses on helping students know what pornography is and how
-it can affect themselves and others. Students will learn about the dangers
-of being exposed to sexually explicit materials and reject the viewing
-and/or reading of pornographic materials. They will learn to evaluate their
-own responses when they encounter pornography by applying the strategy <strong>‘Stop-Think-Do’.&nbsp;</strong>
-</p>
-<p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
-</p>
+<p>Students will learn healthy ways to manage the emotions arising from infatuation
+and recognise the importance of respecting the boundaries of any relationship.
+They will also recognise the negative impact of teasing their peers who
+may be experiencing the feelings of infatuation.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 2</p>
