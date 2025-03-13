@@ -240,7 +240,7 @@ They will also recognise the negative impact of teasing their peers who
 may be experiencing the feelings of infatuation.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2</p>
+<p>Term 4</p>
 </td>
 </tr>
 </tbody>
