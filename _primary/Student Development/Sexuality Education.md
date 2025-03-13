@@ -215,17 +215,13 @@ and how to seek help for themselves and their friends.</p>
 <p>Growing Years</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>The Changes in Me</p>
-<p>(60 min)</p>
+<p>Are We More Than Friends?</p>
+<p>Lesson 1 (60 min)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>This lesson focuses on helping students identify the emotions and stress
-caused by physical changes during puberty. Students will learn to describe
-the healthy ways to manage their negative feelings during this time. They
-will also learn to recognise that one’s identity need not be negatively
-affected, even when one’s body is experiencing changes due to puberty.&nbsp;</p>
-<p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
-</p>
+<p>Students will learn to distinguish between the characteristics&nbsp; of
+love and infatuation, and&nbsp;identify the strong emotions that may arise
+from experiencing the feelings of infatuation.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 2</p>
@@ -233,22 +229,18 @@ affected, even when one’s body is experiencing changes due to puberty.&nbsp;</
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Did You Know?</p>
-<p>(60 min)</p>
+<p>Are We More Than Friends?</p>
+<p>Lesson 2 (60 min)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>This lesson focuses on helping students know what pornography is and how
-it can affect themselves and others. Students will learn about the dangers
-of being exposed to sexually explicit materials and reject the viewing
-and/or reading of pornographic materials. They will learn to evaluate their
-own responses when they encounter pornography by applying the strategy <strong>‘Stop-Think-Do’.&nbsp;</strong>
-</p>
-<p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
-</p>
+<p>Students will learn healthy ways to manage the emotions arising from infatuation
+and recognise the importance of respecting the boundaries of any relationship.
+They will also recognise the negative impact of teasing their peers who
+may be experiencing the feelings of infatuation.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2</p>
+<p>Term 4</p>
 </td>
 </tr>
 </tbody>
