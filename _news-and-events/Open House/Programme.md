@@ -6,7 +6,6 @@ third_nav_title: Open House
 variant: tiptap
 ---
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WHAT_IS_HAPPENING_WHITE_FINAL_25_April.jpg">
-</div>
+<p>Watch this Space!
+<br>(To be updated by early April 2025)</p>
 <p></p>
