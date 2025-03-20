@@ -16,7 +16,7 @@ a community who nurtures curiosity, builds character, and encourages a
 heart for service - living out our motto, <strong>To Master, To Grow, To Serve.</strong>&nbsp;
 Come see how deep learning comes alive through active engagement, meaningful
 connections, and a shared commitment to making a difference.</p>
-<p>We can't wait to welcome you to Open House 2025 - <strong>Hear it. Feel it. Live it.</strong> 
+<p>We can't wait to welcome you to Open House 2025 - <strong>Hear it. Feel it. Live it.</strong>
 </p>
 <blockquote>
 <p>We welcome you to MGS OPEN HOUSE 2025</p>
