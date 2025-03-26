@@ -22,4 +22,4 @@ We aim to enable our girls to:
     
 *   [2021 Mathematics Syllabus (for Primary 1 to 5 2025)](https://www.moe.gov.sg/-/media/files/primary/2021-primary-mathematics-syllabus-p1-to-p6-updated-dec-2024.pdf)
     
-*   [Guidelines On The Use of Electronic Calculators in National Examinations](https://t797-p242-blue-admin.prd.cwp2.sg/docs/default-source/documents/guidelines-on-the-use-of-calculators_for-2025-exam-(website).pdf?sfvrsn=93f391d6_1)
+*   [Guidelines On The Use of Electronic Calculators in National Examinations](https://file.go.gov.sg/seab-approvedcalculators.pdf)
