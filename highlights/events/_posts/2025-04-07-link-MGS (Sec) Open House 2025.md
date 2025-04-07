@@ -1,5 +1,5 @@
 ---
-title: MGS Open House 2025
+title: MGS (Sec) Open House 2025
 date: 2025-04-07
 layout: link
 description: ""
