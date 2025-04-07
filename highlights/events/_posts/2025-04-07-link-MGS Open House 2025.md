@@ -1,6 +1,6 @@
 ---
-title: MGS Open House 2024
-date: 2024-04-19
+title: MGS Open House 2025
+date: 2025-04-07
 layout: link
 description: ""
 image: ""
