@@ -27,10 +27,10 @@ variant: tiptap
 <h3><strong>FINANCE</strong></h3>
 <p>Director:&nbsp;<a href="mailto:cheryl_chan_hp@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Cheryl Chan</a> 
 <br>Manager: <a href="mailto:wayne_ma@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Wayne Ma</a> 
-<br>Senior Executive: Ms Charyl Lee
-<br>Senior Executive: Ms Debbie Cheng</p>
+<br>Senior Executive: Ms Debbie Cheng
+<br>Senior Executive:</p>
 <h3><strong>HUMAN RESOURCES</strong></h3>
-<p>Senior Manager: <a href="mailto:yong_sheue_horng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Yong Sheue Horng</a> 
+<p>Senior Manager: <a href="mailto:Steven_Ng_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Steven Ng</a> 
 <br>Senior Executive: Ms Chin Si Min
 <br>Senior&nbsp;Executive: Mr Lester Lee
 <br>
@@ -55,7 +55,7 @@ variant: tiptap
 <br>Senior Manager (Strategic Communications &amp; Engagement):&nbsp;<a href="mailto:tay_sue-mei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Sue-Mei Tay</a> 
 <br>Senior Executive (Strategic Communications &amp; Engagement): Mrs Joanna
 Kong
-<br>Executive (Community Partnerships): Mr Wang Zekun</p>
+<br>Executive (Community Partnerships):</p>
 <h3><strong>TEACHERS' SUPPORT</strong></h3>
 <p>Executive: Mrs Pauline Yong
 <br>Senior&nbsp;Officer: Miss Joanna Gautama
