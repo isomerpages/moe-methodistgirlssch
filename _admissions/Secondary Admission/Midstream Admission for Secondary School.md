@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Secondary Admission
 variant: tiptap
 ---
-<p>Closing Date: 25 October 2025</p>
+<p>Closing Date: 24 October 2025</p>
 <h2>For local students transferring from another local school</h2>
 <p>Interested applicants for transfer to the SEC track at Sec 2 and 3 or
 IP track at Year 3 must apply to sit for the Principals Academy Certification
@@ -18,7 +18,7 @@ the registration for the PACT test.&nbsp;Click&nbsp;<a href="https://drive.googl
 view the PACT schedule.</p>
 <p>Kindly complete the&nbsp;<a href="https://form.gov.sg/64d1b726ddf0320011f43383" rel="noopener noreferrer nofollow" target="_blank">application form</a>&nbsp;(after
 PACT test registration) and submit with the birth certificate and the last
-2 years’ school results to us by 25 October 2025. Please be informed that
+2 years’ school results to us by 24 October 2025. Please be informed that
 the school will only notify applicants who are shortlisted for interviews.
 All interviews will be conducted within the month of November.</p>
 <h2>For Returning Singaporeans</h2>
