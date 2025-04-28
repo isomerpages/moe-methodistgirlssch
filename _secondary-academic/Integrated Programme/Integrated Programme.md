@@ -106,49 +106,108 @@ the needs and interests of each individual student.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secondary/IP6.jpg">
 </div>
-<h4>Blackmore Academy</h4>
-<p>The Blackmore Academy houses the MGS signature talent development programmes.
-Spanning both disciplinary and interdisciplinary experiences, students
-benefit from choice of breadth and depth of activities to develop their
-interests and passion.</p>
-<h4>Independent Studies</h4>
-<p>Independent Studies develops our students as academic researchers, with
-the skills needed to systematically investigate an issue in a discipline
-of their choice. Working in small groups, they learn how to work collaboratively
-to collect the data necessary to address their own research question. They
-will also explore ways to apply their findings to achieve social impact,
-going beyond the merely theoretical to be of service to others.</p>
-<h4>Global Perspectives &amp; Inquiry (GPI)</h4>
-<p>The <a href="https://www.mgs.moe.edu.sg/secondary/academic/humanities/global-studies/" rel="noopener noreferrer nofollow" target="_blank">GPI programme</a> aims
-to enable Year 1 and Year 2 students to acquire knowledge and understanding
-of significant events and issues from around the world while seeing that
-there are varied perspectives that people have regarding related human
-actions and behaviours.</p>
+<h4>Year 1 &amp; 2</h4>
+<h4>MGS ASEAN Programme (MAP)</h4>
+<p>Through MAP, our Secondary 1 IP students embark on a vibrant exploration
+of Southeast Asia’s cultural diversity. They engage in hands-on experiences
+with traditional arts, regional cuisines, music, and languages—developing
+a deep appreciation for the unique heritage of ASEAN nations. These experiences
+nurture cultural sensitivity and build meaningful regional connections.</p>
+<p>Selected Year 2 students continue this journey with an overseas learning
+experience in a selected ASEAN country. Through immersive visits and exchanges,
+they gain insights into the nation’s culture, economy, and governance.
+This deepens their understanding of regional cooperation and strengthens
+their sense of shared identity.</p>
+<p>MAP cultivates cross-cultural awareness and prepares our students to be
+active, empathetic contributors in an interconnected ASEAN community.</p>
+<h4><br>Global Perspectives &amp; Inquiry (GPI)</h4>
+<p>Our <a href="https://www.mgs.moe.edu.sg/secondary/academic/humanities/global-studies/" rel="noopener noreferrer nofollow" target="_blank">GPI programme</a> encourages
+Year 1 and 2 students to explore global events and issues through engaging
+discussions and critical analysis. They examine how culture, history, and
+context shape perspectives, developing empathy and a deeper understanding
+of complex world challenges.</p>
+<p>By considering diverse viewpoints and the interconnectedness of global
+issues, students grow into informed, thoughtful global citizens rooted
+in Singapore, prepared to navigate an increasingly complex world.</p>
+<p></p>
+<h4>Year 3 &amp; 4</h4>
 <h4>Global Studies</h4>
-<p><a href="https://www.mgs.moe.edu.sg/secondary/academic/humanities/global-studies/" rel="noopener noreferrer nofollow" target="_blank">Global Studies</a> at
-Year 3 &amp; 4 is a multi-disciplinary approach to the study of political,
-economic, social and cultural relationships of the world through the use
-of various disciplinary lenses or perspectives. The essential disciplinary
-content will also aid students’ understanding of their respective nation’s
-(Singapore or otherwise) place within the global community and to prepare
-them to be global citizens for an increasingly interconnected world.</p>
+<p>Years 3 and 4 students in our <a href="https://www.mgs.moe.edu.sg/secondary/academic/humanities/global-studies/" rel="noopener noreferrer nofollow" target="_blank">Global Studies</a> programme
+explore how nations and cultures interconnect through politics, economics,
+social movements, and cultural exchange. Students examine real-world case
+studies and current affairs to understand global relationships and Singapore’s
+place in the world.</p>
+<p>They develop analytical skills and global awareness, learning how local
+actions can influence global outcomes. The programme prepares them to engage
+thoughtfully with international issues and contribute meaningfully to both
+Singapore and the global community.</p>
 <h4>Philosophy, Thinking and Knowledge (PTK)</h4>
 <p>The PTK programme provides our Year 3 &amp; Year 4 students with an exploration
 of the foundations of knowledge. It serves to integrate the disparate school
 subjects in the curriculum by reflecting on the ways in which knowledge
 is constructed in each of them.</p>
-<h4>The MGS ASEAN Programme (MAP)</h4>
-<p>The MAP helps students understand and appreciate different cultures in
-Southeast Asia. They learn through studying and experiencing language,
-art, food, and music and more of the ASEAN countries. It aims to develop
-their awareness and respect for the diverse cultures within ASEAN countries.</p>
+<h4>Independent Studies</h4>
+<p>Independent Studies equips students with research skills to investigate
+an issue in a discipline of their choice. Working in small groups, they
+learn to collaborate, gather data, and address their own research questions.
+Beyond theory, they explore how to apply their findings to create meaningful
+social impact.</p>
 <h4>Passion, Exploration, Aspiration, Knowledge (PEAK)</h4>
-<p>The objectives of PEAK are to encourage students to explore their passion
-and gain knowledge in fields they aspire toward through independently organised
-external attachments. Through real-world experiences, they deepen their
-understanding and forge meaningful connections between theory and practice.
-The programme equips students with greater self-awareness, and confidence
-to take on complex new challenges.</p>
+<p>PEAK empowers students to transform their aspirations into real-world
+experiences through self-initiated external attachments. Stepping beyond
+the classroom, students explore careers and industries that align with
+their interests.</p>
+<p>By applying their learning in authentic work settings—whether shadowing
+professionals or contributing to industry projects—students gain insights
+that go beyond textbooks. These experiences enable them to:</p>
+<ul>
+<li>
+<p>Deepen understanding of chosen fields through practical exposure
+<br>
+</p>
+</li>
+<li>
+<p>Build professional networks and connections
+<br>
+</p>
+</li>
+<li>
+<p>Develop confidence in real-world settings
+<br>
+</p>
+</li>
+<li>
+<p>Make informed decisions about future academic and career paths
+<br>
+</p>
+</li>
+</ul>
+<p>PEAK nurtures self-directed learners who pursue their passions with purpose
+and resilience.</p>
+<p></p>
+<h4>Year 1 - 4</h4>
+<h4>Lead &amp; Serve</h4>
+<p>Lead and Serve aims to strengthen connections among Year 1 to Year 4 students
+in the Integrated Programme by building a supportive and collaborative
+community through service-learning initiatives.</p>
+<p>The project encourages students to engage meaningfully with local communities—immersing
+themselves in daily life, identifying needs, and understanding challenges
+on the ground. By creating spaces for open and respectful dialogue, students
+gain valuable insights into real-world issues. In the process, they not
+only contribute to community well-being but also develop self-awareness,
+empathy, and a deeper appreciation of their role in society.</p>
+<p>Blackmore Academy
+<br>
+<br>Blackmore Academy offers a platform for students to engage in workshops
+that extend learning beyond the classroom. These workshops, offered termly
+to students in both SEC and IP tracks, are curated to support the personalisation
+of learning and development of new interests, skills, and peer collaboration.</p>
+<p>Workshops may be initiated by students or facilitated by teachers and
+external instructors. They span a range of areas in four domains: Academic,
+Well-being, Life-skills and Future skills.</p>
+<p>Students have the opportunity to participate in existing workshops or
+propose and lead their own, encouraging initiative and independent learning
+within a supportive environment.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secondary/IP3.png">
 </div>
