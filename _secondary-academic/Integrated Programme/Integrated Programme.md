@@ -196,9 +196,9 @@ on the ground. By creating spaces for open and respectful dialogue, students
 gain valuable insights into real-world issues. In the process, they not
 only contribute to community well-being but also develop self-awareness,
 empathy, and a deeper appreciation of their role in society.</p>
-<p>Blackmore Academy
-<br>
-<br>Blackmore Academy offers a platform for students to engage in workshops
+<p></p>
+<h4>Blackmore Academy<br></h4>
+<p>Blackmore Academy offers a platform for students to engage in workshops
 that extend learning beyond the classroom. These workshops, offered termly
 to students in both SEC and IP tracks, are curated to support the personalisation
 of learning and development of new interests, skills, and peer collaboration.</p>
