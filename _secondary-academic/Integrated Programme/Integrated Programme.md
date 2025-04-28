@@ -8,7 +8,7 @@ variant: tiptap
 <p>The MGS Integrated Programme (IP) is a six-year through-train programme
 that leads to the International Baccalaureate Diploma Programme at Anglo-Chinese
 School (Independent) in Years 5 and 6.</p>
-<p>The MGS IPis designed to develop principled and confident future-ready
+<p>The MGS IP is designed to develop principled and confident future-ready
 citizens who use their talents to lead and serve society.</p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -29,7 +29,7 @@ and connections, constructs meaningful knowledge and applies it in the
 real world for the betterment of all.</p>
 <h3>Features of the IP Curriculum</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secondary/IP2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secondary/Features_of_the_IP_Curriculum_2025.jpg">
 </div>
 <h4>Values-based education</h4>
 <p>The curriculum emphasises developing principled and responsible citizens
@@ -64,7 +64,7 @@ perspectives and experiences, students are prepared to operate in an increasingl
 globalised world and contribute to greater equity, inclusion, and understanding
 across cultures.</p>
 <h4>Communication and Collaboration-centred</h4>
-<p>Student are given ample opportunities for collaboration to develop their
+<p>Students are given ample opportunities for collaboration to develop their
 ability to manage team dynamics and challenges. Through emphasis on oral
 presentations, they build skills and attitudes necessary to effectively
 communicate for audience and impact, as well as make meaning for themselves
@@ -80,10 +80,10 @@ and to work towards positive social change.</p>
 applications of knowledge. Critical thinking, problem-solving, and inquiry-based
 learning is prioritised, encouraging students to engage with complex ideas
 and concepts in a meaningful and rigorous way.</p>
-<p>Through a variety of learning experiences such as coursework, case studies,
-and hands-on activities, students are challenged to develop a deep understanding
-of different disciplines, while also building connections between different
-areas of knowledge.</p>
+<p>Through a variety of learning experiences such as authentic problem tasks,
+case studies, and hands-on activities, students are challenged to develop
+a deep understanding of different disciplines, while also building connections
+between different areas of knowledge.</p>
 <h4>Authentic problem-posing and innovation</h4>
 <p>Explicit connections between classroom learning and real-world applications
 are made which empower students with relevant and meaningful learning.
