@@ -5,9 +5,8 @@ description: ""
 third_nav_title: Secondary Admission
 variant: tiptap
 ---
-<h2><strong>DIRECT SCHOOL ADMISSION TO MGS SECONDARY 1 </strong></h2>
-<p>Details of this year's DSA exercise will be provided when available.
-<br>Please refer to this page for updates.</p>
+<h2><strong>DIRECT SCHOOL ADMISSION TO MGS SECONDARY 1</strong></h2>
+<p>Download MGS DSA Application 2025 here.</p>
 <hr>
 <p>MGS invites Primary 6 students to participate in the DSA exercise. As
 MGS is a dual track school with both the Integrated Programme (IP) and
