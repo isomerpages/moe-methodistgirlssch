@@ -5,5 +5,5 @@ layout: link
 description: ""
 image: ""
 variant: tiptap
-external: https://https://www.mgs.moe.edu.sg/secondary/admissions/dsa-sec1/
+external: https://www.mgs.moe.edu.sg/secondary/admissions/dsa-sec1/
 ---
