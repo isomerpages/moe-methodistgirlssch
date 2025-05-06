@@ -108,11 +108,11 @@ the needs and interests of each individual student.</p>
 </div>
 <h4>Year 1 &amp; 2</h4>
 <h4>MGS ASEAN Programme (MAP)</h4>
-<p>Through MAP, our Secondary 1 IP students embark on a vibrant exploration
-of Southeast Asia’s cultural diversity. They engage in hands-on experiences
-with traditional arts, regional cuisines, music, and languages—developing
-a deep appreciation for the unique heritage of ASEAN nations. These experiences
-nurture cultural sensitivity and build meaningful regional connections.</p>
+<p>Through MAP, our Year 1 students embark on a vibrant exploration of Southeast
+Asia’s cultural diversity. They engage in hands-on experiences with traditional
+arts, regional cuisines, music, and languages—developing a deep appreciation
+for the unique heritage of ASEAN nations. These experiences nurture cultural
+sensitivity and build meaningful regional connections.</p>
 <p>Selected Year 2 students continue this journey with an overseas learning
 experience in a selected ASEAN country. Through immersive visits and exchanges,
 they gain insights into the nation’s culture, economy, and governance.
