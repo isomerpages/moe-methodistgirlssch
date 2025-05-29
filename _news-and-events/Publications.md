@@ -16,8 +16,8 @@ the year and celebrating the cherished moments and bonds that define us
 document is a brief on the Educational Mission of The Methodist Church
 in Singapore. It serves as an introduction to anyone serving in our Methodist
 Schools.</p>
-<p><a href="https://www.methodist.org.sg/message" rel="noopener nofollow" target="_blank">Methodist Message (MM)</a>,
-the official publication of The Methodist Church in Singapore, keeps the
+<p><a href="https://www.methodist.org.sg/message" rel="noopener nofollow" target="_blank">Methodist Message (MM)</a>:
+The official publication of The Methodist Church in Singapore, keeps the
 community connected with the wider Methodist family.</p>
 <p><a href="https://drive.google.com/drive/folders/1xdqViZh2MGoXBva5c1Z5bMvEKShi5l_1?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Fellowship</a>:&nbsp;MGS
 Alumnae Association&nbsp;Newsletter&nbsp;(Discontinued since 2019).</p>
