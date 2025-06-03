@@ -47,9 +47,8 @@ mindset and an ability to think out of the box
 in school improvement, is resourceful and innovative.
 <br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Good staff work and organizational
 skills in engaging and influencing people at all levels</p>
-<p><strong>&nbsp;</strong>To apply, please email your detailed resume with
-information on your current and expected remuneration and a recent photograph
-email to:</p>
+<p>To apply, please email your detailed resume with information on your current
+and expected remuneration and a recent photograph email to:</p>
 <p>Human Resources Team
 <br>Email: <a rel="noopener noreferrer nofollow" target="_blank">hr@mgs.sch.edu.sg</a>
 </p>
