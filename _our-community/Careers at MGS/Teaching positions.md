@@ -41,8 +41,8 @@ degree or the equivalent
 held at the time of application
 <br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Excellent interpersonal and communication
 skills, facilitation skills for learning of academic and non-academic lessons,
-experience in working with student groups in schoolwide/community projects</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Highly adaptable with a learning
+experience in working with student groups in schoolwide/community projects
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Highly adaptable with a learning
 mindset and an ability to think out of the box
 <br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A sense of ownership and initiative
 in school improvement, is resourceful and innovative.
@@ -58,17 +58,12 @@ email to:</p>
 applicants that only shortlisted candidates will be notified.</p>
 <p>We welcome qualified and highly motivated individuals with a strong passion
 for teaching of the following subjects and key personnel positions.</p>
-<p>&nbsp;</p>
 <p><strong>Key Personnel Positions</strong>
-</p>
-<p>HOD Mother Tongue Language
+<br>HOD Mother Tongue Language
 <br>Subject Head, Chinese Language
 <br>Subject Head, Character and Citizenship Education</p>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>Teachers</strong>
-</p>
-<p>Art
+<br>Art
 <br>Biology
 <br>Chinese Language
 <br>Geography
