@@ -34,8 +34,7 @@ and servant leaders.</p>
 <p></p>
 <p><strong>We invite candidates with integrity, passionate about education, and who possess the following to apply:</strong>
 </p>
-<p><strong>&nbsp;</strong>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Relevant
-degree or the equivalent
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Relevant degree or the equivalent
 <br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Professional teaching qualification
 <br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Successful performance in the position
 held at the time of application
