@@ -62,7 +62,7 @@ for teaching of the following subjects and key personnel positions.</p>
 <br>HOD Mother Tongue Language
 <br>Subject Head, Chinese Language
 <br>Subject Head, Character and Citizenship Education</p>
-<p><strong>&nbsp;Teachers</strong>
+<p><strong>Teachers</strong>
 <br>Art
 <br>Biology
 <br>Chinese Language
