@@ -59,7 +59,8 @@ for teaching of the following subjects and key personnel positions.</p>
 <p><strong>Key Personnel Positions</strong>
 <br>HOD Mother Tongue Language
 <br>Subject Head, Chinese Language
-<br>Subject Head, Character and Citizenship Education</p>
+<br>Subject Head, Character and Citizenship Education
+<br>Subject Head, Aesthetics</p>
 <p><strong>Teachers</strong>
 <br>Art
 <br>Biology
