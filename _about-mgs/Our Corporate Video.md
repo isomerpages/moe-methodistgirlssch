@@ -14,12 +14,8 @@ legacy since 1887.</p>
 <p></p>
 <h3>WE ARE MGS</h3>
 <p>Featuring the diverse faces and voices of our beloved MGS family, this
-video co-created by Sec 2 students celebrates the rich tapestry of our
-school in commemoration of MGS 137th Founder's Day. As part of their Learning
-Unboxed programme, our students honed their digital storytelling and video
-production skills, bringing to life the connections and experiences that
-define us. Join us in celebrating our shared heritage and the incredible
-spirit of our community.&nbsp;</p>
+video co-created by students celebrates the rich tapestry of our school&nbsp;and
+the incredible spirit of our community.&nbsp;</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/8tEbrHTZizU?si=GKKmrFDhu9pMsqYH"></iframe>
 </div>
