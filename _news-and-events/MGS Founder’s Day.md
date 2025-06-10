@@ -1,5 +1,5 @@
 ---
-title: MGS 138th Founder’s Day
+title: MGS Founder’s Day
 permalink: /mgs-137th-founder-s-day/
 variant: tiptap
 description: ""
