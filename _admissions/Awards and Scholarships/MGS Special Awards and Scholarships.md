@@ -11,9 +11,9 @@ continuing her studies in MGS. She is of exemplary character and excels
 in both academic and non-academic domains and role models our school values,
 Godliness, Excellence and Love, and the school motto, To Master, To Grow,
 To Serve.</p>
-<p>The Scholarship is renewed every year until the scholar completes her
-secondary education in MGS, provided she maintains her grades and continues
-to be of exemplary conduct.</p>
+<p>The Scholarship is renewable for the next three years until the scholar
+completes her secondary education in MGS, on condition that she continues
+to be an exemplary learner with excellent conduct.</p>
 <p></p>
 <h2>Ruth Wong Award</h2>
 <p>The Ruth Wong Award is presented to a student who has excelled academically
