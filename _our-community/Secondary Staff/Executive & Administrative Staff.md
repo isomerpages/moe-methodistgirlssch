@@ -30,17 +30,15 @@ variant: tiptap
 <br>Senior Executive: Ms Debbie Cheng
 <br>Senior Executive: Ms Tee Hui Ping</p>
 <h3><strong>HUMAN RESOURCES</strong></h3>
-<p>Senior Manager: <a href="mailto:Steven_Ng_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Steven Ng</a> 
-</p>
-<p>Manager: Ms Jelaine Low
+<p>Senior Manager: <a href="mailto:Steven_Ng_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Steven Ng</a>
+<br>Manager: Ms Jelaine Low
 <br>Senior Executive: Ms Chin Si Min
 <br>Senior&nbsp;Executive: Mr Lester Lee
 <br>
 </p>
 <h3><strong>INFORMATION TECHNOLOGY</strong></h3>
-<p>Senior Manager: <a href="mailto:edmund_wong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Edmund Wong</a> 
-</p>
-<p>Manager: Mdm Bhosle Varsha Ajay
+<p>Senior Manager: <a href="mailto:edmund_wong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Edmund Wong</a>
+<br>Manager: Mdm Bhosle Varsha Ajay
 <br>Senior Executive: Mr David Quah
 <br>Senior&nbsp;Executive: Mr Siva Chandran
 <br>Desktop Engineer:&nbsp;Mr Yuuki Ishiwata</p>
