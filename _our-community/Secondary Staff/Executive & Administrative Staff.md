@@ -31,12 +31,16 @@ variant: tiptap
 <br>Senior Executive: Ms Tee Hui Ping</p>
 <h3><strong>HUMAN RESOURCES</strong></h3>
 <p>Senior Manager: <a href="mailto:Steven_Ng_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Steven Ng</a> 
+</p>
+<p>Manager: Ms Jelaine Low
 <br>Senior Executive: Ms Chin Si Min
 <br>Senior&nbsp;Executive: Mr Lester Lee
 <br>
 </p>
 <h3><strong>INFORMATION TECHNOLOGY</strong></h3>
 <p>Senior Manager: <a href="mailto:edmund_wong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Edmund Wong</a> 
+</p>
+<p>Manager: Mdm Bhosle Varsha Ajay
 <br>Senior Executive: Mr David Quah
 <br>Senior&nbsp;Executive: Mr Siva Chandran
 <br>Desktop Engineer:&nbsp;Mr Yuuki Ishiwata</p>
@@ -53,8 +57,7 @@ variant: tiptap
 <h3><strong>STRATEGIC COMMUNICATIONS &amp; OUTREACH</strong></h3>
 <p>Director (Student Affairs &amp; Outreach):&nbsp;<a href="mailto:joyce_ang_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Joyce Ang</a> 
 <br>Senior Manager (Strategic Communications &amp; Engagement):&nbsp;<a href="mailto:tay_sue-mei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Sue-Mei Tay</a> 
-<br>Senior Executive (Strategic Communications &amp; Engagement): Mrs Joanna
-Kong
+<br>Senior Executive (Community Partnerships): Mrs Joanna Kong
 <br>Executive (Community Partnerships):</p>
 <h3><strong>TEACHERS' SUPPORT</strong></h3>
 <p>Executive: Mrs Pauline Yong
