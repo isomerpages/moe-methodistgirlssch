@@ -38,7 +38,7 @@ variant: tiptap
 </p>
 <h3><strong>INFORMATION TECHNOLOGY</strong></h3>
 <p>Senior Manager: <a href="mailto:edmund_wong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Edmund Wong</a>
-<br>Manager: Mdm Bhosle Varsha Ajay
+<br>Manager: <a href="varsha_ajay_bhosle@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Bhosle Varsha Ajay</a> 
 <br>Senior Executive: Mr David Quah
 <br>Senior&nbsp;Executive: Mr Siva Chandran
 <br>Desktop Engineer:&nbsp;Mr Yuuki Ishiwata</p>
