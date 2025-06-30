@@ -120,7 +120,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Student Leadership &amp; Management (Covering HOD)</p>
+<p>Student Leadership &amp; Management</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:joy_sim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Joy Goh</a>
