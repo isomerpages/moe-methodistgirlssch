@@ -1,6 +1,6 @@
 ---
 title: The Healing Nation
-permalink: /the-healing-nation/
+permalink: /news-n-events/the-healing-nation/
 variant: tiptap
 description: ""
 ---
