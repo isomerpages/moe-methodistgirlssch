@@ -2,7 +2,6 @@ collections:
   news-and-events:
     output: true
     order:
-      - The Healing Nation.md
       - Calendar of Events.md
       - MGS Founder’s Day.md
       - Open House/.keep
@@ -13,3 +12,4 @@ collections:
       - Open House/Sharing Sessions.md
       - Open House/DSA Talent Areas.md
       - Publications.md
+      - The Healing Nation.md
