@@ -21,8 +21,7 @@ and VIA projects, contributing to the islandwide goal of 1.4 million volunteer
 hours. Some of our students will also represent MGS at the <em>Healing Nation Concert</em> on
 1 November 2025 at The Star Theatre—a celebration of the Methodist community’s
 commitment to serve and uplift others.</p>
-<p>To learn more or to support this initiative, scan the QR code to find
-out how, or visit: <a rel="noopener noreferrer nofollow" target="_blank">https://thehealingnation.sg/</a>
+<p>To learn more or to support this initiative, visit: <a rel="noopener noreferrer nofollow" target="_blank">https://thehealingnation.sg/</a>
 </p>
 <p></p>
 <p></p>
