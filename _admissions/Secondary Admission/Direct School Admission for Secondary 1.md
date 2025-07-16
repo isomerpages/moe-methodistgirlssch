@@ -6,7 +6,7 @@ third_nav_title: Secondary Admission
 variant: tiptap
 ---
 <h2><strong>DIRECT SCHOOL ADMISSION TO MGS SECONDARY 1</strong></h2>
-<p><a href="https://drive.google.com/file/d/1o9fGjNXuePcC7mai9CeJRUM3Hjz6c1Ou/view?usp=drive_link" rel="noopener nofollow" target="_blank">Download MGS DSA Application 2025 here.</a>
+<p><a href="https://drive.google.com/file/d/1NYtct6sv9eUQ_FIOxDXKIk5zZTxZxDe5/view?usp=drive_link" rel="noopener nofollow" target="_blank">Download MGS DSA Application 2025 here.</a>
 </p>
 <hr>
 <p>MGS invites Primary 6 students to participate in the DSA exercise. As
