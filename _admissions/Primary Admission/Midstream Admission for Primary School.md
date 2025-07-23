@@ -7,7 +7,7 @@ variant: markdown
 ---
 ### For local students transferring from another local school
 
-Application window is from **1st Aug to 30th Sep**.  
+Application window is from **1st Aug to 30th Sep 2025, 5pm**.  
 
 Interested applicants should complete the online application between Aug to 30 Sep (click [here](https://form.gov.sg/668e20cff4580113e48e87b9) and submit supporting documents via the attachment section provided in the form (i.e past year results, Semester 1 HDP report book slip, if any).  
 
@@ -18,7 +18,7 @@ may not be offered the same in MGS, as this depends on the school’s internal 
 For any further queries or assistance, please email to [mgps@moe.edu.sg](mailto:mgps@moe.edu.sg). 
 
 FAQs:  
-[FAQ\_Mid-Stream Admission to MGS (Primary)](https://drive.google.com/file/d/15x2enIAurEQkJ1_9TphnDdyTN-n7Ujc2/view?usp=sharing)  
+[FAQ\_Mid-Stream Admission to MGS (Primary)](https://drive.google.com/file/d/1A9mTYZ55U4YFmlU3VR3y3P6fnwGPtNjG/view?usp=sharing)
   
 
 **For Returning Singaporeans**  
