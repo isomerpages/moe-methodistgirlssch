@@ -4,7 +4,7 @@ permalink: /mgs-137th-founder-s-day/
 variant: tiptap
 description: ""
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MGS_138th_Founder_s_Day_EDM.png">
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/QocH7K8bQis?si=dYkm_X7HfYHtm6gM"></iframe>
 </div>
 <p></p>
