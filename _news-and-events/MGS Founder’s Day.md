@@ -1,6 +1,6 @@
 ---
 title: MGS Founder’s Day
-permalink: /mgs-137th-founder-s-day/
+permalink: /mgs-138th-founder-s-day/
 variant: tiptap
 description: ""
 ---
