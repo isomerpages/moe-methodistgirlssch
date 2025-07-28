@@ -2,7 +2,7 @@
 title: Assessment Schedules
 permalink: /secondary/academic/schedules/
 description: ""
-variant: tiptap
+variant: markdown
 ---
 <p>Please click on the links below to access the latest schedule for each
 level:</p>
