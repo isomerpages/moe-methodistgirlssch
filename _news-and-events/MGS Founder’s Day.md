@@ -16,6 +16,6 @@ everyone belongs, and where love is not just something we receive, but
 something we live out together.</p>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="695" width="1236" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ulVLPKYIrss"></iframe>
+<iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ulVLPKYIrss"></iframe>
 </div>
 <p></p>
