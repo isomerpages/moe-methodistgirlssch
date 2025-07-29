@@ -31,8 +31,8 @@ please write to us at <a href="mailto:IGL@mgs.sch.edu.sg" rel="noopener noreferr
 <div class="iframe-wrapper">
 <iframe height="315px" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRw0bQxKhWeVERaN6OQpUld_EKRlCOpP9EgYdN2AAYHymPFef2mXm15hwG60wAeQDf5lq3pgGV2-0Vb/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
-<p><strong>Seniors</strong>: <a href="http://go.gov.sg/mglearns" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/mglearns</a>
-<br><strong>Students/Youths</strong>: <a href="http://go.gov.sg/mgserves" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/mgserves</a>
+<p><strong>Seniors</strong>: <a href="https://form.gov.sg/685cbbc7ae71313b33b505ef" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/mglearns</a>
+<br><strong>Students/Youths</strong>: <a href="https://form.gov.sg/685baf7d4bd9837288ce946d" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/mgserves</a>
 </p>
 <p></p>
 <div class="iframe-wrapper">
