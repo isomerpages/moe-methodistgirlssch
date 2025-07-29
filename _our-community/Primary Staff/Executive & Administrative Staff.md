@@ -57,5 +57,5 @@ variant: markdown
 
 |||
 | -------- | -------- |
-|Teacher-Aide| Mr Wilson Lim
-|Teacher-Aide| Ms Cecilia Tan
+|Teacher-Aide| Ms Goh Lian Huay
+|Teacher-Aide| Ms Cindy Kum Eng Hong
