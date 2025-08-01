@@ -9,7 +9,7 @@ variant: markdown
 
 Application window is from **1st Aug to 30th Sep 2025, 5pm**.  
 
-Interested applicants should complete the online application between Aug to 30 Sep (click [here](https://form.gov.sg/668e20cff4580113e48e87b9) and submit supporting documents via the attachment section provided in the form (i.e past year results, Semester 1 HDP report book slip, if any).  
+Interested applicants should complete the online application between Aug to 30 Sep (click [here](https://form.gov.sg/686cfef9b4ec0d3fc5405d85) and submit supporting documents via the attachment section provided in the form (i.e past year results, Semester 1 HDP report book slip, if any).  
 
 Please be informed that the school will only notify the successful applicants by November.  In addition, students who are offered P3 and P4 HMTL in their previous school may not be offered the same in MGS, as this depends on the school’s internal consideration of a basket of different factors. The school's decision is final and will not be able to entertain appeals regarding unsuccessful applications. 
 
