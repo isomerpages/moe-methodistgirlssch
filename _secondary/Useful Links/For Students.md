@@ -54,7 +54,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://pg.moe.edu.sg/forms/sdf" rel="noopener noreferrer nofollow" target="_blank">For Updating of Student's Address</a>
+<p><a href="https://pg.moe.edu.sg/forms/sdf" rel="noopener noreferrer nofollow" target="_blank">For Updating of Student's Details</a>
 </p>
 </li>
 </ul>
