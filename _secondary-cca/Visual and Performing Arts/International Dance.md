@@ -9,7 +9,7 @@ variant: tiptap
 <div class="iframe-wrapper">
 <iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ7uMtMWSAeCQEEVAuOi6LLKLUsAlcZeIdH6tRZ-shkuJH_FwStoRhlbd3bMLTqLr0_eNMB-Za2VHB-/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
-<p><a href="https://sarahchanse09.wixsite.com/mysite" rel="noopener noreferrer nofollow" target="_blank">MG Dance on WIX</a>
+<p><a href="https://heidiphuahz.wixsite.com/mysite" rel="noopener noreferrer nofollow" target="_blank">MG Dance on WIX</a>
 </p>
 <div class="iframe-wrapper">
 <iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/yX2jM24358c?si=DbVFDuQ4LJwvJSt7"></iframe>
