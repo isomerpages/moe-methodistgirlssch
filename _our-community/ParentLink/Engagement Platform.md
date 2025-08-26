@@ -86,7 +86,7 @@ schedule:
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>September 22, Monday</p>
+<p>September 18, Thursday</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Thank You Breakfast</p>
@@ -94,7 +94,7 @@ schedule:
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p>October 11, Saturday</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Parent-Daughter Bonding</p>

@@ -22,12 +22,6 @@ sections:
       subtitle: Stay up to date with us
       button: more
   - infopic:
-      title: Letters to Parents
-      button: More Information
-      url: /community/parents/letterstoparents/
-      image: /images/Highlights/letters-to-parents.jpg
-      alt: letter to parents
-  - infopic:
       title: Get official answers from our Q&A Platform
       subtitle: HAVE A QUESTION?
       id: infopic
