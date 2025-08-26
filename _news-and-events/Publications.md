@@ -12,7 +12,7 @@ by and for members of our school community.</p>
 Our annual school magazine capturing the essence of the MGS journey in
 the year and celebrating the cherished moments and bonds that define us
 - a testament to our collective identity as an MGS family.</p>
-<p><a href="https://drive.google.com/file/d/1FeIvsCiJWkjUL4XWbC6Lgb7inKpcKSQ-/view" rel="noopener noreferrer nofollow" target="_blank">Methodist Educational Brochure</a>:&nbsp;This
+<p><a href="https://drive.google.com/file/d/18MX9e5gDGqaQtP3YNL5zEIcjGdgmpkyZ/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Methodist Educational Brochure</a>:&nbsp;This
 document is a brief on the Educational Mission of The Methodist Church
 in Singapore. It serves as an introduction to anyone serving in our Methodist
 Schools.</p>
