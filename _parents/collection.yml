@@ -2,10 +2,10 @@ collections:
   parents:
     output: true
     order:
-      - Primary Parents/.keep
-      - Primary Parents/Booklist and Bookshop.md
-      - Primary Parents/Parent Volunteer (PV) Application.md
-      - Primary Parents/School Bus.md
+      - Primary parents/.keep
+      - Primary parents/Booklist and Bookshop.md
+      - Primary parents/Parent Volunteer (PV) Application.md
+      - Primary parents/School Bus.md
       - Secondary Parents/.keep
       - Secondary Parents/Booklist and Bookshop.md
       - Secondary Parents/Parents' Engagement.md
