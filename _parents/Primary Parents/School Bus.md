@@ -8,10 +8,10 @@ variant: tiptap
 <h1><strong>School Bus Advertisement</strong></h1>
 <p>To apply, please refer to the Service Requirements and the Application
 Procedure below.</p>
-<h4>Service Requirement</h4>
+<h4>Service Requirements</h4>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="https://drive.google.com/file/d/12Q00YUxamvlCAjqd_x9to7jTRuC68tJu/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Call for Proposals</a>
+<p><a href="https://drive.google.com/file/d/12Q00YUxamvlCAjqd_x9to7jTRuC68tJu/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Call for Proposal</a>
 </p>
 </li>
 <li>
@@ -27,8 +27,8 @@ Procedure below.</p>
 <h4>Application Procedure</h4>
 <ol data-tight="true" class="tight">
 <li>
-<p>Complete the <a href="https://drive.google.com/file/d/1r6zFCf-pi_rSAFn_MKm4RT-36yy0Lvrv/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Call for Proposal - Annex A</a>
-</p>
+<p>Complete the <a href="https://drive.google.com/file/d/1r6zFCf-pi_rSAFn_MKm4RT-36yy0Lvrv/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Call for Proposal - Annex A </a>(Information
+Required from Vendor)</p>
 </li>
 <li>
 <p>Submit the completed Call for Proposal – Annex A by closing date, 10 September
