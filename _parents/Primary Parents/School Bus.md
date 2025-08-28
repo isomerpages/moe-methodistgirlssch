@@ -5,10 +5,10 @@ description: ""
 third_nav_title: Primary Parents
 variant: tiptap
 ---
-<h1>School Bus Advertisement</h1>
+<h1><strong>School Bus Advertisement</strong></h1>
 <p>To apply, please refer to the Service Requirements and the Application
 Procedure below.</p>
-<h4><strong>Service Requirement</strong></h4>
+<h4>Service Requirement</h4>
 <ol data-tight="true" class="tight">
 <li>
 <p><a href="https://drive.google.com/file/d/12Q00YUxamvlCAjqd_x9to7jTRuC68tJu/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Call for Proposals</a>
@@ -24,7 +24,7 @@ Procedure below.</p>
 <p></p>
 </li>
 </ol>
-<h4><strong>Application Procedure</strong></h4>
+<h4>Application Procedure</h4>
 <ol data-tight="true" class="tight">
 <li>
 <p>Complete the <a href="https://drive.google.com/file/d/1r6zFCf-pi_rSAFn_MKm4RT-36yy0Lvrv/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Call for Proposal - Annex A</a>
@@ -43,7 +43,7 @@ Procedure below.</p>
 <p>Contact Number: 6469 4800</p>
 </li>
 <li>
-<p>Email: <a href="mailto:mgps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mgps@moe.edu.sg</a> 
+<p>Email: <a href="mailto:mgps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mgps@moe.edu.sg</a>
 </p>
 </li>
 <li>
@@ -51,7 +51,7 @@ Procedure below.</p>
 </li>
 </ul>
 <p></p>
-<h4><strong>How to get there?</strong><br></h4>
+<h4>How to get there?<br></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -69,7 +69,7 @@ Procedure below.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>By Bus: </strong>
+<p><strong>By Bus:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
