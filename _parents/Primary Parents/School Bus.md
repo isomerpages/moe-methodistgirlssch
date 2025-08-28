@@ -3,168 +3,146 @@ title: School Bus
 permalink: /parents/Primary-Parents/school-bus/
 description: ""
 third_nav_title: Primary Parents
-variant: markdown
+variant: tiptap
 ---
-### School Bus Operator  
-
-
-Name of Bus Operator/Liaison officer: Mr Tang Swee Guan <br>
-Tel No.: 64726046  <br>
-Hand phone No: 96688466  <br>
-Email:&nbsp;[sayguants@yahoo.com.sg](mailto:sayguants@yahoo.com.sg)
-
-#### Daily School Bus Service&nbsp;
-
-(i.e. for sending students from home to school and vice versa)
-
-<style type="text/css">
-.tg {
-    border-color: black;
-    border-style: solid;
-    border-width: 1px;
-    border-collapse: collapse;
-    border-spacing: 0;
-}
-.tg td {
-    overflow: hidden;
-    padding: 10px 5px;
-    word-break: normal;
-}
-.tg th {
-    font-weight: normal;
-    overflow: hidden;
-    padding: 10px 5px;
-    word-break: normal;
-}
-.tg .tg-a4yv {
-    border-color: black;
-    border-style: solid;
-    border-width: 1px;
-    background-color: #DDD;
-    color: #666;
-    font-weight: bold;
-    text-align: center;
-    vertical-align: top
-}
-.tg .tg-kw6s {
-    border-color: black;
-    border-style: solid;
-    border-width: 1px;
-    color: #3D3D3D;
-    text-align: center;
-    vertical-align: bottom
-}
-.tg .tg-x1qg {
-    border-color: black;
-    border-style: solid;
-    border-width: 1px;
-    background-color: #999;
-    color: #3D3D3D;
-    text-align: center;
-    vertical-align: bottom
-}
-</style>
-<table class="tg">
-  <thead>
-    <tr>
-      <th class="tg-a4yv" rowspan="2">Distance</th>
-      <th class="tg-a4yv" colspan="2">Up to 15 seater</th>
-      <th class="tg-a4yv" colspan="2">&gt;15-30 seater</th>
-      <th class="tg-a4yv" colspan="2">&gt;30 seater</th>
-    </tr>
-    <tr>
-      <th class="tg-a4yv">1 way</th>
-      <th class="tg-a4yv">2 way</th>
-      <th class="tg-a4yv">1 way</th>
-      <th class="tg-a4yv">2 way</th>
-      <th class="tg-a4yv">1 way</th>
-      <th class="tg-a4yv">2 way</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td class="tg-kw6s">Up to 2km</td>
-      <td class="tg-kw6s">150</td>
-      <td class="tg-kw6s">175</td>
-      <td class="tg-kw6s">150</td>
-      <td class="tg-kw6s">175</td>
-      <td class="tg-x1qg"></td>
-      <td class="tg-x1qg"></td>
-    </tr>
-    <tr>
-      <td class="tg-kw6s">&gt;2 – 4km</td>
-      <td class="tg-kw6s">181</td>
-      <td class="tg-kw6s">200</td>
-      <td class="tg-kw6s">181</td>
-      <td class="tg-kw6s">200</td>
-      <td class="tg-x1qg"></td>
-      <td class="tg-x1qg"></td>
-    </tr>
-    <tr>
-      <td class="tg-kw6s">&gt;4 – 6km</td>
-      <td class="tg-kw6s">206</td>
-      <td class="tg-kw6s">225</td>
-      <td class="tg-kw6s">206</td>
-      <td class="tg-kw6s">225</td>
-      <td class="tg-x1qg"></td>
-      <td class="tg-x1qg"></td>
-    </tr>
-		  <tr>
-      <td class="tg-kw6s">&gt;6 – 8km</td>
-      <td class="tg-kw6s">231</td>
-      <td class="tg-kw6s">250</td>
-      <td class="tg-kw6s">231</td>
-      <td class="tg-kw6s">250</td>
-      <td class="tg-x1qg"></td>
-      <td class="tg-x1qg"></td>
-    </tr>
-    <tr>
-      <td class="tg-kw6s">&gt;8 – 10km</td>
-      <td class="tg-kw6s">258</td>
-      <td class="tg-kw6s">277</td>
-      <td class="tg-kw6s">258</td>
-      <td class="tg-kw6s">277</td>
-      <td class="tg-x1qg"></td>
-      <td class="tg-x1qg"></td>
-    </tr>
-    <tr>
-      <td class="tg-kw6s">&gt;10 – 12km</td>
-      <td class="tg-kw6s">283</td>
-      <td class="tg-kw6s">302</td>
-      <td class="tg-kw6s">283</td>
-      <td class="tg-kw6s">302</td>
-      <td class="tg-x1qg"></td>
-      <td class="tg-x1qg"></td>
-    </tr>
-    <tr>
-      <td class="tg-kw6s">&gt;12 – 14km</td>
-      <td class="tg-kw6s">309</td>
-      <td class="tg-kw6s">326</td>
-      <td class="tg-kw6s">309</td>
-      <td class="tg-kw6s">326</td>
-      <td class="tg-x1qg"></td>
-      <td class="tg-x1qg"></td>
-    </tr>
-    <tr>
-      <td class="tg-kw6s">&gt;14 – 16km</td>
-      <td class="tg-kw6s">343</td>
-      <td class="tg-kw6s">362</td>
-      <td class="tg-kw6s">343</td>
-      <td class="tg-kw6s">362</td>
-      <td class="tg-x1qg"></td>
-      <td class="tg-x1qg"></td>
-    </tr>
-    <tr>
-      <td class="tg-kw6s">&gt;16 – 18km</td>
-      <td class="tg-kw6s">369</td>
-      <td class="tg-kw6s">388</td>
-      <td class="tg-kw6s">369</td>
-      <td class="tg-kw6s">388</td>
-      <td class="tg-x1qg"></td>
-      <td class="tg-x1qg"></td>
-    </tr>
-  </tbody>
+<h1>School Bus Advertisement</h1>
+<p>To apply, please refer to the Service Requirements and the Application
+Procedure below.</p>
+<h4><strong>Service Requirement</strong></h4>
+<ol data-tight="true" class="tight">
+<li>
+<p><a href="https://drive.google.com/file/d/12Q00YUxamvlCAjqd_x9to7jTRuC68tJu/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Call for Proposals</a>
+</p>
+</li>
+<li>
+<p><a href="https://drive.google.com/file/d/1p68myusi1Bf9H3N3Qd4prQ_XpFyZ2V4O/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Terms and Conditions for School Bus Operator to Provide School Bus Services</a>
+</p>
+</li>
+<li>
+<p><a href="https://drive.google.com/file/d/1_TQI7VcOhJWjvf5e81YDcsSYsImxPfFU/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Request for School Bus Services</a>
+</p>
+<p></p>
+</li>
+</ol>
+<h4><strong>Application Procedure</strong></h4>
+<ol data-tight="true" class="tight">
+<li>
+<p>Complete the <a href="https://drive.google.com/file/d/1r6zFCf-pi_rSAFn_MKm4RT-36yy0Lvrv/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Call for Proposal - Annex A</a>
+</p>
+</li>
+<li>
+<p>Submit the completed Call for Proposal – Annex A by closing date, 10 September
+2025, to the School’s General Office.</p>
+</li>
+</ol>
+<ul data-tight="true" class="tight">
+<li>
+<p>Address: 11 Blackmore Drive, Singapore 599986</p>
+</li>
+<li>
+<p>Contact Number: 6469 4800</p>
+</li>
+<li>
+<p>Email: <a href="mailto:mgps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mgps@moe.edu.sg</a> 
+</p>
+</li>
+<li>
+<p>Contact Person: Mr Charles Teng / Mr Ong Kim Seng</p>
+</li>
+</ul>
+<p></p>
+<h4><strong>How to get there?</strong><br></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>By MRT:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>King Albert Park MRT Station (Downtown Line DT6)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>By Bus: </strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Table</p>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>67</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>74</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>77</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>151</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>154</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>157</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>170</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>174</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>563</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>852</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>961</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>961C</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>970</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
 </table>
-(updated Jan 2024)
-
-Please note that the indicative rates above reflect the mandated maximum service charge for the respective distances, and are inclusive of 9% GST.
+</td>
+</tr>
+</tbody>
+</table>
+<h1>School Bus Operator</h1>
+<p>Name of Bus Operator/Liaison officer: Mr Tang Swee Guan
+<br>Tel No.: 64726046
+<br>Hand phone No: 96688466
+<br>Email:&nbsp;<a href="mailto:sayguants@yahoo.com.sg" rel="noopener noreferrer nofollow" target="_blank">sayguants@yahoo.com.sg</a>
+</p>
