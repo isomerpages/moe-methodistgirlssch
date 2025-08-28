@@ -139,9 +139,4 @@ Required from Vendor)</p>
 </tr>
 </tbody>
 </table>
-<h1>School Bus Operator</h1>
-<p>Name of Bus Operator/Liaison officer: Mr Tang Swee Guan
-<br>Tel No.: 64726046
-<br>Hand phone No: 96688466
-<br>Email:&nbsp;<a href="mailto:sayguants@yahoo.com.sg" rel="noopener noreferrer nofollow" target="_blank">sayguants@yahoo.com.sg</a>
-</p>
+<p></p>
