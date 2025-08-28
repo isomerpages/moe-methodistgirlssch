@@ -2,7 +2,6 @@ collections:
   our-community:
     output: true
     order:
-      - Parents.md
       - School Leaders.md
       - Primary Staff/.keep
       - Primary Staff/Key Personnel.md
@@ -18,6 +17,7 @@ collections:
       - Secondary Staff/Key Personnel.md
       - Secondary Staff/Teachers.md
       - Secondary Staff/Executive & Administrative Staff.md
+      - Parents.md
       - ParentLink/.keep
       - ParentLink/About Us.md
       - ParentLink/Engagement Platform.md
