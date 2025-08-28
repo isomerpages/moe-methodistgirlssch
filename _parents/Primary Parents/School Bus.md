@@ -73,7 +73,6 @@ Procedure below.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Table</p>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
