@@ -1,6 +1,6 @@
 ---
 title: Parents
-permalink: /parents/primary-parents/booklist-bookshop/
+permalink: /parents/secondary-parents/parents-engagement/
 variant: tiptap
 description: ""
 ---
