@@ -10,7 +10,7 @@ description: ""
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Pri.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Pri.png">
 </div>
 <p>The broadcast video of the event will be available on Tuesday, 2 September
 2025.
