@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <div class="iframe-wrapper">
-<iframe height="515" width="760" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/2mxIcGVl9VI?si=LlMrmljDACOxQqHG"></iframe>
+<iframe height="415" width="660" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/2mxIcGVl9VI?si=LlMrmljDACOxQqHG"></iframe>
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Pri.png">
