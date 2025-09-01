@@ -39,6 +39,7 @@ variant: tiptap
 <h3><strong>INFORMATION TECHNOLOGY</strong></h3>
 <p>Manager: <a href="varsha_ajay_bhosle@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Varsha Ajay Bhosle</a> 
 <br>Senior&nbsp;Executive: Mr Siva Chandran
+<br>Executive: Mr Gowtham Karunakaran
 <br>Desktop Engineer:&nbsp;Mr Yuuki Ishiwata
 <br>Desktop Engineer: Mr Vijay Gunasegaran</p>
 <h3><strong>LIBRARY</strong></h3>
