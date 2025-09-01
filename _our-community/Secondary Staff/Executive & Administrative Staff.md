@@ -30,7 +30,7 @@ variant: tiptap
 <br>Senior Executive: Ms Debbie Cheng
 <br>Senior Executive: Ms Tee Hui Ping</p>
 <h3><strong>HUMAN RESOURCES</strong></h3>
-<p>Manager: Ms Jelaine Low
+<p>Manager: <a href="low_wei_jie_jelaine@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Jelaine Low</a>
 <br>Senior Executive: Ms Chin Si Min
 <br>Senior&nbsp;Executive: Mr Lester Lee
 <br>
