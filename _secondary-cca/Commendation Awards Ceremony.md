@@ -5,10 +5,8 @@ variant: tiptap
 description: ""
 ---
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/sYnWIIE0Wb4?si=cutxPhG29JB7NQR1"></iframe>
+<iframe height="415" width="660" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/sYnWIIE0Wb4?si=cutxPhG29JB7NQR1"></iframe>
 </div>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Secondary__2_.png">
 </div>
