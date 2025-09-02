@@ -1,5 +1,5 @@
 ---
-title: MGS DSA Application 2025
+title: MGS DSA Application 2025 (Outcome of DSA Application)
 date: 2025-05-02
 layout: link
 description: ""
