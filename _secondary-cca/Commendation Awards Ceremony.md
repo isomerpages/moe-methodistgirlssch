@@ -8,15 +8,15 @@ description: ""
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/sYnWIIE0Wb4?si=cutxPhG29JB7NQR1"></iframe>
 </div>
 <p></p>
-<p>The Broadcast video of the event will be available on Wednesday 3, September
-2025.</p>
-<p></p>
-<p>Kindly scan the QR code to access the CAC e-Bulletin or click the following
-link: <a href="https://drive.google.com/file/d/1ptOsEviZDyDYBlRRKJ_Y8GSXeCcKUjRG" rel="noopener noreferrer nofollow" target="_blank">https://drive.google.com/file/d/1ptOsEviZDyDYBlRRKJ_Y8GSXeCcKUjRG</a>&nbsp;</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secondary__2_.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Secondary__2_.png">
 </div>
+<p></p>
+<p>The Broadcast video of the event will be available on Wednesday 3, September
+2025.</p>
+<p>Kindly scan the QR code to access the CAC e-Bulletin or click the following
+link: <a href="https://drive.google.com/file/d/1ptOsEviZDyDYBlRRKJ_Y8GSXeCcKUjRG" rel="noopener noreferrer nofollow" target="_blank">https://drive.google.com/file/d/1ptOsEviZDyDYBlRRKJ_Y8GSXeCcKUjRG</a>&nbsp;</p>
 <p></p>
 <p></p>
 <p></p>
