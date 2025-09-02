@@ -6,6 +6,15 @@ third_nav_title: Secondary Admission
 variant: tiptap
 ---
 <h2><strong>DIRECT SCHOOL ADMISSION TO MGS SECONDARY 1</strong></h2>
+<p><strong><u>Outcome of DSA Application to MGS</u></strong>
+</p>
+<p>Dear Applicants,</p>
+<p>A notification has been sent to your main and alternate contact email
+addresses on Tuesday, 2 September 2025, on the outcome of your DSA Application
+(Confirmed/Waitlist/Unsuccessful).</p>
+<p>Please check your inbox/spam/junk folders.</p>
+<p>Thank you for your patience and all the best for your PSLE!</p>
+<p></p>
 <p><a href="https://drive.google.com/file/d/1NYtct6sv9eUQ_FIOxDXKIk5zZTxZxDe5/view?usp=drive_link" rel="noopener nofollow" target="_blank">Download MGS DSA Application 2025 here.</a>
 </p>
 <hr>
