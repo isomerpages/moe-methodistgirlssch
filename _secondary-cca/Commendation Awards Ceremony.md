@@ -14,7 +14,7 @@ description: ""
 link: <a href="https://drive.google.com/file/d/1ptOsEviZDyDYBlRRKJ_Y8GSXeCcKUjRG" rel="noopener noreferrer nofollow" target="_blank">https://drive.google.com/file/d/1ptOsEviZDyDYBlRRKJ_Y8GSXeCcKUjRG</a>&nbsp;</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Sec.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Sec.png">
 </div>
 <p></p>
 <p></p>
