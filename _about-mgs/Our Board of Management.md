@@ -24,9 +24,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Barbara Yeo</p>
-<p>Mrs Charlotte Goh</p>
 <p>Mr Chew Kwee San</p>
-<p>Rev David Gwee</p>
+<p>Rev Kenneth Huang</p>
 <p>Mr Eddie Koh</p>
 <p>Ms Fock Yin Ling</p>
 <p>Mr Gerald Lim</p>
