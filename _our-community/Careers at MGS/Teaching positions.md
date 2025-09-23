@@ -64,6 +64,7 @@ for teaching of the following subjects and key personnel positions.</p>
 <p><strong>Teachers</strong>
 <br>Art
 <br>Biology
+<br>Chemistry
 <br>Chinese Language
 <br>Geography
 <br>Language Arts
