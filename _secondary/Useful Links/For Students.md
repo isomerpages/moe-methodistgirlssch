@@ -36,7 +36,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/student-talent-portal/" rel="noopener nofollow" target="_blank">Student Talent Portal</a>
+<p><a href="https://www.mgs.moe.edu.sg/student-talent-portal/" rel="noopener nofollow" target="_blank">Student Talent Portal</a>
 </p>
 </li>
 </ul>
