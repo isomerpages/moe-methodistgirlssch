@@ -36,7 +36,8 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p>Students Talent Portal</p>
+<p><a href="/student-talent-portal/" rel="noopener nofollow" target="_blank">Student Talent Portal</a>
+</p>
 </li>
 </ul>
 <h4>E-Learning Platforms</h4>
