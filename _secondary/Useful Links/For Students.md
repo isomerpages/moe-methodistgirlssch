@@ -34,10 +34,7 @@ variant: tiptap
 <li>
 <p><a href="https://studentgpa.incomegroupins.com.sg/" rel="noopener noreferrer nofollow" target="_blank">NTUC Income Group Personal Accident Insurance for Students</a>
 </p>
-</li>
-<li>
-<p><a href="/student-talent-portal/" rel="noopener nofollow" target="_blank">Student Talent Portal</a>
-</p>
+<p></p>
 </li>
 </ul>
 <h4>E-Learning Platforms</h4>
