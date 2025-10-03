@@ -83,7 +83,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:" rel="noopener noreferrer nofollow" target="">Ms Joanne Loo</a>
+<p><a href="mailto:jia_en_joanne_loo@schools.gov.sg" rel="noopener noreferrer nofollow" target="">Ms Joanne Loo</a>
 </p>
 </td>
 </tr>
@@ -339,8 +339,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nadia_dahak_ibrahim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Nadia Dahak Ibrahim</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
