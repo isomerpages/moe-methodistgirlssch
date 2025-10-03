@@ -270,7 +270,7 @@ variant: tiptap
 <p>Language Arts</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="jia_en_joanne_loo@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Joanne Loo</a>
+<p><a href="mailto:jia_en_joanne_loo@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Joanne Loo</a>
 </p>
 </td>
 </tr>
