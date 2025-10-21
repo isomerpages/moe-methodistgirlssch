@@ -9,17 +9,16 @@ variant: markdown
 
 **OBJECTIVE**
 
-1\.  The objective of the Ministry of Education (MOE) Financial Assistance Scheme (FAS) is to help financially needy Singaporean students in Government and Government-aided schools to meet basic schooling expenses.
+The MOE FAS aims to help financially needy Singaporean students in Government and Government-aided schools meet basic schooling expenses.
 
 **ELIGIBILITY CRITERIA**
 
-2\. Student must be a Singapore citizen enrolled in a Government or Government-aided school and meets either one of the following criteria:
+Students must be Singapore Citizens and meet either one of the following criteria:
 
-a. Gross household income (GHI) as at the time of application does not exceed $3,000 per month; or
+a. Gross household income (GHI) as at the time of application does not exceed $4,000 per month; or
+b. Household per capita income (PCI) as at the time of application does not exceed $1,000 per month.
 
-b. Household per capita income (PCI) as at the time of application does not exceed $750 per month.
-
-PCI = Monthly GHI / No. of members in the same household
+PCI = Monthly GHI ÷ Number of members in the same household
 
 **HOUSEHOLD MEMBERS**
 
