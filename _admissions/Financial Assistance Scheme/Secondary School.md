@@ -133,7 +133,7 @@ will have to be submitted for each academic year.</p>
 <p>To submit an online application for ISB, you may use this link:&nbsp;
 <a href="https://go.gov.sg/moe-efasis" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efasis</a>or scan the QR code on the right.</p>
 <p>&lt;p style="text-align:center;"&gt;</p>
-<p>&lt;img src="/images/Secondary/Admissions/QR_code_for_ISB.png" style="width:40%"&gt;</p>
+<p>&lt;img src="/Images/Secondary/Admissions/QR_code_for_ISB.png" style="width:40%"&gt;</p>
 <p>&lt;/p&gt;</p>
 <p>&lt;style&gt;</p>
 <p>a {</p>
