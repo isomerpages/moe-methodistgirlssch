@@ -132,10 +132,7 @@ backdating of the effective month.</p>
 will have to be submitted for each academic year.</p>
 <p>To submit an online application for ISB, you may use this link:&nbsp;
 <a href="https://go.gov.sg/moe-efasis" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efasis</a>or scan the QR code on the right.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Secondary/Admissions/QR_code_for_ISB.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/moe-efasis"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Secondary/Admissions/QR_code_for_ISB.png"></a>
 <p></p>
 <h3>Edusave Scholarships for Independent Schools (ESIS)</h3>
 <p>These scholarships are offered to academically strong students attending
