@@ -143,7 +143,7 @@ will have to be submitted for each academic year.</p>
 <p>&lt;p&gt;&lt;b&gt;&lt;/b&gt;&lt;/p&gt;&lt;center&gt;&lt;b&gt;&lt;a href="
 <a href="https://go.gov.sg/moe-efas&quot;>https://go.gov.sg/moe-efas</a></b></center><p></p>" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efasis"&gt;https://go.gov.sg/moe-efas&lt;/a&gt;&lt;/b&gt;&lt;/center&gt;&lt;p&gt;&lt;/p&gt;</a>
 </p>
-<p></p>
+<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/moe-efasis"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secondary/Admissions/QR_code_for_ISB.png"></a>
 <h3>Edusave Scholarships for Independent Schools (ESIS)</h3>
 <p>These scholarships are offered to academically strong students attending
 independent schools. The award value of the ESIS is up to $2,400 per year.
