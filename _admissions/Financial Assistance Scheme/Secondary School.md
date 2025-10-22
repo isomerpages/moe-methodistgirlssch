@@ -26,13 +26,12 @@ or through their Form Teacher for assistance.</p>
 <p>Student must be a Singapore Citizen</p>
 </li>
 <li>
-<p>Either the monthly Gross household income must meet one of the income
-criteria, Gross Household Income (GHI) or the Per Capita Income (PCI) criterion
-must be satisfied</p>
+<p>Meets either the gross monthly household income (GHI) or per capita income
+(PCI) criterion</p>
 </li>
 </ul>
 <h4>Income Criteria &amp; Benefits</h4>
-<p>From 1 Jan 2023 the revised benefits are as shown in the table below:</p>
+<p>From 1 Jan 2026 the revised benefits are as shown in the table below:</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -54,11 +53,11 @@ must be satisfied</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Not exceeding
-<br>$3,000</p>
+<br>$4,000</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Not exceeding
-<br>$750</p>
+<br>$1000</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -69,11 +68,11 @@ must be satisfied</p>
 <p>Free textbooks and school attire at Secondary level</p>
 </li>
 <li>
-<p>$17 transport subsidy per month, capped at $204 per annum (for students
+<p>$21 transport subsidy per month, capped at $252 per annum (for students
 taking public transport)&nbsp;(2)</p>
 </li>
 <li>
-<p>School meal subsidies of $3.50 per meal for 10 meals per school week</p>
+<p>School meal subsidie for 10 meals per school week</p>
 </li>
 <li>
 <p>Full subsidy for exam fees&nbsp;(1)</p>
@@ -83,10 +82,10 @@ taking public transport)&nbsp;(2)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>$3,001 - $4,400</p>
+<p>$4,001 - $5,500</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$751 - $1,100</p>
+<p>$1001- $1,375</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Subsidy such that student pays the equivalent of government and government-aided
@@ -95,10 +94,10 @@ school (GGAS) fee ^</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>$4,401 - $7,500</p>
+<p>$5,501 - $9,000</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$1,101 - $1,875</p>
+<p>$1,376 - $2,250</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Subsidy such that student pays the equivalent of 1.5 times GGAS fee ^</p>
@@ -106,10 +105,10 @@ school (GGAS) fee ^</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>$7,501 - $10,000</p>
+<p>$9,001 - $12,000</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$1,876 - $2,500</p>
+<p>$2,251 - $3,000</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>33% subsidy of school fees and miscellaneous fees</p>
@@ -123,32 +122,18 @@ fees for GCE ‘O’ and ‘A’ levels are waived for all Singapore Citizens in
 Government-funded schools.</p>
 <p>(2) The public transport subsidy will only be provided from the effective
 month of the MOE ISB till December of the year.</p>
-<p>^ GGAS fee comprises school fee, standard miscellaneous fees and maximum
-2nd tier miscellaneous fees payable by Singapore Citizen students studying
-in GGAS.</p>
-<p>** Need to only satisfy either the GHI or the PCI criterion. PCI is computed
-based on GHI divided by the number of members in the household (including
-parents, siblings and grandparents).</p>
+<p>^ GGAS fee comprises school fee and miscellaneous fees payable by a Singapore
+Citizen students in GGAS.</p>
 <h4>Application Procedure</h4>
-<p>Students may apply for MOE-ISB throughout the year as exigencies of each
-family’s financial situation demand. The bursary granted will take effect
-from the month the application is approved and will not be back-dated to
-January.</p>
-<p>With effect from 2019, active recipients of ComCare assistance could be
-directly awarded the ISB. Applicants need to provide a copy of the following
-with their ISB application form:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>a valid ComCare approval letter or LTA (also known as Public Assistance)
-card; and</p>
-</li>
-<li>
-<p>the Annex provided together with the ComCare approval letter.</p>
-</li>
-</ul>
+<p>Students can apply for MOE ISB at any time of the year.&nbsp; It will
+take effect in the month the application is approved. There will be no
+backdating of the effective month.</p>
 <p>All MOE-ISB approved will be valid till December of the year. Fresh applications
 will have to be submitted for each academic year.</p>
-<p><a href="https://drive.google.com/file/d/1XDkMb4-lZvBGdK1ijSLMTXnb5edp2dE4/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Click here for ISB Application Form</a>.</p>
+<p>To submit an online application for ISB, you may use this link:&nbsp;
+<a href="https://go.gov.sg/moe-efasis" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efasis</a>or scan the QR code below.</p>
+<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/moe-efasis"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Secondary/Admissions/QR_code_for_ISB.png"></a>
+<p></p>
 <h3>Edusave Scholarships for Independent Schools (ESIS)</h3>
 <p>These scholarships are offered to academically strong students attending
 independent schools. The award value of the ESIS is up to $2,400 per year.
