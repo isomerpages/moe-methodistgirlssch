@@ -17,7 +17,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/1XDkMb4-lZvBGdK1ijSLMTXnb5edp2dE4/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Appendix 3 - MOE ISB Application Form</a>
+<p><a href="https://form.gov.sg/68b90d9887534fba7d6bc3be" rel="noopener noreferrer nofollow" target="_blank">Appendix 3 - MOE ISB Application Form</a>
 </p>
 </li>
 </ul>
