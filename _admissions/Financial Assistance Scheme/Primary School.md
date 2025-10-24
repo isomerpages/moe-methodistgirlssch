@@ -3,70 +3,53 @@ title: Primary School
 permalink: /admissions/fas-pri/
 description: ""
 third_nav_title: Financial Assistance Scheme
-variant: markdown
+variant: tiptap
 ---
-## Financial Assistance Scheme
-
-**OBJECTIVE**
-
-The MOE FAS aims to help financially needy Singaporean students in Government and Government-aided schools meet basic schooling expenses.
-
-**ELIGIBILITY CRITERIA**
-
-Students must be Singapore Citizens and meet either one of the following criteria:
-
-a. Gross household income (GHI) as at the time of application does not exceed $4,000 per month; or
-b. Household per capita income (PCI) as at the time of application does not exceed $1,000 per month.
-
-PCI = Monthly GHI ÷ Number of members in the same household
-
-**HOUSEHOLD MEMBERS**
-
-3\. Household members include the student, his/her parents, and unmarried siblings of the student, regardless of the address.
-
-4\. Grandparents and other dependents living at the same address may be included on a case-by-case basis. They include:
-
-a. Relatives who are old or sick and are unemployed and dependent on the family; and
-
-b. Child dependent (where the family is the legal guardian).
-
-You may refer to the&nbsp;**[MOE FAS Pamphlet](https://drive.google.com/file/d/1dXULXaYgnv335Zjh7fdfHQqOrdgB2QWe/view?usp=sharing)** or&nbsp;click&nbsp;[here](https://www.moe.gov.sg/financial-matters/financial-assistance)&nbsp;for more information on the available schemes to support our Singaporean Students.
-
-5.&nbsp; **HOW TO APPLY**?
-
-1\.  Parents can obtain the hard copy Application forms from the General Office or school website [here](https://drive.google.com/file/d/1zed109W8V4b935CEdWreauMEuVu6wZED/view?usp=sharing).
-
-2\. Parents can also apply via the link below :
-
-<p style="text-align:center;">
-<img style="width:40%" src="/images/Primary/qr%20code.jpg">
+<h2>2026 Financial Assistance Scheme (FAS)</h2>
+<p><strong>Eligibility Criteria</strong>
 </p>
-
-
-
-<style>
-a {
-  color: black;
-}
-</style>
-
-
-
-<p><b></b></p><center><b><a href="https://go.gov.sg/moe-efas">https://go.gov.sg/moe-efas</a></b></center><p></p>
-
-
-
-
-You may refer to the [eFAS User Guide](https://drive.google.com/file/d/1r73LXFaXaiqu-zwVWT8X31XzL7mp93Me/view?usp=sharing) for online submission.
-
-6.&nbsp;&nbsp; &nbsp;Please note that application via hardcopy form is required for:&nbsp;
-
-&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;a. families with other dependents (Great grandparents, Aunties/Uncles, Cousins and others)&nbsp;
-
-&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;b. family with more than 5 children&nbsp;
-
-&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;c. family with more than 4 unmarried children&nbsp;
-
-&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;d. family with more than 3 grandparents in the household&nbsp;
-
-7.&nbsp; &nbsp;If your child is a ComCare recipient, they need not submit the application for MOE FAS as MOE FAS will be auto-granted to ComCare beneficiaries.
+<ul data-tight="true" class="tight">
+<li>
+<p>Student must be a Singapore Citizen</p>
+</li>
+<li>
+<p>Gross Monthly Household Income (GHI) &lt; $4000&nbsp;or&nbsp;Per Capita
+Income (PCI) &lt; $1000.</p>
+</li>
+<li>
+<p>Full-time students with regular attendance</p>
+</li>
+</ul>
+<p><strong>Application Procedure</strong>
+</p>
+<p>Students may apply for FAS at any time during the year. The assistance
+will take effect from the month the application is approved. Please note
+that there will be no backdating of the effective month.</p>
+<p>You may use the eligibility calculator that is available on the MOE website
+here: <a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/financial-assistance</a>
+</p>
+<ul>
+<li>
+<p><strong>Online application</strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://form.gov.sg/68b7e92465cd36be287889c6" rel="noopener noreferrer nofollow" target="_blank">e-FAS</a></strong>&nbsp;(Singpass
+required) or QR Code below</p>
+</li>
+<li>
+<p>Available on Parent Gateway under&nbsp;<strong>Service</strong>&nbsp;tab
+&gt;&nbsp;<strong>Financial Assistance</strong>.</p>
+</li>
+</ul>
+<p>You will receive an acknowledgement email upon successful submission of
+eFAS application.</p>
+<p>Students who received financial assistance in 2025, must re-apply if they
+require financial assistance in 2026.</p>
+<p>For more information on the changes and eligibility, please refer to&nbsp;
+<a href="https://www.moe.gov.sg/news/press-releases/20251016-moe-financial-assistance-schemes-to-benefit-an-additional-31000-students" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/news/press-releases/20251016-moe-financial-assistance-schemes-to-benefit-an-additional-31000-students</a>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/moe_efasggas.jpg">
+</div>
+<p></p>
