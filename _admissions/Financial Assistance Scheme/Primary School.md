@@ -28,11 +28,9 @@ that there will be no backdating of the effective month.</p>
 <p>You may use the eligibility calculator that is available on the MOE website
 here: <a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/financial-assistance</a>
 </p>
-<ul>
-<li>
 <p><strong>Online application</strong>
 </p>
-</li>
+<ul>
 <li>
 <p><strong><a href="https://form.gov.sg/68b7e92465cd36be287889c6" rel="noopener noreferrer nofollow" target="_blank">e-FAS</a></strong>&nbsp;(Singpass
 required) or QR Code below</p>
