@@ -13,7 +13,7 @@ variant: markdown
 |Administrative Executive| [Ms Zarinna Othman](mailto:zarinna_othman@schools.gov.sg)
 |Corporate Support Officer|Mr Alvin Goh
 |Corporate Support Officer|Ms Jasmine Chua
-|Corporate Support Officer|Mr Ming Yip
+|Corporate Support Officer|Mr Yip Ming Hui
 |Corporate Support Officer|Mdm Rasidah Bte Salimin
 |Operations Support Officer|Mdm Tang Lai Mui
 
