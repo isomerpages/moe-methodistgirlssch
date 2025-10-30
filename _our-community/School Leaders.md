@@ -142,4 +142,3 @@ variant: tiptap
 </tbody>
 </table>
 <p>&nbsp;</p>
-<p></p>
