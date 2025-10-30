@@ -34,8 +34,7 @@ variant: tiptap
 <p>Administrative Executive</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:zarinna_othman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Zarinna Othman</a>
-</p>
+<p>Ms Zarinna Othman</p>
 </td>
 </tr>
 <tr>
