@@ -51,8 +51,8 @@ variant: markdown
 |Operations Manager|[Mr Ong Kim Seng](mailto:Ong_Kim_Seng@schools.gov.sg)
 |Operations Support Officer|Mdm Gunampushnam w/o Nagapan Ganesan
 |Operations Support Officer|Mdm Kee Geok Wah
-|Operations Support Officer|Mr Kwa Long Seng
 |Operations Support Officer|Mdm Subramaniam Meenal
+|Operations Assistant Officer|Mr Kwa Long Seng
 |Operations Assistant/Security Officer|Mdm Vimala d/o Krishnan
 # Teachers' Support
 
