@@ -49,11 +49,11 @@ variant: markdown
 | -------- | -------- |
 |Operations Manager|[Mr George Ulric Arriola](mailto:George_Ulric_Arriola@schools.gov.sg)
 |Operations Manager|[Mr Ong Kim Seng](mailto:Ong_Kim_Seng@schools.gov.sg)
-|Operations Assistant/Security Officer|Mdm Vimala d/o Krishnan
 |Operations Support Officer|Mdm Gunampushnam w/o Nagapan Ganesan
 |Operations Support Officer|Mdm Kee Geok Wah
+|Operations Support Officer|Mr Kwa Long Seng
 |Operations Support Officer|Mdm Subramaniam Meenal
-
+|Operations Assistant/Security Officer|Mdm Vimala d/o Krishnan
 # Teachers' Support
 
 |||
