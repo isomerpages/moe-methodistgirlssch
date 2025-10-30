@@ -12,4 +12,3 @@ variant: markdown
 |Senior Special Educational Needs(SEN) Officer|[Miss Chiam Puay Hoon](mailto:lindy_chiam_puay_hoon@schools.gov.sg)|
 |Special Educational Needs(SEN) Officer|[Miss Koh Wen Yee Alethea](mailto:Koh_Wen_Yee_Alethea@schools.gov.sg)|
 |Special Educational Needs(SEN) Officer|[Miss Sylvia Sim Yan Mei](mailto:Sylvia_Sim_Yan_Mei@schools.gov.sg)|
-|Allied Educator (Teaching and Learning)|[Ms Lam Yueh Hwa Jessica](mailto:lam_yueh_hwa_jessica@schools.gov.sg)|
