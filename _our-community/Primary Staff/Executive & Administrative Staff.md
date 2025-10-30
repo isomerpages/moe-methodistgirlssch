@@ -16,6 +16,7 @@ variant: markdown
 |Corporate Support Officer|Mr Yip Ming Hui
 |Corporate Support Officer|Mdm Rasidah Bte Salimin
 |Operations Support Officer|Mdm Tang Lai Mui
+|School Counter Support|Ms Chen Ting
 
 
 # Christian Ministry

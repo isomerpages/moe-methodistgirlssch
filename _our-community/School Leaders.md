@@ -93,13 +93,17 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ho_Kok_Soon.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:ho_kok_soon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Ho Kok Soon</a>
+<br><strong>Vice-Principal</strong>
+</p>
 <p></p>
 </td>
 </tr>
