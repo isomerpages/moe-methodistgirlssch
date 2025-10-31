@@ -5,18 +5,20 @@ description: ""
 third_nav_title: Visual and Performing Arts
 variant: tiptap
 ---
-<h4><strong>2024 MGS Festival of Arts (Kizuna II)</strong></h4>
+<h4><strong>This is MGDance</strong></h4>
 <p></p>
 <div class="iframe-wrapper">
 <iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/yX2jM24358c?si=DbVFDuQ4LJwvJSt7"></iframe>
 </div>
 <p></p>
-<p></p>
+<p><strong>2025 SYF AP - Triumph&nbsp;</strong>
+</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/gJ-UJPZpQbM?si=fsWQ8xOhqgldM7Au"></iframe>
 </div>
 <p></p>
-<p></p>
+<p><strong>2024 MGS Festival of Arts (Kizuna II)</strong>
+</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ7uMtMWSAeCQEEVAuOi6LLKLUsAlcZeIdH6tRZ-shkuJH_FwStoRhlbd3bMLTqLr0_eNMB-Za2VHB-/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
