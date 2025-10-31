@@ -9,9 +9,11 @@ variant: tiptap
 <iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/EC9-QFa5AQU"></iframe>
 </div>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_cca/library-2020.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/library_cca_photo.jpg">
 </div>
+<p></p>
 <p>The MGS Library Club aims to develop student librarians to lead and to
 spark the joy in reading amongst their peers. Student librarians plan and
 organise book-related activities to develop and sustain the love and appreciation
