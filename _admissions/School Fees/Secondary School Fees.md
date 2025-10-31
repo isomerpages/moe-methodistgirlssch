@@ -9,7 +9,7 @@ variant: tiptap
 <p>For more information, please click on the links below:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://drive.google.com/file/d/1E1iT6Y0GanI0Y7l7qC-atwv5qkOWtsin/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">School &amp; Miscellaneous Fees</a>
+<p><a href="https://drive.google.com/file/d/1pTdsaFQ5U4L8i2sRm_NvxCjym4-vOq8X/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">School &amp; Miscellaneous Fees</a>
 </p>
 </li>
 <li>
