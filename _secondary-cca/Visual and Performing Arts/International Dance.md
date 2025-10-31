@@ -7,12 +7,10 @@ variant: tiptap
 ---
 <h4><strong>2024 MGS Festival of Arts (Kizuna II)</strong></h4>
 <p></p>
-<p><a href="https://heidiphuahz.wixsite.com/mysite" rel="noopener noreferrer nofollow" target="_blank">MG Dance on WIX</a>
-</p>
-<p></p>
 <div class="iframe-wrapper">
 <iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/yX2jM24358c?si=DbVFDuQ4LJwvJSt7"></iframe>
 </div>
+<p></p>
 <p></p>
 <div class="iframe-wrapper">
 <iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/gJ-UJPZpQbM?si=fsWQ8xOhqgldM7Au"></iframe>
