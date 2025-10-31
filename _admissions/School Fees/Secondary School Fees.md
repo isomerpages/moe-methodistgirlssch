@@ -15,10 +15,7 @@ variant: tiptap
 <li>
 <p><a href="https://drive.google.com/file/d/10xnL6VDRme6GsavwVdLPlD3rzVgJDWAI/view?usp=share_link" rel="noopener noreferrer nofollow" target="_blank">Appendix 2 - Standing Order Form For Use of Edusave Account</a>
 </p>
-</li>
-<li>
-<p><a href="https://form.gov.sg/68b90d9887534fba7d6bc3be" rel="noopener noreferrer nofollow" target="_blank">Appendix 3 - MOE ISB Application Form</a>
-</p>
+<p></p>
 </li>
 </ul>
 <p>We would like to assure parents that no student will be deprived of an
