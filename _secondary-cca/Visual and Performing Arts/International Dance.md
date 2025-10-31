@@ -6,14 +6,31 @@ third_nav_title: Visual and Performing Arts
 variant: tiptap
 ---
 <h4><strong>2024 MGS Festival of Arts (Kizuna II)</strong></h4>
-<div class="iframe-wrapper">
-<iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ7uMtMWSAeCQEEVAuOi6LLKLUsAlcZeIdH6tRZ-shkuJH_FwStoRhlbd3bMLTqLr0_eNMB-Za2VHB-/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-</div>
+<p></p>
 <p><a href="https://heidiphuahz.wixsite.com/mysite" rel="noopener noreferrer nofollow" target="_blank">MG Dance on WIX</a>
 </p>
+<p></p>
 <div class="iframe-wrapper">
 <iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/yX2jM24358c?si=DbVFDuQ4LJwvJSt7"></iframe>
 </div>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/gJ-UJPZpQbM?si=fsWQ8xOhqgldM7Au"></iframe>
+</div>
+<p></p>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ7uMtMWSAeCQEEVAuOi6LLKLUsAlcZeIdH6tRZ-shkuJH_FwStoRhlbd3bMLTqLr0_eNMB-Za2VHB-/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
+<p></p>
+<p><a href="https://heidiphuahz.wixsite.com/mysite" rel="noopener noreferrer nofollow" target="_blank">MG Dance on WIX</a>
+</p>
+<p><strong>We warmly invite you to view our <a href="https://heidiphuahz.wixsite.com/mysite" rel="noopener noreferrer nofollow" target="_blank">wix website </a>to know more about us.&nbsp;</strong>International
+Dance Club is a close-knit loving family of dancers who sets high standards
+of excellence. It aims to instil discipline and amplify their passion through
+the mastery of diverse dance genres, from classical to contemporary and
+jazz and hip hop dance.....</p>
+<p></p>
 <p>International Dance Club is a close-knit loving family of dancers who
 sets high standards of excellence. It aims to instil discipline and amplify
 their passion through the mastery of diverse dance genres, from classical
