@@ -45,7 +45,6 @@ not only develops the musical abilities of its members but also nurtures
 leadership, responsibility, and a strong sense of community.</p>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQV4tzHzwfrs1lYGUD2Bg8VUoMxajiZDWzNPu55Tdpqu0Ty2u9CGUbKYx39IC3av9yE20majsmKTdhd/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRCJ56AkG38ZV4jbKUjI8_5Qk8pWX0rD6XRdB-yjfxtg0IcFDedVnDnzNQ7NXMr7Y01DBLXYYmxWbhr/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
-<h2></h2>
 <p></p>
