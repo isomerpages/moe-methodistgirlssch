@@ -18,10 +18,12 @@ a lasting positive impact by helping others.</p>
 </div>
 <p>The Guides also develop a deep sense of confidence and self-assurance,
 along with vital leadership and life skills – all while learning through
-fun adventures and making lifelong friendships!&nbsp;</p>
+fun adventures and making lifelong friendships!</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_cca/girl-guides-b-2020.png">
 </div>
+<p>&nbsp;</p>
 <p>The Guiding programme teaches girls vital life skills – such as personal
 goal-setting, decision-making and team-building – in a safe and supportive
 environment. Girl Guides build and strengthen their leadership skills by
