@@ -55,8 +55,8 @@ variant: tiptap
 <p>Director (Student Affairs &amp; Outreach):&nbsp;<a href="mailto:joyce_ang_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Joyce Ang</a> 
 <br>Senior Manager (Strategic Communications &amp; Engagement):&nbsp;<a href="mailto:tay_sue-mei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Sue-Mei Tay</a> 
 <br>Senior Executive (Community Partnerships): Mrs Joanna Kong
-<br>Executive (Strategic Communications &amp; Outreach): Ms Nur Qistyna Binte
-Shaifullah</p>
+<br>Senior Executive (Strategic Communications &amp; Outreach): Ms Sharon
+Low</p>
 <h3><strong>TEACHERS' SUPPORT</strong></h3>
 <p>Executive: Mrs Pauline Yong
 <br>Senior&nbsp;Officer: Miss Joanna Gautama
