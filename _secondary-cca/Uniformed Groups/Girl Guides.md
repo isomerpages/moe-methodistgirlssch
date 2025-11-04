@@ -12,8 +12,9 @@ in Singapore.</p>
 and unique experiences, adventures and activities. The CCA offer opportunities
 for girls to get involved in different communities, equipping them to make
 a lasting positive impact by helping others.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_cca/girl-guides-a-2020.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_cca/girlguide_2025.jpg">
 </div>
 <p>The Guides also develop a deep sense of confidence and self-assurance,
 along with vital leadership and life skills – all while learning through
