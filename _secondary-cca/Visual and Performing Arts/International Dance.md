@@ -11,12 +11,6 @@ variant: tiptap
 <iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/yX2jM24358c?si=DbVFDuQ4LJwvJSt7"></iframe>
 </div>
 <p></p>
-<p><strong>2025 SYF AP - Triumph&nbsp;</strong>
-</p>
-<div class="iframe-wrapper">
-<iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/gJ-UJPZpQbM?si=fsWQ8xOhqgldM7Au"></iframe>
-</div>
-<p></p>
 <p><strong>2024 MGS Festival of Arts (Kizuna II)</strong>
 </p>
 <div class="iframe-wrapper">
