@@ -25,12 +25,9 @@ variant: tiptap
 <p></p>
 <p><a href="https://heidiphuahz.wixsite.com/mysite" rel="noopener noreferrer nofollow" target="_blank">MG Dance on WIX</a>
 </p>
-<p><strong>We warmly invite you to view our <a href="https://heidiphuahz.wixsite.com/mysite" rel="noopener noreferrer nofollow" target="_blank">wix website </a>to know more about us.&nbsp;</strong>International
-Dance Club is a close-knit loving family of dancers who sets high standards
-of excellence. It aims to instil discipline and amplify their passion through
-the mastery of diverse dance genres, from classical to contemporary and
-jazz and hip hop dance.....</p>
-<p></p>
+<p>We warmly invite you to view our <strong><a href="https://heidiphuahz.wixsite.com/mysite" rel="noopener noreferrer nofollow" target="_blank">wix website </a></strong>to
+know more about us.<strong>&nbsp;</strong>
+</p>
 <p>International Dance Club is a close-knit loving family of dancers who
 sets high standards of excellence. It aims to instil discipline and amplify
 their passion through the mastery of diverse dance genres, from classical
