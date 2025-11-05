@@ -26,9 +26,6 @@ best suit their competencies.</p>
 </div>
 <p></p>
 <p></p>
-<div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTOLjo1h6QnRVazOwTKkzH0CAYxWvdW7w8VsHpmZ7K5FOaB9exPJ_-CrgiO5gJgspNPnNb-TXnDIq1_/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-</div>
 <p>Players can also look forward to participating in various events such
 as the annual National School Games, friendly matches as well as the highly
 anticipated camps. While the intensity and frequency of training sessions
