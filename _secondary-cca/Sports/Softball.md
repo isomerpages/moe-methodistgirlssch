@@ -22,6 +22,11 @@ catching, fielding, pitching, batting and base-running. Given each player’s
 unique strengths and talents, every softball player will adopt roles that
 best suit their competencies.</p>
 <div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRpQLAbg990I861wqmHpotXvoYhTyk-CdtJxk0Mjghaq8sr5eijJmFcUKWzYZWjoFm8XWCaJ0Mztokp/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
+<p></p>
+<p></p>
+<div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTOLjo1h6QnRVazOwTKkzH0CAYxWvdW7w8VsHpmZ7K5FOaB9exPJ_-CrgiO5gJgspNPnNb-TXnDIq1_/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p>Players can also look forward to participating in various events such
