@@ -33,20 +33,12 @@ The annual netball camp cum Sec 4 Farewell Party is always an event members
 look forward to as they plan their own camp programme with bonding games,
 dinner/breakfast menus and a time to have fun together before the year
 closes.</p>
-<p>Other than the competitive school team, the school also offers Netball
-Club as a CCA. The Netball Club is a recreational CCA where anyone who
-is keen to learn the game can join, even those who have never played netball
-before. Players are taught how to play netball from scratch, including
-the basic skills, such as footwork, shooting, attacking and defending skills,
-as well as the rules of a netball game. With the guidance of the coach,
-the seniors also take an active role to teach the juniors who are new during
-the sessions. It is a weekly training session that allows students to bond
-with other schoolmates while enjoying the sport.</p>
+<p></p>
 <p>The MGS netball experience is one that will definitely bring about many
 incredible experiences and unforgettable memories. Through this journey,
 members forge lifelong friendships, and emerge as better players at the
 end of their 4 years.</p>
-<h2>Competitions</h2>
+<h2>Events/ Highlights</h2>
 <ul data-tight="true" class="tight">
 <li>
 <p>National School Games</p>
