@@ -12,7 +12,7 @@ variant: tiptap
 <p>Contact Number: 64726046 / 82682741</p>
 <p>Email: <a href="mailto:Sayguants@yahoo.com.sg" rel="noopener noreferrer nofollow" target="_blank">Sayguants@yahoo.com.sg</a>
 </p>
-<p><a href="https://drive.google.com/file/d/1wk7Iu90nSbmovGB7G5QWEzErB-aUKGJs/view?usp=sharing" rel="noopener nofollow" target="_blank">School Bus Application 2026</a>
+<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSeGKVzR4JWKfG4ZeB69YvTgtZRv3T-j6CzRG-HAWscc9n2cOA/viewform" rel="noopener nofollow" target="_blank">School Bus Application 2026</a>
 </p>
 <p>Note: All arrangements and agreements must be made directly with the bus
 operator.</p>
