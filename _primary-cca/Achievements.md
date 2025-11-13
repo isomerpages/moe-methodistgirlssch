@@ -23,7 +23,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Level of Participation</strong>
+<p><strong>Level of participation</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -248,13 +248,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Competition/</strong>
-</p>
-<p><strong>Award</strong>
+<p><strong>Competition/Award</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Level of Participation</strong>
+<p><strong>Level of participation</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -294,11 +292,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Competition/<br>Award</strong>
+<p><strong>Competition/Award</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Level of Participation</strong>
+<p><strong>Level of participation</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
