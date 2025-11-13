@@ -23,7 +23,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Level of Participation</strong>
+<p><strong>Level of participation</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -100,9 +100,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p><strong>GYMNASTICS</strong>
-</p>
-<p><strong>(ARTISTIC)</strong>
+<p><strong>GYMNASTICS (ARTISTIC)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -248,13 +246,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Competition/</strong>
-</p>
-<p><strong>Award</strong>
+<p><strong>Competition/Award</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Level of Participation</strong>
+<p><strong>Level of participation</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -294,11 +290,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Competition/<br>Award</strong>
+<p><strong>Competition/Award</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Level of Participation</strong>
+<p><strong>Level of participation</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -318,8 +314,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Puan Noor Aishah</p>
-<p>Award (2024)</p>
+<p>Puan Noor Aishah Award (2024)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>National</p>
