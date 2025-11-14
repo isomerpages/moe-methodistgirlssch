@@ -34,29 +34,22 @@ selling process.</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRQ-Vh29Yik0T3kmKghTh-1P2zRqkQAeCqZg5IKpTY72aVBrTr35cz9fxoitn_6reBuw92ET8mf18Nf/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
-<h2>eBox Cafe</h2>
-<p>Welcome to our eBOX Cafe &amp; Discover the JOY of shopping and selling
-with eBOX by clicking&nbsp;<a href="https://sites.google.com/mgs.sch.edu.sg/mg-entrepreneur-box/shop?authuser=0" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-<p>We believe in encouraging all members to embrace creativity and innovation
-as their way of life!</p>
-<h2>Community Projects &amp; VIA</h2>
-<p>IDEAS offers numerous opportunities for our members to contribute to impactful
-community art and charity projects. Notable highlights include collaborating
-with seniors from Lions Befrienders to create a vibrant floor mural at
-Ghim Moh, offering face-painting at the Jazz for Dogs event, and participating
-in the givingBac community art project at the National Gallery Singapore.
-IDEAS has also organized and sold handcrafted products like handmade jewellery,
-tote bags, stickers, and crochet items to raise funds for causes such as
-the Singapore Red Cross, PEACE of ART, and SengKang Hospital. Through initiatives
-like the Art Therapy Colouring Book Project and entrepreneurial ventures
-at the Sustainable Kids Market, IDEAS has engaged with the community, fostering
-creativity, promoting social responsibility, and making a positive impact.</p>
-<h2>Achievements</h2>
-<p>IDEAS members have picked up several awards in art and design competitions,
-including second place in the Keep SG Clean Comic Strip Competition and
-first runner-up in VOMG CHROMATIKA. Our members have also been recognized
-in the LIVE ON Design Competition and ViaRT Award, winning 3rd Prize for
-the PARKROYAL COLLECTION Marina Bay Best Sustainable Message Award. We
-have also earned awards in the On-the-Spot Watercolour Painting Competition
-and YellowRen Art Competition, showing our creativity and commitment to
-meaningful art.</p>
+<h2><strong>NOTABLE HIGHLIGHTS &amp; ACHIEVEMENTS</strong></h2>
+<p>The IDEAS Club has enjoyed remarkable fruits of our labour through significant <strong>achievements</strong> and <strong>impactful community engagement</strong>.
+Our triumph at the Singapore Polytechnic School of Business Rocket Pitch
+Competition – where our team secured 1st place and the Best Speaker Award
+– highlights our members’ <strong>enterprising and creative talent</strong>.&nbsp;</p>
+<p>Beyond competitions, the club actively contributed to various <strong>community projects and entrepreneurial endeavours</strong>,
+including the eBOX Flash Sale, which raised funds for Children’s Wishing
+Well. Members also participated in the Yellowren Inter-School Canvas Art
+Competition, Design Thinking workshops where we helped reimagine our MGS
+classrooms, as well as the 'Wings of Art' exhibition and charity auction
+that helped benefit underprivileged children under the Singapore Red Cross
+Young Hearts Programme. Furthermore, we fostered <strong>intergenerational bonds</strong> through
+a collaborative wall mural painting project with seniors from PCS Cedar
+Tree Active Ageing Centre and fellow students from Kent Ridge Secondary
+School at Block 21, Toh Yi Drive.</p>
+<p>
+<br>
+</p>
+<p></p>
