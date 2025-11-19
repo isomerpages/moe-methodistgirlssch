@@ -30,7 +30,8 @@ variant: tiptap
 <br>Senior Executive: Ms Debbie Cheng
 <br>Senior Executive: Ms Tee Hui Ping</p>
 <h3><strong>HUMAN RESOURCES</strong></h3>
-<p>Manager: <a href="low_wei_jie_jelaine@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Jelaine Low</a>
+<p>Senior Manager: <a href="YONG_Sheue_Horng@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Yong Sheue Horng</a>
+<br>Manager: <a href="low_wei_jie_jelaine@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Jelaine Low</a>
 <br>Senior Executive: Ms Chin Si Min
 <br>Senior&nbsp;Executive: Mr Lester Lee
 <br>
@@ -58,8 +59,7 @@ variant: tiptap
 <br>Senior Executive (Strategic Communications &amp; Outreach): Ms Sharon
 Low</p>
 <h3><strong>TEACHERS' SUPPORT</strong></h3>
-<p>Executive: Mrs Pauline Yong
-<br>Senior&nbsp;Officer: Miss Joanna Gautama
-<br>Senior&nbsp;Officer:&nbsp;Mdm Raihana Binte Mohamed Yusope</p>
+<p>Senior Executive: Mrs Pauline Yong
+<br>Senior&nbsp;Assistant Executive:&nbsp;Mdm Raihana Binte Mohamed Yusope</p>
 <p></p>
 <p></p>
