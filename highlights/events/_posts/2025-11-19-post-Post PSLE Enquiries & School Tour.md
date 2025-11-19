@@ -21,7 +21,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><strong>     </strong>School Tour (30 mins each tour)</p>
+<p>School Tour (30 mins each tour)</p>
 <p>First Tour starts at 10.30am</p>
 <p>Last Tour ends at 12.30pm</p>
 <p>
