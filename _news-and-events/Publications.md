@@ -4,7 +4,7 @@ permalink: /news-n-events/publications/
 description: ""
 variant: tiptap
 ---
-<p><a href="https://drive.google.com/file/d/1d0rLAyx2gsmsa4A9bpQaJKSMHKk-8nwO/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">MGeSprit</a>:&nbsp;Our
+<p><a href="https://drive.google.com/drive/folders/1BVg9mtfmCnEpBP_IUkV87lHZ9IGeqI6y?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">MGeSprit</a>:&nbsp;Our
 biannual school newsletter encapsulating the MGS heartbeat through diverse
 narratives of how we learn and serve that embody the spirit of MGS, written
 by and for members of our school community.</p>
