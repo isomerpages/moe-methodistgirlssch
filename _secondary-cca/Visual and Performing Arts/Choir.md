@@ -10,6 +10,8 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_5797.jpg">
 </div>
+<p><em>138th MGS Founder’s Day Celebration</em>
+</p>
 <p>We are a group of girls who have a shared passion and love for singing.
 Our guiding principles are: Awareness, Attitude, Ability, Attendance. We
 strive to inculcate self-discipline, independence, diligence and a sense
@@ -40,10 +42,11 @@ and whole choir performances, we have gained skills of teamwork and adaptability
 as we work together in harmony. This collaboration with peers, conductors,
 and external partners have enhanced our ability to communicate effectively
 and appreciate diverse talents within a team.</p>
-<div class="iframe-wrapper">
-<iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTTfOukIxQkkBQihzpa7Ex0hCXcnTaIlkFlKzpwHWBv4GUq-EcFgnGjxGLQstppSj19OgC3pCHXrH48/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SYF2025.jpg">
+</div>
+<p>Singapore Youth Festival 2025</p>
 <p></p>
 <p></p>
 <p></p>
