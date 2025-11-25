@@ -40,6 +40,10 @@ and whole choir performances, we have gained skills of teamwork and adaptability
 as we work together in harmony. This collaboration with peers, conductors,
 and external partners have enhanced our ability to communicate effectively
 and appreciate diverse talents within a team.</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTTfOukIxQkkBQihzpa7Ex0hCXcnTaIlkFlKzpwHWBv4GUq-EcFgnGjxGLQstppSj19OgC3pCHXrH48/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
