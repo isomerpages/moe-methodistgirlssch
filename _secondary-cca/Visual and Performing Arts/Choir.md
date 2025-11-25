@@ -48,5 +48,20 @@ and appreciate diverse talents within a team.</p>
 </div>
 <p>Singapore Youth Festival 2025</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MGS_Choir_performing_local_tunes_at_the_Attorney_General_s_Chambers_National_Day_Observance_Ceremony.jpg">
+</div>
+<p>Attorney-General’s Chambers Legal Service National Day Observance Ceremony</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Beyond_singing__the_2025_March_Camp_gave_the_MGS_Choir_an_opportunity_to_bond_and_create_lasting_memories.jpg">
+</div>
+<p>Choir Camp</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/healing_nation.jpg">
+</div>
+<p>The Healing Nation’ Celebratory Concert</p>
+<p></p>
 <p></p>
 <p></p>
