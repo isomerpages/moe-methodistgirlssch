@@ -10,7 +10,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_5797.jpg">
 </div>
-<p><em><sub>138th MGS Founder’s Day Celebration</sub></em>
+<p><em>138th MGS Founder’s Day Celebration</em>
 </p>
 <p>We are a group of girls who have a shared passion and love for singing.
 Our guiding principles are: Awareness, Attitude, Ability, Attendance. We
