@@ -68,6 +68,10 @@ to become a woman of excellence with a heart of love.</p>
 </li>
 </ul>
 <div class="iframe-wrapper">
+<iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTNoqM8i5MLo5umLLVHNEJhwCWRnCkY_eLNRczNE5GIEu7LV_Ir85QFoeeeNFsaO3Y49hS3YtNHFzYI/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p></p>
+<div class="iframe-wrapper">
 <iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTwaSVO5Y0FOQpB0QSd6ClYBXSXPWkMv4cLDXT-5lnTJRnYZWNcxenLGJ4sNent01PZ1PCi0U-pZFB0/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
