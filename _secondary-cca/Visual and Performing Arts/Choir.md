@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Visual and Performing Arts
 variant: tiptap
 ---
-<h2>WHO ARE WE ?</h2>
+<h3>WHO ARE WE ?</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_5797.jpg">
 </div>
