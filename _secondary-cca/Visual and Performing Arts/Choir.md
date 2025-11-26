@@ -5,13 +5,11 @@ description: ""
 third_nav_title: Visual and Performing Arts
 variant: tiptap
 ---
-<p></p>
-<p>Who are we?</p>
+<h3>WHO ARE WE ?</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_5797.jpg">
 </div>
-<p><em>138th MGS Founder’s Day Celebration</em>
-</p>
+<p></p>
 <p>We are a group of girls who have a shared passion and love for singing.
 Our guiding principles are: Awareness, Attitude, Ability, Attendance. We
 strive to inculcate self-discipline, independence, diligence and a sense
@@ -25,7 +23,7 @@ school and wider community through our performances.</p>
 as our school’s biennial Festival of the Arts, our school’s Founder’s Day
 service and National Day celebrations to external events such as the National
 Day Celebrations at Gardens by the Bay, Makan Sedap Fellowship 2024 and
-the Attorney-General Chambers National Day Observance Ceremony amongst
+the Attorney-General's Chambers National Day Observance Ceremony amongst
 others.</p>
 <p></p>
 <div class="iframe-wrapper">
@@ -51,7 +49,7 @@ and appreciate diverse talents within a team.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MGS_Choir_performing_local_tunes_at_the_Attorney_General_s_Chambers_National_Day_Observance_Ceremony.jpg">
 </div>
-<p>Attorney-General’s Chambers Legal Service National Day Observance Ceremony</p>
+<p>'Attorney-General’s Chambers - Legal Service National Day Observance Ceremony</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Beyond_singing__the_2025_March_Camp_gave_the_MGS_Choir_an_opportunity_to_bond_and_create_lasting_memories.jpg">
@@ -61,7 +59,7 @@ and appreciate diverse talents within a team.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/healing_nation.jpg">
 </div>
-<p>The Healing Nation’ Celebratory Concert</p>
+<p>'The Healing Nation’ Celebratory Concert</p>
 <p></p>
 <p></p>
 <p></p>
