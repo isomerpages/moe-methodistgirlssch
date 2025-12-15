@@ -4,6 +4,6 @@ date: 2024-12-10
 layout: link
 description: ""
 image: ""
-variant: tiptap
+variant: markdown
 external: https://yearbooks.sg/MGSYearbook2024/
 ---
