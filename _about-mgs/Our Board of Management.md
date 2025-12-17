@@ -30,8 +30,9 @@ variant: tiptap
 <p>Ms Fock Yin Ling</p>
 <p>Mr Gerald Lim</p>
 <p>Mr Melvin Tan</p>
-<p>Mrs Tjio Bee Ann</p>
-<p>Mrs Valarie Wilson</p>
+<p>Mrs Tjio Bee Ann
+<br>Dr Christina Tiong</p>
+<p>Ms Pamela Yoong</p>
 <p>Mrs Wee Oi Yee</p>
 </td>
 </tr>
