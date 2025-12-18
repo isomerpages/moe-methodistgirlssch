@@ -16,7 +16,7 @@ With your partnership, the MGS girl will Master, Grow and Serve, anchored
 in strong fundamentals and values. Click <a href="https://drive.google.com/drive/folders/14UJdQj9XqR87QS3rjOcySo5gnBgmafCP?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 access the MGS Secondary 1 Registration Package 2026.&nbsp;</p>
 <p>All students, including DSA students, who are posted to MGS must register
-officially. The <a href="https://mgs.ntrix.sg/registration/login" rel="noopener noreferrer nofollow" target="_blank">Secondary 1 Online Registration</a> will
+officially. The <a href="https://go.gov.sg/mgs-sec1-registration" rel="noopener noreferrer nofollow" target="_blank">Secondary 1 Online Registration</a> will
 start on Friday, 19 December 2025 from 9.00 am to Tuesday, 23 December
 2025, 9.00 am. This exercise will take approximately 10 minutes and best
 to be completed on your personal computer.&nbsp;</p>
