@@ -15,6 +15,6 @@ do not meet the cut-off.</p>
 <p>You may complete the&nbsp;<a href="https://form.gov.sg/60e6aee2be4d9200114156cc" rel="noopener noreferrer nofollow" target="_blank">S1 Appeal Form</a>&nbsp;(access
 only open on the day of Sec 1 Posting) together&nbsp;with birth certificate,
 PSLE result slip (with PSLE score) &amp; S1 option form (max. 7MB combined
-pdf) and submit by&nbsp;<strong>23 December 2025, 3pm</strong>. Late application
+pdf) and submit by&nbsp;<strong>24 December 2025, 3pm</strong>. Late application
 will not be considered.</p>
 <p>Note that only successful applicants will be notified.</p>
