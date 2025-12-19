@@ -17,8 +17,8 @@ in strong fundamentals and values. Click <a href="https://drive.google.com/drive
 access the MGS Secondary 1 Registration Package 2026.&nbsp;</p>
 <p>All students, including DSA students, who are posted to MGS must register
 officially. The <a href="https://go.gov.sg/mgs-sec1-registration" rel="noopener noreferrer nofollow" target="_blank">Secondary 1 Online Registration</a> will
-start on Friday, 19 December 2025 from 9.00 am to Tuesday, 24 December
-2025, 3.00 pm. This exercise will take approximately 10 minutes and best
+start on Friday, 19 December 2025 from 9.00 am to Tuesday, 23 December
+2025, 9.00 am. This exercise will take approximately 10 minutes and best
 to be completed on your personal computer.&nbsp;</p>
 <p>Please email&nbsp;Mr Kenneth Soh at <a href="mailto:soh_chen_wai_kenneth@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">soh_chen_wai_kenneth@schools.gov.sg</a>&nbsp;
 if you face any technical difficulties.</p>
