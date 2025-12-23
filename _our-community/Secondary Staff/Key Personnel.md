@@ -492,19 +492,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Prefectorial Board</p>
+<p>Peer Support Leadership</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yeo_teck_king_melvyn@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Melvyn Yeo</a>
+<p><a href="mailto:loy_kar_wai@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Loy Kar Wai</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>House Leadership</p>
+<p>Prefectorial Board</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ho_wen_si_therese@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Therese Ho</a>
+<p><a href="mailto:yeo_teck_king_melvyn@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Melvyn Yeo</a>
 </p>
 </td>
 </tr>
@@ -528,11 +528,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Peer Support Leadership</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:loy_kar_wai@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Loy Kar Wai</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
