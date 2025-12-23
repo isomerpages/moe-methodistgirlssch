@@ -462,8 +462,7 @@ variant: tiptap
 <p>Secondary 4 AYH</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:catherine_cheong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"> </a>
-<a href="mailto:ling_lek_suan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Ling Lek Suan</a>
+<p><a href="mailto:ling_lek_suan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Ling Lek Suan</a>
 </p>
 </td>
 </tr>
