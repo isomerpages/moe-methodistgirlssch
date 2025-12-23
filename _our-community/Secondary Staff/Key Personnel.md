@@ -453,7 +453,7 @@ variant: tiptap
 <p>Secondary 3 AYH</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ling_lek_suan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Ling Lek Suan</a>
+<p><a href="gillian_lim_sze_min@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Gillian Lei</a>
 </p>
 </td>
 </tr>
@@ -462,7 +462,8 @@ variant: tiptap
 <p>Secondary 4 AYH</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:catherine_cheong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Catherine Cheong</a>
+<p><a href="mailto:catherine_cheong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"> </a>
+<a href="mailto:ling_lek_suan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Ling Lek Suan</a>
 </p>
 </td>
 </tr>
