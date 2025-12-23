@@ -492,19 +492,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Citizenship Education</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:carol_tay_dan_guey@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Carol Tay</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Prefectorial Board</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="yeo_teck_king_melvyn@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Melvyn Yeo</a>
+</p>
 </td>
 </tr>
 <tr>
