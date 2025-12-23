@@ -376,7 +376,7 @@ variant: tiptap
 <p>Secondary 1 YH</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:therese_vinnie_tan@schools.gov.sg" rel="noopener noreferrer nofollow" target=""><u>Mrs Therese Lim</u></a>
+<p><a href="mailto:pang_sally@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Sally E</a>
 </p>
 </td>
 </tr>
@@ -385,7 +385,7 @@ variant: tiptap
 <p>Secondary 2 YH</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:pang_sally@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Sally E</a>
+<p><a href="mailto:therese_vinnie_tan@schools.gov.sg" rel="noopener noreferrer nofollow" target=""><u>Mrs Therese Lim</u></a>
 </p>
 </td>
 </tr>
@@ -394,7 +394,7 @@ variant: tiptap
 <p>Secondary 3 YH</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:wong_khai_shin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Wong Khai Shin</a>&nbsp;</p>
+<p><a href="mailto:boo_serene@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Serene Loh</a>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -402,7 +402,8 @@ variant: tiptap
 <p>Secondary 4 YH</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:boo_serene@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Serene Loh</a>&nbsp;</p>
+<p><a href="mailto:wong_khai_shin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Wong Khai Shin</a>
+</p>
 </td>
 </tr>
 <tr>
