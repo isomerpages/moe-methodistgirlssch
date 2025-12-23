@@ -351,7 +351,8 @@ variant: tiptap
 <p>Physical Education &amp; Co-Curricular Activities</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="suzanne_eng@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Suzanne Eng</a>
+</p>
 </td>
 </tr>
 </tbody>
