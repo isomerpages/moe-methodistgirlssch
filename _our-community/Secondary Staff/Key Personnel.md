@@ -522,16 +522,8 @@ variant: tiptap
 <p>Values in Education</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tay_hui_ping@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Tay Hui Ping</a>
+<p><a href="mailto:xiu_ying_alethea_eng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Alethea Eng</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
