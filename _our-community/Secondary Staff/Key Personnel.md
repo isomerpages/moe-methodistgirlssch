@@ -435,7 +435,7 @@ variant: tiptap
 <p>Secondary 1 AYH</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kuan_yen_sin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Kuan Yen Sin</a>
+<p><a href="mailto:sim_xiu_jun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Sim Xiu Jun</a>
 </p>
 </td>
 </tr>
@@ -444,7 +444,7 @@ variant: tiptap
 <p>Secondary 2 AYH</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sim_xiu_jun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Sim Xiu Jun</a>
+<p><a href="ang_geok_xing@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Ang Geok Xiang</a>
 </p>
 </td>
 </tr>
