@@ -351,7 +351,7 @@ variant: tiptap
 <p>Physical Education &amp; Co-Curricular Activities</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="suzanne_eng@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Suzanne Eng</a>
+<p><a href="mailto:suzanne_eng@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Suzanne Eng</a>
 </p>
 </td>
 </tr>
@@ -453,7 +453,7 @@ variant: tiptap
 <p>Secondary 3 AYH</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="gillian_lim_sze_min@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Gillian Lei</a>
+<p><a href="mailto:gillian_lim_sze_min@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Gillian Lei</a>
 </p>
 </td>
 </tr>
@@ -495,7 +495,7 @@ variant: tiptap
 <p>Prefectorial Board</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="yeo_teck_king_melvyn@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Melvyn Yeo</a>
+<p><a href="mailto:yeo_teck_king_melvyn@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Melvyn Yeo</a>
 </p>
 </td>
 </tr>
