@@ -333,7 +333,7 @@ variant: tiptap
 <p>Community Education/IGL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:natalie_chew@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Natalie Lim</a>
+<p><a href="mailto:xiu_ying_alethea_eng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Alethea Eng</a>
 </p>
 </td>
 </tr>
