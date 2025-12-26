@@ -226,7 +226,8 @@ variant: tiptap
 <p>Character and Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:xiu_ying_alethea_eng@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Alethea Eng</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -261,7 +262,7 @@ variant: tiptap
 <p>Integrated Programme</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:grace_poh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Grace Poh</a>
+<p><a href="mailto:tan_bishi_priscilla@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Priscilla Tan</a>
 </p>
 </td>
 </tr>
@@ -288,7 +289,7 @@ variant: tiptap
 <p>Mother Tongue</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chu_suat_bee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Chu Suat Bee</a>
+<p><a href="mailto:xu_xiaoyu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Xu Xiaoyu</a>
 </p>
 </td>
 </tr>
@@ -297,7 +298,7 @@ variant: tiptap
 <p>Music</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:low_siew_kheng_arlene@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Arlene Chan</a>
+<p><a href="mailto:poh_ning@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Poh Ning</a>
 </p>
 </td>
 </tr>

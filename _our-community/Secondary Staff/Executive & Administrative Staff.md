@@ -22,7 +22,7 @@ variant: tiptap
 <h3><strong>FACILITIES MANAGEMENT</strong></h3>
 <p>Manager: <a href="mailto:mohd_nassir_osman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Mohamad Nassir Bin Osman</a> 
 <br>Senior Executive: Mr Henry Liow
-<br>Assistant Executive: Mr Khairulanwar Bin Mahad
+<br>Executive: Mr Khairulanwar Bin Mahad
 <br>Operations Support Officer: Mr Chan Keng Seng</p>
 <h3><strong>FINANCE</strong></h3>
 <p>Director:&nbsp;<a href="mailto:cheryl_chan_hp@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Cheryl Chan</a> 
@@ -48,10 +48,10 @@ variant: tiptap
 <p>Manager: <a href="mailto:Farah_Nabilah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Farah Nabilah Binte Muzafar</a> 
 <br>Assistant and Security Officer: Mdm Vimala</p>
 <h3><strong>SCIENCE LABORATORY</strong></h3>
-<p>Senior Executive: Mdm Loh Yen Nee
+<p>Manager: Mdm Loh Yen Nee
 <br>Executive: Ms Caren Ng
 <br>Assistant Executive:&nbsp;Ms Sally Lee
-<br>Senior Officer: Mr Chong Tze Yuen</p>
+<br>Assistant Executive: Mr Chong Tze Yuen</p>
 <h3><strong>STRATEGIC COMMUNICATIONS &amp; OUTREACH</strong></h3>
 <p>Director (Student Affairs &amp; Outreach):&nbsp;<a href="mailto:joyce_ang_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Joyce Ang</a> 
 <br>Senior Manager (Strategic Communications &amp; Engagement):&nbsp;<a href="mailto:tay_sue-mei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Sue-Mei Tay</a> 
@@ -60,6 +60,8 @@ variant: tiptap
 Low</p>
 <h3><strong>TEACHERS' SUPPORT</strong></h3>
 <p>Senior Executive: Mrs Pauline Yong
-<br>Senior&nbsp;Assistant Executive:&nbsp;Mdm Raihana Binte Mohamed Yusope</p>
+<br>Senior&nbsp;Assistant Executive:&nbsp;Mdm Raihana Binte Mohamed Yusope
+<br>Senior Assistant Executive: Ms Catherine Chia</p>
+<p></p>
 <p></p>
 <p></p>
