@@ -4,9 +4,6 @@ permalink: /secondary/academic/1-1-learning-programme/
 description: ""
 variant: tiptap
 ---
-<div class="iframe-wrapper">
-<iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT2jmZlsoSdbAGwGK35LbnZ0I_CgsttZ11BN6zguFicl4eUntH-5KkuKXPPJ0_4zw/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-</div>
 <p></p>
 <div class="iframe-wrapper">
 <iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ-2abSuBQ2FfUjgl2BWBWbfqcX3svgsjH_hhLEB4DBh9vNhBxPQv1GpxATP0FM_BAWAjp5hhmSRroi/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
