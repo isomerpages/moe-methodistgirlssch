@@ -12,4 +12,4 @@ variant: markdown
 |P5.3|[Mrs Velicia Lim](mailto:foo_wei_tint_velicia@schools.gov.sg)|[Mdm Evia Chiok](mailto:chiok_suat_cheng@schools.gov.sg)|
 |P5.4|[Mrs Chua Lee Hong](mailto:chua_lee_hong@schools.gov.sg)|[Mrs Jean Lee](mailto:sng_lee_lee@schools.gov.sg)|
 |P5.5|[Ms Tan Li Jun](mailto:tan_li_jun@schools.gov.sg)|[Ms Wong Jiaxin](mailto:wong_jia_xin@schools.gov.sg)|
-|P5.6|[Ms Naomi Yee](mailto:yee_yee_may_naomi@schools.gov.sg)|[Mdm Pu Lu](mailto:pu_lu@schools.gov.sg)
+|P5.6|[Ms Naomi Tan](mailto:yee_yee_may_naomi@schools.gov.sg)|[Mdm Pu Lu](mailto:pu_lu@schools.gov.sg)
