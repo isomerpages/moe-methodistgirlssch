@@ -286,7 +286,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:KWONG_WEN_LI_B@schools.gov.sg" rel="noopener nofollow" target="_blank">Kwong Wen Li (T1)</a>
+<p><a href="mailto:KWONG_WEN_LI_B@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Kwong Wen Li (T1)</a>
 </p>
 </td>
 </tr>
@@ -383,7 +383,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Xin Yi</p>
+<p><a href="mailto:Tan_Xin_Yi_AH@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Tan Xin Yi</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><u>&nbsp;</u>
