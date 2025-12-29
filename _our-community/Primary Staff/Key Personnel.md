@@ -25,7 +25,6 @@ Science|[Mrs Velicia Lim](mailto:foo_wei_tint_velicia@schools.gov.sg)
 | -------- | -------- |-------- |
 |Character and Citizenship Education|| [Ms Jocelyn Chua](mailto:Jocelyn_CHUA@schools.gov.sg)
 Education Technology||[Mr Christopher Wong](mailto:christopher_wong_say_eng@schools.gov.sg)
-English| [Mrs Sophia Koh ](mailto:koh_pei_chen_sophia@schools.gov.sg	)
 Mathematics|[Ms Koh Peiru](mailto:koh_pei_loo@schools.gov.sg)|
 Mother Tongue|[Ms Pun Yee Voon](mailto:pun_yee_voon@schools.gov.sg)
 Student Leadership||[Ms Venetia Guo](mailto:guo_yixin_venetia@schools.gov.sg)
