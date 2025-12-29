@@ -7,9 +7,9 @@ variant: markdown
 ---
 | Class | Form Teacher | ||
 | -------- | -------- | -------- |-------- |
-|P5.1|[Mrs Rita James](mailto:rita_james@schools.gov.sg)|[Mrs Patricia Low](mailto:patricia_lim_ai_tee@schools.gov.sg)|
-|P5.2|[Mrs Jayanthi Rajaratnam](mailto:jayanthi_kadiresan@schools.gov.sg)|[Mdm Loi Huey Shing](mailto:loi_huey_shing@schools.gov.sg)|
-|P5.3|[Ms Ann Cheo](mailto:ann_cheo@schools.gov.sg)|[Mdm Nor’aisah Abdul Samad](mailto:noraisah_abdul_samad@schools.gov.sg)|
-|P5.4|[Mdm Lee Kit Yi](mailto:lee_kit_yi@schools.gov.sg)|[Mrs Choy Yee Nee](mailto:tan_yen_nee@schools.gov.sg)|
-|P5.5|[Ms Adene Chua](mailto:chua_yuen_yee@schools.gov.sg)|[Mrs Kang Jiayan](mailto:sim_jiayan@schools.gov.sg)|
-|P5.6|[Mr Pierre E](mailto:RERN_YI_PIERRE_E@SCHOOLS.GOV.SG)|[Ms Linda Chan](mailto:chan_pei_chui@schools.gov.sg)
+|P5.1|[Mr Christopher Wong](mailto:christopher_wong@mgs.sch.edu.sg)|[Mrs Eileen Ong](mailto:ngui_shu_may_eileen@schools.gov.sg)|
+|P5.2|[Mrs Chen Yi Fang](mailto:chua_yi_fang@schools.gov.sg)|[Mrs Lily Teo](mailto:lily_teo@schools.gov.sg)|
+|P5.3|[Mrs Velicia Lim](mailto:foo_wei_tint_velicia@schools.gov.sg)|[Mdm Evia Chiok](mailto:chiok_suat_cheng@schools.gov.sg)|
+|P5.4|[Mrs Sim Lee Hong](mailto:chua_lee_hong@schools.gov.sg)|[Mrs Jean Lee](mailto:sng_lee_lee@schools.gov.sg)|
+|P5.5|[Ms Tan Li Jun](mailto:tan_li_jun@schools.gov.sg)|[Ms Wong Jiaxin](mailto:wong_jia_xin@schools.gov.sg)|
+|P5.6|[Mrs Naomi Tan](mailto:yee_yee_may_naomi@schools.gov.sg)|[Mdm Pu Lu](mailto:pu_lu@schools.gov.sg)
