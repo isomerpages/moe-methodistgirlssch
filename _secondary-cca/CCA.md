@@ -11,6 +11,9 @@ correct values and desirable social attitudes, to provide for healthy recreation
 activity, to identify &amp; nurture special qualities (e.g. leadership),
 to provide enrichment, to give scope for creativity and to cultivate esprit
 de corps.</p>
+<p></p>
+<h4><a href="https://drive.google.com/file/d/1obisb-ZVFMUTTnP_oY_PQQK9h-TKYptA/view?usp=drive_link" rel="noopener nofollow" target="_blank">CCA Schedule 2026</a></h4>
+<p></p>
 <p><strong>Download:</strong>&nbsp;</p>
 <p></p>
 <ol data-tight="true" class="tight">
@@ -20,7 +23,13 @@ de corps.</p>
 </li>
 </ol>
 <h3>CCA Offerings in MGS:</h3>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
