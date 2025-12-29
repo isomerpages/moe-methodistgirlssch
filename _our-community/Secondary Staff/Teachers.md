@@ -153,7 +153,8 @@ variant: tiptap
 <p>Non-form teachers</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ong An-Dian</p>
+<p><a href="mailto:ong_andian@schools.gov.sg" rel="noopener nofollow" target="_blank">Ong An-Dian</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><u>&nbsp;</u>
@@ -285,7 +286,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Kwong Wen Li (T1)&nbsp;&nbsp;</p>
+<p><a href="mailto:KWONG_WEN_LI_B@schools.gov.sg" rel="noopener nofollow" target="_blank">Kwong Wen Li (T1)</a>
+</p>
 </td>
 </tr>
 <tr>
