@@ -7,9 +7,9 @@ variant: markdown
 ---
 | Class | Form Teacher | ||
 | -------- | -------- | -------- |-------- |
-|P3.1|[Mrs Maria Tan](mailto:tan_maria_gostelow@schools.gov.sg)|[Mdm Nasuha Ghaffar](mailto:nasuha_ghaffar@schools.gov.sg)|
-|P3.2|[Mrs Kay Pek Hoon](mailto:chee_pek_hoon@schools.gov.sg)|[Mdm Rozana Abdul Rahman](mailto:rozana_abdul_rahman@schools.gov.sg)|
-|P3.3|[Miss Suhaily Md Moktar](mailto:suhaily_md_moktar@schools.gov.sg)|[Miss Pun Yee Voon](mailto:pun_yee_voon@schools.gov.sg)|
-|P3.4|[Mrs Sophia Koh](mailto:koh_pei_chen_sophia@schools.gov.sg)|[Mrs Joy Chong](mailto:joy_ho_choy_yoke@schools.gov.sg)|
-|P3.5|[Ms Rebekah Foong](mailto:foong_chen_kai_rebekah@schools.gov.sg)|[Mr Aliff Azman](mailto:muhammad_aliff_azman@schools.gov.sg)|
-|P3.6|[Ms Shamini Menon](mailto:shamini_menon@schools.gov.sg)|[Mrs Cecilia Quah](mailto:quah_hue_bin_cecilia@schools.gov.sg)|
+|P3.1|[Mrs Mabel Ou](mailto:quah_cheng_sim_mabel@schools.gov.sg)|[Mrs Tan Hwee Ching](mailto:tan_sian_huang@schools.gov.sg)|
+|P3.2|[Ms Koh Peiru](mailto:koh_pei_loo@schools.gov.sg)|[Mrs Yokanathan](mailto:thilagavathy_yokanathan@schools.gov.sg)|
+|P3.3|[Mrs Sun Hui](mailto:sun_hui@schools.gov.sg)|[Mrs Maria Tan](mailto:tan_maria_gostelow@schools.gov.sg)|
+|P3.4|[Dr Karen Soh](mailto:soh_karen_jasmine@schools.gov.sg)|[Mdm Liu Biting](mailto:liu_biting@schools.gov.sg)|
+|P3.5|[Mrs Gina Low](mailto:gina_chia@schools.gov.sg)|[Mrs Faith Yeo](mailto:wong_chew_ling@schools.gov.sg)|
+|P3.6|[Ms Venetia Guo](mailto:guo_yixin_venetia@schools.gov.sg)|[Miss Nadia Massri](mailto:Nur_Nadia_Massri@schools.gov.sg)|
