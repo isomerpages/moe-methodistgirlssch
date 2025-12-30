@@ -180,7 +180,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher (Language Arts)</p>
+<p>Lead Teacher (Language Arts)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:monica_bong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Monica Bong</a>
@@ -259,7 +259,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Integrated Programme</p>
+<p>Integrated Programme (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_bishi_priscilla@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Priscilla Tan</a>
@@ -286,7 +286,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mother Tongue</p>
+<p>Mother Tongue (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:xu_xiaoyu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Xu Xiaoyu</a>
@@ -331,16 +331,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Community Education/IGL</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:xiu_ying_alethea_eng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Alethea Eng</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Student Management (Covering)</p>
+<p>Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:benjamin_tan_wei-yang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Benjamin Tan</a>
