@@ -41,4 +41,4 @@ and meaningful schooling experience.</p>
 <p>To our current girls, know that here in our school, you are much loved
 and supported. May God bless “Our school, the fairest in the land, our
 own dear M.G.S.”&nbsp;</p>
-<p>&nbsp;Ms Pamela Yoong</p>
+<p>Ms Pamela Yoong</p>
