@@ -250,7 +250,7 @@ school and girls. Below are more information regarding these sessions:&nbsp;</p>
 </table>
 <p>* Zoom Meeting ID: <strong>893 9560 5406,</strong>; Passcode: <strong>1Cor13:4-8</strong>
 </p>
-<p><strong><u>Prayer coordinator:</u></strong>
+<p><strong><u>Prayer coordinators:</u></strong>
 </p>
 <ul>
 <li>
@@ -260,7 +260,7 @@ school and girls. Below are more information regarding these sessions:&nbsp;</p>
 <p>Overall coordinator (S/Y 1-4): Mr Patrick Loke&nbsp;</p>
 </li>
 <li>
-<p>Christiam Ministry Staff (CMS): Ms Corrine Chee (Pri); Ms Jenny Koh (Sec)</p>
+<p>Christian Ministry Staff (CMS): Ms Corrine Chee (Pri); Ms Jenny Koh (Sec)</p>
 <p></p>
 </li>
 </ul>
