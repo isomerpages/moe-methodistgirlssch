@@ -28,7 +28,7 @@ in her growth journey of being and becoming her best self for our world.</p>
 to MASTER, to GROW and to SERVE.</p>
 </li>
 </ol>
-<h3>2025 ParentLink Committee</h3>
+<h3>2026 ParentLink Committee</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -48,9 +48,9 @@ to MASTER, to GROW and to SERVE.</p>
 <p>Ex- officio Advisors:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Valarie Wilson
+<p>Ms Pamela Yoong
 <br>Mrs Diana Goh
-<br>Mrs Koh Chern Ee</p>
+<br>Mr Ho Kok Soon</p>
 </td>
 </tr>
 <tr>
@@ -58,7 +58,7 @@ to MASTER, to GROW and to SERVE.</p>
 <p>Chairperson</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Dana Magnus</p>
+<p>Ms Grace Chew</p>
 </td>
 </tr>
 <tr>
@@ -66,8 +66,8 @@ to MASTER, to GROW and to SERVE.</p>
 <p>Vice Chairperson:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Grace Chew
-<br>Mrs Andrea Friedman</p>
+<p>Mrs Bow Yuen</p>
+<p>Ms Ng Lin-Li</p>
 </td>
 </tr>
 <tr>
@@ -76,7 +76,6 @@ to MASTER, to GROW and to SERVE.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Ernest Teo
-<br>Mrs Andrea Friedman
 <br>Ms Doreen Teo</p>
 </td>
 </tr>
@@ -94,12 +93,11 @@ to MASTER, to GROW and to SERVE.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Adele Yeo
-<br>Mrs Bow Yuen
 <br>Ms Elaine Teo
 <br>Mrs Joanne Chee
 <br>Mr Lionel Lim
-<br>Ms Melody Lim
-<br>Ms Ng Lin-Li
+<br>Ms Ling Jin Ying</p>
+<p>Ms Sabrina Kwek
 <br>Ms Sharon Kee
 <br>Mr Tycen Bundgaard</p>
 </td>
