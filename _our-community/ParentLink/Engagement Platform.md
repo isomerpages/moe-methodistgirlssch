@@ -62,7 +62,7 @@ schedule:
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>January 7, Tuesday</p>
+<p>January 13, Tuesday</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S/Y1 Coffee Chat</p>
@@ -70,7 +70,7 @@ schedule:
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>February 7, Friday</p>
+<p>February 6, Friday</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Welcome Breakfast</p>
@@ -78,7 +78,7 @@ schedule:
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>March 8, Saturday</p>
+<p>March 7, Saturday</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P1 Engagement Day</p>
@@ -86,18 +86,45 @@ schedule:
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>September 18, Thursday</p>
+<p>March<em> (date tbc)</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Thank You Breakfast</p>
+<p>IGL Parent-Child Bonding</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>October 11, Saturday</p>
+<p>April<em> (date tbc)</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Parent-Daughter Bonding</p>
+<p>IGL Parent-Child Bonding</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>May 16, Saturday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Father-Daughter Bonding</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>August <em>(date tbc)</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>IGL Parent-Child Bonding</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>September 17, Thursday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thank You Breakfast</p>
 </td>
 </tr>
 <tr>
@@ -119,7 +146,7 @@ at a later date.&nbsp;</p>
 <p></p>
 <p>Parents can be part of prayer meetings to provide prayer support to the
 school and girls. Below are more information regarding these sessions:&nbsp;</p>
-<h3>2025 Prayer Meeting Dates:</h3>
+<h3>2026 Prayer Meeting Dates:</h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -146,7 +173,7 @@ school and girls. Below are more information regarding these sessions:&nbsp;</p>
 <p>Term 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6 January</p>
+<p>12 January</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>On-site (7.45 – 9am @ Level 4 Wesley Hall)</p>
@@ -154,7 +181,7 @@ school and girls. Below are more information regarding these sessions:&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3 February</p>
+<p>2 February</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>On-site (7.45 – 9am @ Level 4 Wesley Hall)</p>
@@ -164,7 +191,7 @@ school and girls. Below are more information regarding these sessions:&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3 March</p>
+<p>2 March&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Zoom* (8 – 9.15am refer to zoom details below)</p>
@@ -175,7 +202,7 @@ school and girls. Below are more information regarding these sessions:&nbsp;</p>
 <p>Term 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7 April</p>
+<p>6 April</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Zoom* (8 – 9.15am refer to zoom details below)</p>
@@ -183,18 +210,18 @@ school and girls. Below are more information regarding these sessions:&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5 May</p>
+<p>4 May</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Zoom* (8 – 9.15am refer to zoom details below)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Term 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>14 July</p>
+<p>13 July</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>On-site (7.45 – 9am @ Level 4 Wesley Hall)</p>
@@ -202,15 +229,7 @@ school and girls. Below are more information regarding these sessions:&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4 August</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Zoom* (8 – 9.15am refer to zoom details below)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1 September</p>
+<p>3 August</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Zoom* (8 – 9.15am refer to zoom details below)</p>
@@ -221,7 +240,7 @@ school and girls. Below are more information regarding these sessions:&nbsp;</p>
 <p>Term 4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6 October</p>
+<p>5 October&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Zoom* (8 – 9.15am refer to zoom details below)</p>
@@ -229,20 +248,16 @@ school and girls. Below are more information regarding these sessions:&nbsp;</p>
 </tr>
 </tbody>
 </table>
-<ul>
-<li>
-<p>Zoom Meeting ID: <strong>847 5466 9801</strong>; Passcode: <strong>Matt22:37</strong>
+<p>* Zoom Meeting ID: <strong>893 9560 5406,</strong>; Passcode: <strong>1Cor13:4-8</strong>
 </p>
-</li>
-</ul>
 <p><strong><u>Prayer coordinator:</u></strong>
 </p>
 <ul>
 <li>
-<p>Overall coordinator (P1-6): Ms Laura Hoi</p>
+<p>Overall coordinator (P1-6): Ms Laura Hoi&nbsp;</p>
 </li>
 <li>
-<p>Overall coordinator (S/Y 1-4): Mr Patrick Loke</p>
+<p>Overall coordinator (S/Y 1-4): Mr Patrick Loke&nbsp;</p>
 </li>
 <li>
 <p>Christiam Ministry Staff (CMS): Ms Corrine Chee (Pri); Ms Jenny Koh (Sec)</p>
@@ -251,27 +266,30 @@ school and girls. Below are more information regarding these sessions:&nbsp;</p>
 </ul>
 <p><strong><u>Remarks:</u></strong>
 </p>
-<ol data-tight="true" class="tight">
+<ol>
 <li>
-<p><strong>All prayer meetings are combined</strong>&nbsp;meaning parents
-with child(ren) in different levels meet together at the same day and time,
+<p><strong>All prayer meetings are combined</strong> meaning parents with
+child(ren) in different levels meet together at the same day and time,
 and breakout groups (on-site or zoom) can then be done according to different
-levels. Hence ALL parents are welcomed!</p>
+levels.&nbsp; Hence ALL parents are welcomed!</p>
+</li>
+</ol>
+<ol>
+<li>
+<p><strong>Frequency of prayer meetings will be once a month</strong> to allow
+more parents to join the session, be it on-site or via zoom</p>
 </li>
 <li>
-<p><strong>Frequency of prayer meetings</strong>&nbsp;will be once a month
-to allow more parents to join the session, be it on-site or via zoom</p>
-</li>
-<li>
-<p><strong>Prayer coordinators of focused groups, i.e. P6 Group and Sec/Year 4</strong>&nbsp;groups
-will make their own arrangements nearing PSLE/O Level to meet via zoom
-for prayer sessions</p>
+<p><strong>Prayer coordinators of focused groups, i.e. P6 Group and Sec/Year 4 groups </strong>will
+make their own arrangements nearing PSLE/O Level to meet via zoom for prayer
+sessions</p>
 </li>
 <li>
 <p><strong>Parents kindly drop a message to either one of the prayer coordinators (Laura or Patrick) to indicate your interest to be registered into the MGS prayer group community.</strong>
 </p>
 </li>
 </ol>
+<p></p>
 <p><strong><u>Instruction for on-site meetings:</u></strong>
 </p>
 <ol>
@@ -293,5 +311,6 @@ opposite the school is limited and subject to availability.</p>
 Christian Ministry Staff (CMS) Ms Corrine Chee (Pri Sch), Ms Jenny Koh
 (Sec Sch) at 6469 4800.</p>
 <p>
+<br>
 <br>
 </p>
