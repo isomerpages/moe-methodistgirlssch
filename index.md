@@ -14,7 +14,7 @@ sections:
       background: /images/Common/pic-landing-2023.jpg
   - infopic:
       title: Rooted in God's Love
-      subtitle: Theme 2025
+      subtitle: Theme 2026
       image: /images/Common/Theme_2026.jpg
       alt: Image alt text
   - resources:
