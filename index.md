@@ -15,7 +15,7 @@ sections:
   - infopic:
       title: Rooted in God's Love
       subtitle: Theme 2025
-      image: /images/Common/Theme_2025.png
+      image: /images/Common/Theme_2026.jpg
       alt: Image alt text
   - resources:
       title: Highlights
