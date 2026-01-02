@@ -36,7 +36,7 @@ variant: tiptap
 <p>1E</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lydia_loy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Lydia Loy</a>
+<p><a href="mailto:lydia_loy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Lydia Loy</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
