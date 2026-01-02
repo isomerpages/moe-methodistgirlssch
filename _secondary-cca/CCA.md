@@ -12,6 +12,8 @@ activity, to identify &amp; nurture special qualities (e.g. leadership),
 to provide enrichment, to give scope for creativity and to cultivate esprit
 de corps.</p>
 <p></p>
+<h4><a href="https://drive.google.com/file/d/1obisb-ZVFMUTTnP_oY_PQQK9h-TKYptA/view?usp=sharing" rel="noopener nofollow" target="_blank">CCA Schedule 2026</a></h4>
+<p></p>
 <p><strong>Download:</strong>&nbsp;</p>
 <p></p>
 <ol data-tight="true" class="tight">
