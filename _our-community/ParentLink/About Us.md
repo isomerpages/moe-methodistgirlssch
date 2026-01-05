@@ -68,7 +68,6 @@ to MASTER, to GROW and to SERVE.</p>
 <td rowspan="1" colspan="1">
 <p>Mrs Bow Yuen
 <br>Ms Ng Lin-Li</p>
-<p></p>
 </td>
 </tr>
 <tr>
