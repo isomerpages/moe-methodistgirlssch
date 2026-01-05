@@ -70,7 +70,7 @@ schedule:
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>February 6, Friday</p>
+<p>January 30, Friday</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Welcome Breakfast</p>
