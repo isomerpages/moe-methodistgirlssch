@@ -102,7 +102,6 @@ to MASTER, to GROW and to SERVE.</p>
 <br>Mr Tycen Bundgaard
 <br>
 </p>
-<p></p>
 </td>
 </tr>
 </tbody>
