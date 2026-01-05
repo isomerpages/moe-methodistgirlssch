@@ -66,8 +66,8 @@ to MASTER, to GROW and to SERVE.</p>
 <p>Vice Chairperson:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Bow Yuen</p>
-<p>Ms Ng Lin-Li</p>
+<p>Mrs Bow Yuen
+<br>Ms Ng Lin-Li</p>
 </td>
 </tr>
 <tr>
@@ -96,10 +96,12 @@ to MASTER, to GROW and to SERVE.</p>
 <br>Ms Elaine Teo
 <br>Mrs Joanne Chee
 <br>Mr Lionel Lim
-<br>Ms Ling Jin Ying</p>
-<p>Ms Sabrina Kwek
+<br>Ms Ling Jin Ying
+<br>Ms Sabrina Kwek
 <br>Ms Sharon Kee
-<br>Mr Tycen Bundgaard</p>
+<br>Mr Tycen Bundgaard
+<br>
+</p>
 </td>
 </tr>
 </tbody>
