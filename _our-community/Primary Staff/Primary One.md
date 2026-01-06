@@ -12,5 +12,5 @@ variant: markdown
 |P1.3|[Mrs Hoo Shu Min](mailto:hoo_shu_min@schools.gov.sg) | [Mrs Jamie Chaw](mailto:lo_hwee_ling_jamie@schools.gov.sg)|
 |P1.4| [Mrs Gladys Jiow](mailto:tan_tsu_pei_gladys@schools.gov.sg) |[Mdm Zhan Bei](mailto:zhan_bei@schools.gov.sg)|
 |P1.5|[Mrs Lee Huay Chyn](mailto:lee_huay_chyn@schools.gov.sg) |[Mdm Lee Yu Ching](mailto:lee_yu_ching_hephzibah@moe.edu.sg )|
-|P1.6|[Mdm Basheera Begum](mailto:basheera_begum_syed_sult@schools.gov.sg)|[Ms Tan May Lin](mailto:nam_mei_lin_may@schools.gov.sg)|
+|P1.6|[Mdm Basheera Begum](mailto:basheera_begum_syed_sult@schools.gov.sg)|[Ms Tan May Lin](mailto:tan_may_lin@schools.gov.sg)|
 |P1.7|[Mrs Thilaka Ruben](mailto:thilaka_ganapathi@schools.gov.sg)|[Mrs Lei Jiayun](mailto:lei_jiayun@schools.gov.sg)
