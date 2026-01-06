@@ -43,8 +43,9 @@ Student Leadership||[Ms Venetia Guo](mailto:guo_yixin_venetia@schools.gov.sg)
 
 || |
 | -------- | -------- |
+|Senior Teacher (CCE)| [Mrs Sim Lee Hong](mailto:chua_lee_hong@schools.gov.sg)| 
 |Senior Teacher (English)| [Ms Shamini Menon](mailto:shamini_menon@schools.gov.sg)| 
 |Senior Teacher (English)| [Mrs Gina Low](mailto:gina_chia@schools.gov.sg)| 
 |Senior Teacher (Mother Tongue)| [Mrs Michelle Sin](mailto:michelle_sin@schools.gov.sg)| 
-|Senior Teacher (Science)| [Mdm Li Huixing](mailto:loi_huey_shing@schools.gov.sg)| 
+|Senior Teacher (Science)| [Mdm Loi Huey Shing](mailto:loi_huey_shing@schools.gov.sg)| 
 |Senior Teacher (Lower Primary Learners)| [Mdm Basheera Begum](mailto:basheera_begum_syed_sult@schools.gov.sg)|
