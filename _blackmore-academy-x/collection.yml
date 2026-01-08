@@ -1,5 +1,4 @@
 collections:
   blackmore-academy-x:
     output: true
-    order:
-      - Blackmore Academy X.md
+    order: []
