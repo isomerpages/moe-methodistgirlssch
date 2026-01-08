@@ -58,7 +58,7 @@ variant: tiptap
 <p>Corporate Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ming Yip</p>
+<p>Mr Yip Ming Hui</p>
 </td>
 </tr>
 <tr>
