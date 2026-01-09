@@ -6,7 +6,7 @@ third_nav_title: Useful Links
 variant: tiptap
 ---
 <h3>Useful Links</h3>
-<ul>
+<ul data-tight="true" class="tight">
 <li>
 <p><a href="https://staging.dt6ildc2mnegy.amplifyapp.com/secondary/useful-links/for-student/loan-of-mgs-uniform-one/" rel="noopener noreferrer nofollow" target="_blank">Loan of MGS Uniform One</a>
 </p>
@@ -24,6 +24,9 @@ variant: tiptap
 </p>
 </li>
 <li>
+<p>Blackmore Academy X</p>
+</li>
+<li>
 <p><a href="https://drive.google.com/file/d/1v6ndWsWfDeSwSHG4Djz4mNxfaFNx6xvs/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">MGS School Rules</a>
 </p>
 </li>
@@ -35,12 +38,6 @@ variant: tiptap
 <p><a href="https://studentgpa.incomegroupins.com.sg/" rel="noopener noreferrer nofollow" target="_blank">NTUC Income Group Personal Accident Insurance for Students</a>
 <br>
 </p>
-</li>
-<li>
-<p>Blackmore Academy X
-<br>
-</p>
-<p></p>
 </li>
 </ul>
 <h4>E-Learning Platforms</h4>
