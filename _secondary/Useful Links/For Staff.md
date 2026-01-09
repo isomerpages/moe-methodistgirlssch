@@ -12,6 +12,10 @@ variant: tiptap
 </p>
 </li>
 <li>
+<p><a href="/blackmore-academy-x/" rel="noopener nofollow" target="_blank">Blackmore Academy X</a>
+</p>
+</li>
+<li>
 <p><a href="https://sites.google.com/mgs.sch.edu.sg/mgslibrary/home?authuser=0" rel="noopener noreferrer nofollow" target="_blank">MGS Library Google Site</a>
 </p>
 </li>
@@ -22,10 +26,7 @@ variant: tiptap
 <li>
 <p><a href="https://mgs.ntrix.sg/" rel="noopener noreferrer nofollow" target="_blank">MGS Ntrix</a>
 </p>
-</li>
-<li>
-<p><a href="/blackmore-academy-x/" rel="noopener nofollow" target="_blank">Blackmore Academy X</a>
-</p>
+<p></p>
 </li>
 </ul>
 <h3>MOE Links</h3>
