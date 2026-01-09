@@ -8,6 +8,10 @@ variant: tiptap
 <h3>Useful Links</h3>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="/blackmore-academy-x/" rel="noopener nofollow" target="_blank">Blackmore Academy X</a>
+</p>
+</li>
+<li>
 <p><a href="https://staging.dt6ildc2mnegy.amplifyapp.com/secondary/useful-links/for-student/loan-of-mgs-uniform-one/" rel="noopener noreferrer nofollow" target="_blank">Loan of MGS Uniform One</a>
 </p>
 </li>
@@ -21,10 +25,6 @@ variant: tiptap
 </li>
 <li>
 <p><a href="https://mgs.ntrix.sg/" rel="noopener noreferrer nofollow" target="_blank">MGS Ntrix</a>
-</p>
-</li>
-<li>
-<p><a href="/blackmore-academy-x/" rel="noopener nofollow" target="_blank">Blackmore Academy X</a>
 </p>
 </li>
 <li>
