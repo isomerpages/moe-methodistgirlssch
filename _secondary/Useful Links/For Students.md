@@ -24,7 +24,8 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p>Blackmore Academy X</p>
+<p><a href="/blackmore-academy-x/" rel="noopener nofollow" target="_blank">Blackmore Academy X</a>
+</p>
 </li>
 <li>
 <p><a href="https://drive.google.com/file/d/1v6ndWsWfDeSwSHG4Djz4mNxfaFNx6xvs/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">MGS School Rules</a>
