@@ -13,5 +13,4 @@ with the wider community. Anchored in the spirit of <strong>MGLearns</strong> an
 Blackmore Academy X helps students discover and develop their interests,
 extend their strengths, and grow as confident, principled, and future-ready
 learners.</p>
-<h4><a href="https://blackmoreacademyx.seemeconnect.com/" rel="noopener noreferrer nofollow" target="_blank">https://blackmoreacademyx.seemeconnect.com/</a></h4>
 <p></p>
