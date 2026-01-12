@@ -24,7 +24,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://mgs.ntrix.sg/" rel="noopener noreferrer nofollow" target="_blank">MGS Ntrix</a>
+<p><a href="https://mgsv2.ntrix.sg/" rel="noopener noreferrer nofollow" target="_blank">MGS Ntrix</a>
 </p>
 <p></p>
 </li>
