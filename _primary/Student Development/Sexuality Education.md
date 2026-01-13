@@ -6,8 +6,6 @@ third_nav_title: Student Development
 variant: tiptap
 ---
 <h1>MOE Sexuality Education in Schools</h1>
-<ol data-tight="true" class="tight">
-<li>
 <p>Sexuality Education (SEd) in schools aims to enable students to understand
 the physiological, social and emotional changes they experience as they
 mature, develop healthy and rewarding relationships with others, including
@@ -18,10 +16,8 @@ marriages and stable nuclear family units with extended family support.
 The teaching and learning of SEd is based on respect for the values and
 beliefs of the different ethnic and religious communities in Singapore
 on sexuality issues.</p>
-</li>
-</ol>
 <p></p>
-<h4>The Goals of Sexuality Education are:</h4>
+<h4>The <strong>Goals</strong> of Sexuality Education are:</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Support students in managing their physiological, social and emotional
@@ -36,7 +32,8 @@ matters.</p>
 by having positive mainstream values and attitudes about sexuality that
 are premised on the family as the basic unit of society.</p>
 <p></p>
-<h4>The Key Messages of Sexuality Education are:</h4>
+<p></p>
+<h4>The <strong>Key Messages</strong> of Sexuality Education are:</h4>
 </li>
 <li>
 <p>Love and respect yourself as you love and respect others;</p>
@@ -54,14 +51,14 @@ unintended pregnancies. Casual sex can harm and hurt you and your loved
 ones.</p>
 </li>
 </ul>
-<p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+<p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> for
 more information on MOE Sexuality Education.</p>
 <p></p>
 <h4><strong>Overview of Methodist Girls’ School’s Sexuality Education Programme for 2025</strong></h4>
 <p>Sexuality Education is delivered in a holistic manner through the school
 curriculum. The content for Sexuality Education is grouped into five main
 themes: Human Development, Interpersonal Relationships, Sexual Health,
-Sexual Behaviour, and,Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+Sexual Behaviour, and Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> for
 more information on the scope of Sexuality Education in the school curriculum.</p>
 <h4>The subjects that incorporate topics on sexuality include:</h4>
 <ul data-tight="true" class="tight">
@@ -72,7 +69,7 @@ more information on the scope of Sexuality Education in the school curriculum.</
 <p>Character and Citizenship Education (CCE)</p>
 </li>
 </ul>
-<h4><u>Sexuality Education Lessons:</u></h4>
+<h4><strong>Sexuality Education Lessons:</strong></h4>
 <p>The upper primary years mark the onset of puberty. With better nutrition
 and improved health care, children are reaching puberty at a younger age
 and have to grapple with physical, emotional and psychological changes
@@ -138,7 +135,7 @@ affected, even when one’s body is experiencing changes due to puberty.&nbsp;</
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2</p>
+<p>Term 1</p>
 </td>
 </tr>
 <tr>
@@ -158,7 +155,7 @@ own responses when they encounter pornography by applying the strategy <strong>�
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2</p>
+<p>Term 3</p>
 </td>
 </tr>
 <tr>
@@ -174,9 +171,12 @@ victims. They also learn how to take precautionary measures to be safe
 and how to seek help for themselves and their friends.</p>
 <p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
 </p>
+<p>
+<br>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3&nbsp;</p>
+<p>Term 4</p>
 </td>
 </tr>
 </tbody>
@@ -219,9 +219,13 @@ and how to seek help for themselves and their friends.</p>
 <p>Lesson 1 (60 min)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Students will learn to distinguish between the characteristics&nbsp; of
-love and infatuation, and&nbsp;identify the strong emotions that may arise
-from experiencing the feelings of infatuation.</p>
+<p>In this lesson, students will learn to distinguish between the characteristics
+of love and infatuation, and identify the strong emotions that may arise
+from experiencing the feelings of infatuation. They will recognise that
+experiencing feelings of infatuation is part of growing up and becoming
+infatuated with someone does not mean that they should be involved in a
+romantic relationship. Instead, they should focus on building strong and
+healthy friendships with their circles of friends.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 2</p>
@@ -234,24 +238,25 @@ from experiencing the feelings of infatuation.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Students will learn healthy ways to manage the emotions arising from infatuation
-and recognise the importance of respecting the boundaries of any relationship.
-They will also recognise the negative impact of teasing their peers who
-may be experiencing the feelings of infatuation.</p>
+<p>In this lesson, students will learn healthy ways to manage the emotions
+arising from infatuation and recognise the importance of respecting the
+boundaries of any relationship. They will also recognise the negative impact
+of teasing their peers who may be experiencing the feelings of infatuation
+and learn to behave maturely towards each other.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 4</p>
+<p>Term 2</p>
 </td>
 </tr>
 </tbody>
 </table>
 <h4><strong>Information for Parents</strong></h4>
 <p>Parents may opt their children out of Sexuality Education lessons, and/or
-supplementary Sexuality Education programmes by MOE-approved external providers.&nbsp;</p>
+supplementary Sexuality Education programmes by MOE-approved external providers.</p>
 <p>Parents who wish to opt their children out of the Sexuality Education
-lessons need to complete an opt-out form. This form will be communicated&nbsp;
-to parents at the start of the year and is also downloadable <a href="https://drive.google.com/file/d/1r6LJZwmmAPOuhDmXRdefjrtwoFzA16we/view?usp=drive_link" rel="noopener nofollow" target="_blank">HERE</a> .
-The completed opt-out form is to be submitted by 7 March 2025.</p>
+lessons need to complete an opt-out form. This form will be communicated
+to parents at the start of the year and is also available <a href="https://form.gov.sg/6964b53f31ed7e8ac801a0d0" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> .
+The completed opt-out form is to be submitted by 6 Feb 2026.</p>
 <p>Parents can contact the school at 6469 4800 and email to <a href="mailto:jayanthi_kadiresan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jayanthi_kadiresan@schools.gov.sg</a> for
 discussion or to seek clarification about the school’s Sexuality Education
 programme.</p>
