@@ -54,7 +54,7 @@ ones.</p>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> for
 more information on MOE Sexuality Education.</p>
 <p></p>
-<h4><strong>Overview of Methodist Girls’ School’s Sexuality Education Programme for 2025</strong></h4>
+<h4><strong>Overview of Methodist Girls’ School’s Sexuality Education Programme for 2026</strong></h4>
 <p>Sexuality Education is delivered in a holistic manner through the school
 curriculum. The content for Sexuality Education is grouped into five main
 themes: Human Development, Interpersonal Relationships, Sexual Health,
@@ -87,7 +87,7 @@ years. They learn to build healthy and rewarding relationships with others,
 including those with members of the opposite sex. Students are also guided
 to make wise, informed and responsible decisions to keep themselves safe
 from sexuality-related risks.</p>
-<h4><strong>At METHODIST GIRLS’ SCHOOL (PRIMARY), the following Sexuality Education lessons will be taught in 2025:</strong></h4>
+<h4><strong>At METHODIST GIRLS’ SCHOOL (PRIMARY), the following Sexuality Education lessons will be taught in 2026:</strong></h4>
 <h4><strong>Primary 5</strong></h4>
 <table style="minWidth: 100px">
 <colgroup>
