@@ -108,7 +108,7 @@ Primary Six</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong> Friday 6 February 2026, 3pm&nbsp;</strong>
+<p><strong>Friday 6 February 2026, 3pm&nbsp;</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
