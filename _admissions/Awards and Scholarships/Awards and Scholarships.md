@@ -8,9 +8,9 @@ variant: tiptap
 <div class="iframe-wrapper">
 <iframe height="1152" width="794" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTeUMefEi4BbP-zvpqGFbDWfH3-2V3UVTJa1jz3qFweUxA7eog-q-VvNR2Y3L1jy-aSjQMKfj8lSqLw/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
-<h2>MGS Awards and Scholarships 2025</h2>
+<h2>MGS Awards and Scholarships 2026</h2>
 <p>Methodist Girls’ School&nbsp; invites our students to apply for the following
-Awards and Scholarships in 2025:</p>
+Awards and Scholarships in 2026:</p>
 <p><strong>(I) Puan Sri Helene Tan Chin Tuan Scholarships</strong>
 </p>
 <p><strong>(II) Jumabhoy Impact Award&nbsp;</strong>
@@ -27,7 +27,7 @@ around them.</p>
 <p>It is important that all awardees are of good character,&nbsp; role modelling
 our MGS values and motto. Our values and motto are articulated on our MGS
 website, which you can find at the following <a href="https://www.mgs.moe.edu.sg/about-us/our-identity/" rel="noopener noreferrer nofollow" target="_blank">link</a>.&nbsp;</p>
-<p>Please refer to the <a href="https://drive.google.com/file/d/15gcQ9yP-V97y3H3-3_KqzVDCXD5KKRu0/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank"><u>MGS Scholarships and Awards Guidelines</u></a> for
+<p>Please refer to the <a href="https://drive.google.com/file/d/1JmP-z3unAmxBLFZbGANWFNWS0F2l7TaT/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank"><u>MGS Awards and Scholarships Guidelines </u></a>for
 more information on each scholarship/ award.</p>
 <p></p>
 <h3>CLOSING DATE FOR SUBMISSIONS:</h3>
