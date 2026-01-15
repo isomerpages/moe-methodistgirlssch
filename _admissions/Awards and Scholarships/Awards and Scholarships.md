@@ -31,14 +31,14 @@ website, which you can find at the following <a href="https://www.mgs.moe.edu.sg
 more information on each scholarship/ award.</p>
 <p></p>
 <h3>CLOSING DATE FOR SUBMISSIONS:</h3>
-<p>(i) <strong>Friday 7 February 2025 3pm&nbsp;</strong>
+<p>(i) <strong>Friday 30 January 2026 3pm&nbsp;</strong>
 </p>
 <p>For Current Secondary Four/ Year Four students<strong> and&nbsp;</strong> 
 <br>Current Secondary One/ Year One students who continue their studies in
 MGS from Primary Six</p>
 <p></p>
-<p>(ii)<strong> Tuesday 11 February 2025 3pm.</strong>&nbsp;</p>
-<p>For Secondary/ Year Four O-Level/ IP graduate (Class of 2024)</p>
+<p>(ii)<strong> Friday 6 February 2026 3pm.</strong>&nbsp;</p>
+<p>For Secondary/ Year Four O-Level/ IP graduate (Class of 2025)</p>
 <p>Please note that your Scholarship and/ or Award application is deemed
 incomplete if the required documents are not submitted in your application.
 All personal data collected will be used only for the purpose of evaluating
@@ -49,9 +49,9 @@ purpose.&nbsp;</p>
 <p>Kindly submit the completed application form (including files and supporting
 documents) to the respective FORMSG:</p>
 <p><strong>Puan Sri Helene Tan Chin Tuan Scholarships</strong> 
-<br>(i) <a href="https://go.gov.sg/2024mgsp6pshtct" rel="noopener noreferrer nofollow" target="_blank">Application for Puan Sri Helene Tan Chin Tuan Scholarship - MGS Primary 6 (2024)</a> 
-<br>(ii) <a href="https://go.gov.sg/2024sy3pshtct" rel="noopener noreferrer nofollow" target="_blank">Application for Puan Sri Helene Tan Chin Tuan Scholarship - MGS Sec / Yr 3 (2024)</a> 
-<br>(iii) <a href="https://go.gov.sg/2024sy4pshtct" rel="noopener noreferrer nofollow" target="_blank">Application for Puan Sri Helene Tan Chin Tuan Scholarship - MGS Sec / Yr 4 (2024)</a>
+<br>(i) <a href="https://go.gov.sg/2025mgsp6pshtct" rel="noopener noreferrer nofollow" target="_blank">Application for Puan Sri Helene Tan Chin Tuan Scholarship - MGS Primary 6 (2025)</a> 
+<br>(ii) <a href="https://go.gov.sg/2025sy3pshtct" rel="noopener noreferrer nofollow" target="_blank">Application for Puan Sri Helene Tan Chin Tuan Scholarship - MGS Sec / Yr 3 (2025)</a> 
+<br>(iii) <a href="https://go.gov.sg/2025sy4pshtct" rel="noopener noreferrer nofollow" target="_blank">Application for Puan Sri Helene Tan Chin Tuan Scholarship - MGS Sec / Yr 4 (2025)</a>
 </p>
 <p><strong>Jumabhoy Impact Award</strong> 
 <br><a href="https://go.gov.sg/2024sy3jumabhoyimpactaward" rel="noopener noreferrer nofollow" target="_blank">Application for Jumabhoy Impact Award - MGS Sec / Yr 3 (2024)</a>
