@@ -8,9 +8,9 @@ variant: tiptap
 <div class="iframe-wrapper">
 <iframe height="1152" width="794" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTeUMefEi4BbP-zvpqGFbDWfH3-2V3UVTJa1jz3qFweUxA7eog-q-VvNR2Y3L1jy-aSjQMKfj8lSqLw/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
-<h2>MGS Awards and Scholarships 2025</h2>
+<h2>MGS Awards and Scholarships 2026</h2>
 <p>Methodist Girls’ School&nbsp; invites our students to apply for the following
-Awards and Scholarships in 2025:</p>
+Awards and Scholarships in 2026:</p>
 <p><strong>(I) Puan Sri Helene Tan Chin Tuan Scholarships</strong>
 </p>
 <p><strong>(II) Jumabhoy Impact Award&nbsp;</strong>
@@ -27,18 +27,18 @@ around them.</p>
 <p>It is important that all awardees are of good character,&nbsp; role modelling
 our MGS values and motto. Our values and motto are articulated on our MGS
 website, which you can find at the following <a href="https://www.mgs.moe.edu.sg/about-us/our-identity/" rel="noopener noreferrer nofollow" target="_blank">link</a>.&nbsp;</p>
-<p>Please refer to the <a href="https://drive.google.com/file/d/15gcQ9yP-V97y3H3-3_KqzVDCXD5KKRu0/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank"><u>MGS Scholarships and Awards Guidelines</u></a> for
+<p>Please refer to the <a href="https://drive.google.com/file/d/1JmP-z3unAmxBLFZbGANWFNWS0F2l7TaT/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank"><u>MGS Awards and Scholarships Guidelines </u></a>for
 more information on each scholarship/ award.</p>
 <p></p>
 <h3>CLOSING DATE FOR SUBMISSIONS:</h3>
-<p>(i) <strong>Friday 7 February 2025 3pm&nbsp;</strong>
+<p>(i) <strong>Friday 30 January 2026, 3pm&nbsp;</strong>
 </p>
 <p>For Current Secondary Four/ Year Four students<strong> and&nbsp;</strong> 
 <br>Current Secondary One/ Year One students who continue their studies in
 MGS from Primary Six</p>
 <p></p>
-<p>(ii)<strong> Tuesday 11 February 2025 3pm.</strong>&nbsp;</p>
-<p>For Secondary/ Year Four O-Level/ IP graduate (Class of 2024)</p>
+<p>(ii)<strong> Friday 6 February 2026, 3pm.</strong>&nbsp;</p>
+<p>For Secondary/ Year Four O-Level/ IP graduate (Class of 2025)</p>
 <p>Please note that your Scholarship and/ or Award application is deemed
 incomplete if the required documents are not submitted in your application.
 All personal data collected will be used only for the purpose of evaluating
@@ -49,17 +49,17 @@ purpose.&nbsp;</p>
 <p>Kindly submit the completed application form (including files and supporting
 documents) to the respective FORMSG:</p>
 <p><strong>Puan Sri Helene Tan Chin Tuan Scholarships</strong> 
-<br>(i) <a href="https://go.gov.sg/2024mgsp6pshtct" rel="noopener noreferrer nofollow" target="_blank">Application for Puan Sri Helene Tan Chin Tuan Scholarship - MGS Primary 6 (2024)</a> 
-<br>(ii) <a href="https://go.gov.sg/2024sy3pshtct" rel="noopener noreferrer nofollow" target="_blank">Application for Puan Sri Helene Tan Chin Tuan Scholarship - MGS Sec / Yr 3 (2024)</a> 
-<br>(iii) <a href="https://go.gov.sg/2024sy4pshtct" rel="noopener noreferrer nofollow" target="_blank">Application for Puan Sri Helene Tan Chin Tuan Scholarship - MGS Sec / Yr 4 (2024)</a>
+<br>(i) <a href="https://go.gov.sg/2025mgsp6pshtct" rel="noopener noreferrer nofollow" target="_blank">Application for Puan Sri Helene Tan Chin Tuan Scholarship - MGS Primary 6 (2025)</a> 
+<br>(ii) <a href="https://go.gov.sg/2025sy3pshtct" rel="noopener noreferrer nofollow" target="_blank">Application for Puan Sri Helene Tan Chin Tuan Scholarship - MGS Sec / Yr 3 (2025)</a> 
+<br>(iii) <a href="https://go.gov.sg/2025sy4pshtct" rel="noopener noreferrer nofollow" target="_blank">Application for Puan Sri Helene Tan Chin Tuan Scholarship - MGS Sec / Yr 4 (2025)</a>
 </p>
 <p><strong>Jumabhoy Impact Award</strong> 
-<br><a href="https://go.gov.sg/2024sy3jumabhoyimpactaward" rel="noopener noreferrer nofollow" target="_blank">Application for Jumabhoy Impact Award - MGS Sec / Yr 3 (2024)</a>
-<br><a href="https://go.gov.sg/2024sy4jumabhoyimpactaward" rel="noopener noreferrer nofollow" target="_blank">Application for Jumabhoy Impact Award - MGS Sec / Yr 4 (2024)</a>
+<br><a href="https://go.gov.sg/2025sy3n4jumabhoyimpactaward" rel="noopener noreferrer nofollow" target="_blank">Application for Jumabhoy Impact Award - MGS Sec / Yr 3 &amp; 4 (2025)</a>
+<br>
 </p>
 <p><strong>Tommy Koh Award for Arts and Creativity</strong> 
-<br><a href="https://go.gov.sg/2024sy3tommykohawardforartsandcreativity" rel="noopener noreferrer nofollow" target="_blank">Application for Tommy Koh Award for Arts &amp; Creativity - MGS Sec / Yr 3 (2024)</a>
-<br><a href="https://go.gov.sg/2024sy4tommykohawardforartsandcreativity" rel="noopener noreferrer nofollow" target="_blank">Application for Tommy Koh Award for Arts &amp; Creativity - MGS Sec / Yr 4 (2024)</a>
+<br><a href="https://go.gov.sg/2025sy3n4tommykohawardsforartsandcreativity" rel="noopener noreferrer nofollow" target="_blank">Application for Tommy Koh Award for Arts &amp; Creativity - MGS Sec / Yr 3 &amp; 4 (2025)</a>
+<br>
 </p>
 <p></p>
 <table style="minWidth: 50px">
@@ -78,26 +78,26 @@ documents) to the respective FORMSG:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Tuesday 14 January 2025</strong>
+<p><strong>Friday 16 January 2026</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Communication to Parents on Applications Now Open for 2025 MGS Awards
+<p>Communication to Parents on Applications Now Open for 2026 MGS Awards
 and Scholarships via Parents Gateway.&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Tuesday 14 January to Tuesday 22 February 2025</strong>
+<p><strong>Friday 16 January to Friday 6 February 2026</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Submit your application online through the respective FORMSG.</p>
+<p>Submit your application online through the respective FormSG.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Tuesday 4 February 2025, 3pm&nbsp;</strong>
+<p><strong>Friday 30 January 2026, 3pm&nbsp;</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -108,16 +108,16 @@ Primary Six</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Tuesday 11 February 2025, 3pm&nbsp;</strong>
+<p><strong>Friday 6 February 2026, 3pm&nbsp;</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Submission for Secondary/ Year Four O-Level/ IP graduate of 2024</p>
+<p>Submission for Secondary/ Year Four O-Level/ IP graduate of 2025</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>25, 26, 28 March 2025 (TBC)</strong>
+<p><strong>13, 14, 17 April 2026 (TBC)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -128,7 +128,7 @@ Leaders, Sponsors, MGS Alumnae Association Committee Members and MGS Staff.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>End May 2025 (TBC)</strong>
+<p><strong>End May 2026 (TBC)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
