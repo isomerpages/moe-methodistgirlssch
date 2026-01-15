@@ -31,13 +31,13 @@ website, which you can find at the following <a href="https://www.mgs.moe.edu.sg
 more information on each scholarship/ award.</p>
 <p></p>
 <h3>CLOSING DATE FOR SUBMISSIONS:</h3>
-<p>(i) <strong>Friday 30 January 2026 3pm&nbsp;</strong>
+<p>(i) <strong>Friday 30 January 2026, 3pm&nbsp;</strong>
 </p>
 <p>For Current Secondary Four/ Year Four students<strong> and&nbsp;</strong> 
 <br>Current Secondary One/ Year One students who continue their studies in
 MGS from Primary Six</p>
 <p></p>
-<p>(ii)<strong> Friday 6 February 2026 3pm.</strong>&nbsp;</p>
+<p>(ii)<strong> Friday 6 February 2026, 3pm.</strong>&nbsp;</p>
 <p>For Secondary/ Year Four O-Level/ IP graduate (Class of 2025)</p>
 <p>Please note that your Scholarship and/ or Award application is deemed
 incomplete if the required documents are not submitted in your application.
@@ -58,8 +58,8 @@ documents) to the respective FORMSG:</p>
 <br>
 </p>
 <p><strong>Tommy Koh Award for Arts and Creativity</strong> 
-<br><a href="https://go.gov.sg/2024sy3tommykohawardforartsandcreativity" rel="noopener noreferrer nofollow" target="_blank">Application for Tommy Koh Award for Arts &amp; Creativity - MGS Sec / Yr 3 (2025)</a>
-<br><a href="https://go.gov.sg/2024sy4tommykohawardforartsandcreativity" rel="noopener noreferrer nofollow" target="_blank">Application for Tommy Koh Award for Arts &amp; Creativity - MGS Sec / Yr 4 (2024)</a>
+<br><a href="https://go.gov.sg/2025sy3n4tommykohawardsforartsandcreativity" rel="noopener noreferrer nofollow" target="_blank">Application for Tommy Koh Award for Arts &amp; Creativity - MGS Sec / Yr 3 &amp; 4 (2025)</a>
+<br>
 </p>
 <p></p>
 <table style="minWidth: 50px">
@@ -78,26 +78,26 @@ documents) to the respective FORMSG:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Tuesday 14 January 2025</strong>
+<p><strong>Friday 16 January 2026</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Communication to Parents on Applications Now Open for 2025 MGS Awards
+<p>Communication to Parents on Applications Now Open for 2026 MGS Awards
 and Scholarships via Parents Gateway.&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Tuesday 14 January to Tuesday 22 February 2025</strong>
+<p><strong>Friday 16 January to Friday 6 February 2026</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Submit your application online through the respective FORMSG.</p>
+<p>Submit your application online through the respective FormSG.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Tuesday 4 February 2025, 3pm&nbsp;</strong>
+<p><strong>Friday 30 January 2026, 3pm&nbsp;</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -108,16 +108,16 @@ Primary Six</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Tuesday 11 February 2025, 3pm&nbsp;</strong>
+<p><strong> Friday 6 February 2026, 3pm&nbsp;</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Submission for Secondary/ Year Four O-Level/ IP graduate of 2024</p>
+<p>Submission for Secondary/ Year Four O-Level/ IP graduate of 2025</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>25, 26, 28 March 2025 (TBC)</strong>
+<p><strong>13, 14, 17 April 2026 (TBC)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -128,7 +128,7 @@ Leaders, Sponsors, MGS Alumnae Association Committee Members and MGS Staff.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>End May 2025 (TBC)</strong>
+<p><strong>End May 2026 (TBC)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
