@@ -445,7 +445,7 @@ variant: tiptap
 <p>Secondary 3 AYH</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:gillian_lim_sze_min@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Gillian Lei</a>
+<p><a href="mailto:gillian_lim_sze_min_A@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Gillian Lei</a>
 </p>
 </td>
 </tr>
