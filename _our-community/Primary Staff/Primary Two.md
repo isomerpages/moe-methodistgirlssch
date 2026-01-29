@@ -12,5 +12,5 @@ variant: markdown
 |P2.3|[Mrs Amy Ng](mailto:fang_yingying_amy@schools.gov.sg)|[Ms Jocelyn Chua](mailto:Jocelyn_CHUA@schools.gov.sg) 
 |P2.4| [Mrs Michelle Sin](mailto:michelle_sin@schools.gov.sg)|[Mr Tan See Chow](mailto:tan_see_chow@schools.gov.sg)
 |P2.5|[Mrs Evelyn Ong](mailto:tan_ee_ming_evelyn@schools.gov.sg) |[Ms Neo Shiwei](mailto:neo_shiwei@schools.gov.sg)|
-|P2.6|[Mdm Siti Maisarah](mailto:siti_maisarah_mohamed_wafa@schools.gov.sg)|[Mrs Lily Pook](mailto:pook_lily@moe.edu.sg )|
+|P2.6|[Mdm Siti Maisarah](mailto:siti_maisarah_mohamed_wafa@schools.gov.sg)|[Mrs Lily Pook](mailto:POOK_LILY@schools.gov.sg)|
 |P2.7|[Mdm Lim Yung Hui](mailto:lim_yung_hui@schools.gov.sg)|[Mrs Katherine Hah](mailto:katherine_loi_huay_kiew@schools.gov.sg)
