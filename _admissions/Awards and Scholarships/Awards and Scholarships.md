@@ -6,7 +6,7 @@ third_nav_title: Awards and Scholarships
 variant: tiptap
 ---
 <div class="iframe-wrapper">
-<iframe height="1152" width="794" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTeUMefEi4BbP-zvpqGFbDWfH3-2V3UVTJa1jz3qFweUxA7eog-q-VvNR2Y3L1jy-aSjQMKfj8lSqLw/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="1152" width="794" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTeUMefEi4BbP-zvpqGFbDWfH3-2V3UVTJa1jz3qFweUxA7eog-q-VvNR2Y3L1jy-aSjQMKfj8lSqLw/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <h2>MGS Awards and Scholarships 2026</h2>
 <p>Methodist Girls’ School&nbsp; invites our students to apply for the following
@@ -88,7 +88,7 @@ and Scholarships via Parents Gateway.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Friday 16 January to Friday 6 February 2026</strong>
+<p><strong>Friday 16 January to Wednesday 11 February 2026</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -97,7 +97,7 @@ and Scholarships via Parents Gateway.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Friday 30 January 2026, 3pm&nbsp;</strong>
+<p><strong>Thursday 5 February 2026, 3pm&nbsp;</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -108,7 +108,7 @@ Primary Six</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Friday 6 February 2026, 3pm&nbsp;</strong>
+<p><strong>Wednesday 11 February 2026, 3pm&nbsp;</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
