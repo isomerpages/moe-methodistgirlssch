@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ-2abSuBQ2FfUjgl2BWBWbfqcX3svgsjH_hhLEB4DBh9vNhBxPQv1GpxATP0FM_BAWAjp5hhmSRroi/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ-2abSuBQ2FfUjgl2BWBWbfqcX3svgsjH_hhLEB4DBh9vNhBxPQv1GpxATP0FM_BAWAjp5hhmSRroi/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h3>Empowering Tomorrow's Leaders: Our 1:1 Learning Programme</h3>
 <p>In today's fast-paced world, technology is revolutionizing every aspect
@@ -64,7 +64,7 @@ with a Personal Learning Device:</p>
 </li>
 </ul>
 <div class="iframe-wrapper">
-<iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQp-W4mmXtsbpooIwtrOXogEgVdgiKA7HiPuBGga1erL0PEHc1rCh-5Nr5-gjPRaNCgd619U0NmHbgB/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQp-W4mmXtsbpooIwtrOXogEgVdgiKA7HiPuBGga1erL0PEHc1rCh-5Nr5-gjPRaNCgd619U0NmHbgB/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <h3>DMA Option for Parents</h3>
 <p><a href="https://go.gov.sg/mgsdmaoption" rel="noopener noreferrer nofollow" target="_blank">Click here</a>&nbsp;&nbsp;to
@@ -75,11 +75,11 @@ change your DMA Options.</p>
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/142GAlVfYc-1ECB7vJFoYcp2QVn7YKFmu/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">DMA Parent User Guide for Option A</a>
+<p><a href="https://drive.google.com/file/d/1E1meJs7LdlYRBoUYzzxja6nN-TsBo3Ob/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">DMA Parent User Guide for Option A</a>
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/1Jmw9mLdesrU83-I974IZBWXy_FdEwD4q/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">DMA Parent User Guide for Option B</a>
+<p><a href="https://drive.google.com/file/d/1gxlZpyKVWqW8MVvBnASM6tQmQssSNfFC/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">DMA Parent User Guide for Option B</a>
 </p>
 </li>
 </ul>
