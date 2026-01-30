@@ -11,7 +11,7 @@ variant: tiptap
 <br>Senior&nbsp;Executive (Procurement): Ms Ruth Chng
 <br>Executive (Procurement) : Mdm Sulaigal</p>
 <h3><strong>ALLIED EDUCATORS AND COUNSELLORS</strong></h3>
-<p>Education and Career Guidance (ECG) Counsellor:&nbsp;<a href="mailto:sylvia_ng_pik_san@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Sylvia Ng</a> 
+<p>Education and Career Guidance (ECG) Counsellor:&nbsp;<a href="mailto:Goh_Sue_Chern_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Susan Goh</a>
 <br>Education and Career Guidance (ECG) Counsellor:&nbsp;<a href="mailto:tan_lay_theng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Dr Tan Lay Theng</a> 
 <br>Learning and Behavioural Support:&nbsp;<a href="mailto:Nimala_Mokhna_Rau@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Nimala Rau</a> 
 <br>School Counsellor: Ms Javine Kiew: <a href="mailto:Javine_Kiew@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Javine Kiew</a>
