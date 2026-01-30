@@ -57,11 +57,9 @@ applicants that only shortlisted candidates will be notified.</p>
 <p>We welcome qualified and highly motivated individuals with a strong passion
 for teaching of the following subjects and key personnel positions.</p>
 <p><strong>Key Personnel Positions</strong>
-<br>HOD Mother Tongue Language
-<br>Subject Head, Chinese Language
-<br>Subject Head, Character and Citizenship Education
-<br>Subject Head, Aesthetics</p>
-<p><strong>Teachers</strong>
+<br>Subject Head, Chinese Language</p>
+<p>
+<br><strong>Teachers</strong>
 <br>Art
 <br>Biology
 <br>Chemistry
