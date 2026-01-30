@@ -11,7 +11,7 @@ variant: tiptap
 <br>Senior&nbsp;Executive (Procurement): Ms Ruth Chng
 <br>Executive (Procurement) : Mdm Sulaigal</p>
 <h3><strong>ALLIED EDUCATORS AND COUNSELLORS</strong></h3>
-<p>Education and Career Guidance (ECG) Counsellor:&nbsp;<a href="mailto:sylvia_ng_pik_san@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Sylvia Ng</a> 
+<p>Education and Career Guidance (ECG) Counsellor:&nbsp;<a href="mailto:Goh_Sue_Chern_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Susan Goh</a>
 <br>Education and Career Guidance (ECG) Counsellor:&nbsp;<a href="mailto:tan_lay_theng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Dr Tan Lay Theng</a> 
 <br>Learning and Behavioural Support:&nbsp;<a href="mailto:Nimala_Mokhna_Rau@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Nimala Rau</a> 
 <br>School Counsellor: Ms Javine Kiew: <a href="mailto:Javine_Kiew@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Javine Kiew</a>
@@ -25,10 +25,10 @@ variant: tiptap
 <br>Executive: Mr Khairulanwar Bin Mahad
 <br>Operations Support Officer: Mr Chan Keng Seng</p>
 <h3><strong>FINANCE</strong></h3>
-<p>Director:&nbsp;<a href="mailto:cheryl_chan_hp@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Cheryl Chan</a> 
-<br>Manager: <a href="mailto:wayne_ma@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Wayne Ma</a> 
+<p>Director:&nbsp;
+<br>Manager:
 <br>Senior Executive: Ms Debbie Cheng
-<br>Senior Executive: Ms Tee Hui Ping</p>
+<br>Senior Executive: Mr Johnny Chow</p>
 <h3><strong>HUMAN RESOURCES</strong></h3>
 <p>Senior Manager: <a href="YONG_Sheue_Horng@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Yong Sheue Horng</a>
 <br>Manager: <a href="low_wei_jie_jelaine@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Jelaine Low</a>
