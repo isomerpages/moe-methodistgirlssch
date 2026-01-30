@@ -28,7 +28,7 @@ variant: tiptap
 <p>Director:&nbsp;<a href="mailto:cheryl_chan_hp@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Cheryl Chan</a> 
 <br>Manager: <a href="mailto:wayne_ma@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Wayne Ma</a> 
 <br>Senior Executive: Ms Debbie Cheng
-<br>Senior Executive: Ms Tee Hui Ping</p>
+<br>Senior Executive: Mr Johnny</p>
 <h3><strong>HUMAN RESOURCES</strong></h3>
 <p>Senior Manager: <a href="YONG_Sheue_Horng@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Yong Sheue Horng</a>
 <br>Manager: <a href="low_wei_jie_jelaine@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Jelaine Low</a>
