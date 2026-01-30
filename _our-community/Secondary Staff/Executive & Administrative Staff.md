@@ -25,10 +25,10 @@ variant: tiptap
 <br>Executive: Mr Khairulanwar Bin Mahad
 <br>Operations Support Officer: Mr Chan Keng Seng</p>
 <h3><strong>FINANCE</strong></h3>
-<p>Director:&nbsp;<a href="mailto:cheryl_chan_hp@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Cheryl Chan</a> 
-<br>Manager: <a href="mailto:wayne_ma@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Wayne Ma</a> 
+<p>Director:&nbsp;
+<br>Manager:
 <br>Senior Executive: Ms Debbie Cheng
-<br>Senior Executive: Mr Johnny</p>
+<br>Senior Executive: Mr Johnny Chow</p>
 <h3><strong>HUMAN RESOURCES</strong></h3>
 <p>Senior Manager: <a href="YONG_Sheue_Horng@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Yong Sheue Horng</a>
 <br>Manager: <a href="low_wei_jie_jelaine@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Jelaine Low</a>
