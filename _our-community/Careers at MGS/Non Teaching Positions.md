@@ -8,5 +8,6 @@ variant: tiptap
 <p></p>
 <p>MGS invites individual with positive attitude and willingness to serve
 to apply for the role of</p>
-<p>no vacancy</p>
+<p>Executive / Senior Executive, Finance
+<br>Senior Manager, Finance</p>
 <p></p>
