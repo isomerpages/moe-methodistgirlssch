@@ -57,8 +57,8 @@ applicants that only shortlisted candidates will be notified.</p>
 <p>We welcome qualified and highly motivated individuals with a strong passion
 for teaching of the following subjects and key personnel positions.</p>
 <p><strong>Key Personnel Positions</strong>
-<br>Subject Head, Chinese Language</p>
-<p>
+<br>Subject Head, Chinese Language
+<br>
 <br><strong>Teachers</strong>
 <br>Art
 <br>Biology
