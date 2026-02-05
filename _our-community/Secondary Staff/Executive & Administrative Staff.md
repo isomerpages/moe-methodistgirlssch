@@ -25,7 +25,7 @@ variant: tiptap
 <br>Executive: Mr Khairulanwar Bin Mahad
 <br>Operations Support Officer: Mr Chan Keng Seng</p>
 <h3><strong>FINANCE</strong></h3>
-<p>Director:&nbsp;
+<p>Senior Manager:&nbsp;
 <br>Manager:
 <br>Senior Executive: Ms Debbie Cheng
 <br>Senior Executive: Mr Johnny Chow</p>
@@ -34,6 +34,7 @@ variant: tiptap
 <br>Manager: <a href="low_wei_jie_jelaine@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Jelaine Low</a>
 <br>Senior Executive: Ms Chin Si Min
 <br>Senior&nbsp;Executive: Mr Lester Lee
+<br>Executive : Ms Lindawaty Sumar
 <br>
 </p>
 <h3><strong>INFORMATION TECHNOLOGY</strong></h3>
