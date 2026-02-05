@@ -31,13 +31,13 @@ website, which you can find at the following <a href="https://www.mgs.moe.edu.sg
 more information on each scholarship/ award.</p>
 <p></p>
 <h3>CLOSING DATE FOR SUBMISSIONS:</h3>
-<p>(i) <strong>Friday 30 January 2026, 3pm&nbsp;</strong>
+<p>(i) <strong>Thursday 5 February 2026, 3pm&nbsp;</strong>
 </p>
 <p>For Current Secondary Four/ Year Four students<strong> and&nbsp;</strong> 
 <br>Current Secondary One/ Year One students who continue their studies in
 MGS from Primary Six</p>
 <p></p>
-<p>(ii)<strong> Friday 6 February 2026, 3pm.</strong>&nbsp;</p>
+<p>(ii)<strong> Wednesday 11 February 2026, 3pm</strong>&nbsp;</p>
 <p>For Secondary/ Year Four O-Level/ IP graduate (Class of 2025)</p>
 <p>Please note that your Scholarship and/ or Award application is deemed
 incomplete if the required documents are not submitted in your application.
