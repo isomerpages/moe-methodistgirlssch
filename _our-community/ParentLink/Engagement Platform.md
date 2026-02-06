@@ -95,15 +95,6 @@ schedule:
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>April<em> (date tbc)</em>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>IGL Parent-Child Bonding</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>May 16, Saturday</p>
 </td>
 <td rowspan="1" colspan="1">
