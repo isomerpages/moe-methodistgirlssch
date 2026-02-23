@@ -27,9 +27,9 @@ School (Independent) in Years 5 and 6.</p>
 <p>The&nbsp;<strong>MGS SEC Programme is a four-year programme</strong>&nbsp;culminating
 in the Singapore-Cambridge SEC examinations, after which various post-secondary
 options are available.</p>
+<p></p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <p>For more information about DSA-Sec, parents can refer to the MOE website
 at <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa</a>.</p>
 <p><strong>MGS DSA TALENT AREAS FOR 2026:</strong>
