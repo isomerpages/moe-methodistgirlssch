@@ -26,7 +26,7 @@ variant: tiptap
 <br>Operations Support Officer: Mr Chan Keng Seng</p>
 <h3><strong>FINANCE</strong></h3>
 <p>Senior Manager:&nbsp;
-<br>Manager:
+<br>Manager: Ms Coleen Lee
 <br>Senior Executive: Ms Debbie Cheng
 <br>Senior Executive: Mr Johnny Chow</p>
 <h3><strong>HUMAN RESOURCES</strong></h3>
