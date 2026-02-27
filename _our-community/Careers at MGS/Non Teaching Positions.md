@@ -8,6 +8,7 @@ variant: tiptap
 <p></p>
 <p>MGS invites individual with positive attitude and willingness to serve
 to apply for the role of</p>
-<p>Executive / Senior Executive, Finance
+<p>
 <br>Senior Manager, Finance</p>
-<p></p>
+<p>Executive, Administration - <a href="https://sg.jobstreet.com/job/90561843?ref=cm-ui" rel="noopener noreferrer nofollow" target="_blank">https://sg.jobstreet.com/job/90561843?ref=cm-ui</a>
+</p>
