@@ -9,7 +9,8 @@ variant: tiptap
 <p>Senior Manager: <a href="mailto:Anthony_Phua@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Anthony Phua</a> 
 <br>Senior Executive: Ms Ho Wai Fun
 <br>Senior&nbsp;Executive (Procurement): Ms Ruth Chng
-<br>Executive (Procurement) : Mdm Sulaigal</p>
+<br>Executive (Procurement) : Mdm Sulaigal
+<br>Executive (Admin) : Amuthavalli D/O Muniandy</p>
 <h3><strong>ALLIED EDUCATORS AND COUNSELLORS</strong></h3>
 <p>Education and Career Guidance (ECG) Counsellor:&nbsp;<a href="mailto:Goh_Sue_Chern_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Susan Goh</a>
 <br>Education and Career Guidance (ECG) Counsellor:&nbsp;<a href="mailto:tan_lay_theng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Dr Tan Lay Theng</a> 
