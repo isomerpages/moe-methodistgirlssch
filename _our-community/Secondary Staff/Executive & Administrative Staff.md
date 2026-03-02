@@ -26,7 +26,7 @@ variant: tiptap
 <br>Executive: Mr Khairulanwar Bin Mahad
 <br>Operations Support Officer: Mr Chan Keng Seng</p>
 <h3><strong>FINANCE</strong></h3>
-<p>Senior Manager:&nbsp; Ms Poh Tuan Leng
+<p>Senior Manager:&nbsp;
 <br>Manager: Ms Coleen Lee
 <br>Senior Executive: Ms Debbie Cheng
 <br>Senior Executive: Mr Johnny Chow</p>
