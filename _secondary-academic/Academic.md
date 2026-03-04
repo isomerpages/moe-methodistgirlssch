@@ -14,6 +14,6 @@ and the world.</p>
 and collaborative environment where partnerships enhance learning experiences.</p>
 <p>We nurture an Excellence of spirit that comes from working at something
 with all your heart with openness, curiosity and resilience. Our aim is
-for students to embrace learning as a lifelong journey, staying open to</p>
-<p>possibilities without being constrained by fear of failure, and seeking
+for students to embrace learning as a lifelong journey, staying open to
+possibilities without being constrained by fear of failure, and seeking
 purpose that enriches both self and society.</p>
