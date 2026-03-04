@@ -2,9 +2,9 @@ collections:
   secondary:
     output: true
     order:
-      - Our Educational Experience/Integrated Programme.md
       - Our Educational Experience/.keep
       - Our Educational Experience/Our Educational Experience.md
+      - Our Educational Experience/Integrated Programme.md
       - Our Educational Experience/Curriculum Structure & Subject Options.md
       - Student Development/.keep
       - Student Development/Student Development.md
