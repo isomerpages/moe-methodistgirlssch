@@ -17,3 +17,7 @@ with all your heart with openness, curiosity and resilience. Our aim is
 for students to embrace learning as a lifelong journey, staying open to
 possibilities without being constrained by fear of failure, and seeking
 purpose that enriches both self and society.</p>
+<p></p>
+<h4>OUR DUAL-TRACK PROGRAMMES</h4>
+<p></p>
+<p></p>
