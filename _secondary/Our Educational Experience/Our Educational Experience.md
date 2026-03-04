@@ -3,6 +3,7 @@ title: Our Educational Experience
 permalink: /secondary/education-experience/
 description: ""
 variant: tiptap
+third_nav_title: Our Educational Experience
 ---
 <h2>School Philosophy, Culture and Ethos</h2>
 <div class="isomer-image-wrapper">
@@ -22,17 +23,5 @@ the community and, in serving, learn with and from the community. We are
 invested in coaching our students to be and become their best selves for
 our community, Singapore and the world, each embodying our school motto
 To Master, To Grow, To Serve today, for her life journey of tomorrow.</p>
-<h2>Programmes Offered</h2>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secondary/pic-acad-23.jpg">
-</div>
-<p>MGS is a dual-track school. We offer the four year Singapore-Cambridge
-Secondary Education Certificate Programme, currently known as the O-level
-Programme. We also offer the Integrated Programme that leads to the International
-Baccalaureate Diploma in Anglo-Chinese School (Independent). IP subjects
-include Global Studies, Philosophy, Thinking &amp; Knowledge (PTK) and
-Independent Studies (IS). Curricular programmes include the Music Elective
-Programme (MEP) and Science, Technology, Society and Environment (STSE)
-Week. Co-curricular programmes include Education and Career Guidance, Cyberwellness,
-Values in Action (VIA), Arts Appreciation, Independent Learning Day, Intergenerational
-Learning, Outdoor Education and Student Leadership training opportunities.</p>
+<h2></h2>
+<p></p>
