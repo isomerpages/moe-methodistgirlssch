@@ -5,3 +5,15 @@ variant: tiptap
 description: ""
 ---
 <p></p>
+<p>Learning at MGS is not about production or performance but about process
+with purpose. Mistakes are viewed as opportunities to learn and grow. Students
+are encouraged to make real-world connections and envision how they can
+apply their knowledge and skills to contribute meaningfully to Singapore
+and the world.</p>
+<p>Teachers model lifelong learning alongside students in a positive, supportive
+and collaborative environment where partnerships enhance learning experiences.</p>
+<p>We nurture an Excellence of spirit that comes from working at something
+with all your heart with openness, curiosity and resilience. Our aim is
+for students to embrace learning as a lifelong journey, staying open to</p>
+<p>possibilities without being constrained by fear of failure, and seeking
+purpose that enriches both self and society.</p>
