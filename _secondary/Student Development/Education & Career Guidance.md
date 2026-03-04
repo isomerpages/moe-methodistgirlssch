@@ -1,0 +1,8 @@
+---
+title: Education & Career Guidance
+permalink: /secondary/student-development/cce/ecg/
+description: ""
+third_nav_title: Student Development
+variant: tiptap
+---
+<p>MGS Education and Career Guidance (ECG) seeks to nurture the future-ready MGS girl. The ECG team seeks to empower the MGS girl to identify their sense of purpose in life, encourage her to have a growth mindset, and to be adaptable and resilient to embrace the future opportunities and appreciate the value of all occupations.</p><p>The ECG curriculum will guide our students in:</p><ul data-tight="true" class="tight"><li><p>Discovering Purpose - Who am I?</p></li><li><p>Exploring Opportunities - Where do I want to go?</p></li><li><p>Staying Relevant - How do I get there?</p></li></ul><p>Our MGS ECG site is regularly updated with upcoming events, and development of the Education and Industry landscape.</p><p><a href="https://sites.google.com/mgs.sch.edu.sg/mgsecg/" rel="noopener noreferrer nofollow" target="_blank">Check out our ECG Site!</a> (Sign into your MGS account to access website)</p><p>The MGS ECG Team comprises our ECG Subject Head, Ms Kek Lay Yan (<a href="mailto:kek_lay_yan@mgs.sch.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kek_lay_yan@mgs.sch.edu.sg</a>), and our ECG Counsellors, Ms Sylvia Ng (<a href="mailto:sylvia_ng@mgs.sch.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sylvia_ng@mgs.sch.edu.sg</a>) and Dr Tan Lay Theng (<a href="mailto:tan_lay_theng@mgs.sch.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_lay_theng@mgs.sch.edu.sg</a>).</p>
