@@ -21,3 +21,7 @@ purpose that enriches both self and society.</p>
 <h4>OUR DUAL-TRACK PROGRAMMES</h4>
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secondary/Our_Dual_Track_Programmes.png">
+</div>
+<p></p>
