@@ -2,6 +2,7 @@ collections:
   secondary-academic:
     output: true
     order:
+      - Academic.md
       - Academic/.keep
       - Integrated Programme/.keep
       - Integrated Programme/Integrated Programme.md
