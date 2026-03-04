@@ -23,5 +23,5 @@ the community and, in serving, learn with and from the community. We are
 invested in coaching our students to be and become their best selves for
 our community, Singapore and the world, each embodying our school motto
 To Master, To Grow, To Serve today, for her life journey of tomorrow.</p>
-<h2></h2>
+<h4><a href="https://drive.google.com/file/d/140gRNXjGEe1bj0N5UBLpKCc7HYhqkK9b/view?usp=sharing" rel="noopener nofollow" target="_blank">THE MGS EDUCATION EXPERIENCE BROCHURE</a></h4>
 <p></p>
