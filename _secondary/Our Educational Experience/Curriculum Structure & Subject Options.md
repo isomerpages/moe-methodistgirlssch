@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Our Educational Experience
 ---
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQXRm_qsQ3ovDfcp2yrx2eUZnH1OPmOKqj1T5tPgC78nu4Rq_NZR7QvmSTrNGLQ41mkK6MsGF9uZhOW/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
 <h3>The International Baccalaureate Diploma Programme</h3>
 <p>Find out more about the International Baccalaureate curriculum structure.</p>
 <div class="iframe-wrapper">
