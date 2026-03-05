@@ -2,9 +2,9 @@ collections:
   secondary-academic:
     output: true
     order:
-      - "Academic Programmes/1: 1 Learning Programme.md"
-      - Academic Programmes/Academic.md
       - Academic Programmes/.keep
+      - Academic Programmes/Academic.md
+      - "Academic Programmes/1: 1 Learning Programme.md"
       - Integrated Programme/.keep
       - Integrated Programme/Integrated Programme.md
       - Integrated Programme/Curriculum Structure & Subject Options.md
