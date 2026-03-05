@@ -4,8 +4,6 @@ collections:
     order:
       - Our Educational Experience/.keep
       - Our Educational Experience/Our Educational Experience.md
-      - Our Educational Experience/Integrated Programme.md
-      - Our Educational Experience/Curriculum Structure & Subject Options.md
       - Student Development/.keep
       - Student Development/Student Development.md
       - Student Development/Character and Citizenship Education (CCE).md
@@ -15,7 +13,11 @@ collections:
       - Student Development/Sexuality Education.md
       - Student Development/Values in Action.md
       - Key Programmes/.keep
+      - Key Programmes/Key Programmes.md
       - Key Programmes/Intergenerational Learning (IGL) @ MGS.md
+      - Key Programmes/Learning UnBoxed.md
+      - Key Programmes/MGS ASEAN Programme.md
+      - "Key Programmes/1: 1 Learning Programme.md"
       - Useful Links/.keep
       - Useful Links/For Staff.md
       - Useful Links/For Students.md

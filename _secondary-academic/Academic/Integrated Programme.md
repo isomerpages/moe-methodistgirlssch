@@ -1,9 +1,9 @@
 ---
 title: Integrated Programme
-permalink: /integrated-programme/
-variant: tiptap
+permalink: /secondary/academic/ip/
 description: ""
-third_nav_title: Our Educational Experience
+third_nav_title: Academic
+variant: tiptap
 ---
 <p>The MGS Integrated Programme (IP) is a six-year through-train programme
 that leads to the International Baccalaureate Diploma Programme at Anglo-Chinese
@@ -162,16 +162,24 @@ professionals or contributing to industry projects—students gain insights
 that go beyond textbooks. These experiences enable them to:</p>
 <ul>
 <li>
-<p>Deepen understanding of chosen fields through practical exposure</p>
+<p>Deepen understanding of chosen fields through practical exposure
+<br>
+</p>
 </li>
 <li>
-<p>Build professional networks and connections</p>
+<p>Build professional networks and connections
+<br>
+</p>
 </li>
 <li>
-<p>Develop confidence in real-world settings</p>
+<p>Develop confidence in real-world settings
+<br>
+</p>
 </li>
 <li>
-<p>Make informed decisions about future academic and career paths</p>
+<p>Make informed decisions about future academic and career paths
+<br>
+</p>
 </li>
 </ul>
 <p>PEAK nurtures self-directed learners who pursue their passions with purpose

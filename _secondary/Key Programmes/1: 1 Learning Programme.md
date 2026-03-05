@@ -3,6 +3,7 @@ title: "1: 1 Learning Programme"
 permalink: /secondary/academic/1-1-learning-programme/
 description: ""
 variant: tiptap
+third_nav_title: Key Programmes
 ---
 <p></p>
 <div class="iframe-wrapper">
