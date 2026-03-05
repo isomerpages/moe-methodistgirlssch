@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Our Education Experience/.keep
-      - Our Education Experience/Our Educational Experience.md
+      - Our Education Experience/Our Education Experience.md
       - Student Development/.keep
       - Student Development/Student Development.md
       - Student Development/Character and Citizenship Education (CCE).md
