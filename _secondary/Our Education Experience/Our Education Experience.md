@@ -1,9 +1,9 @@
 ---
-title: Our Educational Experience
+title: Our Education Experience
 permalink: /secondary/education-experience/
 description: ""
 variant: tiptap
-third_nav_title: Our Educational Experience
+third_nav_title: Our Education Experience
 ---
 <h2>School Philosophy, Culture and Ethos</h2>
 <div class="isomer-image-wrapper">
