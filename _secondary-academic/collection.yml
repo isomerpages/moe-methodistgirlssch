@@ -2,6 +2,7 @@ collections:
   secondary-academic:
     output: true
     order:
+      - Academic Programmes/Integrated Programme.md
       - Academic Programmes/.keep
       - Academic Programmes/Academic.md
       - Academic Programmes/Secondary Education Certificate (SEC) Programme.md
