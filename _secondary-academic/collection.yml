@@ -2,11 +2,11 @@ collections:
   secondary-academic:
     output: true
     order:
-      - Academic Programmes/.keep
-      - Academic Programmes/Academic.md
-      - Academic Programmes/Secondary Education Certificate (SEC) Programme.md
-      - Academic Programmes/Integrated Programme.md
-      - Academic Programmes/IP Curriculum Structure & Subject Options.md
+      - Academic/.keep
+      - Academic/Academic.md
+      - Academic/Secondary Education Certificate (SEC) Programme.md
+      - Academic/Integrated Programme.md
+      - Academic/IP Curriculum Structure & Subject Options.md
       - Aesthetics/.keep
       - Aesthetics/Aesthetics.md
       - Aesthetics/Art.md
