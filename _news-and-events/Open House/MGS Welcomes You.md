@@ -6,8 +6,9 @@ third_nav_title: Open House
 variant: tiptap
 ---
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OH25.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OH26.jpg">
 </div>
 <p>Step into the heart of Methodist Girls’ School, where learning is dynamic,
 friendships are forged, and every girl is empowered to discover her strengths
