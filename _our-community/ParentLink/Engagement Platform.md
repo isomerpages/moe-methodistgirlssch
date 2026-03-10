@@ -106,7 +106,7 @@ schedule:
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>IGL Parent-Child Bonding</p>
+<p>Parent-Child Bonding Parentlink x IGL</p>
 </td>
 </tr>
 <tr>
