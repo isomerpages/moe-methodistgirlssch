@@ -86,11 +86,10 @@ schedule:
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>March<em> 24, Tuesday</em>
-</p>
+<p>March 24<em>, </em>Tuesday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>IGL Parent-Child Bonding Parentlink x IGL</p>
+<p>Parent-Child Bonding Parentlink x IGL</p>
 </td>
 </tr>
 <tr>
