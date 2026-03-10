@@ -86,11 +86,10 @@ schedule:
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>March<em> (date tbc)</em>
-</p>
+<p>March 24<em>, </em>Tuesday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>IGL Parent-Child Bonding</p>
+<p>Parent-Child Bonding Parentlink x IGL</p>
 </td>
 </tr>
 <tr>
@@ -115,7 +114,7 @@ schedule:
 <p>September 17, Thursday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Thank You Breakfast</p>
+<p>Thank You Breakfast (for Level &amp; Class Representatives)</p>
 </td>
 </tr>
 <tr>
