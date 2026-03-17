@@ -2,7 +2,6 @@ collections:
   admission:
     output: true
     order:
-      - Others.md
       - Primary Admission/.keep
       - Primary Admission/Midstream Admission for Primary School.md
       - Secondary Admission/.keep
@@ -23,3 +22,4 @@ collections:
       - Awards and Scholarships/MOE Scholarship & Awards.md
       - Awards and Scholarships/National & Other Awards.md
       - Leave of Absence.md
+      - Others.md
