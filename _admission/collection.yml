@@ -1,5 +1,5 @@
 collections:
-  admissions:
+  admission:
     output: true
     order:
       - Primary Admission/.keep
