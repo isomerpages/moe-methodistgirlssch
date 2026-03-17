@@ -2,6 +2,7 @@ collections:
   admission:
     output: true
     order:
+      - Others.md
       - Primary Admission/.keep
       - Primary Admission/Midstream Admission for Primary School.md
       - Secondary Admission/.keep
