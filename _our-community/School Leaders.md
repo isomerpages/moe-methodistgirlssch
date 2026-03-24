@@ -4,11 +4,8 @@ permalink: /community/school-leaders/
 description: ""
 variant: tiptap
 ---
-<table style="minWidth: 250px">
+<table style="minWidth: 175px">
 <colgroup>
-<col>
-<col>
-<col>
 <col>
 <col>
 <col>
@@ -31,15 +28,6 @@ variant: tiptap
 <p><a href="mailto:pamela_yoong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Pamela Yoong</a>
 <br><strong>Principal</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -84,19 +72,6 @@ variant: tiptap
 <br><strong>Vice-Principal</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Common/sl-dyip1.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:yip_wai_choong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Desmond Yip</a>
-<br><strong>Vice-Principal (Administration)</strong>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -130,20 +105,6 @@ variant: tiptap
 </p>
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Primary/Mr_Chris_Lee.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Lee_Kok_boon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Chris Lee</a>
-<br><strong>Vice-Principal (Administration)</strong>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -153,28 +114,25 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:Lee_Kok_boon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Chris Lee</a>
+<br><strong>Vice-Principal (Administration)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Common/sl-dyip1.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:yip_wai_choong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Desmond Yip</a>
+<br><strong>Vice-Principal (Administration)</strong>
+</p>
 </td>
 </tr>
 </tbody>
