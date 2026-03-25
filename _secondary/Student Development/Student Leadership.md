@@ -11,8 +11,7 @@ third_nav_title: Student Development
 where all areas of need are met, so that every member owns the community
 and contributes to building it up.&nbsp; They do this by being and becoming:</p>
 <p></p>
-<p><a href="https://drive.google.com/file/d/1smFrBC6QwvA7II7tKmLWl512grOu6C8u/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank"><u>flower v3 09102024.png</u></a>
-</p>
+<p></p>
 <ul>
 <li>
 <p>Enablers who encourage deeper ownership and accountability towards the
