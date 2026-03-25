@@ -2,6 +2,7 @@ collections:
   news-and-events:
     output: true
     order:
+      - MGS Festival of Arts 'echo'.md
       - Calendar of Events.md
       - MGS Founder’s Day.md
       - Open House/.keep
