@@ -45,12 +45,10 @@ Tue 24 March)</p>
 <br>Time: 6.30pm - 9.00pm
 <br>Venue: NUS University Cultural Centre (UCC), Ho Bee Auditorium
 <br>Tickets are priced at $35&nbsp; (incl. GST, excl. Sistic booking fee of
-$3 per ticket)</p>
-<p><a href="https://www.sistic.com.sg/events/echo20526" rel="noopener noreferrer nofollow" target="_blank">https://www.sistic.com.sg/events/echo20526</a>&nbsp;(from
+$3 per ticket) <a href="https://www.sistic.com.sg/events/echo20526" rel="noopener noreferrer nofollow" target="_blank">https://www.sistic.com.sg/events/echo20526</a>&nbsp;(from
 Monday 6 April)</p>
-<p>&nbsp;</p>
 <p>Follow us on MGSFOA_ECHO on Instagram for highlights and updates leading
-to the FOA concerts!</p>
-<p><em>Note: Links to e-programme booklets will only go live 1 week from date of concert.</em>
+to the FOA concerts!
+<br><em>Note: Links to e-programme booklets will only go live 1 week from date of concert.</em>
 </p>
 <p></p>
