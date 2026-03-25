@@ -88,7 +88,7 @@ years. They are developmental in nature and revolve around the Developmental
 Focus:</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secondary/being_becoming.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secondary/Developmental_focus.jpg">
 </div>
 <table style="width: 0px">
 <colgroup></colgroup>
