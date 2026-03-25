@@ -8,7 +8,7 @@ variant: markdown
 | Class | Form Teacher | | |
 | -------- | -------- | -------- |-------- |
 |P1.1| [Ms Evelyn Huang](mailto:huang_yulin_evelyn@schools.gov.sg)| [Mrs Magdalene Tan](mailto:Magdalene_Kooi_Kg@schools.gov.sg) | 
-|P1.2| [Mrs Sandy Lim](mailto:yu_pui_shan@schools.gov.sg)|[Ms Kathleen Ong](mailto:KATHLEEN_ONG_HSIULI@schools.gov.sg)| 
+|P1.2| [Mrs Sandy Lim](mailto:yu_pui_shan@schools.gov.sg)|[Mrs Annie Fong](mailto:teo_bee_wah_annie@schools.gov.sg)| 
 |P1.3|[Mrs Hoo Shu Min](mailto:hoo_shu_min@schools.gov.sg) | [Mrs Jamie Chaw](mailto:lo_hwee_ling_jamie@schools.gov.sg)|
 |P1.4| [Mrs Gladys Jiow](mailto:tan_tsu_pei_gladys@schools.gov.sg) |[Mdm Zhan Bei](mailto:zhan_bei@schools.gov.sg)|
 |P1.5|[Mrs Lee Huay Chyn](mailto:lee_huay_chyn@schools.gov.sg) |[Mdm Lee Yu Ching](mailto:Lee_Yu_Ching_Hephzibah@schools.gov.sg)|
