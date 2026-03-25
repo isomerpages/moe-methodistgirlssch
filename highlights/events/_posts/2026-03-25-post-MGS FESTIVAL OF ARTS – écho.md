@@ -25,26 +25,26 @@ a ripple that changes the world.</p>
 <p>&nbsp;</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secondary/echo_I.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Secondary/echo_I.jpg">
 </div>
 <p>écho I:</p>
-<p>Date: 18 April 2026, Saturday&nbsp;</p>
-<p>Time: 6.30pm - 8.30pm</p>
-<p>Venue: Singapore Institute of Technology (SIT), Punggol Campus, Ho Bee
-Auditorium</p>
-<p>Tickets are priced at $35 (Category 1 - Stall), $30 (Category 2 - Circle)&nbsp;
+<p>Date: 18 April 2026, Saturday&nbsp;
+<br>Time: 6.30pm - 8.30pm
+<br>Venue: Singapore Institute of Technology (SIT), Punggol Campus, Ho Bee
+Auditorium
+<br>Tickets are priced at $35 (Category 1 - Stall), $30 (Category 2 - Circle)&nbsp;
 (incl. GST, excl. Sistic booking fee of $3 per ticket)&nbsp;<a href="https://www.sistic.com.sg/events/echo10426" rel="noopener noreferrer nofollow" target="_blank">https://www.sistic.com.sg/events/echo10426</a>&nbsp;(from
 Tue 24 March)</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secondary/echo_II.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Secondary/echo_II.jpg">
 </div>
 <p>écho II:</p>
-<p>Date: 2 May 2026, Saturday&nbsp;</p>
-<p>Time: 6.30pm - 9.00pm</p>
-<p>Venue: NUS University Cultural Centre (UCC), Ho Bee Auditorium</p>
-<p>Tickets are priced at $35&nbsp; (incl. GST, excl. Sistic booking fee of
+<p>Date: 2 May 2026, Saturday&nbsp;
+<br>Time: 6.30pm - 9.00pm
+<br>Venue: NUS University Cultural Centre (UCC), Ho Bee Auditorium
+<br>Tickets are priced at $35&nbsp; (incl. GST, excl. Sistic booking fee of
 $3 per ticket)</p>
 <p><a href="https://www.sistic.com.sg/events/echo20526" rel="noopener noreferrer nofollow" target="_blank">https://www.sistic.com.sg/events/echo20526</a>&nbsp;(from
 Monday 6 April)</p>
