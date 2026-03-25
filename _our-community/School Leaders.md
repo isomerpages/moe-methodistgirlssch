@@ -56,7 +56,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Chng_Yi_Na@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Wright Yi Na</a>
+<p><a href="mailto:Diana_TAN@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Diana Goh</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -65,7 +65,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Diana_TAN@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Diana Goh</a>
+<p><a href="mailto:Chng_Yi_Na@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Wright Yi Na</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -83,4 +83,5 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
