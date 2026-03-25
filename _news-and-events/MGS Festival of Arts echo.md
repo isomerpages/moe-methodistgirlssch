@@ -22,6 +22,8 @@ waves, proving that every voice, regardless of age or talent, can start
 a ripple that changes the world.</p>
 <p>&nbsp;</p>
 <p>écho I:</p>
+<p></p>
+<p></p>
 <p>Date: 18 April 2026, Saturday&nbsp;</p>
 <p>Time: 6.30pm - 8.30pm</p>
 <p>Venue: Singapore Institute of Technology (SIT), Punggol Campus, Ho Bee
@@ -29,9 +31,6 @@ Auditorium</p>
 <p>Tickets are priced at $35 (Category 1 - Stall), $30 (Category 2 - Circle)&nbsp;
 (incl. GST, excl. Sistic booking fee of $3 per ticket)&nbsp;<a href="https://www.sistic.com.sg/events/echo10426" rel="noopener noreferrer nofollow" target="_blank">https://www.sistic.com.sg/events/echo10426</a>&nbsp;(from
 Tue 24 March)</p>
-<p></p>
-<p></p>
-<p></p>
 <p></p>
 <p>écho II:</p>
 <p>Date: 2 May 2026, Saturday&nbsp;</p>
