@@ -11,6 +11,9 @@ third_nav_title: Student Development
 where all areas of need are met, so that every member owns the community
 and contributes to building it up.&nbsp; They do this by being and becoming:</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Secondary/flower_v3_09102024.png">
+</div>
 <p></p>
 <ul>
 <li>
