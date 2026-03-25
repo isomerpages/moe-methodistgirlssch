@@ -30,6 +30,9 @@ Auditorium</p>
 (incl. GST, excl. Sistic booking fee of $3 per ticket)&nbsp;<a href="https://www.sistic.com.sg/events/echo10426" rel="noopener noreferrer nofollow" target="_blank">https://www.sistic.com.sg/events/echo10426</a>&nbsp;(from
 Tue 24 March)</p>
 <p></p>
+<p></p>
+<p></p>
+<p></p>
 <p>écho II:</p>
 <p>Date: 2 May 2026, Saturday&nbsp;</p>
 <p>Time: 6.30pm - 9.00pm</p>
