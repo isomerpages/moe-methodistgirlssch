@@ -27,8 +27,8 @@ a ripple that changes the world.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Secondary/echo_I.jpg">
 </div>
-<p>écho I:</p>
-<p>Date: 18 April 2026, Saturday&nbsp;
+<p>écho I:
+<br>Date: 18 April 2026, Saturday&nbsp;
 <br>Time: 6.30pm - 8.30pm
 <br>Venue: Singapore Institute of Technology (SIT), Punggol Campus, Ho Bee
 Auditorium
@@ -40,8 +40,8 @@ Tue 24 March)</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Secondary/echo_II.jpg">
 </div>
-<p>écho II:</p>
-<p>Date: 2 May 2026, Saturday&nbsp;
+<p>écho II:
+<br>Date: 2 May 2026, Saturday&nbsp;
 <br>Time: 6.30pm - 9.00pm
 <br>Venue: NUS University Cultural Centre (UCC), Ho Bee Auditorium
 <br>Tickets are priced at $35&nbsp; (incl. GST, excl. Sistic booking fee of
