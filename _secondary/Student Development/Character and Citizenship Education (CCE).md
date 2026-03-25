@@ -88,7 +88,7 @@ years. They are developmental in nature and revolve around the Developmental
 Focus:</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secondary/being_becoming.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secondary/Developmental_focus.jpg">
 </div>
 <table style="width: 0px">
 <colgroup></colgroup>
@@ -123,18 +123,14 @@ Self</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>The focus is on helping students develop a deeper understanding of themselves
-as they transit into and navigate through their adolescent years. Students
-will gain an awareness of their personal strengths, learning styles, work
-habits as well as develop an understanding of the values that guide the
-personal decisions that they make. Through a variety of student development
-experiences, students learn about the importance of qualities such as honesty,
-respect, empathy, and responsibility. They also explore the concept of
-citizenship, understanding their rights, privileges, and responsibilities
-as members of their school, local community, and broader society. By fostering
-a sense of belonging and encouraging active participation in civic life,
-we aim to empower our students to become ethical, compassionate, and socially
-responsible individuals who contribute positively to the world around them.</p>
+<p>At Secondary 1, students embark on a journey of self-discovery as they
+transition into adolescence. They deepen their understanding of their strengths,
+learning styles, work habits, and the values that guide their decisions.
+Students are guided to grow in key qualities such as honesty, respect,
+empathy, and responsibility, while also developing an awareness of their
+roles as members of the school and wider community. By nurturing a strong
+sense of belonging and encouraging active participation, we aim to shape
+students into ethical, compassionate, and socially responsible individuals.</p>
 </td>
 </tr>
 <tr>
@@ -162,17 +158,15 @@ Player</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>The focus is on helping students develop skills and attitudes to become
-an effective and contributing team player. Students will learn to build
-positive relationships with others through exploring the core elements
-needed in strong relationships as well as deepening their understanding
-of their own strengths and weaknesses when working in teams. Students also
-learn to effectively communicate their ideas, actively listen to others,
-and work together towards common goals. They develop an understanding of
-the value of diverse perspectives and learn to navigate conflicts constructively.
-By nurturing a culture of collaboration and open communication, we prepare
-our students to thrive in environments that require teamwork, adaptability,
-and effective interpersonal skills.</p>
+<p>At Secondary 2, students develop the skills and attitudes needed to become
+effective and contributing team players. They deepen their understanding
+of how to build positive relationships, while reflecting on their own strengths
+and areas for growth when working with others. Students learn to communicate
+their ideas clearly, listen actively, and collaborate towards shared goals.
+They also come to appreciate diverse perspectives and are guided to navigate
+differences and conflicts with respect and maturity. By nurturing a culture
+of collaboration and open communication, we aim to equip students with
+the interpersonal skills and adaptability needed to thrive in team environments.</p>
 </td>
 </tr>
 <tr>
@@ -200,16 +194,16 @@ Empathetic Changemaker</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>The focus is on helping students continue to strengthen their ability
-to build positive relationships with others as they assume roles of leadership
-in their class and CCAs. Through their various learning experiences, students
-are encouraged to question assumptions, and explore innovative solutions
-to complex issues as they work together in teams to tackle projects that
-address local and global issues. Central to this approach is the cultivation
-of empathy, as students learn to understand and appreciate diverse perspectives,
-recognizing the impact of their actions on others. By empowering students
-to become empathetic changemakers, we equip them with the tools and mindset
-needed to make a positive difference in their communities and beyond.</p>
+<p>At Secondary 3, students continue to strengthen their ability to build
+positive relationships as they take on leadership roles in their class
+and CCAs. They deepen their capacity to work collaboratively while reflecting
+on how they can influence and support others. Students are encouraged to
+question assumptions, explore innovative solutions, and work in teams to
+address real-world issues at both local and global levels. They also grow
+in empathy, learning to appreciate diverse perspectives and recognise the
+impact of their actions on others. By nurturing empathetic changemakers,
+we aim to equip students with the mindset and skills to lead with purpose
+and contribute meaningfully to their communities and beyond.</p>
 </td>
 </tr>
 <tr>
@@ -237,17 +231,16 @@ Steward</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>The focus is on equipping students with the competencies necessary to
-lead with responsibility and purpose. We nurture students to be faithful
-stewards who take ownership of the resources, relationships, and opportunities
-entrusted to them. Through a combination of experiential learning and reflective
-practices, students cultivate ethical leadership, adaptability, and a strong
-sense of accountability. They continue to develop effective communication
-skills—verbal, written, and digital—essential for navigating diverse professional
-and social landscapes. By emphasizing stewardship alongside leadership,
-creativity, and communication, students develop the confidence and integrity
-to lead with wisdom and care, shaping a better future for those around
-them.</p>
+<p>At Secondary 4, students are equipped with the competencies to lead with
+responsibility and purpose as they prepare for life beyond school. They
+deepen their ability to take ownership of the resources, relationships,
+and opportunities entrusted to them. Students are guided to grow as faithful
+stewards, developing ethical leadership, adaptability, and a strong sense
+of accountability. They continue to strengthen their communication skills-
+verbal, written, and digital, to navigate diverse contexts with confidence.
+By nurturing leadership grounded in integrity, care, and wisdom, we aim
+to empower students to make thoughtful decisions and contribute meaningfully
+to the world around them.</p>
 </td>
 </tr>
 <tr>
