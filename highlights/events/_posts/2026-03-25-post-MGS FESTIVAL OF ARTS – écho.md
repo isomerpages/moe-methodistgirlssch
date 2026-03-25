@@ -23,10 +23,6 @@ wave of change. Join us as we transform individual whispers into resounding
 waves, proving that every voice, regardless of age or talent, can start
 a ripple that changes the world.</p>
 <p>&nbsp;</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Secondary/echo_I.jpg">
-</div>
 <p>écho I:
 <br>Date: 18 April 2026, Saturday&nbsp;
 <br>Time: 6.30pm - 8.30pm
@@ -36,10 +32,6 @@ Auditorium
 (incl. GST, excl. Sistic booking fee of $3 per ticket)&nbsp;<a href="https://www.sistic.com.sg/events/echo10426" rel="noopener noreferrer nofollow" target="_blank">https://www.sistic.com.sg/events/echo10426</a>&nbsp;(from
 Tue 24 March)</p>
 <p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Secondary/echo_II.jpg">
-</div>
 <p>écho II:
 <br>Date: 2 May 2026, Saturday&nbsp;
 <br>Time: 6.30pm - 9.00pm
