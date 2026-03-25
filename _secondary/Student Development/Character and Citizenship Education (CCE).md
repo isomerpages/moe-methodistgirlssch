@@ -102,9 +102,6 @@ Focus:</p>
 <tr></tr>
 </tbody>
 </table>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secondary/growth_journey_02.png">
-</div>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
