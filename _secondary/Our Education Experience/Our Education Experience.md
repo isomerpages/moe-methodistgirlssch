@@ -25,3 +25,20 @@ our community, Singapore and the world, each embodying our school motto
 To Master, To Grow, To Serve today, for her life journey of tomorrow.</p>
 <h4><a href="https://drive.google.com/file/d/140gRNXjGEe1bj0N5UBLpKCc7HYhqkK9b/view?usp=sharing" rel="noopener nofollow" target="_blank">THE MGS EDUCATION EXPERIENCE BROCHURE</a></h4>
 <p></p>
+<h4><strong>Self-Directed &amp; Digital Learning</strong></h4>
+<p>To&nbsp;prepare our students&nbsp;to thrive in a rapidly evolving landscape,
+the&nbsp;<strong>1:1 Learning Programme</strong>&nbsp;equips every student
+with a personal device, empowering them to develop critical digital literacies,
+collaborate effectively, and think independently in an increasingly technology-driven
+world. By enabling seamless access to resources anytime and anywhere, students
+experience personalised, connected learning that nurtures communication,
+creativity, and problem-solving skills essential for the future. Complementing
+this, our&nbsp;<strong>Independent Learning Days</strong>&nbsp;provide
+dedicated time for students to take ownership of their learning through
+a blend of self-paced curriculum work and student-initiated exploration
+beyond the classroom. These opportunities cultivate self-direction, curiosity,
+and a lifelong love for learning. Together, both initiatives foster adaptability
+and resilience, preparing students to navigate real-world challenges&nbsp;in
+the future&nbsp;with confidence.</p>
+<p></p>
+<p></p>
