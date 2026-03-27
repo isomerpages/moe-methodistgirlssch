@@ -6,7 +6,7 @@ third_nav_title: Clubs and Societies
 variant: tiptap
 ---
 <div class="iframe-wrapper">
-<iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/IGFUwdtZD_0"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/IGFUwdtZD_0"></iframe>
 </div>
 <p>The CCA develops (1) computer language coding, (2) still and moving image
 capture through the use of drones, still and movie modes in our cameras
