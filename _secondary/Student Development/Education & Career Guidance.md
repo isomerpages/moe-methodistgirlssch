@@ -27,4 +27,4 @@ of the Education and Industry landscape.</p>
 <p><a href="https://sites.google.com/mgs.sch.edu.sg/mgsecg/" rel="noopener noreferrer nofollow" target="_blank">Check out our ECG Site!</a> (Sign
 into your MGS account to access website)</p>
 <p>The MGS ECG Team comprises our ECG Subject Head, Ms Kek Lay Yan (<a href="mailto:kek_lay_yan@mgs.sch.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kek_lay_yan@mgs.sch.edu.sg</a>)
-and Dr Tan Lay Theng (<a href="mailto:tan_lay_theng@mgs.sch.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_lay_theng@mgs.sch.edu.sg</a>).</p>
+and our ECG counsellor Dr Tan Lay Theng (<a href="mailto:tan_lay_theng@mgs.sch.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_lay_theng@mgs.sch.edu.sg</a>).</p>
