@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Primary Parents
 variant: tiptap
 ---
-<h4>Parent Volunteer (PV) at Methodist Girls’ School (MGS)</h4>
+<h3><strong>Parent Volunteer (PV) at Methodist Girls’ School (MGS)</strong></h3>
 <p>The Parent Volunteer (PV) Scheme is applicable to parents whose daughters
 are Singapore Citizens or Singapore Permanent Residents.</p>
 <h4>Application Timeline</h4>
