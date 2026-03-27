@@ -5,9 +5,6 @@ description: ""
 third_nav_title: Sports
 variant: tiptap
 ---
-<div class="iframe-wrapper">
-<iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/fE5MRShEUVc"></iframe>
-</div>
 <p></p>
 <p>The Squash CCA aims to cultivate in our girls a passion for squash whilst
 enabling them to master different skill levels and maximise their highest
@@ -68,11 +65,8 @@ to become a woman of excellence with a heart of love.</p>
 </li>
 </ul>
 <div class="iframe-wrapper">
-<iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTNoqM8i5MLo5umLLVHNEJhwCWRnCkY_eLNRczNE5GIEu7LV_Ir85QFoeeeNFsaO3Y49hS3YtNHFzYI/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTNoqM8i5MLo5umLLVHNEJhwCWRnCkY_eLNRczNE5GIEu7LV_Ir85QFoeeeNFsaO3Y49hS3YtNHFzYI/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
-<div class="iframe-wrapper">
-<iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTwaSVO5Y0FOQpB0QSd6ClYBXSXPWkMv4cLDXT-5lnTJRnYZWNcxenLGJ4sNent01PZ1PCi0U-pZFB0/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-</div>
 <p></p>
 <p></p>
