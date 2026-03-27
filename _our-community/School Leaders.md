@@ -33,7 +33,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vice Principal (Primary Section)</p>
+<p>Vice-Principal (Primary Section)</p>
 </td>
 </tr>
 <tr>
@@ -42,7 +42,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vice Principal (Primary Section)</p>
+<p>Vice-Principal (Primary Section)</p>
 </td>
 </tr>
 <tr>
@@ -51,7 +51,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vice Principal - Admin (Primary Section)</p>
+<p>Vice-Principal, Admin (Primary Section)</p>
 </td>
 </tr>
 <tr>
@@ -60,7 +60,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vice Principal (Secondary Section)</p>
+<p>Vice-Principal (Secondary Section)</p>
 </td>
 </tr>
 <tr>
@@ -69,7 +69,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vice Principal (Secondary Section)</p>
+<p>Vice-Principal (Secondary Section)</p>
 </td>
 </tr>
 <tr>
@@ -78,7 +78,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vice Principal - Admin (Secondary Section)</p>
+<p>Vice-Principal, Admin (Secondary Section)</p>
 </td>
 </tr>
 </tbody>
