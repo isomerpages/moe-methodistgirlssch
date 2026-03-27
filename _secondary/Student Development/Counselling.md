@@ -39,6 +39,4 @@ students may approach Ms Nimala, our Allied Educator (Learning and Behavioural
 Support) to get support for their learning needs. Ms Nimala’s office is
 also located on level 1 (near the linkway) or students may email her at&nbsp;
 <a href="mailto:nimala_mokhna_rau@mgs.sch.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nimala_mokhna_rau@mgs.sch.edu.sg</a>.</p>
-<p>For <strong>Education &amp; Career Guidance support</strong>, please refer
-to the&nbsp;<a href="https://www.mgs.moe.edu.sg/secondary/student-development/cce/ecg/" rel="noopener noreferrer nofollow" target="_blank">website</a>&nbsp;to
-be in touch with our ECG counsellor, Ms Sylvia Ng.</p>
+<p></p>
