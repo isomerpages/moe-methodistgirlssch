@@ -26,12 +26,10 @@ as well as drive interest and love for Football and an active lifestyle.
 The CCA works with FAS, schools and other partners to cater to its developmental
 and competitive programmes.</p>
 <p>In line with its philosophy, MGS Football participates in the National
-School Games (B and C Division) organises and participates in Football
-Carnivals with other secondary schools participates in developmental competitions
-such as the FAS U14 League participates in other competitions on a sign-up
-basis such as Futsal Tournaments Trainings are 2 to 3 times a week. Tuesdays
-and Thursdays are training days and there are often football friendlies
-on either Monday, Wednesday or Friday.</p>
+School Games (B and C Division), and organises/participates in Football
+Carnivals with other secondary schools as well as other developmental competitions
+such as the FAS U14 League. Tuesdays and Thursdays are training days and
+there are often football friendlies on either Monday, Wednesday or Friday.</p>
 <p>In November 2022, Methodist Girls’ School joined Unleash the Roar, Singapore
 Football Academy. This was to raise interest amongst girls and the quality
 of skills in girls’ soccer. With this new journey, we then began our Centre-based
@@ -39,27 +37,7 @@ Partnership Programme with Boon Lay Secondary School and Westwood Secondary
 School in January 2023. The centred-based football team seeks to hone talents
 in the female football scene and to encourage social mixing with the other
 cluster schools. This paved our journey and led to the introduction of
-Direct School Admission last year for girls’ football.</p>
-<p><strong>National Inter-School Football Championships:</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>B Division Girls: Participation</p>
-</li>
-<li>
-<p>C Division Girls: Participation</p>
-</li>
-</ul>
-<p><strong>MGS 7-a-side Football Carnival:</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Team B - Cup competition - 4th Position</p>
-</li>
-<li>
-<p>Team A - Plate competition - 1st Position</p>
-</li>
-</ul>
-<p><strong>Whitley Football Carnival:</strong> 1st Position</p>
+Direct School Admission in 2023 for girls’ football.</p>
+<p></p>
 <h2></h2>
 <p></p>

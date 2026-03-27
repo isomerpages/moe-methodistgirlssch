@@ -5,9 +5,6 @@ description: ""
 third_nav_title: Clubs and Societies
 variant: tiptap
 ---
-<div class="iframe-wrapper">
-<iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/dlB6ekRzcGQ?si=1QcZWnzmeRJdnfya"></iframe>
-</div>
 <p>Chess Club aims to develop cognitive abilities - attention span, memory,
 analysis, and logic for personal growth. Our philosophy is a healthy mind
 through competitions, and support and encouragement for one another through
@@ -16,7 +13,7 @@ honesty, excellence, mentorship and empathy in members of the Chess Club,
 and to nurture them to be able to play Chess during their leisure with
 enthusiasm and passion.</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRHloxo9A1aR0bUcsvfPtFgfspxIUCm7JfFwC6Od3jzXJLbLMumUKy0azdHwOtUq832if74qWcNd96E/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRHloxo9A1aR0bUcsvfPtFgfspxIUCm7JfFwC6Od3jzXJLbLMumUKy0azdHwOtUq832if74qWcNd96E/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>Members develop social dexterity skills, which are of essential importance
 in society, through activities such as inter-school competitions and friendly

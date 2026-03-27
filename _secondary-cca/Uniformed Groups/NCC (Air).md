@@ -6,7 +6,7 @@ third_nav_title: Uniformed Groups
 variant: tiptap
 ---
 <div class="iframe-wrapper">
-<iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ENvDOiIMgeo"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ENvDOiIMgeo"></iframe>
 </div>
 <p>MGS NCC (Air) was established with the aim of developing girls with discipline,
 leadership and a sense of adventure. Being a relatively new unit started
@@ -27,6 +27,5 @@ drone flying and computer simulated spot landing etc.</p>
 <p>Students are also expected to perform unit VIA initiatives to serve the
 community. HQ NCC organises an annual NCC Air Competition to provide a
 chance for all Air units to showcase their efforts and compete against
-each other, and the CCA garnered 2nd place in the Chuck Glider Category
-in the NCC Air Competition in 2019.</p>
+each other.</p>
 <p></p>
