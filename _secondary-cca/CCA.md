@@ -54,6 +54,7 @@ de corps.</p>
 <br>Football
 <br>Netball
 <br>Softball
+<br>Sports Club
 <br>Squash
 <br>Swimming
 <br>Tennis
@@ -85,7 +86,4 @@ de corps.</p>
 </tbody>
 </table>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secondary/pic-cca.jpg">
-</div>
 <p></p>
