@@ -68,16 +68,17 @@ and have demonstrated good conduct.</p>
 </li>
 </ul>
 <h3>Edusave Award for Achievement, Good Leadership and Service (EAGLES)</h3>
-<p>To recognise up to 10% of students who have demonstrated leadership qualities,
-service to community and schools, excellence in non-academic activities,
-and good conduct.</p>
-<p>The values of the award are as follows:</p>
+<p>For Primary School: Up to 5% of Primary 1 to 3 students from each school
+who have demonstrated good conduct, and 21<sup>st</sup>&nbsp;Century Competencies<sup>1</sup>&nbsp;in
+a consistent and exemplary manner.</p>
+<p>&nbsp;For Secondary School: Up to 15% of students from each secondary
+school who have demonstrated good conduct, and one or more of the following:
+(i) leadership qualities, (ii) service to community and schools, (iii)
+excellence in non-academic activities or, (iv) 21st Century Competencies
+in a consistent and exemplary manner.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>$250 for Primary 4 to 6</p>
-</li>
-<li>
-<p>$350 for Secondary 1 to 5</p>
+<p>&nbsp;To add: <strong>Primary 1 to 3:</strong>&nbsp;$200</p>
 </li>
 </ul>
 <h3>Edusave Character Award (ECHA)</h3>
