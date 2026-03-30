@@ -5,14 +5,45 @@ description: ""
 third_nav_title: Open House
 variant: tiptap
 ---
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="652" width="279" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/mPqy2pbXdbA"></iframe>
+</div>
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="652" width="279" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/W2j06Jllr-k"></iframe>
+</div>
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="652" width="279" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Q1HVSf3flBU"></iframe>
+</div>
+<p></p>
+</th>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
 <h3>Day In A Life of an MG Student</h3>
 <div class="iframe-wrapper">
-<iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/REGukxwt7Qc"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/REGukxwt7Qc"></iframe>
 </div>
 <p></p>
 <h3>Vlog of an MGS Student</h3>
 <div class="iframe-wrapper">
-<iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/jgc13GkUqbY"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/jgc13GkUqbY"></iframe>
 </div>
 <p>Join our house captains, Poorva, Emma, Krystal and Kay as they present
 to you a day in the life of an MGS student.
@@ -24,7 +55,7 @@ to you a day in the life of an MGS student.
 </blockquote>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/QvQ53lOmk4M"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/QvQ53lOmk4M"></iframe>
 </div>
 <p>Hear from <strong>Nicole Sim, Class of 2021</strong>, as she shares about
 her journey as a leader and her unique leadership style of taking on the
@@ -34,7 +65,7 @@ and Prefectorial Board — has enabled her to discover herself, and pushed
 her to strive towards growing holistically as a young lady with a heart
 of love.</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/SI3dTPIMyx0"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/SI3dTPIMyx0"></iframe>
 </div>
 <p>Hear from <strong>Tan Yun Xuan, Class of 2021</strong>, as she talks about
 her inspiring journey as a leader and the challenges that she encountered.</p>
@@ -42,6 +73,6 @@ her inspiring journey as a leader and the challenges that she encountered.</p>
 and taught her what it truly means to Master, to Grow and to Serve.</p>
 <h3>Student Testimonials</h3>
 <div class="iframe-wrapper">
-<iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/LZT0I1SWSvs"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/LZT0I1SWSvs"></iframe>
 </div>
 <p>Hear from our students about what being an MGS girl means to them.</p>
