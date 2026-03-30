@@ -35,7 +35,15 @@ awarded for:</p>
 </ul>
 <p>&nbsp;This is subject to their good progress and conduct each year. Students
 who already received an ESIS (Secondary 1) award&nbsp;<strong>will not</strong>&nbsp;be
-eligible.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+eligible.&nbsp;</p>
+<p>The ESIS award quantum is $2,400 per year, or the annual school fees charged
+by the IS less the annual amount of school and standard miscellaneous fees
+paid by students in government/ government-aided schools, whichever is
+lower.</p>
+<p>For students awarded ESIS, and are also recipients of the Independent
+School Bursary (ISB), the ESIS award quantum is $2,400 per year, or the
+annual school fees less the school fee subsidy provided under ISB, whichever
+is lower.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <h3>Yearly Award</h3>
 <p>The ESIS (Yearly Award) are awarded to Singaporean students in IS who
 are not awarded any other type of ESIS. These are given to the top 10%
