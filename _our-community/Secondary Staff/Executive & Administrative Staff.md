@@ -12,8 +12,7 @@ variant: tiptap
 <br>Executive (Procurement) : Mdm Sulaigal
 <br>Executive (Admin) : Amuthavalli D/O Muniandy</p>
 <h3><strong>ALLIED EDUCATORS AND COUNSELLORS</strong></h3>
-<p>Education and Career Guidance (ECG) Counsellor:&nbsp;
-<br>Education and Career Guidance (ECG) Counsellor:&nbsp;<a href="mailto:tan_lay_theng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Dr Tan Lay Theng</a> 
+<p>Education and Career Guidance (ECG) Counsellor:&nbsp;<a href="mailto:tan_lay_theng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Dr Tan Lay Theng</a> 
 <br>Learning and Behavioural Support:&nbsp;<a href="mailto:Nimala_Mokhna_Rau@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Nimala Rau</a> 
 <br>School Counsellor: Ms Javine Kiew: <a href="mailto:Javine_Kiew@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Javine Kiew</a>
 </p>
