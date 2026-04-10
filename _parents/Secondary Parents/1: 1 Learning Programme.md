@@ -3,7 +3,7 @@ title: "1: 1 Learning Programme"
 permalink: /secondary/academic/1-1-learning-programme/
 description: ""
 variant: tiptap
-third_nav_title: Key Programmes
+third_nav_title: Secondary Parents
 ---
 <p></p>
 <div class="iframe-wrapper">
@@ -12,8 +12,8 @@ third_nav_title: Key Programmes
 <h3>Empowering Tomorrow's Leaders: Our 1:1 Learning Programme</h3>
 <p>In today's fast-paced world, technology is revolutionizing every aspect
 of our lives. From artificial intelligence to online shopping, disruptive
-technologies are reshaping how we live and work. The recent global events,
-such as the COVID-19 pandemic, have only accelerated these changes. Recognizing
+technologies are reshaping how we live and work. Global events, such as
+the COVID-19 pandemic, have only accelerated these changes. Recognizing
 the importance of preparing our students to acquire the digital skills
 to navigate this digital age and in line with the National Digital Literacy
 Programme announced in 2020, we offer a 1:1 Learning Programme to our students.</p>

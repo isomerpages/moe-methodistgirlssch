@@ -2,7 +2,7 @@
 title: Intergenerational Learning (IGL) @ MGS
 permalink: /news-and-events/igl/
 description: ""
-third_nav_title: Key Programmes
+third_nav_title: MGS Distinctives
 variant: tiptap
 ---
 <div class="iframe-wrapper">

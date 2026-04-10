@@ -1,9 +1,9 @@
 ---
-title: Key Programmes
-permalink: /key-programmes/
+title: MGS Distinctives
+permalink: /mgs-distinctives/
 variant: tiptap
 description: ""
-third_nav_title: Key Programmes
+third_nav_title: MGS Distinctives
 ---
 <p></p>
 <p>At MGS, we are on a journey of developing lifelong competencies both in
