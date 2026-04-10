@@ -25,8 +25,7 @@ variant: tiptap
 <p>Administration Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:criscelia_lim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Criscelia Lim</a>
-</p>
+<p>Ms Criscelia Lim</p>
 </td>
 </tr>
 <tr>
