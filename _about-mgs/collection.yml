@@ -2,7 +2,6 @@ collections:
   about-mgs:
     output: true
     order:
-      - School Safety.md
       - Principal's Message.md
       - Our Board of Management.md
       - Our Corporate Video.md
@@ -11,5 +10,6 @@ collections:
       - Our MGS Houses.md
       - MGS School Tour.md
       - PDPA Policy.md
+      - School Safety.md
       - The MGS Store.md
       - Contact Us.md
