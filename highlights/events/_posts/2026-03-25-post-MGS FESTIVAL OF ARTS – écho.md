@@ -37,7 +37,7 @@ Tue 24 March)</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/MGS_Festival_of_Arts_echo_II.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MGS_Festival_of_Arts_Echo_2.png">
 </div>
 <p>écho II:
 <br>Date: 2 May 2026, Saturday&nbsp;
