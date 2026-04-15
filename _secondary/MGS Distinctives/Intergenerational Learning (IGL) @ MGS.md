@@ -5,41 +5,60 @@ description: ""
 third_nav_title: MGS Distinctives
 variant: tiptap
 ---
+<p></p>
 <div class="iframe-wrapper">
-<iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/WuBr_i5tkS8?si=VOXwNvmvyywt09Kh"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/WuBr_i5tkS8"></iframe>
 </div>
-<p>MGS aims to strengthen social empathy and civic consciousness through
-intergenerational Learning (IGL). The IGL learning model in MGS uses a
-value exchange model (asset-based design) with opportunities for meaningful
-contributions and personal development for both seniors and youths. It
-aims to humanise and value each child and each senior as assets and people
-of worth.</p>
-<p>Seniors and students from all parts of Singapore can choose to volunteer
-with- and collaborate-with each other to learn and to initiate projects
-together. We will also want to invite seniors and youths to initiate IGL
-courses.</p>
-<p>IGL at MGS aims to promote lifelong learning and intergenerational understanding.
-These are some areas of possible IGL learning for seniors and youths.</p>
+<p></p>
+<p><strong>Who we are</strong>
+<br>Guided by our motto, “To Master, To Grow, To Serve”, Intergenerational
+Learning at MGS fosters meaningful interactions between individuals of
+different ages.
+<br>
+<br>Intergenerational Learning at MGS recognises and celebrates the strengths
+of every generation. By tapping on individuals’ unique gifts to co-create
+shared experiences, intergenerational learning fosters empathy and mutual
+respect across generations, shaping a more inclusive community where every
+voice is valued.
+<br>
+</p>
+<p><strong>What we do</strong>
+</p>
+<p>When we talk about "generation," we often think about groups of people
+of similar age profiles or sharing age-related experiences or life transitions.
+At the same time, the word "generation" can also speak of creating or producing
+something new through the dynamic exchange of different perspectives and
+experiences.</p>
+<p>IGL at MGS promotes lifelong learning and intergenerational understanding
+through a range of activities that fosters inter-generativity of ideas,
+perspectives, and purpose, enriching everyone and extending growth opportunities
+that transcend age and labels.</p>
+<p>Intergenerational learning activities cut across a range of domains, including
+academic curricula, creative arts, physical wellness, recreation and community
+engagement.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secondary/igl-courses-2023.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secondary/IGL_image.png">
 </div>
-<p>If you would like to share or teach a skill, knowledge or personal experience,
-please write to us at <a href="mailto:IGL@mgs.sch.edu.sg" rel="noopener noreferrer nofollow" target="_blank">IGL@mgs.sch.edu.sg</a>
+<p><em>Top (L-R): Conversations on ageing in a Global Perspectives and Inquiry class, Creating magic with Nagomi Art!</em>
 </p>
-<p></p>
-<h3>Course Registration</h3>
-<div class="iframe-wrapper">
-<iframe height="315px" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRw0bQxKhWeVERaN6OQpUld_EKRlCOpP9EgYdN2AAYHymPFef2mXm15hwG60wAeQDf5lq3pgGV2-0Vb/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-</div>
-<p><strong>Seniors</strong>: <a href="https://form.gov.sg/685cbbc7ae71313b33b505ef" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/mglearns</a>
-<br><strong>Students/Youths</strong>: <a href="https://form.gov.sg/685baf7d4bd9837288ce946d" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/mgserves</a>
+<p><em>Bottom (L-R): Sweet moments making pineapple tarts together on CNY eve, Warming up for aqua aerobics in and out of water!</em>
 </p>
+<p>When generations come together in sustained, meaningful ways to share
+their talents, insights, stories and expertise, learning becomes truly
+transformative.
+<br>
+<br>IGL at MGS therefore aims to promote lifelong learning and intergenerational
+understanding through a range of activities that foster inter-generativity
+of ideas, perspectives, and purpose, enriching everyone and extending growth
+opportunities that transcend age and labels.</p>
 <p></p>
-<div class="iframe-wrapper">
-<iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/pRREdXXephw?si=xlcCDXFdzisDermz"></iframe>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secondary/picture2.jpg">
 </div>
-<p></p>
-<div class="iframe-wrapper">
-<iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/5VKvFNIQ9sQ?si=c3Hs79f4h76UAGP9"></iframe>
-</div>
-<p></p>
+<p>Top (L-R): All hands on deck painting the wall mural at Toh Yi, ‘Knead’
+a hand?
+<br>Bottom (L-R): Our seniors take on Dance as a creative arts routine!, Happy
+with their Decoupage art!</p>
+<p>Interested in coming onboard as a co-creator or participant? Write to
+us at&nbsp;<a href="mailto:IGL@mgs.sch.edu.sg" rel="noopener noreferrer nofollow" target="_blank">IGL@mgs.sch.edu.sg</a>.</p>
