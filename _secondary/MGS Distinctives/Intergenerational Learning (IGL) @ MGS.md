@@ -37,13 +37,10 @@ that transcend age and labels.</p>
 academic curricula, creative arts, physical wellness, recreation and community
 engagement.</p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secondary/IGL_image.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secondary/IGL_1.jpg">
 </div>
-<p><em>Top (L-R): Conversations on ageing in a Global Perspectives and Inquiry class, Creating magic with Nagomi Art!</em>
-</p>
-<p><em>Bottom (L-R): Sweet moments making pineapple tarts together on CNY eve, Warming up for aqua aerobics in and out of water!</em>
-</p>
 <p>When generations come together in sustained, meaningful ways to share
 their talents, insights, stories and expertise, learning becomes truly
 transformative.
@@ -53,12 +50,10 @@ understanding through a range of activities that foster inter-generativity
 of ideas, perspectives, and purpose, enriching everyone and extending growth
 opportunities that transcend age and labels.</p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secondary/picture2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secondary/IGL_2.jpg">
 </div>
-<p>Top (L-R): All hands on deck painting the wall mural at Toh Yi, ‘Knead’
-a hand?
-<br>Bottom (L-R): Our seniors take on Dance as a creative arts routine!, Happy
-with their Decoupage art!</p>
 <p>Interested in coming onboard as a co-creator or participant? Write to
 us at&nbsp;<a href="mailto:IGL@mgs.sch.edu.sg" rel="noopener noreferrer nofollow" target="_blank">IGL@mgs.sch.edu.sg</a>.</p>
+<p></p>
