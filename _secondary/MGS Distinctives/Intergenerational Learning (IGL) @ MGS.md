@@ -37,10 +37,10 @@ that transcend age and labels.</p>
 academic curricula, creative arts, physical wellness, recreation and community
 engagement.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secondary/IGL_image.png">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secondary/IGL_1.jpg">
+</div>
 <p>When generations come together in sustained, meaningful ways to share
 their talents, insights, stories and expertise, learning becomes truly
 transformative.
@@ -50,9 +50,10 @@ understanding through a range of activities that foster inter-generativity
 of ideas, perspectives, and purpose, enriching everyone and extending growth
 opportunities that transcend age and labels.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secondary/picture2.jpg">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secondary/IGL_2.jpg">
+</div>
 <p>Interested in coming onboard as a co-creator or participant? Write to
 us at&nbsp;<a href="mailto:IGL@mgs.sch.edu.sg" rel="noopener noreferrer nofollow" target="_blank">IGL@mgs.sch.edu.sg</a>.</p>
+<p></p>
