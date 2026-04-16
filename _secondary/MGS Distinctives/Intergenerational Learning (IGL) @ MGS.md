@@ -50,7 +50,6 @@ understanding through a range of activities that foster inter-generativity
 of ideas, perspectives, and purpose, enriching everyone and extending growth
 opportunities that transcend age and labels.</p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secondary/IGL_2.jpg">
 </div>
