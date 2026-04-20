@@ -7,8 +7,9 @@ variant: tiptap
 ---
 <h2><strong>DIRECT SCHOOL ADMISSION TO MGS SECONDARY 1</strong></h2>
 <p></p>
-<p><strong>The 2025 DSA-Sec exercise has ended. For parents or students interested to participate in the 2026 DSA-Sec exercise for the 2027 Secondary 1 intake, please look out for more updates on our school website by early May 2026. Thank you.</strong>
-</p>
+<p>Parents or students interested in participating in the 2026 DSA-Sec exercise
+for the 2027 Secondary 1 intake, please check the updates below. Thank
+you.</p>
 <p>DSA-Sec provides a pathway for students to gain admission to MGS based
 on their interests, aptitude, and potential, beyond their performance at
 Primary School Leaving Examination (PSLE). Otherwise, students will take
@@ -75,7 +76,8 @@ at <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofol
 <p>Tennis</p>
 </li>
 </ol>
-<p></p>
+<p><a href="https://drive.google.com/file/d/11S5C52fHAJm_4_bQPdBsi-B1tLg4T00d/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Download MGS DSA Application 2025 here.</a>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/pic-dsa.jpg">
