@@ -76,7 +76,7 @@ at <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofol
 <p>Tennis</p>
 </li>
 </ol>
-<p><a href="https://drive.google.com/file/d/11S5C52fHAJm_4_bQPdBsi-B1tLg4T00d/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Download Application form here.</a>
+<p><a href="https://drive.google.com/file/d/11S5C52fHAJm_4_bQPdBsi-B1tLg4T00d/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Download MGS DSA Application 2026 here.</a>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
