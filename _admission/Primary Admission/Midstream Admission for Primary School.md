@@ -7,7 +7,7 @@ variant: markdown
 ---
 ### For local students transferring from another local school
 
-Application window is from **1st Aug to 30th Sep 2025, 5pm**.  
+Application window is from **1st Aug to 30th Sep 2026, 5pm**.  
 
 Interested applicants should submit their online application between 1 August and 30 September 2025 (5pm) for admission to Academic Year 2026. Please [click](https://form.gov.sg/686cfef9b4ec0d3fc5405d85) here to access the application form and upload all supporting documents in the designated attachment section.
 
