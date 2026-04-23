@@ -107,17 +107,19 @@ the needs and interests of each individual student.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secondary/IP6.jpg">
 </div>
 <h4>Year 1 &amp; 2</h4>
-<h4>Blackmore Academy</h4>
-<p>Blackmore Academy offers a platform for students to engage in workshops
-that extend learning beyond the classroom. These workshops, offered termly
-to students in both SEC and IP tracks, are curated to support the personalisation
-of learning and development of new interests, skills, and peer collaboration.</p>
-<p>Workshops may be initiated by students or facilitated by teachers and
-external instructors. They span a range of areas in four domains: Academic,
-Well-being, Life-skills and Future skills.</p>
-<p>Students have the opportunity to participate in existing workshops or
-propose and lead their own, encouraging initiative and independent learning
-within a supportive environment.</p>
+<h4>MGS ASEAN Programme (MAP)</h4>
+<p>Through MAP, our Year 1 students embark on a vibrant exploration of Southeast
+Asia’s cultural diversity. They engage in hands-on experiences with traditional
+arts, regional cuisines, music, and languages—developing a deep appreciation
+for the unique heritage of ASEAN nations. These experiences nurture cultural
+sensitivity and build meaningful regional connections.</p>
+<p>Selected Year 2 students continue this journey with an overseas learning
+experience in a selected ASEAN country. Through immersive visits and exchanges,
+they gain insights into the nation’s culture, economy, and governance.
+This deepens their understanding of regional cooperation and strengthens
+their sense of shared identity.</p>
+<p>MAP cultivates cross-cultural awareness and prepares our students to be
+active, empathetic contributors in an interconnected ASEAN community.</p>
 <h4><br>Global Perspectives &amp; Inquiry (GPI)</h4>
 <p>Our <a href="https://www.mgs.moe.edu.sg/secondary/academic/humanities/global-studies/" rel="noopener noreferrer nofollow" target="_blank">GPI programme</a> encourages
 Year 1 and 2 students to explore global events and issues through engaging
