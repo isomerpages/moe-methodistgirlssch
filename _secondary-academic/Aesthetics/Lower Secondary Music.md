@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Aesthetics
 variant: tiptap
 ---
-<h3>Aims and Objectives</h3>
+<h3>Aims</h3>
 <ul>
 <li>
 <p>Acquire and apply musical skills, knowledge and understanding through
