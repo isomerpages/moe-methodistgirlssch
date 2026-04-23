@@ -31,7 +31,14 @@ develop a positive attitude towards healthy living.</p>
 </li>
 </ul>
 <h3>PE Modules</h3>
-<table>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -148,19 +155,19 @@ develop a positive attitude towards healthy living.</p>
 <h3>MGS Sports Events</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Cross-country</p>
+<p>MGS Swimming Championships&nbsp;</p>
 </li>
 <li>
-<p>Sec 3 Ultimate Frisbee Championships</p>
+<p>MGS Road Run</p>
 </li>
 <li>
-<p>Sec 4 Sports Education</p>
+<p>Sec 4 Interclass Games</p>
 </li>
 <li>
-<p>Sports Day</p>
-</li>
-<li>
-<p>Swimming Championships</p>
+<p>MGS Games Fiesta</p>
 </li>
 </ul>
+<p>
+<br>
+</p>
 <p></p>
