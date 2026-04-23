@@ -18,8 +18,8 @@ Through this course, students will be challenged to embrace an others-centered
 view in the way they perceive the world.&nbsp;</p>
 <p></p>
 <h4>Pedagogical Approach</h4>
-<p>Students will gain:</p>
-<p><strong><br>Knowledge and understanding of:</strong>
+<p>Students will gain:
+<br><strong><br>Knowledge and understanding of:</strong>
 </p>
 <ul>
 <li>
