@@ -38,7 +38,8 @@ for education beyond MGS</p>
 world</p>
 </li>
 </ul>
-<h3>Curriculum Structure</h3>
+<h3>Curriculum </h3>
+<h4>Curriculum Structure</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
