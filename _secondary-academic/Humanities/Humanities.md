@@ -32,7 +32,7 @@ the humanities so as to make sense of a complex and dynamically changing
 world and to contribute actively and responsibly as global citizens.</p>
 </li>
 </ul>
-<h3>Pedagogical Approach in the Humanities</h3>
+<h3>Pedagogical Approach</h3>
 <ul>
 <li>
 <p>Parallel Curriculum</p>
