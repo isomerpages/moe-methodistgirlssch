@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <p>Global Studies and Global Perspectives and Inquiry are offered as subjects
 in the IP Programme.</p>
-<h3>Aim</h3>
+<h3>Aims</h3>
 <p>The Global Perspectives and Inquiry programme aims to enable Sec 1 and
 Sec 2 IP students to acquire knowledge and understanding of significant
 events and issues from around the world while seeing that there are varied
@@ -18,7 +18,7 @@ of various disciplinary lenses or perspectives. The essential disciplinary
 content will also aid students’ understanding of their respective nation’s
 (Singapore or otherwise) place within the global community and to prepare
 them to be “glocal citizens” for an increasingly interconnected world.</p>
-<h3>Syllabus</h3>
+<h3>Curriculum</h3>
 <p>The syllabus has been created to be in alignment with the International
 Baccalaureate Group 3 Subject Options. The issues and case studies are
 related to:</p>
@@ -42,7 +42,7 @@ related to:</p>
 <p>This course will lay the foundation for the Integrated Programme students
 to take any of these subject options when they begin their studies for
 the International Baccalaureate diploma.</p>
-<h3>Curriculum</h3>
+<h3>Pedagogical Approach</h3>
 <p>The Global Studies (GS) curriculum is designed with the New Pedagogies
 for Deep Learning (NPDL) in mind. The Global Competencies focused on are
 Critical Thinking and Citizenship. The GS unit plans, with lesson activities
