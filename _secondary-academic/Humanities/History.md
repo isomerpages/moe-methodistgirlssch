@@ -5,10 +5,21 @@ description: ""
 third_nav_title: Humanities
 variant: tiptap
 ---
+<h3>Aims</h3>
+<p>The History curriculum aims to provide an opportunity for reinforcing
+and extending student’s historical knowledge and understanding, gaining
+global and local perspectives of the complex world we live in, and appreciating
+the interactions between nations. They will appreciate and understand the
+concepts of cause and effect, change and continuity, evidence, historical
+significance, historical perspectives, diversity, chronology, and empathy.</p>
 <h3>National Syllabuses</h3>
 <p>Please refer to&nbsp;<a href="https://www.moe.gov.sg/secondary/courses/express/electives#subjects" rel="noopener noreferrer nofollow" target="_blank">this link</a>.</p>
 <h4>Integrated Programme</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -47,13 +58,8 @@ variant: tiptap
 </tbody>
 </table>
 <h3>Curriculum</h3>
-<p>The History curriculum aims to provide an opportunity for reinforcing
-and extending student’s historical knowledge and understanding, gaining
-global and local perspectives of the complex world we live in, and appreciating
-the interactions between nations. They will appreciate and understand the
-concepts of cause and effect, change and continuity, evidence, historical
-significance, historical perspectives, diversity, chronology, and empathy.</p>
-<h4>Content</h4>
+<p><strong>Content</strong>
+</p>
 <p>Students should be able to:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -77,7 +83,8 @@ that is, history is constructed from evidence and there are different interpreta
 of historical events.</p>
 </li>
 </ul>
-<h4>Skills</h4>
+<p><strong>Skills</strong>
+</p>
 <p>Students should be able to:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -114,7 +121,8 @@ of media to make informed conclusions; and</p>
 way.</p>
 </li>
 </ul>
-<h4>Values</h4>
+<p><strong>Values</strong>
+</p>
 <p>Students should be able to:</p>
 <ul data-tight="true" class="tight">
 <li>
