@@ -6,7 +6,7 @@ description: ""
 ---
 <p>Contemporary issues: Perspectives &amp; Inquiry (CPI) is offered as a
 subject in the SEC programme for Sec 1 and 2 students.&nbsp;</p>
-<h3>Aim</h3>
+<h3>Aims</h3>
 <p>This course is designed to explore the values and diversity of local and
 neighbouring communities. Through research and discussions of contemporary
 issues, students draw on their personal experiences, examine their values
@@ -17,8 +17,9 @@ narrative and that of a collective position within a larger context.&nbsp;
 Through this course, students will be challenged to embrace an others-centered
 view in the way they perceive the world.&nbsp;</p>
 <p></p>
-<p>This aim will be achieved through gaining:</p>
-<p><strong><br>Knowledge and understanding of:</strong>
+<h4>Pedagogical Approach</h4>
+<p>Students will gain:
+<br><strong><br>Knowledge and understanding of:</strong>
 </p>
 <ul>
 <li>

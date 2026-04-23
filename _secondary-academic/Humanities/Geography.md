@@ -5,10 +5,67 @@ description: ""
 third_nav_title: Humanities
 variant: tiptap
 ---
+<h3>Aims</h3>
+<p>The broad goals of the subject are to develop both the cognitive and affective
+domains. The curriculum provides students with spatial perspective to physical
+and human phenomena and to equip them with a critical and analytical mind
+to make connections to the real world.
+<br>
+</p>
+<h3>Curriculum</h3>
+<p><strong>Content</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Develop knowledge and understanding of Earth’s physical features and processes
+and human phenomena.&nbsp;</p>
+</li>
+<li>
+<p>Appreciate the interaction between people and environment at local, regional,
+and global scales.</p>
+</li>
+</ul>
+<p><strong>Skills and Processes</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Develop skills in acquiring, communicating and applying geographical knowledge;</p>
+</li>
+<li>
+<p>Develop multiple perspectives and global awareness through the study and
+management of current issues.</p>
+</li>
+<li>
+<p>Equip students with inquiry skills of gathering and analysing information
+in order to seek answers to issues affecting our lives</p>
+</li>
+</ul>
+<p><strong>Values and Attitudes</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Develop respect and sensitivity towards the attitudes, values, and beliefs
+of people in different human environments;</p>
+</li>
+<li>
+<p>Become self-directed learners who think critically and are discerning
+in judgement.</p>
+</li>
+<li>
+<p>Imbibes in students appropriate attitudes and values that ensures the
+sustainability of our resources, people and planet.</p>
+</li>
+</ul>
 <h3>National Syllabuses</h3>
 <p>Please refer to&nbsp;<a href="https://www.moe.gov.sg/secondary/courses/express/electives#subjects" rel="noopener noreferrer nofollow" target="_blank">this link</a>.</p>
 <h3>Integrated Programme</h3>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -83,55 +140,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h3>Curriculum</h3>
-<p>The broad goals of the subject were to develop both the cognitive and
-affective domains. The curriculum provides students with spatial perspective
-to physical and human phenomena and to equip them with a critical and analytical
-mind to make connections to the real world.</p>
-<p>Specifically, the goals of the curriculum are:</p>
-<p><strong>Content</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Develop knowledge and understanding of Earth’s physical features and processes
-and human phenomena.&nbsp;</p>
-</li>
-<li>
-<p>Appreciate the interaction between people and environment at local, regional,
-and global scales.</p>
-</li>
-</ul>
-<p><strong>Skills and Processes</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Develop skills in acquiring, communicating and applying geographical knowledge;</p>
-</li>
-<li>
-<p>Develop multiple perspectives and global awareness through the study and
-management of current issues.</p>
-</li>
-<li>
-<p>Equip students with inquiry skills of gathering and analysing information
-in order to seek answers to issues affecting our lives</p>
-</li>
-</ul>
-<p><strong>Values and Attitudes</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Develop respect and sensitivity towards the attitudes, values, and beliefs
-of people in different human environments;</p>
-</li>
-<li>
-<p>Become self-directed learners who think critically and are discerning
-in judgement.</p>
-</li>
-<li>
-<p>Imbibes in students appropriate attitudes and values that ensures the
-sustainability of our resources, people and planet.</p>
-</li>
-</ul>
 <h3>Geographical Inquiry Process</h3>
 <p>This curriculum is taught using the Geographical Inquiry Process which
 promotes student-centred learning where students are actively engaged in

@@ -35,14 +35,14 @@ behaviour</p>
 a passion for lifelong learning, emboldening our students to embrace uncertainty,
 embrace challenges, and seize opportunities as they emerge in the digital
 age</p>
-<h4>Pedagogy</h4>
+<h4>Pedagogical Approach</h4>
 <p>Moreover, our curriculum transcends the mere acquisition of technical
 skills; it fosters the emerging 21st century competencies such as critical,
 adaptive and inventive thinking, as well as collaboration.&nbsp; Through
 hands-on projects and collaborative endeavours, students are encouraged
 to think critically, solve complex problems, and unleash their imagination
 to devise innovative solutions to real-world challenges.</p>
-<h4>Curriculum Framework</h4>
+<h4>Curriculum</h4>
 <p>The design of our Computer Studies is guided by the MOE Computing Curriculum
 Framework which was revised in 2017.</p>
 <p></p>

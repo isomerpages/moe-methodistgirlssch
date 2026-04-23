@@ -4,13 +4,13 @@ permalink: /secondary/academic/aesthetics/food-consumer-education/
 description: ""
 variant: tiptap
 ---
-<h3>Aims and Objectives</h3>
+<h3>Aims</h3>
 <p>The Food and Consumer Education (FCE) Programme at MGS aims to equip our
 students with the knowledge and skills for independent and sustainable
 living in the 21st century. The lifeskills acquired through the FCE programme
 will empower them to be good stewards of resources for themselves and community
 through critical thinking and wise decisions.</p>
-<h3>Approach &amp; Pedagogy</h3>
+<h3>Pedagogical Approach</h3>
 <ul>
 <li>
 <p>Deep Learning for students to develop the six Global Competencies with
@@ -32,7 +32,7 @@ and reflective learning.</p>
 <p>Design Thinking as an ideating tool for FCE coursework.</p>
 </li>
 </ul>
-<h3>FCE Curriculum</h3>
+<h3>Curriculum</h3>
 <p>Food &amp; Consumer Education (FCE) is a common curriculum subject for
 Lower Secondary Students. Our FCE curriculum is developmentally appropriate
 and accessible to students from all courses, catering to their overall

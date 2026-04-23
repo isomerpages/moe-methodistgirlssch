@@ -5,55 +5,16 @@ description: ""
 third_nav_title: Humanities
 variant: tiptap
 ---
-<h3>National Syllabuses</h3>
-<p>Please refer to&nbsp;<a href="https://www.moe.gov.sg/secondary/courses/express/electives#subjects" rel="noopener noreferrer nofollow" target="_blank">this link</a>.</p>
-<h4>Integrated Programme</h4>
-<table>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Year</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Theme</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Year 1
-<br>Year 2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Singapore: A Journey Through Time, 1299-1942
-<br>Singapore: A Journey Through Time, 1942-1970s</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Years 3 and 4</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>20th Century World History:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>World Wars</p>
-</li>
-<li>
-<p>Cold War: Europe, Asia, and South-East Asia</p>
-</li>
-</ul>
-</td>
-</tr>
-</tbody>
-</table>
-<h3>Curriculum</h3>
+<h3>Aims</h3>
 <p>The History curriculum aims to provide an opportunity for reinforcing
 and extending student’s historical knowledge and understanding, gaining
 global and local perspectives of the complex world we live in, and appreciating
 the interactions between nations. They will appreciate and understand the
 concepts of cause and effect, change and continuity, evidence, historical
 significance, historical perspectives, diversity, chronology, and empathy.</p>
-<h4>Content</h4>
+<h3>Curriculum</h3>
+<p><strong>Content</strong>
+</p>
 <p>Students should be able to:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -77,7 +38,8 @@ that is, history is constructed from evidence and there are different interpreta
 of historical events.</p>
 </li>
 </ul>
-<h4>Skills</h4>
+<p><strong>Skills</strong>
+</p>
 <p>Students should be able to:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -114,7 +76,8 @@ of media to make informed conclusions; and</p>
 way.</p>
 </li>
 </ul>
-<h4>Values</h4>
+<p><strong>Values</strong>
+</p>
 <p>Students should be able to:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -152,7 +115,52 @@ local context, and engage with different cultures and societies sensitively.</p>
 is like a tree without roots.”</p>
 <p>Marcus Garvey</p>
 </blockquote>
-<h3>Pedagogy</h3>
+<h3>National Syllabuses</h3>
+<p>Please refer to&nbsp;<a href="https://www.moe.gov.sg/secondary/courses/express/electives#subjects" rel="noopener noreferrer nofollow" target="_blank">this link</a>.</p>
+<h4>Integrated Programme</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Year</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Theme</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Year 1
+<br>Year 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore: A Journey Through Time, 1299-1942
+<br>Singapore: A Journey Through Time, 1942-1970s</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Years 3 and 4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>20th Century World History:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>World Wars</p>
+</li>
+<li>
+<p>Cold War: Europe, Asia, and South-East Asia</p>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<h3>Pedagogical Approach</h3>
 <p>The syllabus will provide students with a balance of local, regional,
 and international history spanning from the 13th to the 20th centuries.
 They will be interested to learn how the interplay of events and the people

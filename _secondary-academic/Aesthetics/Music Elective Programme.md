@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Aesthetics
 variant: tiptap
 ---
-<h3>Aims and Objectives</h3>
+<h3>Aims</h3>
 <p>The MOE Music Elective Programme (MEP) enables musically inclined students
 the opportunity to deepen their knowledge in music and hone their abilities
 in listening, creating, performing and research. The enriching curriculum

@@ -13,7 +13,7 @@ teachers use a variety of resources, such as novels, poetry, skits, music,
 and news media in their teaching of the Language. Reading, listening, writing,
 and oratorical skills are developed through many activities, such as classroom
 discussions, group work, and school-wide events that stimulate the girls’
-interest in their Mother Tongue</p>
+interest in their Mother Tongue.</p>
 <h3>Academic Programmes</h3>
 <p>Subjects offered:</p>
 <ul>
@@ -36,7 +36,7 @@ interest in their Mother Tongue</p>
 <p>Higher Tamil</p>
 </li>
 </ul>
-<h3>Approach and Pedagogy</h3>
+<h3>Pedagogical Approach</h3>
 <ul>
 <li>
 <p>Infusion of ICT, Higher-order thinking skills, and National Education
@@ -58,7 +58,7 @@ various Mother Tongue Language and Cultures.</p>
 <p>Please refer to&nbsp;<a href="https://www.moe.gov.sg/secondary/courses/express/electives#subjects" rel="noopener noreferrer nofollow" target="_blank">this link</a>.</p>
 <p><a href="https://www.seab.gov.sg/home/examinations/approved-dictionaries" rel="noopener noreferrer nofollow" target="_blank">Approved Dictionaries</a>
 </p>
-<h3>Our Learner Outcomes</h3>
+<h3>Curriculum</h3>
 <p>The Mother Tongue Languages curriculum enables learners &nbsp;to demonstrate
 the six global competencies (New Pedagogies for Deep Learning):</p>
 <ul>

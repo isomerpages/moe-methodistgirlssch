@@ -7,17 +7,15 @@ variant: tiptap
 <h3>Vision</h3>
 <p>To develop logical and critical thinkers who are competent in using mathematical
 reasoning, communication&nbsp;and problem solving skills in real world
-contexts.</p>
-<h3>Mission</h3>
-<p>To provide a varied and authentic learning experience for our students,
-promoting interest and confidence in Mathematics.</p>
+contexts. To provide a varied and authentic learning experience for our
+students, promoting interest and confidence in Mathematics.</p>
 <h3>Philosophy</h3>
 <p>The learning of mathematics involves exploration, analysis and presentation
 of math patterns and relations both&nbsp;within the subject and across
 other disciplines. It is not just an academic subject, but an important
 vehicle that &nbsp;stretches the girls’ minds and promotes critical and
 analytical thinking.</p>
-<h3>Pedagogical approaches</h3>
+<h3>Pedagogical Approach</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Inquiry-based Learning</p>
@@ -33,7 +31,12 @@ analytical thinking.</p>
 </li>
 </ul>
 <h3>Individual Subjects</h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
