@@ -16,28 +16,6 @@ the core ideas in the three sciences.</p>
 related to the disciplinary core ideas. This will engage the students with
 fundamental questions about the world and how scientists have found answers
 to them.</p>
-<h3>Pedagogical Approach</h3>
-<p>MGS students are guided to develop a strong foundation in core scientific
-ideas and practices. By graduation, they will be able to:</p>
-<ul>
-<li>
-<p>appreciate that science and the current scientific understanding of the
-world are the result of many years of human endeavour</p>
-</li>
-<li>
-<p>engage in adaptive and inventive thinking to develop solutions to complex
-problems, and be critical consumers of scientific information in their
-everyday lives</p>
-</li>
-<li>
-<p>continue learning about science throughout their lives and be well prepared
-for education beyond MGS</p>
-</li>
-<li>
-<p>become confident citizens in a technology-rich and scientifically complex
-world</p>
-</li>
-</ul>
 <h3>Curriculum</h3>
 <p>The MGS Science Curriculum is adapted from MOE’s Science Curriculum Framework
 and the Aims of the IB Science Curriculum, which is based on:&nbsp;</p>
@@ -81,6 +59,28 @@ and the Aims of the IB Science Curriculum, which is based on:&nbsp;</p>
 </table>
 <h3>National Syllabuses</h3>
 <p>Please refer to&nbsp;<a href="https://www.moe.gov.sg/secondary/courses/express/electives#subjects" rel="noopener noreferrer nofollow" target="_blank">this link</a>.</p>
+<h3>Pedagogical Approach</h3>
+<p>MGS students are guided to develop a strong foundation in core scientific
+ideas and practices. By graduation, they will be able to:</p>
+<ul>
+<li>
+<p>appreciate that science and the current scientific understanding of the
+world are the result of many years of human endeavour</p>
+</li>
+<li>
+<p>engage in adaptive and inventive thinking to develop solutions to complex
+problems, and be critical consumers of scientific information in their
+everyday lives</p>
+</li>
+<li>
+<p>continue learning about science throughout their lives and be well prepared
+for education beyond MGS</p>
+</li>
+<li>
+<p>become confident citizens in a technology-rich and scientifically complex
+world</p>
+</li>
+</ul>
 <h3>Assessment</h3>
 <p>Our teachers use a range of formative and summative assessment, activities
 and tasks to evaluate the deep learning of scientific knowledge and skills.</p>
