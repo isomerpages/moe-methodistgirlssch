@@ -13,7 +13,7 @@ teachers use a variety of resources, such as novels, poetry, skits, music,
 and news media in their teaching of the Language. Reading, listening, writing,
 and oratorical skills are developed through many activities, such as classroom
 discussions, group work, and school-wide events that stimulate the girls’
-interest in their Mother Tongue</p>
+interest in their Mother Tongue.</p>
 <h3>Academic Programmes</h3>
 <p>Subjects offered:</p>
 <ul>
