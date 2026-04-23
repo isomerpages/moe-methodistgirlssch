@@ -38,7 +38,20 @@ for education beyond MGS</p>
 world</p>
 </li>
 </ul>
-<h3>Curriculum </h3>
+<h3>Curriculum</h3>
+<p>The MGS Science Curriculum is adapted from MOE’s Science Curriculum Framework
+and the Aims of the IB Science Curriculum, which is based on:&nbsp;</p>
+<ul>
+<li>
+<p>inquiry-based teaching and learning;&nbsp;</p>
+</li>
+<li>
+<p>development of cross-cutting concepts and;&nbsp;</p>
+</li>
+<li>
+<p>mastery of the disciplinary core ideas</p>
+</li>
+</ul>
 <h4>Curriculum Structure</h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -68,20 +81,6 @@ world</p>
 </table>
 <h3>National Syllabuses</h3>
 <p>Please refer to&nbsp;<a href="https://www.moe.gov.sg/secondary/courses/express/electives#subjects" rel="noopener noreferrer nofollow" target="_blank">this link</a>.</p>
-<h3>Curriculum</h3>
-<p>The MGS Science Curriculum is adapted from MOE’s Science Curriculum Framework
-and the Aims of the IB Science Curriculum, which is based on:&nbsp;</p>
-<ul>
-<li>
-<p>inquiry-based teaching and learning;&nbsp;</p>
-</li>
-<li>
-<p>development of cross-cutting concepts and;&nbsp;</p>
-</li>
-<li>
-<p>mastery of the disciplinary core ideas</p>
-</li>
-</ul>
 <h3>Assessment</h3>
 <p>Our teachers use a range of formative and summative assessment, activities
 and tasks to evaluate the deep learning of scientific knowledge and skills.</p>
