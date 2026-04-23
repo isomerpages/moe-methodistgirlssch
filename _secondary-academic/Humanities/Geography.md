@@ -12,8 +12,8 @@ and human phenomena and to equip them with a critical and analytical mind
 to make connections to the real world.
 <br>
 </p>
-<h3><br>Curriculum</h3>
-<p><strong>Content</strong>
+<h3>Curriculum</h3>
+<p><strong> Content</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
