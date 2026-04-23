@@ -15,7 +15,7 @@ of math patterns and relations both&nbsp;within the subject and across
 other disciplines. It is not just an academic subject, but an important
 vehicle that &nbsp;stretches the girls’ minds and promotes critical and
 analytical thinking.</p>
-<h3>Pedagogical approaches</h3>
+<h3>Pedagogical Approach</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Inquiry-based Learning</p>
