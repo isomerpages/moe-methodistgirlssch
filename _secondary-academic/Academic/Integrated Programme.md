@@ -107,7 +107,7 @@ the needs and interests of each individual student.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secondary/IP6.jpg">
 </div>
 <h4>Year 1 &amp; 2</h4>
-<h4><strong>MGS ASEAN Programme (MAP)</strong></h4>
+<h4>MGS ASEAN Programme (MAP)</h4>
 <p>Through MAP, our Year 1 students embark on a vibrant exploration of Southeast
 Asia’s cultural diversity. They engage in hands-on experiences with traditional
 arts, regional cuisines, music, and languages—developing a deep appreciation
