@@ -32,7 +32,7 @@ and reflective learning.</p>
 <p>Design Thinking as an ideating tool for FCE coursework.</p>
 </li>
 </ul>
-<h3>FCE Curriculum</h3>
+<h3>Curriculum</h3>
 <p>Food &amp; Consumer Education (FCE) is a common curriculum subject for
 Lower Secondary Students. Our FCE curriculum is developmentally appropriate
 and accessible to students from all courses, catering to their overall
