@@ -47,15 +47,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Lee_Kok_boon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Chris Lee</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Vice-Principal, Admin (Primary Section)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:Diana_TAN@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Diana Goh</a>
 </p>
 </td>
