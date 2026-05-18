@@ -16,7 +16,7 @@ Please be informed that the school will only notify the successful applicants by
 For any further queries or assistance, please email to [mgps@moe.edu.sg](mailto:mgps@moe.edu.sg). 
 
 FAQs:  
-[FAQ\_Mid-Stream Admission to MGS (Primary)](https://drive.google.com/file/d/1A9mTYZ55U4YFmlU3VR3y3P6fnwGPtNjG/view?usp=sharing)
+[FAQ\_Mid-Stream Admission to MGS (Primary)](https://drive.google.com/file/d/1cuLgqlLz5Zsejr_M58YZAyXQQUxX6v1A/view?usp=sharing)
   
 
 **For Returning Singaporeans**  
