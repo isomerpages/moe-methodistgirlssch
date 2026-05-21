@@ -318,7 +318,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yeo_teck_king_melvyn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Melvin Yeo</a>
+<p><a href="mailto:yeo_teck_king_melvyn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Melvyn Yeo</a>
 </p>
 </td>
 </tr>
