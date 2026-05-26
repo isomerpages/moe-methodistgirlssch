@@ -34,6 +34,14 @@ variant: tiptap
 <p>Administrative Executive</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mdm Karen Wong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Administrative Executive</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Ms Zarinna Othman</p>
 </td>
 </tr>
