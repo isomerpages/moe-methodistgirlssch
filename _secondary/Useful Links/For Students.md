@@ -12,7 +12,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://staging.dt6ildc2mnegy.amplifyapp.com/secondary/useful-links/for-student/loan-of-mgs-uniform-one/" rel="noopener noreferrer nofollow" target="_blank">Loan of MGS Uniform One</a>
+<p><a href="https://docs.google.com/forms/d/e/1FAIpQLScu6bQdz1x6gAo8xruDzLvMOLrFg-Nq_Ws3eYHdJhVAWzZ7XA/viewform" rel="noopener noreferrer nofollow" target="_blank">Loan of MGS Uniform One</a>
 </p>
 </li>
 <li>
