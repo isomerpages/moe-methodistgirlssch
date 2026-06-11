@@ -30,7 +30,7 @@ variant: tiptap
 <br>Senior Executive:
 <br>Senior Executive: Mr Johnny Chow/ Ms Rukmini Naidu</p>
 <h3><strong>HUMAN RESOURCES</strong></h3>
-<p>Manager: <a href="mailto:low_wei_jie_jelaine@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Jelaine Low</a>
+<p>Senior Manager: <a href="mailto:low_wei_jie_jelaine@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Jelaine Low</a>
 <br>Senior Executive: Ms Chin Si Min
 <br>Senior&nbsp;Executive: Mr Lester Lee
 <br>Executive : Ms Lindawaty Sumar
