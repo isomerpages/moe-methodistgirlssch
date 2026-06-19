@@ -27,8 +27,8 @@ variant: tiptap
 <h3><strong>FINANCE</strong></h3>
 <p>Senior Manager: <a href="mailto:Koh_Sio_Leng_Helen@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Helen Koh</a>
 <br>Manager: <a href="mailto: Lee_Siew_Cheng@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Coleen Lee</a> 
-<br>Senior Executive:
-<br>Senior Executive: Mr Johnny Chow/ Ms Rukmini Naidu</p>
+<br>Senior Executive: Ng Peck Yen
+<br>Senior Executive: Ms Rukmini Naidu</p>
 <h3><strong>HUMAN RESOURCES</strong></h3>
 <p>Senior Manager: <a href="mailto:low_wei_jie_jelaine@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Jelaine Low</a>
 <br>Senior Executive: Ms Chin Si Min
