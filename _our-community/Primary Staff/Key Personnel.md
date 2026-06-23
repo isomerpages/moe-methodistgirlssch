@@ -10,9 +10,9 @@ variant: markdown
 | Department | Head of Department | 
 | -------- | -------- |
 |Character and Citizenship Education| [Mrs Jayanthi Rajaratnam ](jayanthi_kadiresan@schools.gov.sg)
-|Physical Education &amp; CCA| [Mrs Choy Yen Nee  ](mailto:tan_yen_nee@schools.gov.sg)
+|Physical Education &amp; CCA| [Mr Tan Kok Yew](mailto:tan_kok_yew@schools.gov.sg)
 Education Technology|[Ms Rebekah Foong](mailto:foong_chen_kai_rebekah@schools.gov.sg)
-English| [Mrs Jamie Chaw](mailto:lo_hwee_ling_jamie@schools.gov.sg)
+English (Covering)| [Ms Ann Cheo](mailto:ann_cheo@schools.gov.sg)
 Mathematics|[Ms Adene Chua ](mailto:chua_yuen_yee@schools.gov.sg)
 Mother Tongue|[Ms Linda Chan ](mailto:chan_pei_chui@schools.gov.sg)
 School Staff Developer|[Ms Ann Cheo](mailto:ann_cheo@schools.gov.sg)
@@ -26,7 +26,6 @@ Science|[Mrs Velicia Lim](mailto:foo_wei_tint_velicia@schools.gov.sg)
 |Character and Citizenship Education|| [Ms Jocelyn Chua](mailto:Jocelyn_CHUA@schools.gov.sg)
 Education Technology||[Mr Christopher Wong](mailto:christopher_wong_say_eng@schools.gov.sg)
 Mathematics|[Ms Koh Peiru](mailto:koh_pei_loo@schools.gov.sg)|
-Mother Tongue|[Ms Pun Yee Voon](mailto:pun_yee_voon@schools.gov.sg)
 Student Leadership||[Ms Venetia Guo](mailto:guo_yixin_venetia@schools.gov.sg)
 
 # Year Heads &amp; Assistant Year Heads
@@ -47,5 +46,6 @@ Student Leadership||[Ms Venetia Guo](mailto:guo_yixin_venetia@schools.gov.sg)
 |Senior Teacher (English)| [Ms Shamini Menon](mailto:shamini_menon@schools.gov.sg)| 
 |Senior Teacher (English)| [Mrs Gina Low](mailto:gina_chia@schools.gov.sg)| 
 |Senior Teacher (Mother Tongue)| [Mrs Michelle Sin](mailto:michelle_sin@schools.gov.sg)| 
+|Senior Teacher (Physical Education)| [Mrs Choy Yen Nee  ](mailto:tan_yen_nee@schools.gov.sg)| 
 |Senior Teacher (Science)| [Mdm Loi Huey Shing](mailto:loi_huey_shing@schools.gov.sg)| 
 |Senior Teacher (Lower Primary Learners)| [Mdm Basheera Begum](mailto:basheera_begum_syed_sult@schools.gov.sg)|
