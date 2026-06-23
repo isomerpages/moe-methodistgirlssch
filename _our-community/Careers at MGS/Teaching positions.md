@@ -57,7 +57,7 @@ applicants that only shortlisted candidates will be notified.</p>
 <p>We welcome qualified and highly motivated individuals with a strong passion
 for teaching of the following subjects and key personnel positions.</p>
 <p><strong>Key Personnel Positions</strong>
-<br>Subject Head, Chinese Language
+<br>Head of Department (Educational Technology)
 <br>
 <br><strong>Teachers</strong>
 <br>Art
