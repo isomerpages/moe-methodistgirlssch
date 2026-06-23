@@ -57,16 +57,11 @@ applicants that only shortlisted candidates will be notified.</p>
 <p>We welcome qualified and highly motivated individuals with a strong passion
 for teaching of the following subjects and key personnel positions.</p>
 <p><strong>Key Personnel Positions</strong>
-<br>Subject Head, Chinese Language
+<br>Head of Department (Educational Technology)
 <br>
 <br><strong>Teachers</strong>
-<br>Art
-<br>Biology
-<br>Chemistry
-<br>Chinese Language
-<br>Geography
-<br>Language Arts
+<br>Chinese
+<br>History
 <br>Mathematics
-<br>Physics
-<br>Social Studies and History</p>
+<br>Music</p>
 <p></p>
