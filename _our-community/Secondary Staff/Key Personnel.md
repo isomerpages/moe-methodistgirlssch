@@ -87,7 +87,7 @@ variant: tiptap
 <p>Mother Tongue</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="m_losiny@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms M Losiny</a>
+<p><a href="mailto:m_losiny@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms M Losiny</a>
 </p>
 </td>
 </tr>
