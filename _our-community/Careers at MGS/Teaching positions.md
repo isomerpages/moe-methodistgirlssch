@@ -58,7 +58,8 @@ applicants that only shortlisted candidates will be notified.</p>
 for teaching of the following subjects and key personnel positions.</p>
 <p><strong>Key Personnel Positions</strong>
 <br>Head of Department (Educational Technology)
-<br>
+<br>Subject Head (History &amp; Social Studies)</p>
+<p>
 <br><strong>Teachers</strong>
 <br>Chinese
 <br>History
