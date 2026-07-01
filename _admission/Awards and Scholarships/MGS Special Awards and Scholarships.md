@@ -111,8 +111,14 @@ who demonstrates a passion for the Arts to contribute positively and impacts
 the school community and beyond through her talents. She is of good character
 and role models our school values, Godliness, Excellence and Love, and
 the school motto, To Master, To Grow, To Serve.</p>
-<p><em>Professor Tommy Koh is an Emeritus Professor of Law at NUS and an Ambassador-At-Large at MFA. He was the President of the Third UN Conference on the Law of the Sea and Chairman of the 1992 Earth Summit in Rio de Janeiro. He was also Singapore’s Ambassador to the US and the Chief Negotiator of the US-Singapore Free Trade Agreement. He has also been a champion of the arts, the environment and civil society. Mrs Tommy Koh is an alumna of MGS.</em>
-</p>
+<p>Professor Tommy Koh is Emeritus Professor of Law at the National University
+of Singapore (NUS) and Ambassador-at-Large at the Ministry of Foreign Affairs
+(MFA), Singapore. A distinguished diplomat and international lawyer, he
+served as President of the Third United Nations Conference on the Law of
+the Sea, Chairman of the 1992 Earth Summit in Rio de Janeiro, and Singapore's
+Ambassador to the United States. He is also a respected champion of the
+arts, the environment, and civil society. His wife, Mrs Tommy Koh, is an
+alumna of Methodist Girls' School (MGS).&nbsp;&nbsp;</p>
 <p>^Tommy Koh Award for Arts and Creativity replaces the previous Tommy Koh
 Book Prize.</p>
 <h2>Mary Nind Bursary Award (MNBA)</h2>
