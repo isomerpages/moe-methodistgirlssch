@@ -61,8 +61,7 @@ for teaching of the following subjects and key personnel positions.</p>
 <br>Subject Head (History &amp; Social Studies)</p>
 <p>
 <br><strong>Teachers</strong>
-</p>
-<p>Art
+<br>Art
 <br>Chemistry
 <br>Geography
 <br>Language Arts &nbsp;
