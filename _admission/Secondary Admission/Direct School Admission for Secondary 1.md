@@ -11,7 +11,6 @@ variant: tiptap
 for the 2027 Secondary 1 intake, please check the updates below. Thank
 you.</p>
 <p><strong><u>Updates for applicants:</u> You will be notified by the school by <u>Term 3 Week 3, Friday, 17 July 2026</u>, if your child/ward has been shortlisted to undergo Direct School Admission (DSA) selection. All applicants will receive their application outcomes between 17 and 28 August 2026.</strong>"</p>
-<p></p>
 <p>DSA-Sec provides a pathway for students to gain admission to MGS based
 on their interests, aptitude, and potential, beyond their performance at
 Primary School Leaving Examination (PSLE). Otherwise, students will take
