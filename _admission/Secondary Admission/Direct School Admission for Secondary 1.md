@@ -10,6 +10,7 @@ variant: tiptap
 <p>Parents or students interested in participating in the 2026 DSA-Sec exercise
 for the 2027 Secondary 1 intake, please check the updates below. Thank
 you.</p>
+<p><strong><u>Updates for applicants:</u> You will be notified by the school by <u>Term 3 Week 3, Friday, 17 July 2026</u>, if your child/ward has been shortlisted to undergo Direct School Admission (DSA) selection. All applicants will receive their application outcomes between 17 and 28 August 2026.</strong>"</p>
 <p>DSA-Sec provides a pathway for students to gain admission to MGS based
 on their interests, aptitude, and potential, beyond their performance at
 Primary School Leaving Examination (PSLE). Otherwise, students will take
@@ -76,7 +77,7 @@ at <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofol
 <p>Tennis</p>
 </li>
 </ol>
-<p><a href="https://drive.google.com/file/d/1SCbNQMoXVD-C9jZkeE2YTx4vG9dl3OjR/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Download MGS DSA Application 2026 here.</a>
+<p><a href="https://drive.google.com/file/d/17O-vPTUU92q4M1KNurBvyw4fmwLYA2Qw/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Download MGS DSA Application 2026 here as of 7 July 2026.</a>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
