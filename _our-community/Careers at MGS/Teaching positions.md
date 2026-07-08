@@ -56,13 +56,18 @@ and expected remuneration and a recent photograph email to:</p>
 applicants that only shortlisted candidates will be notified.</p>
 <p>We welcome qualified and highly motivated individuals with a strong passion
 for teaching of the following subjects and key personnel positions.</p>
+<p></p>
 <p><strong>Key Personnel Positions</strong>
-<br>Head of Department (Educational Technology)
 <br>Subject Head (History &amp; Social Studies)</p>
 <p>
 <br><strong>Teachers</strong>
+<br>Art
+<br>Chemistry
+<br>Geography
+<br>Language Arts &nbsp;
 <br>Chinese
 <br>History
 <br>Mathematics
-<br>Music</p>
+<br>
+</p>
 <p></p>
