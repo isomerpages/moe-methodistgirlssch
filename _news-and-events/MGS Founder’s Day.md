@@ -8,7 +8,7 @@ description: ""
 <p></p>
 <p></p>
 <div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/bSX72_ng0Rs"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="320" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/bSX72_ng0Rs"></iframe>
 </div>
 <p></p>
 <p><em><sub>The video is the property of Methodist Girls’ School and is intended for internal school purposes only.&nbsp;</sub></em>
