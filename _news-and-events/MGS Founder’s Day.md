@@ -4,7 +4,7 @@ permalink: /mgs-founder-s-day/
 variant: tiptap
 description: ""
 ---
-<h3><strong>MGS 139th Founder's Day Service &amp; Graduation Ceremony </strong></h3>
+<h3><strong>MGS 139th Founder's Day Service &amp; Graduation Ceremony</strong></h3>
 <p></p>
 <p></p>
 <div class="iframe-wrapper">
