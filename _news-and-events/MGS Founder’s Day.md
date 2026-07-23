@@ -15,3 +15,9 @@ description: ""
 <br><em><sub>Video content is not to be reproduced, republished, posted or distributed in any form without written consent from Methodist Girls’ School.</sub></em>
 <br><em><sub>*The video will be available from 24 July to 31 July 2026.</sub></em>
 </p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/QR_code_for_founder_day.jpg">
+</div>
+<p></p>
