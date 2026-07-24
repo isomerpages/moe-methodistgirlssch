@@ -16,7 +16,7 @@ description: ""
 </div>
 <p></p>
 <div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/l_prMa_ofv0?si=s-Rw7wjiliWR401a"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/l_prMa_ofv0?si=s-Rw7wjiliWR401a"></iframe>
 </div>
 <h3>The Heart of MGS</h3>
 <p>Created in commemoration of MGS' 139th anniversary, this intergenerational
