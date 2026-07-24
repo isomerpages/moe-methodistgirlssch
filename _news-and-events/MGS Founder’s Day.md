@@ -23,6 +23,7 @@ description: ""
 <p>Created in commemoration of MGS' 139th anniversary, this intergenerational
 video production celebrates the heart of MGS—our people, our stories, our
 shared heritage and the enduring spirit that unites generations.
+<br>
 <br><em><sub>The video is the property of Methodist Girls’ School and is intended for internal school purposes only.&nbsp;</sub></em>
 <br><em><sub>Video content is not to be reproduced, republished, posted or distributed in any form without written consent from Methodist Girls’ School.</sub></em>
 <br><em><sub>*The video will be available from 24 July to 31 July 2026.</sub></em>
