@@ -11,7 +11,7 @@ description: ""
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="330" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/bSX72_ng0Rs"></iframe>
 </div>
 <p></p>
-<h4><strong>MGS 139th Founder's Day Service &amp; Graduation Ceremony E-Bullentin</strong></h4>
+<h4><strong>MGS 139th Founder's Day Service &amp; Graduation Ceremony E-Bulletin</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/QR_code_for_founder_day.jpg">
 </div>
