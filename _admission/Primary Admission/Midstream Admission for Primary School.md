@@ -11,12 +11,12 @@ Application window is from **1st Aug to 30th Sep 2026, 5pm**.
 
 Interested applicants should submit their online application between 1 August and 30 September 2026 (5pm) for admission to Academic Year 2027. Please [click](https://form.gov.sg/686cfef9b4ec0d3fc5405d85) here to access the application form and upload all supporting documents in the designated attachment section.
 
-Please be informed that the school will only notify the successful applicants by November.  In addition, students who are offered P3 and P4 HMTL in their previous school may not be offered the same in MGS, as this depends on the school’s internal consideration of a basket of different factors. The school's decision is final and will not be able to entertain appeals regarding unsuccessful applications. 
+Please be informed that the school will only notify the successful applicants by November.   Students who transfer to MGS will not be offered Higher Mother Tongue (HMT) during their first year, to allow them sufficient time to adjust to the new school environment. The school’s decision is final and will not be able to entertain appeals regarding unsuccessful applications or offer of HMT.
 
 For any further queries or assistance, please email to [mgps@moe.edu.sg](mailto:mgps@moe.edu.sg). 
 
 FAQs:  
-[FAQ\_Mid-Stream Admission to MGS (Primary)](https://drive.google.com/file/d/1cuLgqlLz5Zsejr_M58YZAyXQQUxX6v1A/view?usp=sharing)
+[FAQ\_Mid-Stream Admission to MGS (Primary)](https://acrobat.adobe.com/id/urn:aaid:sc:ap:d0ea5eea-e9ac-44f0-b981-ae7fe3c267cf)
   
 
 **For Returning Singaporeans**  
