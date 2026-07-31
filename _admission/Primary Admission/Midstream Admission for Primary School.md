@@ -9,7 +9,7 @@ variant: markdown
 
 Application window is from **1st Aug to 30th Sep 2026, 5pm**.  
 
-Interested applicants should submit their online application between 1 August and 30 September 2026 (5pm) for admission to Academic Year 2027. Please [click](https://form.gov.sg/686cfef9b4ec0d3fc5405d85) here to access the application form and upload all supporting documents in the designated attachment section.
+Interested applicants should submit their online application between 1 August and 30 September 2026 (5pm) for admission to Academic Year 2027. Please [click](https://form.gov.sg/6a0ec37054c303f0478aa24d) here to access the application form and upload all supporting documents in the designated attachment section.
 
 Please be informed that the school will only notify the successful applicants by November.   Students who transfer to MGS will not be offered Higher Mother Tongue (HMT) during their first year, to allow them sufficient time to adjust to the new school environment. The school’s decision is final and will not be able to entertain appeals regarding unsuccessful applications or offer of HMT.
 
