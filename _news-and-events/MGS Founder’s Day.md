@@ -4,7 +4,7 @@ permalink: /mgs-founder-s-day/
 variant: tiptap
 description: ""
 ---
-<h3><strong>MGS 139th Founder's Day Service </strong></h3>
+<h3><strong>MGS 139th Founder's Day Service</strong></h3>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/l_prMa_ofv0?si=s-Rw7wjiliWR401a"></iframe>
 </div>
