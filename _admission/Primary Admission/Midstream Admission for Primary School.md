@@ -25,8 +25,6 @@ Please access this website for a comprehensive suite of services. 
 
 [https://www.moe.gov.sg/returning-singaporeans](https://www.moe.gov.sg/returning-singaporeans)
 
-Download the RS Brochure for a quick an easy guide.
-
 **For International Students applying to Primary School**  
 
 All International Students (IS) please visit the MOE website at [https://www.moe.gov.sg/international-students](https://www.moe.gov.sg/international-students)
