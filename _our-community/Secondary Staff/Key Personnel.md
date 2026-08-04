@@ -24,7 +24,7 @@ variant: tiptap
 <p>Aesthetics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sophia_natasha_wei_junhao@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Natasha Tay</a>
+<p><a href="mailto:sophia_natasha_wei_junhao@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Sophia Natasha Wei</a>
 </p>
 </td>
 </tr>
