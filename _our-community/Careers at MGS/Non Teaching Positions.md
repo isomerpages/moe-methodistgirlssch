@@ -9,7 +9,6 @@ variant: tiptap
 <p>MGS invites individual with positive attitude and willingness to serve
 to apply for the role of
 <br>
-<br><a href="https://sg.jobstreet.com/job/91314344?ref=cm-ui" rel="noopener nofollow" target="_blank">Executive, Procurement</a>
+<br><a href="https://sg.jobstreet.com/job/93726328?ref=cm-ui" rel="noopener nofollow" target="_blank">Manager Finance</a>
 </p>
-<p><a href="https://sg.jobstreet.com/job/91532705?ref=cm-ui" rel="noopener nofollow" target="_blank">Executive/Senior Executive, Finance</a>
-</p>
+<p></p>
